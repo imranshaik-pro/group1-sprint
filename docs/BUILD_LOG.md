@@ -6,7 +6,7 @@ The ChatGPT GitHub connection for `imranshaik-pro` can read and write both reque
 
 ## Implementation
 
-Built multi-page responsive workspace, persistent event state, encrypted batch sync, local backup/merge, paper attachments, source-bearing question import, timed drills/mocks and study notes/recall workflows. App production dependencies: none. Local Node core checks: 8 passed initially, extended tests added for failure modes. Core test output is the source of truth for the current count.
+Built multi-page responsive workspace, persistent event state, encrypted batch sync, local backup/merge, paper attachments, source-bearing question import, timed drills/mocks and study notes/recall workflows. App production dependencies: none. Local Node core checks: all 11 passed, including offline retention, malformed payload rejection and wrong-vault-key rejection before uploads.
 
 ## Validation
 
@@ -25,3 +25,9 @@ Local browser verification was blocked: there is no Chromium installed; the Play
 ## Hosting handoff
 
 GitHub Pages was disabled when the repository was first read (`has_pages: false`). The connector has file/workflow access but no operation to change Pages administration. The publish workflow is ready; user must select GitHub Actions in Settings → Pages, then run Publish study workspace. No live URL is claimed before a successful deployment.
+
+## GitHub runner validation
+
+The second CI run succeeded: https://github.com/imranshaik-pro/group1-sprint/actions/runs/37896978937 . All 11 core tests passed. Browser checks verified plan approval, notes and lesson resume, quiz answer persistence/scoring, backup merge, search, desktop/mobile route widths, and offline reload. The initial browser test reloaded before asynchronous saving completed; it was corrected to wait for the visible saved confirmation, with no assertion weakened. Screenshots were uploaded as workflow artifacts. A final capture run covers every route at desktop and phone widths. Live user-token sync remains untested; two-device sync is simulated in the core suite.
+
+The final all-page capture run also succeeded: https://github.com/imranshaik-pro/group1-sprint/actions/runs/37897129769 . The `dashboard-qa` artifact contains 22 desktop/mobile screenshots plus a disposable test backup. Tested screenshots show QA activity, not the user’s actual progress. The clean initial dashboard preview is checked into `docs/screenshots/dashboard-desktop.png`.

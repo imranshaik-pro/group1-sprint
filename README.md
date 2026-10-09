@@ -2,6 +2,8 @@
 
 An offline-first APPSC study workspace for Android and desktop. A responsive forest-green interface keeps the next learning action visible, without fabricated scores or progress. Personal study records live on the device and can sync, encrypted, into a separate **private** GitHub repository.
 
+![Initial desktop dashboard](docs/screenshots/dashboard-desktop.png)
+
 ## What works in v1
 
 - Today dashboard, provisional plan approval and unfinished-topic carryover.
@@ -66,4 +68,4 @@ Local storage and exported backups are readable personal data; remote vault batc
 - [Product decisions & next priorities](docs/DECISIONS.md)
 - [Build and validation record](docs/BUILD_LOG.md)
 
-Browser QA runs in GitHub Actions and uploads desktop/mobile screenshots. Local core tests pass; the restricted build environment could not install or launch Chromium. No claim of live end-to-end GitHub-token sync is made without a real device setup.
+All 11 core checks and the desktop/mobile browser workflow pass in GitHub Actions, including offline reload. The restricted local build environment could not install or launch Chromium; GitHub runners completed browser verification and upload screenshots. No claim of live end-to-end GitHub-token sync is made without a real device setup.
