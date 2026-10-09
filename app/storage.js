@@ -1,0 +1,6 @@
+import {mergeEvents,validateEvent} from './core.js';
+let db;export function openDB(){return new Promise((resolve,reject)=>{const r=indexedDB.open('group1-sprint',1);r.onupgradeneeded=()=>{r.result.createObjectStore('events',{keyPath:'id'});r.result.createObjectStore('meta')};r.onsuccess=()=>{db=r.result;resolve()};r.onerror=()=>reject(r.error)})}
+export function getAll(){return new Promise((resolve,reject)=>{const r=db.transaction('events').objectStore('events').getAll();r.onsuccess=()=>resolve(mergeEvents(r.result));r.onerror=()=>reject(r.error)})}
+export function getMeta(key){return new Promise((resolve,reject)=>{const r=db.transaction('meta').objectStore('meta').get(key);r.onsuccess=()=>resolve(r.result);r.onerror=()=>reject(r.error)})}
+export function setMeta(key,value){return new Promise((resolve,reject)=>{const t=db.transaction('meta','readwrite');t.objectStore('meta').put(value,key);t.oncomplete=()=>resolve();t.onerror=()=>reject(t.error)})}
+export function putEvents(events){if(!events.every(validateEvent))return Promise.reject(Error('Invalid events'));return new Promise((resolve,reject)=>{const t=db.transaction('events','readwrite');for(const e of events)t.objectStore('events').put(e);t.oncomplete=()=>resolve();t.onerror=()=>reject(t.error);t.onabort=()=>reject(t.error||Error('Storage transaction aborted'))})}
