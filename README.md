@@ -50,7 +50,7 @@ GitHub is a small personal vault, not a real-time multi-user database. Concurren
 
 ## Question import
 
-JSON: array of `{id,text,options:[A,B,C,D],answer,topic,kind,paper,explanation}`. Answer is zero-based 0–3. `kind` is `original` or `PYQ`. A PYQ additionally requires numeric `year`, HTTPS `source`, `paper`, and `questionNumber`. A source URL is a provenance record, not independent verification. Check against the actual official paper/key before trusting imported answers.
+JSON: array of `{id,text,options:[A,B,C,D],answer,topic,kind,paper,explanation}`. Answer is zero-based 0–3. `kind` is `original`, `practice` or `PYQ`. A PYQ additionally requires numeric `year`, HTTPS `source`, `paper`, and `questionNumber`. A source URL is a provenance record, not independent verification. Check against the actual official paper/key before trusting imported answers.
 
 CSV header:
 
@@ -58,7 +58,7 @@ CSV header:
 id,text,A,B,C,D,answer,topic,kind,year,source,paper,questionNumber,explanation
 ```
 
-Quote cells containing commas, quotes or newlines. Use topic IDs from `app/content.js`; e.g. `t-1-1` = Fundamental Rights. Full mocks need at least 120 imported questions with the selected paper (`I` or `II`); weekly tests need 30. Bundled questions are original exercises, not previous-year questions.
+Quote cells containing commas, quotes or newlines. Use topic IDs from `app/content.js`; e.g. `t-1-1` = Fundamental Rights. Full mocks need at least 120 reviewed, eligible questions with the selected paper (`I` or `II`); weekly tests need 30 reviewed, eligible questions. Bundled questions are original exercises, not previous-year questions.
 
 ## Accuracy and limits
 
