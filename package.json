@@ -11,7 +11,7 @@
     "service": "node --env-file=server/.env server/service.mjs"
   },
   "dependencies": {
-    "fast-xml-parser": "5.3.6",
+    "fast-xml-parser": "5.11.2",
     "pdfjs-dist": "6.4.299",
     "web-push": "3.6.7"
   }
