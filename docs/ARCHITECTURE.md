@@ -16,7 +16,7 @@ Each event has a UUID, a logical clock, device ID, timestamp, type, entity ID an
 6. Mark constituent events acknowledged only after a successful GitHub response. A response lost after a successful write is recovered on the next pull; deduplication prevents double-counting.
 7. Report unsynced events and last successful sync. GitHub conflicts retry up to three times. Requests are sequential; uploads of multiple batches are spaced by 1.1 seconds.
 
-No token is stored on disk. Sync must be unlocked again on reload. A remote passphrase mismatch aborts before uploads. Sync on close is not assumed; explicit Save & end session awaits it. The first empty vault has no passphrase verifier beyond the first encrypted batch: set up the first device before connecting a second one.
+No token is stored on disk. Sync must be unlocked again on reload. A remote passphrase mismatch aborts before uploads. Sync on close is not assumed; explicit Save & end session waits for an in-flight sync and then flushes newly saved events. The first empty vault has no passphrase verifier beyond the first encrypted batch: set up the first device before connecting a second one.
 
 GitHub API rate limits, repository rules, token expiry and file size are real constraints. Failure leaves local records intact and visible. Failed requests use bounded exponential backoff (15 seconds up to 5 minutes). A 30-second foreground interval checks when retry is allowed; manual retry bypasses the delay. No popup or full editor re-render is caused by sync. Offline devices cannot exchange progress until both relevant uploads/downloads occur. This does not provide instant multi-device collaboration.
 
