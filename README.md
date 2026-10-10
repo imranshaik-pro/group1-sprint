@@ -69,3 +69,9 @@ Local storage and exported backups are readable personal data; remote vault batc
 - [Build and validation record](docs/BUILD_LOG.md)
 
 All 11 core checks and the desktop/mobile browser workflow pass in GitHub Actions, including offline reload. The restricted local build environment could not install or launch Chromium; GitHub runners completed browser verification and upload screenshots. No claim of live end-to-end GitHub-token sync is made without a real device setup.
+
+## Reviewed material imports
+
+Practice now includes a **content quality desk**. JSON/CSV imports enter review rather than immediately entering timed tests. Check the topic, answer and sources, record the check, then approve or exclude. PYQs additionally require APPSC-hosted paper and answer-key URLs; the app records your review and does not authenticate PDFs. Unmapped questions stay unassigned.
+
+See [material integration and usefulness assessment](docs/MATERIAL_INTEGRATION.md) for conversion commands, source limitations and counts. Third-party banks are supplied separately for personal imports and are not bundled in the public Pages deployment.

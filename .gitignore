@@ -3,3 +3,6 @@ qa-artifacts/
 .env*
 *.token
 *.backup.json
+packs/
+data/reference/
+corrected-material/
