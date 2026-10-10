@@ -1,5 +1,5 @@
 importScripts('./vendor/cache-assets.js');
-const CACHE='group1-sprint-v6';const ASSETS=['./','./index.html','./style.css','./ui.js','./core.js','./bank.js','./features.js','./services.js','./extraction.js','./guides.js',...self.PDF_ASSETS,'./storage.js','./sync.js','./content.js','./icon.svg','./manifest.webmanifest'];
+const CACHE='group1-sprint-v7';const ASSETS=['./','./index.html','./style.css','./ui.js','./core.js','./bank.js','./features.js','./services.js','./extraction.js','./guides.js',...self.PDF_ASSETS,'./storage.js','./sync.js','./content.js','./icon.svg','./manifest.webmanifest'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)));self.skipWaiting()});
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',e=>{if(new URL(e.request.url).pathname.includes('/api/'))return;if(e.request.method!=='GET'||new URL(e.request.url).origin!==self.location.origin)return;e.respondWith(caches.match(e.request).then(hit=>hit||fetch(e.request)))});
