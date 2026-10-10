@@ -26,6 +26,16 @@
 4. Add full Telugu teaching/UI after reviewing terminology, adaptive planning and review rating beyond +7 days.
 5. If shared publicly: OAuth/backend authentication, database sync, per-user isolation and conflict resolution. GitHub remains the code repository; it should not be positioned as an unlimited free production database.
 
+## Connected features · 10 October 2026
+
+All 65 units now include an original foundation guide and source portal. These are orientation aids, not independently verified complete textbook chapters. A saved lesson can be AI-assisted or pasted from trusted notes and must retain its draft/reviewed status.
+
+PDF.js extracts text locally; a private optional service adds scanned-PDF OCR. Users can fetch an APPSC-hosted PDF URL without selecting a local file. No automated catalogue discovery or automatic approval is claimed. Four-option extraction creates pending practice drafts, never inferred answers or PYQ years.
+
+The same optional service provides fixed provider API adapters, a PIB release inbox and a Web Push scheduler. Provider account signup and consumer chat remain on the providers' own websites. Registered Sign in with ChatGPT requires separate eligibility/client setup and is not activated. Calendar reminders are available without hosting the service.
+
+Keep sync in the background after unlock. Display status in the header and manual recovery in Settings & sync. Preserve unsaved fields on remote history updates; close events are still not reliable upload triggers. API keys and vault credentials remain out of exports and GitHub source.
+
 ## Scope deliberately not claimed complete
 
-The starter contains one guided Fundamental Rights lesson, seven original questions and a provisional 65-unit study map. Other topics provide notebook/tutor workflows, not automatically authored complete lessons. Full mocks are enabled only when enough imported questions exist. No AI billing keys, automatic paper downloading, PDF extraction, current-news feed or server scheduler are configured.
+A full reviewed curriculum, full Telugu interface, automatic official paper discovery, exhaustive AP/international current affairs, live provider credentials, registered ChatGPT sign-in and a deployed private service are still pending. Browser and provider notification delivery depend on actual devices/hosting. AI audits are suggestions, not factual certification. Real user-token sync needs an Android/laptop round-trip test after setup.

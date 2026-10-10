@@ -6,3 +6,10 @@ qa-artifacts/
 packs/
 data/reference/
 corrected-material/
+
+app/vendor/
+.service-data/
+server/.env
+
+server/.venv/
+tests/fixtures/*.pdf

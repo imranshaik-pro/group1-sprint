@@ -35,3 +35,11 @@ The final all-page capture run also succeeded: https://github.com/imranshaik-pro
 ### 2026-10-10 — content integration corrections
 
 Added conservative conversion adapters and Practice content quality desk; removed fallback topic assignments; excluded unreviewed imports from timed tests; separated Mains/TGPSC references; fixed supplied 2020 Polity Q1(a) transcription in personal reference output. Added semantic mapping, review gating, source URL and UTF-8 hash tests, plus browser import/review/rejection checks. Public source contains adapters and documentation; third-party banks remain personal import files.
+
+### 2026-10-10 — connected learning and background sync
+
+Added original orientation guides for all 65 starter units, saved draft/reviewed topic lessons, Study Tutor external chat/signup paths and four fixed provider API adapters through an optional private Node service. Added local PDF.js extraction, page-bearing pending question drafts with unknown answers, manual OCR through a temporary-file worker, authenticated official APPSC PDF URL fetching, official PIB feed collection and calendar/open-app/Web Push reminder paths. Question audits remain suggestions; no automatic factual approval.
+
+Sync now checks periodically while unlocked, backs off after failures and preserves unsaved editors during cross-tab/remote updates. Manual retry stays in Settings & sync and the header shows status. Provider and vault credentials are excluded from exports/source. The optional service is not deployed and no live provider/user token is available.
+
+Local build and all 25 Node checks pass, including API authentication/origin rejection, adapter mock replies, failed-feed retention, unknown-answer gating, daily push scheduling with overlapping checks, and sync retry backoff. The OCR worker was run against the original selectable-text PDF fixture successfully; scanned English/Telugu quality is not claimed tested. The browser suite now exercises actual PDF.js text extraction, draft review, tutor lesson reload and editor preservation in addition to existing desktop/mobile/offline checks. Browser result is recorded separately after CI runs.

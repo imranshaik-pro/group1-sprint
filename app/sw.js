@@ -1,4 +1,7 @@
-const CACHE='group1-sprint-v3';const ASSETS=['./','./index.html','./style.css','./ui.js','./core.js','./bank.js','./storage.js','./sync.js','./content.js','./icon.svg','./manifest.webmanifest'];
+const CACHE='group1-sprint-v4';const ASSETS=['./','./index.html','./style.css','./ui.js','./core.js','./bank.js','./features.js','./services.js','./extraction.js','./guides.js','./vendor/pdf.mjs','./vendor/pdf.worker.mjs','./storage.js','./sync.js','./content.js','./icon.svg','./manifest.webmanifest'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)));self.skipWaiting()});
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
-self.addEventListener('fetch',e=>{if(e.request.method!=='GET'||new URL(e.request.url).origin!==self.location.origin)return;e.respondWith(caches.match(e.request).then(hit=>hit||fetch(e.request)))});
+self.addEventListener('fetch',e=>{if(new URL(e.request.url).pathname.includes('/api/'))return;if(e.request.method!=='GET'||new URL(e.request.url).origin!==self.location.origin)return;e.respondWith(caches.match(e.request).then(hit=>hit||fetch(e.request)))});
+
+self.addEventListener('push',e=>{let d={};try{d=e.data?.json()||{}}catch{}e.waitUntil(self.registration.showNotification(String(d.title||'Group1 Sprint'),{body:String(d.body||'Your study session is ready.'),tag:'group1-daily',data:{url:'#today'}}))});
+self.addEventListener('notificationclick',e=>{e.notification.close();const url=new URL('./#today',self.location).href;e.waitUntil(clients.matchAll({type:'window',includeUncontrolled:true}).then(async tabs=>{for(const tab of tabs)if(tab.url.startsWith(new URL('./',self.location).href)){await tab.focus();return tab.navigate(url)}return clients.openWindow(url)}))});
