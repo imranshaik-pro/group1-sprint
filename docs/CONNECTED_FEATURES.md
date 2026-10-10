@@ -68,7 +68,7 @@ Scanned OCR prerequisites on the service machine (Ubuntu example):
 ```sh
 sudo apt-get install poppler-utils tesseract-ocr tesseract-ocr-eng tesseract-ocr-tel
 python3 -m venv server/.venv
-server/.venv/bin/pip install pypdf
+server/.venv/bin/pip install -r server/requirements.txt
 ```
 
 Set `PYTHON=server/.venv/bin/python` in `server/.env`. OCR handles at most 40 PDF pages, 4 MB, and a bounded total request time. Large scans may need splitting. Temporary source/image files are removed after processing. Telugu font encoding, columns, diagrams, numerical options and OCR mistakes are reasons to check the original, not approve automatically.
