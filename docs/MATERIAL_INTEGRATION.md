@@ -8,7 +8,7 @@ The ZIP is converted into a separate personal import bundle. The public app incl
 - Governor-Generals/Viceroys now suggests colonial history; Constitutional Authorities suggests constitutional bodies; International Current Affairs suggests international events.
 - Mixed banks and missing units (including geometry, mixed South Indian dynasties, governance and some ancient history) are kept unassigned. There is no first-topic fallback.
 - Imported questions enter the content quality desk before timed tests. Edit question, options, answer, explanation and topic; record what you checked; approve or exclude. Reviews are saved as study events and travel with backups/encrypted sync.
-- Legacy questions bearing upstream origin metadata are also excluded until reviewed. Reimporting an existing ID retains the existing review rather than overwriting it.
+- Legacy imported questions are also excluded until reviewed. Reimporting an existing ID retains the existing review rather than overwriting it.
 - PYQ approval requires APPSC-hosted paper and answer-key URLs in addition to the existing year/question metadata. The application does not validate document contents; it calls these user-reviewed PYQs.
 - Two targeted factual fixes retain their original explanations and source-backed correction records: atmospheric CO2 uses a variable roughly 0.04% approximation (NOAA), and the historical common-capital explanation identifies Section 5 (India Code). These checks do not approve the rest of either question.
 - Manifest sizes use actual UTF-8 bytes and SHA-256 hashes of input and output. The supplied ZIP did not pin upstream revisions: that field remains explicitly unknown.
