@@ -1,0 +1,13 @@
+import { test } from 'node:test';
+import assert from 'node:assert/strict';
+import { createHash } from 'node:crypto';
+import { invitationHash, invitationUsable, newInvitationToken, invitationJoinStatus } from '../lib/invitations.ts';
+import { accessDecision } from '../lib/access.ts';
+test('only the owner can create and revoke invitations, even an approved learner cannot',()=>{for(const action of ['create-invitation','revoke-invitation']){assert.equal(accessDecision('owner','owner','active',action),200);for(const status of ['active','pending','unregistered'])assert.equal(accessDecision('learner','owner',status,action),403);}});
+test('invitation registration is permitted before approval, but study writes remain denied',()=>{assert.equal(accessDecision('learner','owner','unregistered','redeem-invitation'),200);assert.equal(accessDecision('learner','owner','pending','sync'),403);assert.equal(accessDecision('learner',undefined,'unregistered','redeem-invitation'),403);});
+test('unregistered visitors cannot bypass invitation registration through account recovery',()=>{assert.equal(accessDecision('learner','owner','unregistered','request-access'),403);assert.equal(accessDecision('learner','owner','suspended','request-access'),200);});
+test('a join requests approval and never upgrades or downgrades existing access',()=>{assert.equal(invitationJoinStatus('unregistered'),'pending');for(const status of ['active','pending','suspended','rejected'])assert.equal(invitationJoinStatus(status),status);});
+test('new links have independent 256-bit random tokens',()=>{const a=newInvitationToken(),b=newInvitationToken();assert.match(a,/^[0-9a-f]{64}$/);assert.notEqual(a,b);});
+test('lookup hashes match SHA-256 without storing or returning the raw token',async()=>{const token='a'.repeat(64);assert.equal(await invitationHash(token),createHash('sha256').update(token).digest('hex'));assert.notEqual(await invitationHash(token),token);});
+test('malformed and unbounded invitation input is rejected',async()=>{for(const input of [null,17,'','x'.repeat(64),'a'.repeat(65),'a'.repeat(10000)])assert.equal(await invitationHash(input),null);});
+test('revocation and expiry block new registrations at the exact expiry boundary',()=>{const now=Date.parse('2026-10-11T12:00:00Z');assert.ok(invitationUsable({status:'active',expiresAt:'2026-10-11T12:00:01Z'},now));for(const expiresAt of ['2026-10-11T12:00:00Z','2026-10-10T12:00:00Z','invalid'])assert.ok(!invitationUsable({status:'active',expiresAt},now));assert.ok(!invitationUsable({status:'revoked',expiresAt:'2026-11-11T12:00:00Z'},now));assert.ok(!invitationUsable(undefined,now));});

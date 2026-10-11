@@ -27,3 +27,13 @@ After ownership is claimed, separately configure Site sharing for invited learne
 
 ## Verification
 Run TypeScript, event-validation tests, Drizzle migration generation and the supported Sites build. Browser QA should use only the supported browser skill when available. Live authentication and invitation scenarios require owner and invited learner browser sessions; no delivery or multi-device result is claimed without those checks.
+
+## Invitation registration (11 October 2026)
+- Control room creates reusable group links with 1-, 7- or 30-day expiry. Full links are shown once on creation and can be copied manually; only SHA-256 token hashes are stored in the database.
+- A 256-bit random invitation token is carried in a URL fragment (`/#invite=…`) and preserved through the hosted sign-in return path. It is not included in ordinary page HTTP requests or referrers. No invitation tokens are committed to GitHub or local progress backups.
+- Signed-in new visitors remain `unregistered` until they explicitly redeem a valid link. Registration creates one pending membership and records its invitation ID. Existing approved members remain approved. Suspended/rejected members cannot use a new link to bypass the owner's decision.
+- Only the super admin creates/revokes links or decides memberships. Revocation blocks new registrations; it does not revoke existing or pending memberships. Suspending a learner is a separate action.
+- Conditional SQLite registration rechecks active status and expiry at write time, protecting against a revoke-between-lookup-and-write race. Repeated registration is idempotent.
+- Existing pending memberships from the first release remain reviewable; new guest entries are hidden from the approval queue until registered. Account recovery cannot register an unregistered visitor without an invitation.
+- Hosting permissions remain unchanged: this Site is owner-private. Invitees must first be allowed through Site sharing (external invitations are supported). Application invitation links cannot grant hosting access. Owner setup must precede sharing.
+- Sixteen access/token/event tests and SQLite migration/conditional-write scenarios passed. Browser visual QA and a real invited-user sign-in round trip remain unverified because the supported browser skill is unavailable here.
