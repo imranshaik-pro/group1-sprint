@@ -1,0 +1,10 @@
+import { test } from 'node:test';
+import assert from 'node:assert/strict';
+import { validEvent } from '../lib/event-validation.ts';
+import { validPdfHeader, readingEvent, MAX_PDF_BYTES } from '../public/book-store.js';
+import fs from 'node:fs';
+import crypto from 'node:crypto';
+test('PDF import rejects HTML/login responses disguised as a PDF',()=>{assert.ok(validPdfHeader(new TextEncoder().encode('%PDF-1.7')));assert.ok(!validPdfHeader(new TextEncoder().encode('<html>Sign in</html>')));assert.ok(!validPdfHeader(new Uint8Array(0)));assert.equal(MAX_PDF_BYTES,30*1024*1024);});
+test('only bounded valid reading positions enter cloud history',()=>{const base={id:'reading-123',at:'2026-10-12T10:00:00Z',...readingEvent({id:'gma-percent',title:'Percentages',pages:19},4)};assert.ok(validEvent(base));for(const page of [0,-1,20,NaN,2.5])assert.ok(!validEvent({...base,data:{...base.data,page}}));assert.ok(!validEvent({...base,data:{...base.data,total:10001}}));});
+test('every mirrored resource has a verified file, license and checksum; NCERT has no hosted file',()=>{const catalog=JSON.parse(fs.readFileSync('public/materials/catalog.json','utf8'));assert.equal(catalog.filter((r:{mode:string})=>r.mode==='download').length,8);for(const r of catalog){if(r.mode==='download'){assert.ok(['CC BY 4.0','CC BY-NC-SA 4.0'].includes(r.license));const b=fs.readFileSync('public'+r.url);assert.equal(b.length,r.bytes);assert.equal(crypto.createHash('sha256').update(b).digest('hex'),r.sha256);assert.ok(validPdfHeader(b));assert.ok(r.attribution&&r.source&&r.licenseUrl);}if(r.id.startsWith('ncert-'))assert.ok(!r.url&&r.mode==='source');}});
+test('offline shell never precaches authenticated app HTML or API data',()=>{const sw=fs.readFileSync('public/library-sw.js','utf8');assert.ok(!sw.includes("cache.put('/',"));assert.ok(!sw.includes("'/api/workspace'"));assert.ok(sw.includes("caches.match('/offline-library.html')"));});

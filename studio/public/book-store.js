@@ -1,0 +1,7 @@
+export const MAX_PDF_BYTES=30*1024*1024;
+export function validPdfHeader(bytes){return bytes.length>=5&&new TextDecoder().decode(bytes.slice(0,5))==='%PDF-';}
+export function readingEvent(book,page){return {type:'reading',data:{resource:book.id,title:book.title,page,total:book.pages}};}
+function database(){return new Promise((resolve,reject)=>{const r=indexedDB.open('group1-reading-room',1);r.onupgradeneeded=()=>r.result.createObjectStore('books',{keyPath:'key'});r.onsuccess=()=>resolve(r.result);r.onerror=()=>reject(r.error);});}
+export async function listBooks(account){const db=await database();return new Promise((resolve,reject)=>{const tx=db.transaction('books');const r=tx.objectStore('books').getAll();r.onsuccess=()=>resolve(r.result.filter(b=>b.account===account));r.onerror=()=>reject(r.error);tx.oncomplete=()=>db.close();});}
+export async function saveBook(book){const db=await database();return new Promise((resolve,reject)=>{const tx=db.transaction('books','readwrite');tx.objectStore('books').put(book);tx.oncomplete=()=>{db.close();resolve(book);};tx.onerror=()=>{db.close();reject(tx.error);};tx.onabort=()=>reject(tx.error||Error('Storage write was interrupted'));});}
+export async function removeBook(key){const db=await database();return new Promise((resolve,reject)=>{const tx=db.transaction('books','readwrite');tx.objectStore('books').delete(key);tx.oncomplete=()=>{db.close();resolve();};tx.onerror=()=>reject(tx.error);});}

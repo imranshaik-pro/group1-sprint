@@ -1,0 +1,17 @@
+[
+  {
+    "name": "economics",
+    "url": "https://assets.openstax.org/oscms-prodcms/media/documents/principles-economics-3e_-_WEB.pdf",
+    "sha256": "2d2e7549e13a1975965bfb14a577a3d7935173ff10ca2e1d953815560590a4eb"
+  },
+  {
+    "name": "prealgebra",
+    "url": "https://assets.openstax.org/oscms-prodcms/media/documents/Prealgebra-OP_oYhyXVE.pdf",
+    "sha256": "4a97c167fabcf040daa0c22c321a5a46770b4aea8bd7cd20ec93a764a0c018b0"
+  },
+  {
+    "name": "computer-science",
+    "url": "https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_To_Computer_Science_-_WEB.pdf",
+    "sha256": "fd56aaf80c851e9f3b417745785ea5c832fc2911acfd2094a86f4c517fdf435a"
+  }
+]

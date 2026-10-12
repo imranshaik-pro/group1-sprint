@@ -57,3 +57,5 @@ next-env.d.ts
 
 # Generated TypeScript incremental cache
 *.tsbuildinfo
+# Downloaded full source books and rendering checkpoints
+/tmp/
