@@ -63,3 +63,14 @@ Changes:
 Comparison: the other site's served HTML/JavaScript exposes a revision hub, flashcard/notebook routes and progress JSON import/export. Browser visual comparison was not available, so no visual test of that page is claimed. No competitor code or material was copied into this repo.
 
 Verification: 26 website tests pass, including backup identity, malformed input, immutable-ID conflicts, duplicate imports and named lesson URL parsing. The original offline app's 26 tests and syntax checks pass. Browser/Android Back gestures and real backup file-picker/device restore still need live verification because the supported browser skill is unavailable.
+
+## Guided learning loop — 13 October 2026
+Request: implement Learn → Recall → Practise → Revise in website, app and GitHub, with documentation.
+- Prominent staged lesson panel with Telugu-first original Fundamental Rights teaching, English reference, a simple example and explicit acknowledgement before each next concept. Reference guidance is collapsed during the memory exercise.
+- Three written active-recall prompts; a saved draft and explicit self-review before practice. Reference answers are shown only on request. Self-assessment is not automated factual grading or proof of mastery.
+- Two original rights MCQs, explanations, negative marking and automatic correction entries for wrong answers. Completion schedules existing 1/4/7 revision once.
+- Other website topics require saved trusted notes and externally sourced practice reflection; no complete chapter or reviewed question set is fabricated. Unrelated topics no longer open the GMA drill as topic practice.
+- Learning stage, concept index, recall answers and reflection are validated study events included in account sync and backups. Unsaved typing and live answer selections are not carried between devices; save draft/submit before switching.
+- Original offline app receives the same four-stage guide, topic-specific practice from reviewed bank or original rights questions, saved recall and cursor, and cache v9. Its existing vault sync and backup include the new event type.
+- Existing manual completion controls remain self-reported; they do not establish mastery. No new PYQ years, unsupported article details, external AI account access or unlicensed materials are added.
+Verification: TypeScript and 29 website tests pass; 28 original-app tests and syntax checks pass. Workflow tests cover validation, recall gates and saved-state round trips. Browser/real Android multi-device QA remains unavailable. The production build is required before publication.
