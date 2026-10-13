@@ -1,4 +1,4 @@
-const CACHE='group1-reading-shell-v1';
+const CACHE='group1-reading-shell-v2';
 const FILES=['/offline-library.html','/offline-library.css','/offline-library.js','/book-store.js','/materials/catalog.json','/pdfjs/pdf.mjs','/pdfjs/pdf.worker.mjs'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(async cache=>{for(const path of FILES){const response=await fetch(path,{cache:'reload'});if(!response.ok||response.redirected)throw Error('Offline shell unavailable');await cache.put(path,response);}await self.skipWaiting();})));
 self.addEventListener('activate',event=>event.waitUntil((async()=>{for(const name of await caches.keys())if(name.startsWith('group1-reading-shell-')&&name!==CACHE)await caches.delete(name);await self.clients.claim();})()));

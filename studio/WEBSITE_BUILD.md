@@ -46,3 +46,20 @@ Run TypeScript, event-validation tests, Drizzle migration generation and the sup
 - Browser storage may be evicted or cleared. Persistent-storage requests can be refused. Learners should keep original PDF backups. Full study-dashboard offline installation, OCR, chapter search/highlights and automatic NDLI search/download are not added by this change.
 - Twenty access/content/reading validation tests and the existing SQLite registration checks pass. PDF covers and selected chapter pages were rendered and checked. Browser and real Android airplane-mode/multi-device tests remain unverified in this environment.
 - Reproducible collection generation is in `scripts/build-study-materials.py`; full publisher source downloads stay untracked. Source SHA-256 values are recorded for regeneration; the generated permitted chapter PDFs are committed directly to the repo.
+
+## Member feedback: navigation and recovery (12 October 2026)
+Request: a member found the comparison revision site easier to reach; ours had no visible Back action and members wanted backup/restore to continue from saved progress.
+
+Findings: the website used `history.replaceState` for every page, replacing the browser's study navigation history. It exposed JSON export in Settings but had no restore. The original offline app already had validated export/import and hash navigation, but its controls were less discoverable and import stayed on Settings.
+
+Changes:
+- Website uses pushed route history, an always-visible Back control, named lesson URLs, phone bottom navigation, Resume learning and Backup & restore shortcuts. Browser Back/Forward restores the page and named topic. It does not rely on opening the invitation/site link repeatedly.
+- Same-account website backups include validated study events, topic notes, a saved study-page/topic cursor and device PDF reading notes/bookmarks. Export excludes PDF bytes, credentials and roles. Restore previews first, merges without erasing existing history, deduplicates events and rejects conflicting IDs. Invalid or cross-account files are rejected. Older unbound website exports require the learner to confirm ownership. The original app's format remains separate and is explicitly identified.
+- Before import the website saves a device rollback history checkpoint. PDF reading metadata is reapplied when matching files exist or are downloaded again. If storage is insufficient for reading metadata, the UI reports that limitation; the learner retains the original backup. Reading files themselves must be downloaded or imported per device. Pending metadata not yet attached to a downloaded PDF may require retaining the backup file.
+- Restore does not restore a running website quiz timer, unsubmitted answers or unsaved text; it restores saved topic/page and history. The original app already persists unfinished quiz attempts separately in its event backup.
+- Cloud uploads are bounded by serialized batch size as well as event count so large restored note collections do not exceed the request limit.
+- Original offline app adds a visible Back control and prominent Resume/Backup links, includes a resume destination in exports, and returns to a saved lesson after import. Service-worker cache advances to v8. Its existing backup content includes paper attachments and notes.
+
+Comparison: the other site's served HTML/JavaScript exposes a revision hub, flashcard/notebook routes and progress JSON import/export. Browser visual comparison was not available, so no visual test of that page is claimed. No competitor code or material was copied into this repo.
+
+Verification: 26 website tests pass, including backup identity, malformed input, immutable-ID conflicts, duplicate imports and named lesson URL parsing. The original offline app's 26 tests and syntax checks pass. Browser/Android Back gestures and real backup file-picker/device restore still need live verification because the supported browser skill is unavailable.

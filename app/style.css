@@ -6,3 +6,4 @@
 .leadcard .btn:not(.secondary){background:#d5ef86;color:#203d2b}.sidebar .weekbadge{color:#c9dbd0;border-color:#416153}
 
 .paperactions{flex-basis:100%;flex-wrap:wrap}.task:has(.paperactions){flex-wrap:wrap}.reading{white-space:pre-line;overflow-wrap:anywhere}
+.app-back{border:1px solid #d6e4d4;background:#f4f8ef;color:#527851;border-radius:8px;padding:9px 12px;font-size:12px;cursor:pointer;white-space:nowrap}.app-back:disabled{opacity:.35;cursor:default}.membertools{display:flex;justify-content:flex-end;gap:12px;margin:0 0 22px}.membertools a{border:1px solid #dce7d6;background:#f7fbf2;color:#69885a;border-radius:8px;padding:10px 13px;font-size:11px;text-decoration:none}@media(max-width:700px){.app-back{font-size:10px;padding:8px}.membertools{justify-content:space-between;gap:10px}.membertools a{flex:1;text-align:center;font-size:10px;padding:10px 8px}.topbar{gap:8px}.crumb{font-size:10px}}

@@ -1,0 +1,11 @@
+import { test } from 'node:test';
+import assert from 'node:assert/strict';
+import { parseBackup, mergeBackup, parseRoute, routeHash } from '../lib/backups.ts';
+const e={id:'study-123',at:'2026-10-12T10:00:00Z',type:'note',data:{topic:'t-1-1',text:'My checked note'}};
+const snapshot={app:'group1-studio',version:2,exportedAt:'2026-10-12T10:00:00Z',account:{id:'my-account',email:'user@example.test'},events:[e],resume:{page:'lesson',topic:'t-1-1'},reading:[{id:'gma-percent',page:4,pages:19,notes:'Revise this.',bookmarks:[4]}]};
+test('same-account backup restores notes, topic and PDF reading metadata',()=>{const b=parseBackup(JSON.stringify(snapshot),'my-account');assert.equal(b.events.length,1);assert.equal(b.resume?.topic,'t-1-1');assert.equal(b.reading[0].page,4);});
+test('backups cannot import another account or invalid study/role events',()=>{assert.throws(()=>parseBackup(JSON.stringify(snapshot),'other'),/same account/);assert.throws(()=>parseBackup(JSON.stringify({...snapshot,events:[{...e,type:'superadmin'}]}),'my-account'),/invalid study/);});
+test('duplicate imports are idempotent; conflicting immutable events cancel restore',()=>{assert.equal(mergeBackup([e],[e]).length,1);assert.throws(()=>mergeBackup([e],[{...e,data:{...e.data,text:'different'}}]),/conflicts/);assert.equal(mergeBackup([e],[{...e,data:{text:'My checked note',topic:'t-1-1'}}]).length,1);});
+test('corrupt JSON, cross-edition backups and invalid PDF page metadata are rejected',()=>{assert.throws(()=>parseBackup('bad','my-account'),/valid JSON/);assert.throws(()=>parseBackup(JSON.stringify({app:'group1-sprint',version:1,events:[]}), 'my-account'),/original offline-app/);assert.throws(()=>parseBackup(JSON.stringify({...snapshot,reading:[{...snapshot.reading[0],page:90}]}),'my-account'),/reading information/);});
+test('legacy website exports are explicitly marked unbound to an account',()=>{assert.equal(parseBackup(JSON.stringify({version:1,events:[e]}),'my-account').legacy,true);});
+test('named lesson routes survive browser back and reload without changing topic identity',()=>{const r={page:'lesson',topic:'t-1-1'};assert.deepEqual(parseRoute(routeHash(r)),r);assert.equal(parseRoute('#lesson?topic=bad'),null);assert.equal(parseRoute('#invite=token'),null);assert.equal(parseRoute('#revision')?.page,'revision');});
