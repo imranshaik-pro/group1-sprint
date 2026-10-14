@@ -1,0 +1,26 @@
+[
+  {
+    "file": "appsc-mains-handbook-main.zip",
+    "sha256": "79a11e67e30274910d7f63b6a2901d4ab2dabf8c2eeb6b04f8cb1d27837ae49a",
+    "fileCount": 36,
+    "status": "design-source-reviewed; content-not-bulk-imported"
+  },
+  {
+    "file": "Boeing747-main.zip",
+    "sha256": "2b890436c131e47b21385f05714e11c06a3151d6eed18fb0c7605d819d4d2076",
+    "fileCount": 149,
+    "status": "design-source-reviewed; content-not-bulk-imported"
+  },
+  {
+    "file": "appsc-group1-hub-main.zip",
+    "sha256": "239ce80647df142fdfd80918a38f762463bcbfca66f3bcc29a47e2e7857ae8ae",
+    "fileCount": 232,
+    "status": "design-source-reviewed; content-not-bulk-imported"
+  },
+  {
+    "file": "ExamPro-main.zip",
+    "sha256": "64bc2fa9b5790e2fa2eb19504c9a948f98f26d49c557c0e1fd13d94215a7527e",
+    "fileCount": 31,
+    "status": "design-source-reviewed; content-not-bulk-imported"
+  }
+]
