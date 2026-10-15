@@ -1,0 +1,525 @@
+{
+  "date": "2026-10-15",
+  "topics": [
+    {
+      "id": "t-0-0",
+      "title": "Indus civilisation",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-0-1",
+      "title": "Vedic society",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-0-2",
+      "title": "Buddhism & Jainism",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-0-3",
+      "title": "Mauryas & Guptas",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-0-4",
+      "title": "Satavahanas & Andhra dynasties",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-0-5",
+      "title": "Medieval India",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-0-6",
+      "title": "Bhakti & Sufi movements",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-0-7",
+      "title": "Colonial rule & resistance",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-0-8",
+      "title": "National movement",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-0-9",
+      "title": "Andhra culture & reform",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-1-0",
+      "title": "Constitution & Preamble",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-1-1",
+      "title": "Fundamental Rights",
+      "level": "Guided foundation",
+      "segments": 4,
+      "questions": 22,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-1-2",
+      "title": "Directive Principles & Duties",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-1-3",
+      "title": "Union executive & Parliament",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-1-4",
+      "title": "Judiciary",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-1-5",
+      "title": "State executive & legislature",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-1-6",
+      "title": "Federalism & local government",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-1-7",
+      "title": "Constitutional bodies",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-1-8",
+      "title": "Social justice & welfare",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-1-9",
+      "title": "International relations",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-2-0",
+      "title": "National income",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-2-1",
+      "title": "Inflation & monetary policy",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-2-2",
+      "title": "Public finance & taxation",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-2-3",
+      "title": "Banking & financial inclusion",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-2-4",
+      "title": "Planning & development",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-2-5",
+      "title": "Agriculture & rural economy",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-2-6",
+      "title": "Industry & infrastructure",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-2-7",
+      "title": "AP economy & state budget",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-2-8",
+      "title": "AP Socio-Economic Survey",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-2-9",
+      "title": "Poverty & employment",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-3-0",
+      "title": "Earth & geomorphology",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-3-1",
+      "title": "Climate & monsoons",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-3-2",
+      "title": "Indian physical geography",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-3-3",
+      "title": "Rivers & water resources",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-3-4",
+      "title": "Soils & agriculture",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-3-5",
+      "title": "Resources & industries",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-3-6",
+      "title": "AP physical geography",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-3-7",
+      "title": "Population & urbanisation",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-3-8",
+      "title": "Environment & ecology",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-3-9",
+      "title": "Disaster management",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-4-0",
+      "title": "Number systems",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-4-1",
+      "title": "Percentages & ratios",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 52,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-4-2",
+      "title": "Profit, loss & interest",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-4-3",
+      "title": "Time & work",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 26,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-4-4",
+      "title": "Time, speed & distance",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 26,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-4-5",
+      "title": "Series & coding",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 26,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-4-6",
+      "title": "Logical reasoning",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-4-7",
+      "title": "Data interpretation",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-4-8",
+      "title": "Administrative abilities",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-4-9",
+      "title": "Psychological abilities",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-5-0",
+      "title": "Everyday physics",
+      "level": "Expanded foundation",
+      "segments": 4,
+      "questions": 27,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-5-1",
+      "title": "Everyday chemistry",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-5-2",
+      "title": "Biology & human health",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-5-3",
+      "title": "Biotechnology",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-5-4",
+      "title": "Space technology",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-5-5",
+      "title": "Information technology & AI",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-5-6",
+      "title": "Energy technology",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-5-7",
+      "title": "Agriculture technology",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-5-8",
+      "title": "Indian scientific institutions",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-5-9",
+      "title": "Science policy & applications",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-6-0",
+      "title": "Andhra Pradesh events",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-6-1",
+      "title": "National events",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-6-2",
+      "title": "International events",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-6-3",
+      "title": "Schemes & policy changes",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    },
+    {
+      "id": "t-6-4",
+      "title": "Reports & indices",
+      "level": "Short foundation",
+      "segments": 1,
+      "questions": 0,
+      "fullChapterReviewed": false
+    }
+  ]
+}
