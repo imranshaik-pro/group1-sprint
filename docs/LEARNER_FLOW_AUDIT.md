@@ -19,11 +19,14 @@ Learners saw a raw GitHub JSON document from an “Open source file” card, rep
 - The browser test selects an answer from the actual displayed question rather than assuming a fixed question order. It additionally walks all 65 topic routes, checks absence of raw catalogue links and traverses physics learn/recall/practice/reflection/revision.
 
 ## Verification
-- Original app: build succeeded and all 44 Node tests passed.
+- Original app: build succeeded and all 45 Node tests passed.
 - Website: 8 new learner-content checks and 20 regression checks passed; TypeScript check passed.
 - Twenty sequential GMA drills produced 100 unique IDs, with five distinct concept families per drill.
 - Every generated arithmetic answer was independently recalculated from its parameters. IDs, displayed text, four-option uniqueness, eligibility and source fields were checked.
 - The managed local environment has no supported browser-control plugin. No local browser or Android-device QA is claimed. The repository browser workflow is the further integration check; its actual result must be reported separately.
+
+## Additional verification failure and correction
+The first new remote browser run (38715967242) caught a PWA startup regression before Sites publication: replacing the catalogue block had also removed the adjacent Today, Plan and Library methods. Those methods were restored from the exact previous source. A module-startup regression check now renders all navigation routes and all 65 topic routes with minimal storage/document adapters. This check complements browser testing; it does not simulate clicks or claim device QA. The previous failed archive was not deployed.
 
 ## Remaining curriculum work
 These fixes do not make a complete exam course. Of 65 units, 63 still have short foundations; Fundamental Rights has the existing guided foundation and Physics has an expanded foundation. Only 6 units currently have bundled scored questions. The coverage JSON lists every unit and question count. Imported third-party rows remain separate from reviewed practice; answer-only and Mains rows are not silently promoted to four-option Prelims tests. Detailed chapters, full Telugu translation and broader reviewed questions still need authoring/source checks. This is content work, not an API-key dependency.
