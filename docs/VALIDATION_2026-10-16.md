@@ -20,7 +20,7 @@ Request: split the 65 parent topics into six balanced batches and deliver chapte
 
 ## Browser and production status
 
-Current release browser workflow and deployment are recorded after the code push. Until then neither is claimed as passed. Managed runtime has no supported control-browser capability; no improvised local browser was used. Existing GitHub CI runs the actual desktop/mobile browser flow and has new chapter navigation, scoring and offline checks.
+Browser workflow 38929497884 passed on code commit 9c155a2d99c292ca614229fea439eac55232e142: https://github.com/imranshaik-pro/group1-sprint/actions/runs/38929497884 . It verified the eight-question Indus chapter attempt (8.00/8), previous/next navigation, recall/reflection/revision persistence and offline Vedic chapter access, alongside the existing desktop/mobile regression suite. Sites version 11 published successfully on 16 October 2026 at 16:10:41 UTC: https://group1-sprint-studio.spryplume16.chatgpt.site . The hosted mobile web app is included at /sprint/index.html. Source commit: 8ae88566992764d6bafa7e11b2a00f63258b61ae. Native deployment: appgdep_6ad24c66b1448191a16af45c48c331ab, status succeeded, environment revision 0. Managed runtime has no supported control-browser capability; no improvised local browser was used. Existing GitHub CI runs the actual desktop/mobile browser flow and has new chapter navigation, scoring and offline checks.
 
 ## Failures and corrections during this session
 

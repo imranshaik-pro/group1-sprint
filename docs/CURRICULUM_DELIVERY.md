@@ -26,7 +26,7 @@ Publication of an edition is separate from complete official-syllabus coverage. 
 - t-0-9: Andhra culture & reform
 - t-1-0: Constitution & Preamble
 
-Status: Chapter edition authored and tested; production publication recorded in the validation document.
+Status: Published in the website and mobile web app, version 11. Validation and review limits are recorded in VALIDATION_2026-10-16.md.
 
 ### Batch 2: Rights, government & economic foundations (11 topics)
 
@@ -121,4 +121,4 @@ The 1,460 imported records contain metadata and source links only. They provide 
 
 ## Next delivery
 
-Batch 2 starts with Fundamental Rights and continues through Public finance & taxation. Each topic needs its own source review and question audit; no automatic background completion is implied. AI integration remains deferred.
+Batch 2 starts with Fundamental Rights and continues through Inflation & monetary policy. Each topic needs its own source review and question audit; no automatic background completion is implied. AI integration remains deferred.

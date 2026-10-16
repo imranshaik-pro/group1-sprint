@@ -28,7 +28,7 @@
         "t-0-9",
         "t-1-0"
       ],
-      "status": "chapter-edition-authored-and-tested",
+      "status": "chapter-edition-published",
       "topics": [
         {
           "id": "t-0-0",
@@ -1039,5 +1039,13 @@
         }
       ]
     }
-  ]
+  ],
+  "publication": {
+    "version": 11,
+    "url": "https://group1-sprint-studio.spryplume16.chatgpt.site",
+    "mobile": "https://group1-sprint-studio.spryplume16.chatgpt.site/sprint/index.html",
+    "codeCommit": "9c155a2d99c292ca614229fea439eac55232e142",
+    "workflow": "https://github.com/imranshaik-pro/group1-sprint/actions/runs/38929497884",
+    "fullOfficialSyllabusReviewed": false
+  }
 }
