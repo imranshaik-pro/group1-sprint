@@ -1,5 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
+import {validEvent} from '../lib/event-validation.ts';
 import { parseBackup, mergeBackup, parseRoute, routeHash } from '../lib/backups.ts';
 const e={id:'study-123',at:'2026-10-12T10:00:00Z',type:'note',data:{topic:'t-1-1',text:'My checked note'}};
 const snapshot={app:'group1-studio',version:2,exportedAt:'2026-10-12T10:00:00Z',account:{id:'my-account',email:'user@example.test'},events:[e],resume:{page:'lesson',topic:'t-1-1'},reading:[{id:'gma-percent',page:4,pages:19,notes:'Revise this.',bookmarks:[4]}]};
@@ -10,3 +11,5 @@ test('corrupt JSON, cross-edition backups and invalid PDF page metadata are reje
 test('legacy website exports are explicitly marked unbound to an account',()=>{assert.equal(parseBackup(JSON.stringify({version:1,events:[e]}),'my-account').legacy,true);});
 test('named lesson routes survive browser back and reload without changing topic identity',()=>{const r={page:'lesson',topic:'t-1-1'};assert.deepEqual(parseRoute(routeHash(r)),r);assert.equal(parseRoute('#lesson?topic=bad'),null);assert.equal(parseRoute('#invite=token'),null);assert.equal(parseRoute('#revision')?.page,'revision');});
 test('UPSC section survives route parsing and backup restoration without changing APPSC events',()=>{assert.equal(parseRoute(routeHash({page:'upsc'}))?.page,'upsc');const restored=parseBackup(JSON.stringify({...snapshot,resume:{page:'upsc'}}),'my-account');assert.equal(restored.resume?.page,'upsc');assert.deepEqual(restored.events,[e]);});
+
+test('UPSC cursor sync and backup pass validation; unknown pages remain rejected',()=>{const cursor={...e,type:'cursor',data:{page:'upsc'}};assert.equal(validEvent(cursor),true);assert.equal(validEvent({...cursor,data:{page:'admin'}}),false);assert.equal(parseBackup(JSON.stringify({...snapshot,events:[cursor],resume:{page:'upsc'}}),'my-account').events.length,1);});

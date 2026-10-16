@@ -39,3 +39,13 @@ Website changes here are source changes in this repository. The existing hosted 
 - Website TypeScript check (`npx tsc --noEmit`) passes; website production build passes. The bundler reports a large client-chunk warning.
 - Seven website backup/navigation tests pass, including UPSC route round-trip and restore with unchanged APPSC events.
 - Browser visual/runtime QA was attempted but not completed: Playwright Chromium was absent, and browser download returned a truncated/non-ZIP payload. Mobile layout, click interactions and actual offline reload therefore remain unverified in a real browser.
+
+## Completion pass: topic reuse and review fixes
+
+The UPSC catalogue now includes 21 individually parsed questions: 10 Prelims questions carrying unverified PYQ claims and 11 Mains/model prompts. Nested numbered statements are preserved rather than mistaken for new questions. All 21 have their original imported answer text and source identity; only the two years explicitly claimed in the source are recorded as claims. No official year, answer key, or missing option has been invented. Users can attempt recall or answer writing, then reveal the imported answer; temporary attempts are explicitly labelled unsaved and do not affect scored progress.
+
+Curated rules place all entries under syllabus subjects, with 75 resource entries linked to precise APPSC topics. Broad/mixed folders retain subject classification without a forced topic. Anthropology optional content remains separate; the religion prelim collection is classified as History & Culture rather than inheriting the Anthropology folder. Individual Bhakti/Sufi questions are separated from Buddhism/Jainism. Linked UPSC content is accessible inside relevant APPSC lesson pages. Persistent top-of-page APPSC/UPSC section buttons make both sections reachable on mobile.
+
+Fixed all four initial PR review findings: allow UPSC cursor events through the sync validator; wrap the heading for the existing layout; reject ZIPs whose checksum differs from the pinned archive; and preserve balanced parentheses in resource URLs. The website loads the UPSC module as a separate chunk. Website deployment uses the latest actual Site source checkout, preserving its identity and sharing settings.
+
+Completion validation: 50 offline-app tests and 46 hosted-website TypeScript tests pass. The hosted checkout TypeScript compiler check passes. Real browser QA remains unavailable under the supported Sites environment, so no browser interaction results are claimed. A misplaced initial compiler invocation from the repository root failed because that directory has no TypeScript compiler; the subsequent check from the actual website checkout passed.

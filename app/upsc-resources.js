@@ -18,7 +18,12 @@ export const upscCatalogue = {
       "links": [
         "https://upscpdf.com/2023/08/24/target-ias-anthropology-optional-pdf/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Anthropology optional"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-7417de6e3b08da",
@@ -30,7 +35,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Anthoropology_Syllabus.png",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Anthropology optional"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-2cdfbbc8d4a965",
@@ -42,7 +52,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Anthropology_Handwritten_Index.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Anthropology optional"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-bc565ed701bf7f",
@@ -54,7 +69,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Anthropology_Handwritten_Notes.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Anthropology optional"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-77d18aa1b59fa4",
@@ -66,7 +86,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Anthropology_Mindmap.png",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Anthropology optional"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-3f0e64359d694d",
@@ -85,7 +110,12 @@ export const upscCatalogue = {
         "https://www.ignouhelp.in/ignou-maan-study-material/",
         "https://ignounotesforias.in/anthropology/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Anthropology optional"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-ad3ad51edf48b0",
@@ -97,7 +127,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/5%20model%20mains%20questions%20with%20answer.txt",
       "text": "5 model mains questions with answers (Anthropology – religion focus):\r\n\r\n\r\n---\r\n\r\nPaper I (Social-Cultural Anthropology)\r\n\r\nQ1. Discuss the anthropological approaches to the study of religion, highlighting the views of E.B. Tylor, Emile Durkheim, and Clifford Geertz. (20 marks)\r\n\r\nAnswer (outline):\r\n\r\nTylor (Animism): Religion originates from belief in spirits → basis of all religions is animism.\r\n\r\nDurkheim (Sacred & Profane): Religion is a social phenomenon; unites community through rituals and collective effervescence.\r\n\r\nGeertz (Symbolic/Interpretive): Religion is a cultural system of symbols giving meaning to existence.\r\n\r\nComparison: Evolutionary (Tylor) → Functionalist (Durkheim) → Symbolic (Geertz).\r\n\r\nAnthropology now studies religion in context (not only origins).\r\n\r\n\r\n\r\n---\r\n\r\nQ2. Differentiate between Magic, Religion, and Science with anthropological examples. (15 marks)\r\n\r\nAnswer (outline):\r\n\r\nMagic: Individual, manipulative, based on belief in cause-effect (Malinowski’s Trobriand Islanders → magic used in open sea fishing).\r\n\r\nReligion: Collective, ritualistic, based on faith in supernatural (Durkheim – sacred/profane).\r\n\r\nScience: Empirical, experimental, rational.\r\n\r\nThey coexist: In tribal societies, magic complements religion; in modern societies, science challenges but doesn’t fully replace belief.\r\n\r\n\r\n\r\n---\r\n\r\nQ3. Examine the role of rituals and myths in sustaining social order. (15 marks)\r\n\r\nAnswer (outline):\r\n\r\nMyths: Narratives of origin, gods, ancestors → legitimizes authority, morality (e.g., creation myths in tribes).\r\n\r\nRituals: Repetitive practices reinforcing solidarity (rites of passage: birth, marriage, death).\r\n\r\nDurkheim: Rituals strengthen collective conscience.\r\n\r\nExample: Hindu rituals (samskaras), Christian mass, tribal fertility rituals → all ensure continuity and stability.\r\n\r\n\r\n\r\n---\r\n\r\nPaper II (Indian Anthropology)\r\n\r\nQ4. Discuss the impact of religion on caste system in India. (20 marks)\r\n\r\nAnswer (outline):\r\n\r\nHindu religion & Varna system: Religious sanction (Purusha Sukta of Rigveda) gave birth to caste hierarchy.\r\n\r\nDharma & Karma theory: Justified caste inequality.\r\n\r\nBuddhism, Jainism, Bhakti, Sufi: Challenged caste rigidity, promoted equality.\r\n\r\nModern scenario: Secularism + reform movements (Arya Samaj, Ambedkarite Buddhism).\r\n\r\nReligion both entrenched caste and inspired reform.\r\n\r\n\r\n\r\n---\r\n\r\nQ5. Write short notes on Religious Syncretism in Indian society. (10 marks)\r\n\r\nAnswer (outline):\r\n\r\nSyncretism = blending of traditions and practices of different religions.\r\n\r\nExamples:\r\n\r\nBhakti–Sufi traditions (Kabir, Nanak emphasized unity of God).\r\n\r\nTribal-Hindu integration (Adivasi deities merged with Hindu pantheon).\r\n\r\nChristianity in Kerala adopting local rituals.\r\n\r\n\r\nImportance: Shows Indian pluralism and accommodation.",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Religion and society"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-17fd4efd020fd4",
@@ -113,7 +148,12 @@ export const upscCatalogue = {
         "https://en.m.wikipedia.org/wiki/List_of_religions_and_spiritual_traditions",
         "https://courses.lumenlearning.com/wm-introductiontosociology/chapter/types-of-religion/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Religion and society"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-b27c5b321d1896",
@@ -125,7 +165,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Main%20Categories%20of%20Religions.txt",
       "text": "1️⃣ Main Categories of Religions\r\n\r\nReligions are often classified by how they view the divine (Gods/spirits):\r\n\r\nMonotheism → Belief in one God.\r\nExamples: Judaism, Christianity, Islam, Sikhism, Zoroastrianism.\r\n\r\nPolytheism → Belief in many gods/deities.\r\nExamples: Hinduism, Shinto, Ancient Greek/Egyptian religions.\r\n\r\nHenotheism → Belief in one supreme God but acceptance of others.\r\nExample: Some schools of Hinduism (worship of one deity like Vishnu or Shiva but acceptance of others).\r\n\r\nAnimism → Belief that spirits or divine forces exist in nature (trees, rivers, animals, mountains).\r\nExample: African tribal religions, Indigenous religions, Native American traditions.\r\n\r\nAtheistic / Non-theistic → Religions that do not emphasize God/gods, but focus on philosophy, ethics, or self-liberation.\r\nExample: Buddhism, Jainism, Confucianism (though some followers add ritual elements).\r\n\r\n---\r\n\r\n2️⃣ Comparison Table of Major Religions\r\n\r\nCategory\tReligion\tOrigin (Time/Place)\tFounder/Key Figure\tScripture(s)\tFollowers Called\tKey Belief / Symbol\r\n\r\nCategory     | Religion        | Origin (Time & Place)     | Founder / Key Figure         | Sacred Texts                 | Followers      | Core Beliefs / Symbols\r\n-------------|-----------------|---------------------------|------------------------------|------------------------------|----------------|--------------------------------------\r\nAbrahamic    | Judaism         | 2000 BCE, Middle East     | Abraham, Moses               | Torah, Tanakh                | Jews           | One God (Yahweh), covenant, law\r\n             | Christianity    | 1st c. CE, Palestine      | Jesus Christ                 | Bible (Old & New Testament)  | Christians     | Salvation through Christ, Cross ✝\r\n             | Islam           | 7th c. CE, Arabia         | Prophet Muhammad             | Quran, Hadith                | Muslims        | One God (Allah), Five Pillars ☪\r\nDharmic      | Hinduism        | 1500 BCE+, India          | No single founder            | Vedas, Gita, Upanishads      | Hindus         | Dharma, Karma, Moksha, Om 🕉\r\n             | Buddhism        | 5th c. BCE, India         | Siddhartha Gautama (Buddha)  | Tripitaka, Sutras            | Buddhists      | Four Noble Truths, Nirvana ☸\r\n             | Jainism         | 6th c. BCE, India         | Mahavira (24th Tirthankara)  | Agamas                       | Jains          | Ahimsa (non-violence), Moksha\r\n             | Sikhism         | 15th c. CE, Punjab        | Guru Nanak & 10 Gurus        | Guru Granth Sahib            | Sikhs          | One God, Equality, Seva ⚔\r\nChinese      | Confucianism    | 5th c. BCE, China         | Confucius                    | Analects                     | Confucians     | Ethics, Order, Filial Piety\r\n             | Taoism          | 4th c. BCE, China         | Laozi (Lao Tzu)              | Tao Te Ching                 | Taoists        | Harmony with Tao, Yin-Yang ☯\r\n             | Chinese Folk    | Ancient China             | No single founder            | Local traditions             | Practitioners  | Ancestor worship, rituals\r\nOther        | Zoroastrianism  | 1200–600 BCE, Persia      | Zoroaster (Zarathustra)      | Avesta                       | Zoroastrians   | Dualism: Ahura Mazda vs Angra Mainyu 🔥\r\n             | Shinto          | Ancient Japan             | No single founder            | Kojiki, Nihon Shoki           | Shintoists     | Kami (spirits), Purity rituals 🏮\r\n             | African Trad.   | Prehistoric Africa        | Tribal ancestors             | Oral tradition               | Varied tribes  | Animism, ancestral spirits\r\n\r\n\r\n---\r\n\r\n3️⃣ Flow Chart of Religions\r\n\r\nReligions\r\n│\r\n├── Based on Belief in God(s)\r\n│\r\n├── Monotheistic (One God)\r\n│   ├── Abrahamic Religions\r\n│   │   ├── Judaism\r\n│   │   ├── Christianity\r\n│   │   └── Islam\r\n│   ├── Sikhism\r\n│   └── Zoroastrianism\r\n│\r\n├── Polytheistic (Many Gods)\r\n│   ├── Hinduism\r\n│   ├── Shinto\r\n│   ├── Ancient Greek/Egyptian\r\n│\r\n├── Henotheistic (One Supreme God but others exist)\r\n│   └── Certain Hindu traditions\r\n│\r\n├── Animistic (Nature/Spirit-based)\r\n│   ├── African Traditional Religions\r\n│   ├── Native American Religions\r\n│   └── Tribal Faiths\r\n│\r\n└── Non-theistic / Philosophical\r\n    ├── Buddhism\r\n    ├── Jainism\r\n    └── Confucianism\r\n    └── Taoism",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Religion and society"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-beea9fb72b0458",
@@ -137,7 +182,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Major%20Categories%20of%20Religions.txt",
       "text": "📌 Major Categories of Religions\r\n\r\n1. Abrahamic Religions\r\n\r\nOrigin: Middle East (West Asia).\r\n\r\nCommon Link: Traces spiritual lineage to Abraham.\r\n\r\nKey Faiths: Judaism, Christianity, Islam.\r\n\r\nTraits: Monotheism (belief in one God), scriptures, prophets, salvation history.\r\n\r\n\r\n\r\n2. Dharmic / Indian Religions\r\n\r\nOrigin: Indian subcontinent.\r\n\r\nKey Faiths: Hinduism, Buddhism, Jainism, Sikhism.\r\n\r\nTraits: Concepts of dharma (duty/order), karma, rebirth, liberation (moksha/nirvana).\r\n\r\n\r\n\r\n3. Chinese Religions\r\n\r\nOrigin: Ancient China.\r\n\r\nKey Faiths/Philosophies: Confucianism, Taoism, Chinese folk religion.\r\n\r\nTraits: Harmony with nature, ancestor veneration, balance of social and cosmic order.\r\n\r\n\r\n\r\n4. Other World Religions & Indigenous Traditions\r\n\r\nAfrican Traditional Religions, Shinto (Japan), Zoroastrianism (Persia), Indigenous/animistic faiths.\r\n\r\nTraits: Often polytheistic/animistic, tied to land, ancestors, and local communities.\r\n\r\n\r\n---\r\n\r\n🌍 One-Paragraph Overviews\r\n\r\n✡ Judaism\r\n\r\nJudaism, the oldest Abrahamic faith, began around 2000 BCE with Abraham’s covenant with God and later the laws revealed to Moses. It emphasizes one God (Yahweh), ethical living, and adherence to the Torah (sacred law). Jewish identity is both religious and ethnic, strongly tied to community and tradition. Followers are called Jews, and key practices include Sabbath observance, dietary laws (kosher), and festivals like Passover. It established the groundwork for both Christianity and Islam.\r\n\r\n\r\n---\r\n\r\n✝ Christianity\r\n\r\nChristianity grew out of Judaism in the 1st century CE, centered on the life, death, and resurrection of Jesus Christ, believed by followers to be the Son of God and savior of humanity. Its central message is salvation through faith, love, and grace. The Bible is the sacred scripture, and followers are called Christians. The religion spread widely through the Roman Empire and missionary work, becoming the world’s largest religion, with major branches including Catholicism, Orthodoxy, and Protestantism.\r\n\r\n\r\n---\r\n\r\n☪ Islam\r\n\r\nIslam was founded in the 7th century CE in Arabia by Prophet Muhammad, who Muslims believe is the final messenger of God (Allah). The Quran is its holy book, and its core pillars include faith, prayer, charity, fasting, and pilgrimage (Hajj). Followers are called Muslims, and they view themselves as part of a global community (Ummah). Islam emphasizes monotheism, submission to God, and moral guidance, and it spread rapidly across the Middle East, Africa, and Asia.\r\n\r\n\r\n---\r\n\r\n🕉 Hinduism\r\n\r\nHinduism, the oldest Indian religion, evolved over thousands of years with no single founder. It is diverse, encompassing devotion to many deities (like Vishnu, Shiva, Devi), philosophies, and rituals. Central concepts include dharma (duty), karma (actions and consequences), samsara (cycle of rebirth), and moksha (liberation). Its sacred texts include the Vedas, Upanishads, Bhagavad Gita, and epics like the Ramayana and Mahabharata. Followers are called Hindus, and it is deeply tied to India’s cultural and social fabric.\r\n\r\n\r\n---\r\n\r\n☸ Buddhism\r\n\r\nBuddhism began in the 5th century BCE with the teachings of Siddhartha Gautama (the Buddha) in India. It rejects caste distinctions and focuses on ending suffering (dukkha) through the Four Noble Truths and the Eightfold Path. Followers, called Buddhists, aim for enlightenment (nirvana)—a release from rebirth and suffering. It spread widely to East and Southeast Asia, developing traditions like Theravāda, Mahāyāna, and Vajrayāna. Meditation, mindfulness, and compassion are central practices.\r\n\r\n\r\n---\r\n\r\n🕊 Jainism\r\n\r\nJainism originated in India around the 6th century BCE, led by Mahavira (24th Tirthankara). It teaches strict nonviolence (ahimsa), truth, and self-discipline as the path to liberation. Jains reject violence toward any living being, leading to vegetarianism and careful ethical living. Followers are called Jains, and they believe in karma, rebirth, and ultimate liberation (moksha) through self-purification and renunciation.\r\n\r\n\r\n---\r\n\r\n⚔ Sikhism\r\n\r\nSikhism arose in 15th-century Punjab, India, founded by Guru Nanak and developed through ten Sikh Gurus. It emphasizes devotion to one God, equality, community service, and honest living. The sacred scripture is the Guru Granth Sahib. Followers are called Sikhs, often identifiable by the 5 Ks (articles of faith). Sikhism rejects caste and ritualism, focusing instead on remembrance of God (Naam), selfless service, and justice.\r\n\r\n\r\n---\r\n\r\n☯ Confucianism\r\n\r\nConfucianism is an ethical and philosophical system based on the teachings of Confucius (551–479 BCE) in China. Rather than focusing on gods, it emphasizes moral cultivation, respect for elders, filial piety, education, and maintaining harmony in society. Followers are sometimes called Confucians, though it functions more as a way of life than a religion. It shaped Chinese politics, family structure, and culture for centuries, stressing order and human relationships.\r\n\r\n\r\n---\r\n\r\n☯ Taoism (Daoism)\r\n\r\nTaoism, rooted in the teachings of Laozi and texts like the Tao Te Ching, emphasizes living in harmony with the Tao (the Way), the natural order of the universe. Followers (called Taoists) practice meditation, ritual, traditional medicine, and sometimes alchemy to cultivate balance and longevity. Symbolized by the Yin-Yang, Taoism values spontaneity, simplicity, and flow with nature rather than rigid social rules. It coexisted with Confucianism in shaping Chinese culture.\r\n\r\n\r\n---\r\n\r\n🏮 Chinese Folk Religion\r\n\r\nThis is a broad set of indigenous traditions in China, blending ancestor worship, local deities, and Taoist/Confucian ideas. It lacks a centralized scripture but emphasizes harmony with spirits, rituals for prosperity, and honoring ancestors. Followers don’t have a single name but are often referred to as practitioners of folk religion. Temples, festivals, and rituals keep community and cosmic balance.\r\n\r\n\r\n---\r\n\r\n🔥 Zoroastrianism\r\n\r\nFounded in ancient Persia by Prophet Zoroaster (Zarathustra), this faith worships Ahura Mazda as the supreme God. It teaches dualism—the struggle between truth/light and falsehood/darkness. Its scripture is the Avesta. Followers are called Zoroastrians or Parsis (in India). Fire is a sacred symbol, representing purity. Once a dominant world religion, it influenced later Abrahamic traditions.",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Religion and society"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-0c532b4d62fecc",
@@ -149,7 +199,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Religion%20in%20Anthropology%20%E2%80%93%20UPSC.txt",
       "text": "📘 Religion in Anthropology – UPSC Optional Notes\r\n\r\n\r\n---\r\n\r\n1. Introduction\r\n\r\nReligion is a universal cultural phenomenon found in all human societies.\r\n\r\nAnthropology studies origin, function, and evolution of religion.\r\n\r\nIt connects with belief systems, rituals, magic, myths, social order, and symbols.\r\n\r\n\r\n\r\n---\r\n\r\n2. Anthropological Approaches to Religion\r\n\r\nThinker              | Approach                        | Key Ideas & Examples\r\n---------------------|---------------------------------|---------------------------------------------------------------\r\nE.B. Tylor (1871)    | Evolutionary (Animism)          | Religion originates in belief in souls/spirits → animism → polytheism → monotheism → science. \r\n                     |                                 | Examples: Andamanese tribes 🌿, Ancient Egyptians 🏺\r\n\r\nJames Frazer (1890)   | Magic → Religion → Science      | \"Golden Bough\" – magic fails → people turn to religion → later replaced by science. \r\n                     |                                 | Examples: Trobriand magic 🎣, Ancient Roman rituals 🏛️\r\n\r\nDurkheim (1912)       | Functionalist                   | Religion unites people; distinction between sacred & profane; rituals strengthen social solidarity. \r\n                     |                                 | Examples: Australian Aboriginal ceremonies 🔥, Hindu festivals 🕉️\r\n\r\nMalinowski           | Psychological Functionalism      | Religion & magic help reduce anxiety and uncertainty. \r\n                     |                                 | Examples: Trobriand fishing magic 🎣, Rainmaking rituals 🌧️\r\n\r\nRadcliffe-Brown      | Structural-Functionalist        | Rituals maintain social structure and continuity. \r\n                     |                                 | Examples: African tribal rites 🛖, Japanese Shinto festivals ⛩️\r\n\r\nClifford Geertz      | Symbolic/Interpretive           | Religion = cultural system of symbols giving meaning to life. \r\n                     |                                 | Examples: Balinese Hinduism 🌺, Catholic symbolism ✝️\r\n\r\n\r\n---\r\n\r\n3. Key Concepts\r\n\r\nMagic: Individual attempt to control supernatural (e.g., Trobriand Islanders).\r\n\r\nReligion: Collective rituals and beliefs in supernatural beings.\r\n\r\nScience: Empirical, rational explanation of natural phenomena.\r\n\r\nMyths: Sacred stories explaining origins, legitimizing authority.\r\n\r\nRituals: Symbolic acts (rites of passage, seasonal, fertility rituals).\r\n\r\nTotemism (Durkheim): Animals/plants as sacred symbols of clans.\r\n\r\nMana (Codrington): Impersonal supernatural power.\r\n\r\nShamanism: Religious specialist mediating with spirits.\r\n\r\n\r\n\r\n---\r\n\r\n4. Typology of Religions (Anthropological Classification)\r\n\r\nType                            | Definition                                           | Example\r\n--------------------------------|-----------------------------------------------------|-------------------------------------------\r\nAnimism                         | Belief in spirits of nature or ancestors           | Tribes (Andamanese, Australian Aboriginals)\r\nAnimatism                       | Belief in impersonal supernatural force (mana)    | Polynesian cultures\r\nTotemism                        | Sacred relationship between a group and a natural object | Australian tribes, Ojibwa\r\nPolytheism                      | Belief in multiple gods                             | Ancient Greek religion, Hinduism\r\nMonotheism                      | Belief in one God                                   | Islam, Christianity\r\nMonism / Philosophical Religion | Belief in ultimate reality as one                   | Vedanta, Buddhism (nirvana concept)\r\n\r\n\r\n---\r\n\r\n5. Religion in Indian Society (Paper II Focus)\r\n\r\na. Hinduism\r\n\r\nVarna and caste justified by religious texts (Rigveda, Manusmriti).\r\n\r\nKarma, Dharma, Moksha – guiding principles.\r\n\r\nStrong ritual and symbolic traditions (samskaras, festivals).\r\n\r\n\r\nb. Buddhism & Jainism\r\n\r\nRejected Vedic ritualism, focused on ethical conduct.\r\n\r\nEgalitarian → challenged caste order.\r\n\r\nSpread across Asia (Buddhism more successful).\r\n\r\n\r\nc. Bhakti and Sufi Movements\r\n\r\nPromoted devotion, equality, and syncretism.\r\n\r\nKabir, Nanak, Chishti saints.\r\n\r\nWeakened caste barriers and promoted interfaith harmony.\r\n\r\n\r\nd. Tribal Religions\r\n\r\nAnimism, animatism, ancestor worship.\r\n\r\nIntegration with Hinduism/Christianity but retain distinct rituals (e.g., Sarna, Donyi-Polo).\r\n\r\n\r\ne. Modern Context\r\n\r\nSecularism (Constitution Articles 25–28).\r\n\r\nReform movements: Arya Samaj, Brahmo Samaj, Ambedkarite Buddhism.\r\n\r\nSyncretism → pluralism is India’s strength.\r\n\r\n\r\n\r\n---\r\n\r\n6. Previous Year UPSC Anthropology Questions (Religion Related)\r\n\r\nPaper I\r\n\r\n2016: Discuss the concept of sacred and profane in Durkheim’s theory of religion.\r\n\r\n2018: Distinguish between magic, religion, and science.\r\n\r\n2020: Examine the role of myth in the study of religion.\r\n\r\n\r\nPaper II\r\n\r\n2017: Discuss the role of religion in sustaining caste system in India.\r\n\r\n2019: Examine the significance of Bhakti–Sufi movement in promoting religious syncretism in India.\r\n\r\n\r\n\r\n---\r\n\r\n7. Answer Writing Strategy\r\n\r\nAlways define → explain → give thinkers + examples → conclude with critical view.\r\n\r\nUse tribal + Indian society + global examples to enrich answers.\r\n\r\nAdd flowcharts/diagrams in 15 markers (e.g., Magic–Religion–Science cycle).",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Religion and society"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-79ce56be28814e",
@@ -161,7 +216,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Religion%20%E2%80%93%20Anthropology%20Optional.txt",
       "text": "📘 Religion – Anthropology Optional: Questions & Answers\r\n\r\n\r\n---\r\n\r\nPaper I\r\n\r\n\r\n---\r\n\r\nQ1. Discuss the anthropological approaches to the study of religion, highlighting the views of E.B. Tylor, Emile Durkheim, and Clifford Geertz. (20 marks)\r\n\r\nAnswer:\r\n\r\nIntro: Religion is a universal institution, studied by anthropologists from evolutionary, functionalist, and symbolic perspectives.\r\n\r\nTylor: Proposed animism as the earliest form of religion (belief in souls/spirits). He saw religion evolving → animism → polytheism → monotheism → science. His view is evolutionary.\r\n\r\nDurkheim: Saw religion as a social fact; core of religion is distinction between sacred and profane. Rituals create collective effervescence and strengthen solidarity. Functionalist approach.\r\n\r\nGeertz: Proposed interpretive approach – religion as a cultural system of symbols that provide meaning to existence. He emphasized lived experience rather than structure.\r\n\r\nConclusion: Tylor → origins, Durkheim → social function, Geertz → meaning. All together show religion is biological (psychological need), social (cohesion), and cultural (meaning).\r\n\r\n\r\n\r\n---\r\n\r\nQ2. Differentiate between Magic, Religion, and Science with anthropological examples. (15 marks)\r\n\r\nAnswer:\r\n\r\nIntro: Magic, religion, and science are three ways humans cope with uncertainty.\r\n\r\nMagic: Manipulative, individualistic, based on belief in direct cause-effect. Malinowski observed Trobriand Islanders using magic before risky open-sea fishing.\r\n\r\nReligion: Collective, ritual-based, appeals to supernatural beings. Durkheim: religion sustains community solidarity.\r\n\r\nScience: Empirical, rational, testable. Provides verifiable results.\r\n\r\nOverlap: In tribal societies, all three co-exist (magic for risk, religion for morality, science for tools).\r\n\r\nConclusion: Magic addresses uncertainty, religion provides meaning, science explains reality. None is completely absent in any society.\r\n\r\n\r\n\r\n---\r\n\r\nQ3. Examine the role of rituals and myths in sustaining social order. (15 marks)\r\n\r\nAnswer:\r\n\r\nIntro: Rituals and myths are symbolic elements of religion, crucial in transmitting values.\r\n\r\nMyths: Narratives about origins, gods, ancestors. Example: Hindu Purusha Sukta justifies varna; tribal myths explain clan identity.\r\n\r\nRituals: Repetitive symbolic practices – e.g., birth, marriage, death rites. Durkheim: rituals reinforce collective conscience.\r\n\r\nIntegration: Myths legitimize authority, rituals enact and reinforce it. Example: coronation rituals of kings, tribal fertility rites.\r\n\r\nConclusion: Myths give meaning, rituals give action. Together they ensure continuity of social order.\r\n\r\n\r\n\r\n---\r\n\r\n\r\n---\r\n\r\nPaper II\r\n\r\n\r\n---\r\n\r\nQ4. Discuss the impact of religion on caste system in India. (20 marks)\r\n\r\nAnswer:\r\n\r\nIntro: Caste and religion in India are deeply intertwined. Religion provided ideological sanction to caste.\r\n\r\nHinduism: Varna system in Rigveda and Purusha Sukta – caste hierarchy. Dharma and Karma theory – justified inequality.\r\n\r\nBuddhism & Jainism: Opposed ritualism and caste hierarchy. Promoted equality, though caste persisted socially.\r\n\r\nBhakti & Sufi movements: Emphasized devotion and God’s unity. Saints like Kabir, Nanak challenged caste rigidities.\r\n\r\nModern reforms: Arya Samaj, Brahmo Samaj, Ambedkar’s Buddhism. Constitution provides equality (Articles 15, 17, 25).\r\n\r\nConclusion: Religion reinforced caste but also provided tools for reform. Thus, dual impact.\r\n\r\n\r\n\r\n---\r\n\r\nQ5. Write short notes on Religious Syncretism in Indian society. (10 marks)\r\n\r\nAnswer:\r\n\r\nIntro: Syncretism means blending of traditions of different religions. India has strong history of it.\r\n\r\nExamples:\r\n\r\nBhakti–Sufi synthesis (Kabir, Nanak, Chishti saints).\r\n\r\nTribal-Hindu mix (Sarna dharma, tribal deities incorporated into Hindu pantheon).\r\n\r\nChristianity in Kerala adopting local customs.\r\n\r\n\r\nImportance: Shows India’s pluralism, interfaith harmony.\r\n\r\nConclusion: Religious syncretism reflects adaptability of Indian culture, ensuring social cohesion amidst diversity.\r\n\r\n\r\n\r\n---\r\n\r\n\r\n---\r\n\r\nPYQs with Model Answers\r\n\r\n\r\n---\r\n\r\nQ6 (PYQ 2016 – Paper I). Discuss the concept of sacred and profane in Durkheim’s theory of religion. (15 marks)\r\n\r\nAnswer:\r\n\r\nIntro: Durkheim studied Australian totemism, saw religion as a social fact.\r\n\r\nSacred: Objects/rituals set apart, inspire awe, represent community values (e.g., totem, temple, holy books).\r\n\r\nProfane: Everyday, ordinary life.\r\n\r\nReligion: System of beliefs uniting people around sacred. Rituals reinforce sacred/profane division.\r\n\r\nConclusion: Durkheim’s distinction explains why religion persists: it is less about gods and more about society worshipping itself.\r\n\r\n\r\n\r\n---\r\n\r\nQ7 (PYQ 2018 – Paper I). Distinguish between magic, religion, and science. (Already answered above – reuse Q2).\r\n\r\n\r\n---\r\n\r\nQ8 (PYQ 2020 – Paper I). Examine the role of myth in the study of religion. (15 marks)\r\n\r\nAnswer:\r\n\r\nIntro: Myth = sacred story explaining origins, gods, ancestors. Important in understanding religion.\r\n\r\nFunctions:\r\n\r\nExplains natural and social phenomena.\r\n\r\nProvides legitimacy to authority (e.g., divine kingship).\r\n\r\nStrengthens group identity.\r\n\r\n\r\nExamples:\r\n\r\nHindu myths (Ramayana, Mahabharata) guide morality.\r\n\r\nGreek myths explain gods’ hierarchy.\r\n\r\nTribal myths (creation myths of Andamanese).\r\n\r\n\r\nConclusion: Myths are symbolic texts of religion – key to anthropological understanding of worldviews.\r\n\r\n\r\n\r\n---\r\n\r\nQ9 (PYQ 2017 – Paper II). Discuss the role of religion in sustaining caste system in India. (Already answered – reuse Q4).\r\n\r\n\r\n---\r\n\r\nQ10 (PYQ 2019 – Paper II). Examine the significance of Bhakti–Sufi movement in promoting religious syncretism in India. (15 marks)\r\n\r\nAnswer:\r\n\r\nIntro: Bhakti and Sufi movements arose (medieval period) against ritualism, emphasized devotion and unity of God.\r\n\r\nBhakti saints: Kabir, Mirabai, Nanak – opposed caste rigidities, stressed love of God.\r\n\r\nSufi saints: Chishti, Suhrawardi – emphasized love, brotherhood, service to poor.\r\n\r\nImpact: Blended Hindu and Islamic traditions, created shared cultural space (music, poetry, dargah worship).\r\n\r\nConclusion: Bhakti–Sufi syncretism promoted interfaith harmony and remains crucial to India’s composite culture.",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Religion and society"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-d79eab2ccdd1b4",
@@ -173,7 +233,16 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Selected%20UPSC%20%20Prelims%20Questions.txt",
       "text": "📚 Selected UPSC / Prelims Questions on Religion (India) + Answers & Explanations\r\n\r\n1. “Souls are not only the property of animal and plant life, but also of rocks, running water and many other natural objects not looked on as living by other religious sects.” (2023 Prelims)\r\n→ Which sect does this reflect?\r\nAnswer: Jainism \r\nExplanation: Jain doctrine teaches that all entities — even inanimate ones like rocks, water, etc. — possess a soul (jīva). This is part of the Jain principle of universal life / sentience.\r\n\r\n\r\n2. In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist center under the Mahasanghikas, located?\r\n(Options: Andhra, Gandhara, Kalinga, Magadha)\r\nAnswer: Andhra \r\nExplanation: Dhanyakataka (also known as Amaravati in Andhra Pradesh) was an important Buddhist site patronized by Mahasanghikas. \r\n\r\n\r\n3. The concept of Anuvrata was advocated by (1995 Prelims)\r\nAnswer: Jainism \r\nExplanation: Anuvrata refers to a set of minor vows (restraints) for laity in Jainism—lesser vows compared to the full vows taken by monks.\r\n\r\n\r\n4. Which of the following statements is/are applicable to Jain doctrine?\r\n\r\n1. The surest way of annihilating Karma is to practice penance.\r\n\r\n\r\n2. Every object, even the smallest particle, has a soul.\r\n\r\n\r\n3. Karma is the bane of the soul and must be ended.\r\nOptions:\r\na) 1 only\r\nb) 2 and 3 only\r\nc) 1 and 3 only\r\nd) 1, 2 and 3\r\nAnswer: d) 1, 2 and 3 \r\nExplanation: Jain doctrine teaches that all three are true: (1) Penance / austerities help in reducing karmic bonds; (2) Every entity has a jīva; (3) Karma is indeed the obstacle to liberation.\r\n\r\n\r\n\r\n\r\n5. Which one of the following describes best the concept of Nirvana in Buddhism?\r\na) The extinction of the flame of desire\r\nb) The complete annihilation of self\r\nc) A state of bliss and rest\r\nd) A mental stage beyond all comprehension\r\nAnswer: a) The extinction of the flame of desire \r\nExplanation: In Buddhist thought, Nirvana is often portrayed as the “extinction” (nirodha) of tanha (craving / desire) and the cessation of suffering, rather than annihilation of self.\r\n\r\n\r\n6. With reference to the religious history of India, consider the following statements:\r\n\r\n1. The concept of Bodhisattva is central to the Hinayana sect of Buddhism.\r\n\r\n\r\n2. Bodhisattva is a compassionate one on his way to enlightenment.\r\n\r\n\r\n3. Bodhisattva delays achieving his own salvation to help all sentient beings on their path to it.\r\nWhich of the statements given above is/are correct?\r\nAnswer: 2 and 3 only \r\nExplanation:\r\n\r\n\r\n\r\nStatement 1 is false — the Bodhisattva ideal is central to Mahayana Buddhism, not Hinayana.\r\n\r\nStatements 2 and 3 properly describe the Mahayana concept of Bodhisattva: compassion and postponement of one's own final nirvana to help others.\r\n\r\n\r\n\r\n7. With reference to the religious practices in India, the “Sthanakavasi” sect belongs to\r\na) Buddhism\r\nb) Jainism\r\nc) Vaishnavism\r\nd) Shaivism\r\nAnswer: b) Jainism \r\nExplanation: Sthanakavasi is a reform sect within the Svetambara branch of Jainism. They reject idol worship and emphasize inner purity.\r\n\r\n\r\n8. Which of the following statements about Jainism is/are correct?\r\n\r\n1. The most important idea in Jainism is that the entire world is animated; even stones, rocks and water have life.\r\n\r\n\r\n2. Asceticism and penance are required to free oneself from the cycle of Karma.\r\nOptions:\r\na) 1 only\r\nb) 2 only\r\nc) Both 1 and 2\r\nd) Neither\r\nAnswer: c) Both 1 and 2 \r\nExplanation: Both statements correctly reflect core Jain beliefs.\r\n\r\n\r\n\r\n\r\n9. With reference to religious history of India, consider the following statements:\r\n\r\n1. Sautrantika and Sammitiya were sects of Jainism.\r\n\r\n\r\n2. Sarvastivadin held that the constituents of phenomena were not wholly momentary, but existed forever in latent form.\r\nWhich is/are correct?\r\nAnswer: Statement 2 only \r\nExplanation:\r\n\r\n\r\n\r\nStatement 1 is false: Sautrantika and Sammitiya are Buddhist sects, not Jain sects.\r\n\r\nStatement 2 is correct — Sarvāstivādins posited that dharma elements exist in past, present, and future (i.e. a kind of continuity) even though their manifested forms might change.\r\n\r\n\r\n\r\n10. Consider the following statements with respect to Bhakti and Sufi movements:\r\n(a) Chaitanya Mahaprabhu was a proponent of the Achintya Bheda Abheda doctrine and of Gaudiya Vaishnavism.\r\n(b) He was a Nirguna saint.\r\n(c) He strongly propagated devotion (bhakti) to Krishna with attributes.\r\nHow many of these statements are correct?\r\nAnswer: 2 (i.e. statements a and c) \r\nExplanation:\r\n\r\nStatement (a): correct. Chaitanya propagated the doctrine of Achintya Bheda Abheda (inconceivable oneness & difference) and led the Gaudiya Vaishnava tradition.\r\n\r\nStatement (b): incorrect, he was not a Nirguna saint; his devotion was to Krishna (a personal deity, Saguna).\r\n\r\nStatement (c): correct — his worship was with attributes (form) to Krishna.",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Buddhism & Jainism",
+        "Bhakti & Sufi movements"
+      ],
+      "appscTopics": [
+        "t-0-2",
+        "t-0-6"
+      ]
     },
     {
       "id": "upsc-490458f0f8a8ef",
@@ -185,7 +254,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Types%20of%20Religious%20Groups.txt",
       "text": "Types of Religious Groups:\r\n\r\n---\r\n\r\n1. Cult 🌀\r\n\r\n* Definition: A small, new, or unorthodox religious group, often led by a charismatic leader.\r\n* Key Feature: Often seen as outside mainstream society.\r\n* Example: Heaven’s Gate (US) 🚀\r\n\r\n---\r\n\r\n2. Sect ✝️☪️✡️\r\n\r\n* Definition: A subgroup that breaks away from a larger religious tradition due to differences in beliefs or practices.\r\n* Key Feature: Maintains most of the parent religion’s core beliefs but has distinctive practices.\r\n* Example: Amish (from Christianity) 🌾\r\n\r\n---\r\n\r\n3. Denomination ⛪🕌🕍\r\n\r\n* Definition: A recognized, organized branch of a major religion with its own institutions and practices.\r\n* Key Feature: Larger, formalized, part of mainstream religion.\r\n* Example: Roman Catholicism (Christianity) ✝️, Sunni Islam ☪️, Reform Judaism ✡️\r\n\r\n---\r\n\r\n4. Church ⛪\r\n\r\n* Definition: A large, established religious organization with a formal structure and community of followers.\r\n* Key Feature: Considered mainstream; often politically and socially influential.\r\n* Example: Church of England 🇬🇧\r\n\r\n---\r\n\r\n5. New Religious Movement (NRM) 🌱\r\n\r\n* Definition: A recently founded religion or spiritual group, often with innovative beliefs or practices.\r\n* Key Feature: Can start as a cult and grow into a denomination over time.\r\n* Example: Scientology 👽, Bahá’í Faith 🌈\r\n\r\n---\r\n\r\n6. Congregation 🙏\r\n\r\n* Definition: A local group of worshippers who meet regularly in a place of worship.\r\n* Key Feature: Can belong to a denomination or church; focuses on community worship.\r\n* Example: A local parish, mosque, or synagogue 🕌⛪🕍\r\n\r\n---\r\n\r\nQuick Comparison Table\r\n\r\n| Type         | Symbol | Size         | Relation to Main Religion               | Example                     |\r\n| ------------ | ------ | ------------ | --------------------------------------- | --------------------------- |\r\n| Cult         | 🌀     | Small        | Outside mainstream                      | Heaven’s Gate 🚀            |\r\n| Sect         | ✝️☪️✡️ | Small-medium | Breaks from larger religion             | Amish 🌾                    |\r\n| Denomination | ⛪🕌🕍  | Large        | Part of mainstream                      | Roman Catholicism ✝️        |\r\n| Church       | ⛪      | Large        | Mainstream, established                 | Church of England 🇬🇧      |\r\n| NRM          | 🌱     | Varies       | New, innovative                         | Scientology 👽, Bahá’í 🌈   |\r\n| Congregation | 🙏     | Local        | Community worship, part of larger group | Parish, church, mosque 🕌⛪🕍 |",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Religion and society"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-c31926dd2f9062",
@@ -197,7 +271,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/UPSC_Anthropology_Descriptive_OneLiners.txt",
       "text": "UPSC Anthropology Syllabus – Descriptive One-Liners\n\n📘 PAPER I\n\n1. Anthropology 🧠 – The scientific study of humans, their evolution, biology, culture, and societies across time.\n2. Relationship with other disciplines 🔗 – Shows how anthropology connects with social sciences, life sciences, medicine, earth sciences, and humanities.\n3. Main Branches of Anthropology 🌐 – Includes:\n   • Socio-Cultural Anthropology 👥 – Studies human societies, cultures, and traditions.\n   • Biological Anthropology 🧬 – Examines human evolution, genetics, and biological diversity.\n   • Archaeological Anthropology 🏺 – Explores past human life through material remains.\n   • Linguistic Anthropology 🗣️ – Studies language and its role in culture and society.\n4. Human Evolution & Emergence of Man 🧑‍🔬 – Explains biological and cultural evolution of humans, evolutionary theories, and key fossil evidence.\n5. Primates & Adaptations 🐒 – Covers characteristics, evolutionary trends, and adaptations of primates.\n6. Fossil Hominids 🦴 – Details species like Australopithecus, Homo erectus, Neanderthals, and early Homo sapiens.\n7. Biological Basis of Life 🧪 – Explains cells, DNA, genes, protein synthesis, mutations, and cell division.\n8. Prehistoric Archaeology ⏳ – Principles of dating and cultural evolution from Paleolithic to Iron Age.\n9. Nature of Culture 🌍 – Defines culture, its characteristics, ethnocentrism, and cultural relativism.\n10. Nature of Society 🏛 – Concepts of society, social institutions, and social stratification.\n11. Marriage 💍 – Types, rules, laws, and functions in human societies.\n12. Family 👨‍👩‍👧‍👦 – Structure, types, and impact of modernization on family systems.\n13. Kinship 🔗 – Descent, lineage, kinship terminology, and alliance theory.\n14. Economic Organization 💰 – Study of production, distribution, and exchange systems in societies.\n15. Political Organization ⚖️ – Forms of political systems and social control in simple societies.\n16. Religion & Belief Systems ⛪ – Evolution of religion, magic, myths, rituals, and role in societies.\n17. Anthropological Theories 📜 – Key schools like evolutionism, functionalism, structuralism, cultural materialism, post-modernism.\n18. Culture & Language 🗣 – Origin of language, communication, and its social context.\n19. Research Methods in Anthropology 📊 – Fieldwork, data collection techniques, and analysis methods.\n20. Human Genetics 🧬 – Genetic principles, inheritance, chromosomal aberrations, genetic counseling.\n21. Race & Racism 🌍 – Biological variation, racial classification, and race crossing.\n22. Human Variation & Adaptation ❄️🔥 – Adaptations to environmental stress like heat, cold, and altitude.\n23. Epidemiological Anthropology 🏥 – Health, disease patterns, and nutrition-related disorders.\n24. Growth & Development 👶➡️👴 – Stages of growth, aging, factors influencing development.\n25. Fertility & Demography 👩‍🍼 – Biological events, demographic theories, and fertility patterns.\n26. Applications of Anthropology 🛠️ – Forensics, genetics, sports, nutritional anthropology, and DNA technology.\n\n📗 PAPER II\n\n1. Indian Culture & Civilization 🇮🇳 – Evolution from prehistoric to protohistoric periods and contributions of tribal cultures.\n2. Palaeo-Anthropology in India 🦴 – Fossil evidence like Ramapithecus and Narmada Man.\n3. Ethno-Archaeology 🔍 – Use of living communities to interpret past cultures.\n4. Demographic Profile of India 📈 – Ethnic, linguistic diversity, and population structure.\n5. Traditional Indian Social System 🕉 – Varnashrama, Purushartha, Karma, and rebirth concepts.\n6. Caste System in India 🏷 – Structure, theories of origin, mobility, and future of caste.\n7. Sacred & Nature-Man-Spirit Complex 🌿 – Religious and cultural ecological systems in India.\n8. Religious Impact on Indian Society ⛩ – Effects of Buddhism, Jainism, Islam, and Christianity.\n9. Growth of Anthropology in India 📚 – Contributions of scholars and administrators.\n10. Indian Village Life 🌾 – Social structure, caste relations, agrarian changes, and globalization impact.\n11. Minorities & Marginalized Groups 🧑‍🤝‍🧑 – Status of linguistic and religious minorities in India.\n12. Processes of Social Change 🔄 – Sanskritization, Westernization, modernization, and media influence.\n13. Tribal Situation in India 🏹 – Genetic variability, socio-economic characteristics, and distribution.\n14. Tribal Problems ❗ – Issues like land alienation, poverty, education, health, and displacement.\n15. Development & Tribals 🏗 – Impact of industrialization, forest policy, and rehabilitation.\n16. Exploitation of Weaker Sections ⚠️ – Deprivation of SCs, STs, OBCs and constitutional safeguards.\n17. Tribal Social Change & Politics 🗳 – Impact of democratic institutions, ethnicity, and regionalism.\n18. Role of Religion among Tribes ✝️ – Effects of major religions on tribal societies.\n19. Tribe and Nation-State 🌎 – Comparative studies of tribes in India and globally.\n20. Tribal Administration & Development 🏛 – History of policies, PTGs, NGOs, and tribal welfare programs.\n21. Role of Anthropology in Development 🤝 – Application in rural, tribal development and policy-making.",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Anthropology optional"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-6c1a2a54cb02da",
@@ -213,7 +292,12 @@ export const upscCatalogue = {
         "https://www.insightsonindia.com/2016/07/17/upsc-anthropology-strategy-kirthi-chekuri-rank-14-anthro-marks-275-cse-2015-diagrams-case-studies-tips-presentation/",
         "https://anudeepdurishetty.in/anthropology-paper-i-topic-wise-plan/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Anthropology optional"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-9dfadfafbd52a0",
@@ -227,7 +311,12 @@ export const upscCatalogue = {
       "links": [
         "https://www.instagram.com/reel/DMiQxYuJh_h/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Temple architecture"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-2ceb7b49649808",
@@ -245,9 +334,12 @@ export const upscCatalogue = {
         "https://share.google/W2zS25nuJuKDhFJNi",
         "https://civilserviceindia.com/upsc/syllabus.html",
         "https://www.sanskritiias.com/upsc-syllabus",
-        "https://www.sanskritiias.com/uploaded_files/pdf/UPSC_Syllabus(Pre_Mains"
+        "https://www.sanskritiias.com/uploaded_files/pdf/UPSC_Syllabus(Pre_Mains)_2025.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-144c5b65a4fce0",
@@ -261,7 +353,10 @@ export const upscCatalogue = {
       "links": [
         "https://freeupsc.org/standard-books/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-5e144171e97acb",
@@ -273,7 +368,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/CSAT/Notes/Algorithms/Doomsday_Algorithm/Doomsday_Algorithm_Explanation.md",
       "text": "# 📜 The Doomsday Algorithm\r\n\r\n_A neat way to know the weekday of any date, past or future — even thousands of years away._\r\n\r\n---\r\n\r\n## 1️⃣ What is “Doomsday”?\r\n\r\n> For every year there is one special weekday, called the **Doomsday**.\r\n> All the following “easy dates” in that year fall on that same weekday:\r\n\r\n| Month | Doomsday Dates (Normal Year) | Leap-Year Note   |\r\n| ----- | ---------------------------- | ---------------- |\r\n| Jan   | 3                            | 4 in leap years  |\r\n| Feb   | 28                           | 29 in leap years |\r\n| Mar   | 0 ( = Feb 28/29 ), 14        | —                |\r\n| Apr   | 4                            | —                |\r\n| May   | 9                            | —                |\r\n| Jun   | 6                            | —                |\r\n| Jul   | 11                           | —                |\r\n| Aug   | 8                            | —                |\r\n| Sep   | 5                            | —                |\r\n| Oct   | 10                           | —                |\r\n| Nov   | 7                            | —                |\r\n| Dec   | 12                           | —                |\r\n\r\nOnce we know the **weekday of the Doomsday** for that year, any of those dates — and anything close to them — is easy to compute.\r\n\r\n---\r\n\r\n## 2️⃣ Find the **Doomsday of a Year**\r\n\r\nWrite the year as `CCYY` (century `CC`, year within century `YY`).\r\n\r\n### Steps\r\n\r\n| Step  | What to do                                    | Example for 2023   |\r\n| ----- | --------------------------------------------- | ------------------ |\r\n| **A** | Take the last two digits: `Y = YY`            | 23                 |\r\n| **B** | Divide by 12 → `a = Y // 12`                  | 23 // 12 = 1       |\r\n| **C** | Remainder after ÷12 → `b = Y % 12`            | 23 % 12 = 11       |\r\n| **D** | Divide remainder by 4 → `c = b // 4`          | 11 // 4 = 2        |\r\n| **E** | Sum: `s = a + b + c`                          | 1 + 11 + 2 = 14    |\r\n| **F** | Add the **century anchor** (see next section) | anchor(2000s) = 2  |\r\n| **G** | Take `mod 7` → gives the weekday number       | (14 + 2) mod 7 = 2 |\r\n\r\nWeekday numbers (standard mapping):\r\n`0 = Sun, 1 = Mon, 2 = Tue, 3 = Wed, 4 = Thu, 5 = Fri, 6 = Sat`.\r\n\r\nSo, **Doomsday(2023) = 2 = Tuesday**.\r\n\r\n---\r\n\r\n## 3️⃣ Century Anchor Values\r\n\r\nFor Gregorian dates the anchor depends only on the century:\r\n\r\n| Centuries | Anchor (weekday number) | Weekday   |\r\n| --------- | ----------------------: | --------- |\r\n| 1600–1699 |                       2 | Tuesday   |\r\n| 1700–1799 |                       0 | Sunday    |\r\n| 1800–1899 |                       5 | Friday    |\r\n| 1900–1999 |                       3 | Wednesday |\r\n| 2000–2099 |                       2 | Tuesday   |\r\n| 2100–2199 |                       0 | Sunday    |\r\n| 2200–2299 |                       5 | Friday    |\r\n| 2300–2399 |                       3 | Wednesday |\r\n\r\n> Pattern repeats every **400 years**.\r\n\r\nFormula if we prefer math:\r\n\r\n$$\r\n\\text{Anchor} = \\big(5 \\times (C \\bmod 4) + 2\\big) \\bmod 7\r\n$$\r\n\r\n(where $C$ is the century number, e.g. 20 for 2000–2099).\r\n\r\n---\r\n\r\n## 4️⃣ Use the Doomsday to find required date\r\n\r\n1. Locate the nearest **doomsday date** in the same month.\r\n2. Count days forward/backward (mod 7).\r\n3. Add/subtract from the year’s doomsday weekday.\r\n\r\n**Example:** 24 Dec 2023\r\n\r\n- Doomsday(2023) = Tuesday.\r\n- December’s anchor = 12 Dec = Tuesday.\r\n- 24 – 12 = 12 days → 12 ≡ 5 (mod 7).\r\n- Tuesday + 5 = **Sunday**.\r\n\r\n---\r\n\r\n## 5️⃣ Very far years (e.g. 4000+, 7000+)\r\n\r\nThe Gregorian cycle repeats every **400 years**.\r\nSo:\r\n\r\n- To find Doomsday for 4000, reduce `4000 mod 400 = 0`. → same as year 0 in the cycle = **Tuesday**.\r\n- For 7000: `7000 mod 400 = 200`; century = 70; apply the same steps with anchor = (5×(70%4)+2)%7.\r\n\r\n> No matter how large the year, just bring it back by blocks of 400 and then use the same algorithm.\r\n\r\n---\r\n\r\n**Addition Logic:**\r\n\r\nOnce we’ve worked out the **Doomsday for the start of a century (or any base year)**, we can get the doomsday for the next few years just by **adding 1 each year and adding an extra 1 after a leap year** — always working mod 7.\r\n\r\nFor example, starting at the year 2000:\r\n\r\n| Year | Rule                         | Doomsday |\r\n| ---- | ---------------------------- | -------- |\r\n| 2000 | base (Tuesday = 2)           | 2        |\r\n| 2001 | +1                           | 3 (Wed)  |\r\n| 2002 | +1                           | 4 (Thu)  |\r\n| 2003 | +1                           | 5 (Fri)  |\r\n| 2004 | +1 then +1 again (leap year) | 0 (Sun)  |\r\n| 2005 | +1                           | 1 (Mon)  |\r\n\r\n👉 The **+1** for a leap year happens *after* the leap year itself, because 29 Feb inserts an extra day.\r\n\r\nSo in wer example, for 2503:\r\n\r\n* Base anchor for 2500 would be **Sunday (0)**.\r\n* 2501 → 1, 2502 → 2, 2503 → 3 (Wednesday).\r\n\r\nThat matches the full calculation we did!\r\n\r\n---\r\n\r\n**Subtraction Logic:**\r\n\r\nGoing **backward** in years is just the mirror of going forward — but we subtract instead of add (and we still have to watch for leap years).\r\n\r\nStarting point: **Doomsday(2000) = 2 (Tuesday)**\r\n\r\nTo find **1999**:\r\n\r\n1. Step back one year: subtract 1 → `2 − 1 = 1` (Monday).\r\n2. Ask: was 2000 a leap year? (yes) → when we cross back *over* a leap year, we need to subtract one **more** day.\r\n\r\nSo:\r\n\r\n$$\r\n2 - 1 - 1 = 0 \\quad (\\text{Sunday})\r\n$$\r\n\r\n> **Doomsday(1999) = Sunday (0)**\r\n\r\n✅ Rule of thumb:\r\n\r\n* Going forward: +1 each year, +1 extra after a leap year.\r\n* Going backward: −1 each year, −1 extra when we pass a leap year.\r\n\r\n*(And remember: century years divisible by 400 are leap years; 2000 is, 1900 isn’t.)*",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "General Mental Ability",
+      "upscTopics": [
+        "Calendar reasoning"
+      ],
+      "appscTopics": [
+        "t-4-6"
+      ]
     },
     {
       "id": "upsc-172cf0b1d297b8",
@@ -287,7 +389,14 @@ export const upscCatalogue = {
       "links": [
         "https://dev.to/thormeier/algorithm-explained-the-doomsday-rule-or-figuring-out-if-november-24th-1763-was-a-tuesday-4lai"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "General Mental Ability",
+      "upscTopics": [
+        "Calendar reasoning"
+      ],
+      "appscTopics": [
+        "t-4-6"
+      ]
     },
     {
       "id": "upsc-2def71feaf73e9",
@@ -299,7 +408,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/CSAT/Notes/CSAT_Handwritten_Index.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "General Mental Ability",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-1d8b81ced08054",
@@ -311,7 +423,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/CSAT/Notes/CSAT_Handwritten_Notes_Formulas.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "General Mental Ability",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-d5d4f6ab96dced",
@@ -325,7 +440,10 @@ export const upscCatalogue = {
       "links": [
         "https://www.drishtiias.com/images/dlp-demo/upsc/prelims/gs-pack-4/CSAT-Basic-Numeracy.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "General Mental Ability",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-cf51460bdd9f9d",
@@ -340,7 +458,10 @@ export const upscCatalogue = {
         "https://www.ungist.com/upsc-csat-study-materials",
         "https://www.ungist.com/uploads/images/UNGIST_UPSC_CSAT_Book_Theory_Practice.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "General Mental Ability",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-7d6bdd40512041",
@@ -352,7 +473,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Current_Affairs/Daily_Current_Affairs/Daily_Current_Affairs_Handwritten_Notes.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Current Events",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-cc251d5badcd5d",
@@ -364,7 +488,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Current_Affairs/Daily_Current_Affairs/Daily_Current_Affairs_Notes_Making_Tips.md",
       "text": "# Daily Current Affairs Notes: Making Tips\r\n\r\nIf you are preparing daily current affairs notes, organize them in a structured and consistent way for better revision and clarity.\r\n\r\n## 1. Start with a Clear Index\r\n\r\n* Always create an **index on the first page**.\r\n* Title your notebook clearly as: **“Daily Current Affairs”**.\r\n* The index should list topics along with page numbers.\r\n* Once the first index page is full, continue the index on the **next available page**.\r\n* Maintain continuity by noting the next index page number in the first index itself (a circular or linked index system).\r\n\r\n> [!TIP]\r\n> A well-maintained index saves a lot of time during revision.\r\n\r\n---\r\n\r\n## 2. Mention Date Range\r\n\r\n* Clearly mention the **date range**:\r\n\r\n  * On the **first page**\r\n  * On the **outer cover of the notebook**\r\n* Example: *24 July – 20 October 2025*\r\n\r\n> [!NOTE]\r\n> This helps in quick identification of notebooks later.\r\n\r\n---\r\n\r\n## 3. Focus on Key Points\r\n\r\n* Write only **important and relevant information**.\r\n* Avoid unnecessary details.\r\n* Use:\r\n\r\n  * Headings\r\n  * Subheadings\r\n  * Bullet points\r\n\r\n> [!CAUTION]\r\n> Overloading notes reduces revision efficiency.\r\n\r\n---\r\n\r\n## 4. Highlight Important Information\r\n\r\n* Use **colored pens** to highlight:\r\n\r\n  * Important facts\r\n  * Keywords\r\n  * Dates\r\n  * Schemes / Reports\r\n\r\n> [!TIP]\r\n> Consistent color coding improves memory retention.\r\n\r\n---\r\n\r\n## 5. Keep It Clean & Readable\r\n\r\n* Maintain neat handwriting.\r\n* Leave proper spacing between sections.\r\n* Avoid clutter.\r\n\r\n> [!WARNING]\r\n> Messy notes can make revision stressful and ineffective.\r\n\r\n---\r\n\r\n## Digital Organization\r\n\r\nAlong with handwritten notes, maintain a **separate digital version** for better accessibility and quick search.\r\n\r\n### 📁 Folder Structure\r\n\r\n* Create a main folder by year:\r\n\r\n  * `2025/`\r\n  * `2026/`\r\n\r\n* Inside each year, organize by months:\r\n\r\n  * `01_January/`\r\n  * `02_February/`\r\n  * `03_March/` … and so on\r\n\r\n> [!TIP]\r\n> This structure keeps everything chronological and easy to navigate.\r\n\r\n---\r\n\r\n### 🔍 Easy Search & Access\r\n\r\n* Digital notes make **searching extremely fast** compared to physical notebooks.\r\n* You can quickly find:\r\n\r\n  * Topics\r\n  * Keywords\r\n  * Dates\r\n\r\n> [!NOTE]\r\n> This becomes very useful during revision when time is limited.\r\n\r\n---\r\n\r\n### 🔗 Maintain a `Links.txt` File\r\n\r\n* Keep a separate file named: `Links.txt`\r\n\r\n* Store:\r\n\r\n  * Important article links\r\n  * Sources\r\n  * References\r\n\r\n* When needed:\r\n\r\n  * Just search the keyword\r\n  * Open the link instantly\r\n\r\n> [!TIP]\r\n> This saves time instead of repeatedly searching the same resources online.\r\n\r\n---\r\n\r\n### ⚠️ Keep It Optional & Flexible\r\n\r\n* This system is **optional**\r\n* Use it only if it actually helps your workflow\r\n\r\n> [!WARNING]\r\n> Over-organizing can waste time, focus on usability, not perfection.",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Current Events",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-3547897ae14596",
@@ -384,7 +511,10 @@ export const upscCatalogue = {
         "https://currentaffairs.adda247.com/monthly-oneliner-questions-pdf/",
         "https://currentaffairs.adda247.com/monthly-current-affairs-pdf/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Current Events",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-6ed3c35a90a901",
@@ -399,7 +529,15 @@ export const upscCatalogue = {
         "https://triumphias.com/blog/act-east-policy/?amp=1",
         "https://m.toppersnotes.com/current-affairs/blog/projects-under-the-indias-act-east-policy-nmDE"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "International relations"
+      ],
+      "appscTopics": [
+        "t-1-9",
+        "t-6-2"
+      ]
     },
     {
       "id": "upsc-85217a825dbc73",
@@ -416,7 +554,16 @@ export const upscCatalogue = {
         "https://www.firstpost.com/explainers/us-attack-venezuela-president-nicolas-maduro-captured-donald-trump-caracas-13965137.html",
         "https://www.indiatoday.in/world/story/why-us-attacked-venezuela-nicolas-maduro-captured-oil-drugs-allegations-trump-strikes-explainer-2846075-2026-01-03"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Current Events",
+      "upscTopics": [
+        "International events",
+        "Energy resources"
+      ],
+      "appscTopics": [
+        "t-6-2",
+        "t-3-5"
+      ]
     },
     {
       "id": "upsc-1ab0b00519e1da",
@@ -433,7 +580,16 @@ export const upscCatalogue = {
         "https://www.reuters.com/business/energy/venezuelan-oil-industry-worlds-largest-reserves-decaying-infrastructure-2026-01-03/",
         "https://en.wikipedia.org/wiki/OPEC"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Current Events",
+      "upscTopics": [
+        "International events",
+        "Energy resources"
+      ],
+      "appscTopics": [
+        "t-6-2",
+        "t-3-5"
+      ]
     },
     {
       "id": "upsc-0ed152717347e1",
@@ -449,7 +605,15 @@ export const upscCatalogue = {
         "https://testbook.com/ias-preparation/india-eu-fta",
         "https://vajiramandravi.com/current-affairs/india-eu-free-trade-agreement/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "International trade relations"
+      ],
+      "appscTopics": [
+        "t-1-9",
+        "t-6-2"
+      ]
     },
     {
       "id": "upsc-72e1030e5eeccd",
@@ -468,7 +632,14 @@ export const upscCatalogue = {
         "https://www.jagranjosh.com/general-knowledge/gk-quiz-on-union-budget-2026-1820006045-1",
         "https://www.oliveboard.in/blog/union-budget-2026-quiz/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Economy & Planning",
+      "upscTopics": [
+        "Public finance & taxation"
+      ],
+      "appscTopics": [
+        "t-2-2"
+      ]
     },
     {
       "id": "upsc-28351d114bdf7f",
@@ -482,7 +653,15 @@ export const upscCatalogue = {
       "links": [
         "https://vajiramandravi.com/current-affairs/what-is-bhashini-platform/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Science & Technology",
+      "upscTopics": [
+        "Information technology & AI"
+      ],
+      "appscTopics": [
+        "t-5-5",
+        "t-6-3"
+      ]
     },
     {
       "id": "upsc-6c70767505d646",
@@ -500,7 +679,14 @@ export const upscCatalogue = {
         "https://visionias.in/blog/current-affairs/us-tariff-on-india-catalyst-for-economic-self-reliance-and-multipolar-trade",
         "https://www.drishtiias.com/daily-updates/daily-news-analysis/us-tariff-on-indian-imports"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Economy & Planning",
+      "upscTopics": [
+        "International trade"
+      ],
+      "appscTopics": [
+        "t-6-2"
+      ]
     },
     {
       "id": "upsc-da7a16e4d6452f",
@@ -519,7 +705,14 @@ export const upscCatalogue = {
         "https://cdn.testbook.com/1745585268681-Pahalgam%20attack.pdf/1745585271.pdf",
         "https://vajiramandravi.com/upsc-exam/pahalgam-terror-attack-2025/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Current Events",
+      "upscTopics": [
+        "National events"
+      ],
+      "appscTopics": [
+        "t-6-1"
+      ]
     },
     {
       "id": "upsc-be3b81bed303b3",
@@ -534,7 +727,14 @@ export const upscCatalogue = {
         "https://www.sanskritiias.com/current-affairs/ahmedabad-plane-tragedy",
         "https://www.studyiq.com/articles/ahmedabad-plane-crash/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Current Events",
+      "upscTopics": [
+        "National events"
+      ],
+      "appscTopics": [
+        "t-6-1"
+      ]
     },
     {
       "id": "upsc-7d4ed16651f9d8",
@@ -549,7 +749,14 @@ export const upscCatalogue = {
         "https://www.cooperation.gov.in/sites/default/files/2025-07/NCP%28Eng%29_24Jul2025_Final.pdf",
         "https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/26-07-2025/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Current Events",
+      "upscTopics": [
+        "National events"
+      ],
+      "appscTopics": [
+        "t-6-1"
+      ]
     },
     {
       "id": "upsc-7918b9f2d59122",
@@ -563,7 +770,14 @@ export const upscCatalogue = {
       "links": [
         "https://www.chessbase.in/news/Divya-Deshmukh-becomes-fourth-Indian-female-to-earn-the-Grandmaster-title"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Current Events",
+      "upscTopics": [
+        "International events"
+      ],
+      "appscTopics": [
+        "t-6-2"
+      ]
     },
     {
       "id": "upsc-5c3c5157eff3dc",
@@ -577,7 +791,12 @@ export const upscCatalogue = {
       "links": [
         "https://visionias.in/blog/current-affairs/seven-natural-sites-from-india-added-to-unescos-tentative-world-heritage-list"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Cultural heritage"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-cbdf311288c5c5",
@@ -589,7 +808,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Current_Affairs/Important_Current_Affairs/8-UNESCO_Tentative_Sites/UNESCO_Sites.txt",
       "text": "1. Deccan Traps – Panchgani & Mahabaleshwar (Maharashtra)\r\n   🟤 Vast volcanic basalt rock formations showcasing Earth’s fiery past.\r\n\r\n2. St. Mary’s Island (Karnataka)\r\n   🔵 Unique hexagonal basalt columns surrounded by the Arabian Sea.\r\n\r\n3. Meghalayan Age Caves (Meghalaya)\r\n   🟣 Ancient caves formed over millions of years, mysterious and deep.\r\n\r\n4. Naga Hill Ophiolite (Nagaland)\r\n   🟢 Geological marvel of rocks from oceanic crust, amidst green hills.\r\n\r\n5. Erra Matti Dibbalu (Andhra Pradesh)\r\n   🔴 Famous red sand dunes carved by wind and water over ages.\r\n\r\n6. Tirumala Hills (Andhra Pradesh)\r\n   🟠 Sacred hills known for spirituality and scenic landscapes.\r\n\r\n7. Varkala Cliffs (Kerala)\r\n   🌸 Stunning coastal cliffs along the Arabian Sea, unique in India.",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Cultural heritage"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-8e4ed52cbdcb7d",
@@ -606,7 +830,15 @@ export const upscCatalogue = {
         "https://framerusercontent.com/images/5s13KAuNzqRPCaGGwAVkoJX6yU.webp?scale-down-to=2048&width=2880&height=1200",
         "https://pmfias.b-cdn.net/wp-content/uploads/2025/12/a-screen-shot-of-a-chartai-generated-content-may-be-incorrect.png"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Economy & Planning",
+      "upscTopics": [
+        "Rural development schemes"
+      ],
+      "appscTopics": [
+        "t-2-5",
+        "t-6-3"
+      ]
     },
     {
       "id": "upsc-c914e10e92e07a",
@@ -632,7 +864,10 @@ export const upscCatalogue = {
         "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2219065&reg=3&lang=2",
         "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2221455&reg=3&lang=1"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Current Events",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-f86e507b00ab0d",
@@ -644,7 +879,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Current_Affairs/Important_Current_Affairs/Important_Current_Affairs_Handwritten_Index.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Current Events",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-39f629155a6734",
@@ -656,7 +894,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Current_Affairs/Important_Current_Affairs/Important_Current_Affairs_Handwritten_Notes.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Current Events",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-7d5a334a2bec85",
@@ -672,7 +913,10 @@ export const upscCatalogue = {
         "https://en.wikipedia.org/wiki/Bhashini",
         "https://github.com/madhurimarawat/UPSC-Notes-Resources/Current_Affairs/Important_Current_Affairs/Dates_Description_Links.txt"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Current Events",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-1d8d6bea66645b",
@@ -686,7 +930,10 @@ export const upscCatalogue = {
       "links": [
         "https://www.rojgaarniyojan.in/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Current Events",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-bc4d0bd72d98c1",
@@ -705,7 +952,10 @@ export const upscCatalogue = {
         "https://vajiramandravi.com/upsc-exam/upsc-exam-pattern/",
         "https://vajiramandravi.com/upsc-syllabus/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-da34fbb9d7a3e3",
@@ -720,7 +970,12 @@ export const upscCatalogue = {
         "https://www.indiabudget.gov.in/economicsurvey/doc/Infographics%20English.pdf",
         "https://www.drishtiias.com/gist-of-economic-survey/gist-of-economic-survey-2024-25/gist-of-economic-survey-2024-25-1"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Economy & Planning",
+      "upscTopics": [
+        "Indian economic survey"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-76dda91d73171c",
@@ -735,7 +990,10 @@ export const upscCatalogue = {
         "https://www.drishtiias.com/images/uploads/1603359695_Economy%20Quick%20Book-1.pdf",
         "https://freeupsc.org/indian-economy-by-sanjeev-verma-pdf/amp/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Economy & Planning",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-84a251bdbdb04d",
@@ -752,7 +1010,14 @@ export const upscCatalogue = {
         "https://www.drishtiias.com/daily-updates/daily-news-analysis/union-budget-2025-26",
         "https://prsindia.org/files/budget/budget_state/bihar/2025/Bihar_Budget_Analysis_2025-26.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Economy & Planning",
+      "upscTopics": [
+        "Public finance & taxation"
+      ],
+      "appscTopics": [
+        "t-2-2"
+      ]
     },
     {
       "id": "upsc-7f00ba3d01e137",
@@ -766,7 +1031,10 @@ export const upscCatalogue = {
       "links": [
         "https://testbook.com/pdf-viewer?u=https:%2F%2Fcdn.testbook.com%2F1745220197891-Environment%20Final%20Notes.pdf%2F1745220199.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Environment & Ecology",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-d9cb9d1dfb7b08",
@@ -778,7 +1046,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Essay/Notes/Essay_Handwritten_Index.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Essay",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-a1231d5c996d73",
@@ -790,7 +1061,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Essay/Notes/Essay_Handwritten_Notes.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Essay",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-63b6d41aecebb5",
@@ -806,7 +1080,10 @@ export const upscCatalogue = {
         "https://byjus.com/free-ias-prep/useful-quotes-for-upsc-mains-exam-gs-and-essay-papers/",
         "https://pwonlyias.com/quotes-for-upsc-mains-2024/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Essay",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-b6a20ef7d9e6fe",
@@ -820,7 +1097,10 @@ export const upscCatalogue = {
       "links": [
         "https://www.scribd.com/document/921290709/Toppers-Diagrams-for-Ethics-GS-IV"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Ethics",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-84a380f51c7bba",
@@ -832,7 +1112,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Exam_Pattern_and_Guidelines/Do_Don%27ts_Answer_Writing.md",
       "text": "# 🧠 **UPSC Civil Services Cheat Sheet** (All Papers)\r\n\r\n*Smart Summary for Prelims, Mains (GS I–IV), Essay, Ethics & More*\r\n\r\n---\r\n\r\n## 📝 **1. Prelims Cheat Sheet**\r\n\r\n**👉 Objective Exam | 2 Papers | Qualifying & Screening only**\r\n\r\n### 📘 **Paper I: General Studies (200 marks)**\r\n\r\n🧾 Subjects:\r\n\r\n* 🇮🇳 Polity – Constitution, governance, Panchayats\r\n* 🌍 Geography – Indian + World\r\n* 📜 History – Ancient, Medieval, Modern, Freedom struggle\r\n* 💰 Economy – Basic concepts, Budget, RBI\r\n* 🌱 Environment – Biodiversity, Acts, Reports\r\n* 🧪 Science & Tech – Current developments, Basics\r\n* 🗞️ Current Affairs – Last 12–18 months\r\n\r\n✅ Tips:\r\n\r\n* Revise **NCERTs (6–12)** 📚\r\n* Focus on **static + current mix** 🔄\r\n* Eliminate options smartly ❌✅\r\n\r\n---\r\n\r\n### 📗 **Paper II: CSAT (200 marks)**\r\n\r\n⏳ Qualifying only (33% or 66 marks)\r\n\r\n💡 Areas:\r\n\r\n* 🧮 Maths – Class X level (Ratio, Percentage, Geometry)\r\n* 🧠 Reasoning – Logical puzzles, directions, coding\r\n* 📖 Comprehension – Reading passages\r\n* ✍️ Decision-making – Situational judgment\r\n\r\n✅ Tips:\r\n\r\n* Practice with **previous year papers**\r\n* Focus on **accuracy & time** ⏱️\r\n\r\n---\r\n\r\n## 📚 **2. Mains Cheat Sheet**\r\n\r\n**👉 Written Descriptive | 9 Papers | 1750 marks total**\r\n\r\n---\r\n\r\n### 🧾 **Essay Paper (250 marks)**\r\n\r\n* 2 essays x 125 marks\r\n* Topics: Philosophical, Governance, Economy, Ethics\r\n* Use **multi-dimensional** analysis (social, political, ethical)\r\n* Structure:\r\n  🔹 Introduction\r\n  🔹 Body (with headings)\r\n  🔹 Conclusion (forward-looking)\r\n\r\n✅ Include: Real examples, quotes, case studies 🧠\r\n❌ Avoid: One-sided views, jargon, random facts\r\n\r\n---\r\n\r\n### 📕 **GS Paper I – Indian Heritage & Culture, History, Society (250 marks)**\r\n\r\n📜 History:\r\n\r\n* Art & Architecture\r\n* Freedom struggle leaders, movements\r\n* Post-independence developments\r\n\r\n🌍 Geography:\r\n\r\n* Physical (climate, rivers, disasters)\r\n* Economic & human geography\r\n* Maps + locations 🗺️\r\n\r\n👥 Society:\r\n\r\n* Diversity of India, population, women, urbanization\r\n* Issues: caste, secularism, communalism\r\n\r\n✅ Use: Diagrams, maps, and case studies\r\n✅ Source: NCERTs + Nitin Singhania + Geography by G C Leong\r\n\r\n---\r\n\r\n### 📘 **GS Paper II – Polity, Governance, IR (250 marks)**\r\n\r\n📜 Constitution:\r\n\r\n* Features, amendments, FRs, DPSPs, federalism\r\n* Judiciary, Parliament, Election Commission\r\n\r\n🏛️ Governance:\r\n\r\n* RTI, NGOs, SHGs, e-governance\r\n* Welfare schemes, health, education\r\n\r\n🌐 International Relations:\r\n\r\n* India’s neighbours\r\n* International groupings (BRICS, SCO, QUAD)\r\n* Foreign policy shifts\r\n\r\n✅ Use: SC judgments, committee reports, current examples\r\n✅ Source: Laxmikanth + ARC reports + MEA site\r\n\r\n---\r\n\r\n### 📗 **GS Paper III – Economy, Environment, S\\&T, Internal Security (250 marks)**\r\n\r\n💰 Economy:\r\n\r\n* Budget, Banking, Fiscal policy, Agriculture\r\n* Inclusive growth, Infrastructure, MSMEs\r\n\r\n🌱 Environment:\r\n\r\n* Acts, EIA, pollution, climate change treaties\r\n* Biodiversity, wildlife conservation\r\n\r\n🧪 Science & Tech:\r\n\r\n* Space, Biotech, AI, Quantum computing\r\n* Health tech (COVID vaccines, genomics)\r\n\r\n🔐 Internal Security:\r\n\r\n* Terrorism, cybercrime, Naxalism\r\n* Role of agencies (NIA, IB, NSG)\r\n\r\n✅ Use: Data, government schemes, diagrams\r\n✅ Source: Economic Survey, PIB, Down To Earth, Ramesh Singh\r\n\r\n---\r\n\r\n### 📙 **GS Paper IV – Ethics, Integrity, Aptitude (250 marks)**\r\n\r\n🧠 Ethics Theory:\r\n\r\n* Thinkers: Gandhi, Aristotle, Kant, Rawls\r\n* Moral philosophy: deontology, utilitarianism\r\n* Values: integrity, compassion, objectivity, empathy\r\n\r\n🧰 Applied Ethics:\r\n\r\n* Case studies (decision-making, conflict of interest)\r\n* Civil service values\r\n* Attitude, emotional intelligence\r\n\r\n📦 Tools:\r\n\r\n* Quotes 📜 (“The best way to find yourself is to lose yourself in the service of others.” – Gandhi)\r\n* Ethical dilemmas\r\n* Diagrams like stakeholder mapping 🧭\r\n\r\n✅ Use: Structure: Intro → Ethical issue → Analysis → Decision → Justification\r\n✅ Source: Lexicon, ARC reports, previous year papers\r\n\r\n---\r\n\r\n## 🧑‍⚖️ **3. Optional Subject (250 x 2 = 500 marks)**\r\n\r\n🎯 Choose based on:\r\n\r\n* Interest\r\n* Background\r\n* Availability of material\r\n* Overlap with GS\r\n\r\nPopular optionals: PSIR, Anthropology, Sociology, Geography, History\r\n\r\n✅ Strategy:\r\n\r\n* Master syllabus\r\n* Use toppers’ notes & past papers\r\n* Write answers with thinkers/theories/examples\r\n\r\n---\r\n\r\n## 🗣️ **4. Personality Test / Interview (275 marks)**\r\n\r\n🧑‍💼 What matters:\r\n\r\n* Clarity of thought\r\n* Honesty & integrity\r\n* Understanding of DAF (Detailed Application Form)\r\n* Opinion on current issues\r\n\r\n💡 Be prepared for:\r\n\r\n* Current affairs\r\n* Background questions (education, hobbies)\r\n* Situational questions (ethical, administrative)\r\n\r\n✅ Read: Newspaper daily (The Hindu/Indian Express)\r\n✅ Mock interviews with honest feedback\r\n\r\n---\r\n\r\n## 🧾 **5. Smart Study Tools & Tips**\r\n\r\n### 📅 Weekly Routine:\r\n\r\n* 3 days for GS\r\n* 2 days for optional\r\n* 1 day for essay, ethics, answer writing\r\n* 1 day for revision + test\r\n\r\n### 📌 Must-Use Sources:\r\n\r\n* 📚 NCERTs (6–12)\r\n* 📕 Laxmikanth (Polity)\r\n* 🧪 Science – Current affairs-based\r\n* 🌿 Shankar IAS (Environment)\r\n* 📉 Economic Survey + Budget Highlights\r\n* 🗞️ Newspapers + PIB + Yojana/Kurukshetra\r\n* 📑 UPSC previous year question papers\r\n\r\n---\r\n\r\n## 🔍 Bonus: How to Practice Answer Writing ✍️\r\n\r\n* Use **intro-body-conclusion** (IBC) format\r\n* Add headings and subheadings 🔤\r\n* Use data, reports, SC cases, diagrams\r\n* Practice daily (even 1 answer = progress)\r\n* Get feedback from peers/mentors\r\n\r\n---\r\n\r\n## 📊 Smart Techniques to Remember\r\n\r\n| Tool           | Use For                      | Example                              |\r\n| -------------- | ---------------------------- | ------------------------------------ |\r\n| FLOWCHART      | Ethics, Governance           | Policy Implementation Cycle          |\r\n| MAP            | Geography, IR                | India’s neighbours, oceans           |\r\n| SCHEMES + DATA | Economy, Society, Governance | MGNREGA, Ujjwala, SDG Goals          |\r\n| QUOTES         | Essay, Ethics                | “Justice delayed is justice denied.” |\r\n| CASE STUDY     | GS II, III, IV               | Kerala floods, SEWA, AMUL            |\r\n\r\n---\r\n\r\n## ✨ Final Mantras\r\n\r\n> “UPSC is not a test of intelligence. It’s a test of patience, persistence, and purpose.”\r\n\r\n> “Plan like a warrior. Prepare like a monk. Perform like a phoenix.”\r\n\r\n> “If you fail to prepare, be prepared to fail.”",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-aa18518ba739ad",
@@ -851,7 +1134,10 @@ export const upscCatalogue = {
         "https://www.drishtiias.com/mains/mains-strategy/strategy-answer-writing-for-cse-mains",
         "https://anujjindal.in/upsc-cse-exam-pattern/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-b199dd1a1c27ea",
@@ -865,7 +1151,10 @@ export const upscCatalogue = {
       "links": [
         "https://bestcurrentaffairs.com/wp-content/uploads/2022/07/OMR-Sheet.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-07622a91461d8f",
@@ -877,7 +1166,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Exam_Pattern_and_Guidelines/Optional_Anthropology_Answer_Writing.md",
       "text": "## 🧑‍⚖️ **Optional Subject (250 x 2 = 500 marks)**\r\n\r\n🎯 **Choose based on**:\r\n\r\n* Interest\r\n* Background\r\n* Availability of material\r\n* Overlap with GS\r\n\r\n**Popular Optionals**: PSIR, Anthropology, Sociology, Geography, History\r\n\r\n---\r\n\r\n### 🔬 **Optional: Anthropology 🧬**\r\n\r\nAnthropology is scientific, structured, and has concise syllabus with good overlap in Ethics, Essay & Society portions of GS.\r\n\r\n---\r\n\r\n### ✅ **Anthropology Answer Writing Strategy**\r\n\r\n**1. Stick to the Syllabus Keywords 🧾**\r\nUPSC asks direct questions. Use keywords like:\r\n\r\n* Ethnocentrism, Cultural Relativism, Neo-evolutionism, Functionalism, Race, Ethnography\r\n\r\n**2. Use Thinkers, Theories, and Keywords 👨‍🏫**\r\n\r\n* Name-drop essential anthropologists like:\r\n\r\n  * **E.B. Tylor**, **Claude Lévi-Strauss**, **Radcliffe-Brown**, **Malinowski**, **Julian Steward**, **Leslie White**\r\n* Mention their **school of thought** (e.g., functionalism, structuralism)\r\n* Always write **“According to...”** to make answers authoritative\r\n\r\n**3. Structure Your Answers Well 📦**\r\nUse **Intro – Body – Conclusion (IBC)** format in every answer:\r\n\r\n🟨 **Introduction**:\r\n\r\n* Define the key concept or quote the definition of an anthropologist.\r\n\r\n🟩 **Body**:\r\n\r\n* Explain the theory/concept.\r\n* Add **diagrams**, **flowcharts**, and **examples** (tribal examples for Paper II).\r\n* Link with **real-life fieldwork, Indian tribes, case studies**.\r\n\r\n🟥 **Conclusion**:\r\n\r\n* Add relevance to contemporary society or UPSC values (e.g., inclusive development, sustainable tribal policy)\r\n\r\n**4. Use Diagrams & Flowcharts 🧠**\r\n\r\n* Evolution of hominids 🦴\r\n* Kinship diagrams 👪\r\n* Tool typology 🛠️\r\n* Tribe location maps 🗺️\r\n  They improve visual appeal and fetch marks.\r\n\r\n**5. Indian Anthropology Needs Real Examples 🇮🇳**\r\n\r\n* Use real case studies of tribes:\r\n\r\n  * Santhals, Gonds, Bhils, Todas, Jarawas\r\n* Mention policies: **PESA, Forest Rights Act, Van Dhan Yojana**\r\n\r\n**6. Keep a Comparative Lens 🔍**\r\n\r\n* Compare tribes across regions (North-East vs Central India)\r\n* Contrast **Primitive traits vs Modern adaptation**\r\n\r\n**7. Focus on Anthropology + Current Affairs 🔄**\r\nLink theory to:\r\n\r\n* **COVID-19 and tribal resilience**\r\n* **AI & Evolutionary Biology**\r\n* **Genetic research on race/human origins**\r\n\r\n---\r\n\r\n### 🧾 Additional Resources for Anthropology\r\n\r\n| 📚 Material                         | 🔍 Use For                               |\r\n| ---------------------------------- | --------------------------------------- |\r\n| **Nitin Sangwan Notes**            | Basics & clarity                        |\r\n| **Vijayam Notes**                  | Indian Anthropology, concise            |\r\n| **IGNOU PDFs (BA/MA)**             | Evolution, Culture, Social Anthropology |\r\n| **Toppers’ Notes** | Structure and flow                      |\r\n| **Papers I & II PYQs**             | Pattern recognition & practice          |\r\n\r\n---\r\n\r\n### ✍️ Practice Tips for Anthro Answer Writing\r\n\r\n- ✅ Daily 1–2 questions\r\n- ✅ Practice diagrams from memory\r\n- ✅ Time-bound practice (15–20 minutes per 10-marker)\r\n- ✅ Self-evaluate with PYQ comparison\r\n\r\n---\r\n\r\n> 🧠 **Mantra for Anthropology**:\r\n> \r\n> **“Explain like a teacher, think like a scholar, present like an artist.”**",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-7b96bbd065f2d1",
@@ -892,7 +1184,14 @@ export const upscCatalogue = {
         "https://www.leadthecompetition.in/GK/types-of-farming.html",
         "https://pwonlyias.com/ncert-notes/types-of-agriculture/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Agriculture"
+      ],
+      "appscTopics": [
+        "t-3-4"
+      ]
     },
     {
       "id": "upsc-b67507bb5a1295",
@@ -904,7 +1203,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Geography/Agriculture_Other_Cultures/types_of_culture.txt",
       "text": "Types of Culture with Description, Techniques:\n\nAgriculture 🌾\nDescription: Cultivation of crops and rearing of animals for food and resources.\nExample Techniques: Crop rotation, organic farming\n\nHorticulture 🌱\nDescription: Growing fruits, vegetables, flowers, and ornamental plants.\nExample Techniques: Greenhouse farming, drip irrigation\n\nAquaculture 🐟\nDescription: Breeding and rearing aquatic organisms in water bodies.\nExample Techniques: Fish farming, shrimp culture\n\nSericulture 🐛\nDescription: Production of silk by rearing silkworms.\nExample Techniques: Mulberry cultivation, cocoon processing\n\nApiculture 🍯\nDescription: Raising bees for honey and wax production.\nExample Techniques: Beehive farming, pollen trap method\n\nViticulture 🍇\nDescription: Cultivation of grapes for wine and food.\nExample Techniques: Trellis system, canopy management\n\nFloriculture 🌸\nDescription: Cultivation of flowering and ornamental plants.\nExample Techniques: Tissue culture, hydroponics\n\nSilviculture 🌳\nDescription: Growing and managing forest trees.\nExample Techniques: Afforestation, selective cutting\n\nPisciculture 🐠\nDescription: Breeding and rearing fish in controlled environments.\nExample Techniques: Pond preparation, composite fish culture\n\nMushroom Culture 🍄\nDescription: Growing edible and medicinal mushrooms.\nExample Techniques: Tray method, bag method",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Agriculture"
+      ],
+      "appscTopics": [
+        "t-3-4"
+      ]
     },
     {
       "id": "upsc-92be1141004829",
@@ -928,7 +1234,10 @@ export const upscCatalogue = {
         "https://www.mapsofindia.com/maps/india/zonal-map.html",
         "https://www.slideshare.net/slideshow/zonal-map-of-india/45440047"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-535cc1fd7ac917",
@@ -940,7 +1249,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Geography/Biotechnology/Biotechnology_Types.docx",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Science & Technology",
+      "upscTopics": [
+        "Biotechnology"
+      ],
+      "appscTopics": [
+        "t-5-3"
+      ]
     },
     {
       "id": "upsc-3fcf26207ad43c",
@@ -952,7 +1268,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Geography/Biotechnology/Biotechnology_Types.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Science & Technology",
+      "upscTopics": [
+        "Biotechnology"
+      ],
+      "appscTopics": [
+        "t-5-3"
+      ]
     },
     {
       "id": "upsc-c918a660ef428b",
@@ -970,7 +1293,14 @@ export const upscCatalogue = {
         "https://vajiramandravi.com/upsc-exam/biotechnology/",
         "https://pwonlyias.com/upsc-notes/biotechnology/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Science & Technology",
+      "upscTopics": [
+        "Biotechnology"
+      ],
+      "appscTopics": [
+        "t-5-3"
+      ]
     },
     {
       "id": "upsc-da767b26d09e20",
@@ -987,7 +1317,12 @@ export const upscCatalogue = {
         "https://cracku.in/blog/nicknames-of-indian-states-and-cities-pdf/",
         "https://en.m.wikipedia.org/wiki/List_of_city_and_town_nicknames_in_India"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Cities and places"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-041753a8012913",
@@ -1003,7 +1338,12 @@ export const upscCatalogue = {
         "https://in.pinterest.com/pin/349451252311721099/",
         "https://cracku.in/blog/tricks-to-remember-countries-capitals/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "World geography"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-0eb80de64484b4",
@@ -1018,7 +1358,14 @@ export const upscCatalogue = {
         "https://lotusarise.com/western-ghats-and-eastern-ghats-upsc/",
         "https://byjus.com/free-ias-prep/western-ghats/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Indian physical geography"
+      ],
+      "appscTopics": [
+        "t-3-2"
+      ]
     },
     {
       "id": "upsc-611c085918271b",
@@ -1030,7 +1377,15 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Geography/Fossil_Fuels/Coal_Petroleum_Natural_Gas_Flowchart.md",
       "text": "# 🌍 Formation of Fossil Fuels – Flow Charts\r\n\r\n---\r\n\r\n## ⚫ 1. Formation of **Coal** (from land plants)\r\n\r\n```\r\n🌿 Dense Forests & Swampy Areas\r\n        ↓\r\n🌱 Dead Plants fall into Swamps\r\n        ↓\r\n💧 Buried under Water & Mud\r\n        ↓\r\n❌ No Oxygen (Anaerobic conditions)\r\n        ↓\r\n⏳ Millions of Years\r\n   (High Pressure + High Temperature)\r\n        ↓\r\n🌫️ Peat\r\n        ↓\r\n🪨 Lignite\r\n        ↓\r\n⚫ Bituminous Coal\r\n        ↓\r\n💎 Anthracite Coal (Best Quality)\r\n```\r\n\r\n### ✏️ Short Explanation (Coal)\r\n\r\nCoal is formed from **dead land plants** buried in **swamps**. Due to **absence of oxygen**, bacteria cannot fully decompose them. Over **millions of years**, **heat and pressure** convert plant remains into different forms of coal.\r\n\r\n---\r\n\r\n## 🛢️ Formation of **Petroleum (Crude Oil)** – Scientific Flow Chart\r\n\r\n```\r\n🌊 Shallow Seas & Ocean Basins\r\n        ↓\r\n🦠 Dead Marine Micro-organisms\r\n   (Phytoplankton + Zooplankton)\r\n        ↓\r\n⬇️ Deposition on Sea Floor\r\n        ↓\r\n🪨 Burial under Sediments\r\n   (Sand, Clay, Silt)\r\n        ↓\r\n❌ Absence of Oxygen\r\n   (Anaerobic Conditions)\r\n        ↓\r\n🦠 Anaerobic Bacterial Action\r\n        ↓\r\n🧪 Formation of Kerogen\r\n   (Complex Organic Matter)\r\n        ↓\r\n🌡️ Temperature: 60°C – 120°C\r\n   + High Pressure\r\n   (Oil Window)\r\n        ↓\r\n🛢️ Petroleum (Crude Oil)\r\n        ↓\r\n🪨 Migration & Trapping\r\n   (Porous Rocks + Cap Rock)\r\n```\r\n\r\n---\r\n\r\n### ✏️ Scientific Explanation – Petroleum (Crude Oil)\r\n\r\nPetroleum is formed from **dead marine organisms such as phytoplankton and zooplankton** that settled on the sea floor. These remains were buried under sediments in **anaerobic conditions**. Due to **bacterial action**, organic matter first formed **kerogen**. Under **moderate temperature (60–120°C)** and high pressure for **millions of years**, kerogen was converted into **petroleum (crude oil)** and trapped in **sedimentary rocks**.\r\n\r\n---\r\n\r\n### 🛢️ Petroleum Products (Very Important)\r\n\r\nPetroleum is refined by **fractional distillation** into:\r\n\r\n* 🛢️ Petrol\r\n* 🚗 Diesel\r\n* ✈️ Kerosene\r\n* 🔥 LPG\r\n* 🧴 Lubricating oil\r\n* 🛣️ Bitumen / Asphalt\r\n\r\n---\r\n\r\n## 🔥 Formation of **Natural Gas** – Advanced Scientific Flow Chart\r\n\r\n```\r\n🌊 Marine Phytoplankton & Zooplankton\r\n        ↓\r\n⬇️ Burial under Thick Sediments\r\n        ↓\r\n❌ Anaerobic Environment\r\n        ↓\r\n🦠 Anaerobic Bacteria\r\n        ↓\r\n🧪 Kerogen Formation\r\n        ↓\r\n🌡️ Temperature: 120°C – 200°C\r\n   + Very High Pressure\r\n   (Gas Window)\r\n        ↓\r\n🔥 Natural Gas (Methane-rich)\r\n        ↓\r\n📍 Accumulates above Petroleum\r\n   (Lightest Fossil Fuel)\r\n```\r\n\r\n---\r\n\r\n### ✏️ Scientific Explanation – Natural Gas\r\n\r\nNatural gas is formed from the **same marine organisms** as petroleum but at **higher temperatures**. After kerogen formation, when temperature rises to **120–200°C**, kerogen breaks down further to form **natural gas**, mainly **methane (CH₄)**. Because it is **lighter**, natural gas accumulates **above petroleum** in rock layers.\r\n\r\n---\r\n\r\n## 🔥 Types of Natural Gas\r\n\r\n### 1️⃣ **CNG – Compressed Natural Gas**\r\n\r\n* Mostly **methane**\r\n* Used as **vehicle fuel**\r\n* Cleanest fossil fuel\r\n\r\n### 2️⃣ **PNG – Piped Natural Gas**\r\n\r\n* Supplied directly to homes\r\n* Used for **cooking**\r\n\r\n### 3️⃣ **LPG – Liquefied Petroleum Gas**\r\n\r\n* ❗ Not natural gas\r\n* Obtained from **petroleum refining**\r\n* Contains **propane & butane**\r\n\r\n---\r\n\r\n## 🧠 One-Look Memory Table\r\n\r\n| Fuel        | Source          | Temperature | Special Term |\r\n| ----------- | --------------- | ----------- | ------------ |\r\n| Coal        | Land plants     | —           | Peat → Coal  |\r\n| Petroleum   | Marine plankton | 60–120°C    | Kerogen      |\r\n| Natural Gas | Marine plankton | 120–200°C   | Gas window   |\r\n\r\n---\r\n\r\n## ✅ Summary\r\n\r\n> Petroleum and natural gas are formed from dead marine organisms such as phytoplankton and zooplankton. Due to anaerobic conditions, bacterial action forms kerogen, which on heating at 60–120°C forms petroleum and at 120–200°C forms natural gas.\r\n\r\n---\r\n\r\n## 🔽 Sequence of Fossil Fuels (Top to Bottom in Earth)\r\n\r\nWhen fossil fuels are found **underground**, they occur in **layers** based on **density**.\r\n\r\n### 🧱 Underground Arrangement (Top → Bottom)\r\n\r\n```\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n🟡 Natural Gas\r\n(lightest – floats at the top)\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n🟤 Petroleum (Crude Oil)\r\n(medium density)\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n⚫ Coal\r\n(heaviest – found deepest)\r\n━━━━━━━━━━━━━━━━━━━━━━\r\n```\r\n\r\n---\r\n\r\n## 🧠 Easy Logic to Remember\r\n\r\n* **Natural Gas** → lightest → **TOP**\r\n* **Petroleum** → liquid → **MIDDLE**\r\n* **Coal** → solid & heavy → **BOTTOM**\r\n\r\n👉 **L–L–H rule**\r\n**Light → Liquid → Heavy**\r\n\r\n---\r\n\r\n## 📌 Summary\r\n\r\n> **In underground deposits, natural gas is found at the top, petroleum below it, and coal at the deepest level.**",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Energy resources"
+      ],
+      "appscTopics": [
+        "t-3-5",
+        "t-5-6"
+      ]
     },
     {
       "id": "upsc-b48537d8b86df9",
@@ -1042,7 +1397,15 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Geography/Fossil_Fuels/Deep_Time_Energy_Crisis.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Energy resources"
+      ],
+      "appscTopics": [
+        "t-3-5",
+        "t-5-6"
+      ]
     },
     {
       "id": "upsc-b6ed566a219055",
@@ -1054,7 +1417,15 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Geography/Fossil_Fuels/Fossil_Fuel_Formation_Types.png",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Energy resources"
+      ],
+      "appscTopics": [
+        "t-3-5",
+        "t-5-6"
+      ]
     },
     {
       "id": "upsc-1162c3dc1dc973",
@@ -1068,7 +1439,15 @@ export const upscCatalogue = {
       "links": [
         "https://en.wikipedia.org/wiki/List_of_countries_by_proven_oil_reserves"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Energy resources"
+      ],
+      "appscTopics": [
+        "t-3-5",
+        "t-5-6"
+      ]
     },
     {
       "id": "upsc-9d8e26f270955a",
@@ -1080,7 +1459,15 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Geography/Fossil_Fuels/Life_Legacy_Fossil_Fuels_Mind_Maps.png",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Energy resources"
+      ],
+      "appscTopics": [
+        "t-3-5",
+        "t-5-6"
+      ]
     },
     {
       "id": "upsc-f7bc8715a92433",
@@ -1104,7 +1491,15 @@ export const upscCatalogue = {
         "https://en.wikipedia.org/wiki/List_of_countries_by_coal_reserves",
         "https://en.wikipedia.org/wiki/List_of_countries_by_natural_gas_proven_reserves"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Energy resources"
+      ],
+      "appscTopics": [
+        "t-3-5",
+        "t-5-6"
+      ]
     },
     {
       "id": "upsc-f38f55b060d480",
@@ -1116,7 +1511,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Geography/Geography_Handwritten_Notes_Diagrams.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-a6df89efc3adb2",
@@ -1133,7 +1531,14 @@ export const upscCatalogue = {
         "https://byjus.com/free-ias-prep/indira-point-the-southernmost-point-of-india/",
         "https://en.wikipedia.org/wiki/Indira_Point"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Indian physical geography"
+      ],
+      "appscTopics": [
+        "t-3-2"
+      ]
     },
     {
       "id": "upsc-4f4a52530e143f",
@@ -1148,7 +1553,12 @@ export const upscCatalogue = {
         "https://edukemy.com/blog/international-boundaries-of-india-upsc-world-geography-notes/",
         "https://testbook.com/ias-preparation/international-boundary-of-india"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "World geography"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-1634adfdae637f",
@@ -1162,7 +1572,10 @@ export const upscCatalogue = {
       "links": [
         "https://compass.rauias.com/geography/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-696fb52d538727",
@@ -1176,7 +1589,15 @@ export const upscCatalogue = {
       "links": [
         "https://www.thirdcoastautos.com/blog/why-is-there-a-lot-of-oil-in-the-middle-east/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "West Asia",
+        "Energy resources"
+      ],
+      "appscTopics": [
+        "t-3-5"
+      ]
     },
     {
       "id": "upsc-454de93ffd7b1f",
@@ -1190,7 +1611,15 @@ export const upscCatalogue = {
       "links": [
         "https://www.thirdcoastautos.com/blog/why-is-there-a-lot-of-oil-in-the-middle-east/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "West Asia",
+        "Energy resources"
+      ],
+      "appscTopics": [
+        "t-3-5"
+      ]
     },
     {
       "id": "upsc-73f4701c1717ac",
@@ -1209,7 +1638,15 @@ export const upscCatalogue = {
         "https://www.gcc-sg.org/en-us/Pages/default.aspx",
         "https://www.worldbank.org/en/region/mena"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "West Asia",
+        "Energy resources"
+      ],
+      "appscTopics": [
+        "t-3-5"
+      ]
     },
     {
       "id": "upsc-72735e0120b558",
@@ -1225,7 +1662,14 @@ export const upscCatalogue = {
         "https://cuet.iitk.ac.in/sathee-cuet/student-corner/ncert-books/class-12/geography/india-people-and-economy/chapter-05-mineral-and-energy-resources/",
         "https://pwonlyias.com/downloads/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Mineral resources"
+      ],
+      "appscTopics": [
+        "t-3-5"
+      ]
     },
     {
       "id": "upsc-1a742f6f8bc892",
@@ -1237,7 +1681,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Geography/Mineral_Resources/Mineral_Resources.txt",
       "text": "🌟 Metallic vs Non-Metallic Minerals: A Quick Overview 🌟\r\n\r\n📚 #Definition\r\n#Metallic_Minerals: 💎 Naturally occurring substances containing metal, mined for economic value.\r\n#Non-Metallic Minerals: 🪨 Substances without metals, used in construction, manufacturing, and more.\r\n\r\n🔍 Types of Metallic Minerals\r\n1️⃣ Ferrous Minerals: ⚙️ Iron Ore, Manganese, Chromite (Steel, tools, machinery).\r\n\r\n2️⃣ Non-Ferrous Minerals: 🪙 Bauxite, Copper, Gold (Electronics, aerospace, jewelry).\r\n\r\n3️⃣ Precious Minerals: 💰 Gold, Silver, Platinum (Jewelry, investment).\r\n🔍 Types of Non-Metallic Minerals\r\n1️⃣ Industrial Minerals: 🏗️ Limestone, Dolomite, Gypsum (Cement, glass, plaster).\r\n\r\n2️⃣ Energy Minerals: 🔥 Coal, Lignite (Power generation).\r\n\r\n3️⃣ Gemstones: 💍 Diamond, Ruby, Emerald (Jewelry).\r\n\r\n🌏 India's Major Metallic Minerals\r\nIron Ore: Odisha, Jharkhand 🏗️ (Steel).\r\nBauxite: Odisha, Gujarat 🪙 (Aluminum).\r\nGold: Karnataka (Jewelry).\r\nZinc & Lead: Rajasthan ⚡ (Batteries).\r\n🌏 India's Major Non-Metallic Minerals\r\nLimestone: Madhya Pradesh, Rajasthan 🏗️ (Cement).\r\nCoal: Jharkhand, Odisha 🔥 (Energy).\r\nMica: Andhra Pradesh 💡 (Electronics).\r\nSalt: Gujarat 🧂 (Edible & industrial use).\r\n🌱 #Environmental _Concerns\r\n🚜 Land degradation and habitat destruction from mining.\r\n🌍 Sustainable practices are essential to minimize pollution.\r\n🌟 Importance\r\n🟦 Metallic Minerals: 🏭 Power industries, infrastructure, modern technology.\r\n🟦 Non-Metallic Minerals: 🏗️ Drive construction, agriculture, energy, and industry.",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Mineral resources"
+      ],
+      "appscTopics": [
+        "t-3-5"
+      ]
     },
     {
       "id": "upsc-9e3dbaaa6fb959",
@@ -1253,7 +1704,14 @@ export const upscCatalogue = {
         "https://pwonlyias.com/7-continents-and-5-oceans/",
         "https://www.clearias.com/major-oceans/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Oceans and seas"
+      ],
+      "appscTopics": [
+        "t-3-0"
+      ]
     },
     {
       "id": "upsc-3f6d2ee32c58d6",
@@ -1270,7 +1728,14 @@ export const upscCatalogue = {
         "https://ncert.nic.in/textbook/pdf/iess101.pdf",
         "https://www.pdfnotes.co/vision-ias-indian-geography-notes/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Indian physical geography"
+      ],
+      "appscTopics": [
+        "t-3-2"
+      ]
     },
     {
       "id": "upsc-b68ff90df3db0c",
@@ -1284,7 +1749,12 @@ export const upscCatalogue = {
       "links": [
         "https://testbook.com/pdf-viewer?u=https:%2F%2Fcdn.testbook.com%2F1745220197891-World%20Geography%20Final%20Notes.pdf%2F1745220199.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "World geography"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-6145b61aa2704c",
@@ -1301,7 +1771,10 @@ export const upscCatalogue = {
         "https://github.com/madhurimarawat/UPSC-Notes-Resources.git",
         "https://git-scm.com/downloads"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-a38e1996890ee9",
@@ -1313,7 +1786,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Handwritten_Index_Notes_Guide.md",
       "text": "# 📝 Handwritten Index Notes Guide\r\n\r\nEach index PDF is named as: `Subject_Name_Handwritten_Index`.  \r\nIt contains a **complete list of topics along with page numbers**, helping you quickly understand what the notes include.\r\n\r\nThe corresponding notes are named: `Subject_Name_Handwritten_Notes`.\r\n\r\n---\r\n\r\n## 📂 About the Index\r\n\r\nThe index is kept **separately from the main notes** to make navigation easier.  \r\nThis allows you to:\r\n- Quickly scan available topics  \r\n- Jump directly to required pages  \r\n- Easily add more indexes in the future  \r\n\r\n> [!TIP]\r\n> Always check the index first before opening the notes, it saves time and effort.\r\n\r\n---\r\n\r\n## 📘 Notes\r\n\r\nAll pages in the notes are **properly numbered**, and these numbers match the index for easy navigation.\r\n\r\nThe notes are created using **colored pens** to:\r\n- Improve readability  \r\n- Clearly separate different topics  \r\n- Make studying more engaging  \r\n\r\n> [!IMPORTANT]\r\n> Page numbers in the index and notes are aligned, use them to navigate efficiently.\r\n\r\n---\r\n\r\n## 🚀 How to Use\r\n\r\n1. Open the **Index PDF**  \r\n2. Find your topic and note its **page number**  \r\n3. Open/download the **Notes PDF**  \r\n4. Jump directly to the required page  \r\n\r\n> [!NOTE]\r\n> This method helps you study faster and stay well-organized.\r\n\r\n---\r\n\r\n## 🔗 Additional Help\r\n\r\nIf you want to know **how to download the notes**, visit:  \r\n👉 [HOW_TO_USE.md](../HOW_TO_USE.md)\r\n\r\n> [!TIP]\r\n> This guide provides step-by-step instructions for accessing and using the notes efficiently.",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-f5415c8e5eb1be",
@@ -1327,7 +1803,10 @@ export const upscCatalogue = {
       "links": [
         "https://testbook.com/pdf-viewer?u=https:%2F%2Fcdn.testbook.com%2F1745220197891-Ancient%20History%20Final%20Notes.pdf%2F1745220199.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-20ccbc519fbeac",
@@ -1339,7 +1818,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/Ancient_History/Historical_Geological_Divisions/Earth_Human_Timeline.md",
       "text": "## 🧭 **The Grand Timeline of Earth & Humans**\r\n\r\nLet’s start with the *big picture*:\r\n\r\n### **1️⃣ Geological Time Scale (Earth’s History)**\r\n\r\n| LEVEL      | EXAMPLES                                  | PURPOSE                                          |\r\n| ---------- | ----------------------------------------- | ------------------------------------------------ |\r\n| **Eon**    | Hadean, Archean, Proterozoic, Phanerozoic | Longest division (hundreds of millions of years) |\r\n| **Era**    | Paleozoic, Mesozoic, Cenozoic             | Marked by mass extinctions & life-form changes   |\r\n| **Period** | Cambrian, Jurassic, Quaternary, etc.      | Defined by dominant life & major events          |\r\n| **Epoch**  | Pleistocene, Holocene, etc.               | Finer details of environment & climate           |\r\n| **Age**    | Subdivisions within epochs                | Short, precise intervals (recent times)          |\r\n\r\n---\r\n\r\n## 🕰️ **🌍 GEOLOGICAL TIME FLOWCHART**\r\n\r\n```\r\nEarth's Formation (~4.6 billion years ago)\r\n│\r\n├── Precambrian (88% of Earth’s history)\r\n│   ├── Hadean (4.6 – 4.0 bya) 🌋\r\n│   │   → Earth forms, molten surface, no life.\r\n│   ├── Archean (4.0 – 2.5 bya) 🌊\r\n│   │   → First oceans & simple life (bacteria).\r\n│   └── Proterozoic (2.5 bya – 540 mya) 🌱\r\n│       → Oxygen increases, multicellular life begins.\r\n│\r\n└── Phanerozoic (540 mya – Present) 🦖\r\n    ├── Paleozoic Era (540 – 252 mya) 🐚\r\n    │   → Explosion of marine life → fishes → amphibians → first land plants.\r\n    ├── Mesozoic Era (252 – 66 mya) 🦕\r\n    │   → Dinosaurs dominate; first birds and mammals appear.\r\n    └── Cenozoic Era (66 mya – now) 🐘\r\n        → Mammals and humans evolve.\r\n        ├── Paleogene (66–23 mya)\r\n        ├── Neogene (23–2.6 mya)\r\n        └── Quaternary (2.6 mya–present)\r\n            ├── Pleistocene (Ice Age ❄️)\r\n            └── Holocene (Current warm period 🌾)\r\n```\r\n\r\n---\r\n\r\n## 🌾 **2️⃣ HUMAN PREHISTORY (inside Holocene & late Pleistocene)**\r\n\r\nOnce humans appear (~3 million years ago), we shift from geology → **archaeological periods**.\r\n\r\n### **🔹 Stone Age**\r\n\r\n1. **Paleolithic (Old Stone Age)**\r\n\r\n   * Time: ~2.6 million – 10,000 BCE\r\n   * Humans: *Homo habilis*, *Homo erectus*, *Neanderthals*, *Homo sapiens*\r\n   * Tools: Crude stones (hand axes, flakes)\r\n   * Lifestyle: Hunters & gatherers\r\n   * Key Feature: Fire discovery 🔥, cave paintings 🖐️\r\n\r\n2. **Mesolithic (Middle Stone Age)**\r\n\r\n   * Time: ~10,000 – 8,000 BCE\r\n   * Transition: Ice age ends, warmer climate\r\n   * Tools: Microliths (small sharpened tools)\r\n   * Lifestyle: Semi-nomadic, fishing, beginnings of animal domestication 🐕\r\n   * Significance: Bridge between hunting → farming\r\n\r\n3. **Neolithic (New Stone Age)**\r\n\r\n   * Time: ~8,000 – 3,000 BCE\r\n   * Revolution: Agriculture 🌾 + Pottery 🏺 + Settlements 🏠\r\n   * Tools: Polished stone tools\r\n   * Key Site (India): Mehrgarh, Burzahom\r\n   * Big Change: Humans control nature instead of adapting passively\r\n\r\n---\r\n\r\n## 🧱 **3️⃣ Later Ages (Post-Stone Age)**\r\n\r\n| Period                        | Metal Used            | Significance                                    |\r\n| ----------------------------- | --------------------- | ----------------------------------------------- |\r\n| **Chalcolithic (Copper Age)** | Copper                | First metal tools, pottery, trade               |\r\n| **Bronze Age**                | Bronze (Copper + Tin) | Early civilizations (Mesopotamia, Indus Valley) |\r\n| **Iron Age**                  | Iron                  | Strong tools, large kingdoms, urbanization      |\r\n\r\n---\r\n\r\n## 🧠 **4️⃣ Why Are These Divisions Made?**\r\n\r\nThey help **scientists and historians classify time** based on:\r\n\r\n* 🌋 **Geological changes** (mountain formation, ice ages)\r\n* 🦴 **Evolutionary milestones** (appearance of new species)\r\n* 🧱 **Technological progress** (stone → metal → modern)\r\n* 🌡️ **Climate transitions** (ice age to warm Holocene)\r\n\r\nBasically — **each era/epoch/age marks a transformation** in the Earth’s environment or human capability.\r\n\r\n---\r\n\r\n## 🔍 **5️⃣ How to Understand & Remember Easily**\r\n\r\n### 🔹 Trick Flow:\r\n\r\n> **Eon → Era → Period → Epoch → Age → Civilization**\r\n\r\n### 🔹 Memory Anchor:\r\n\r\n> “HEAR Please, My Child Never Cries”\r\n> → **Hadean, Eoarchean, Archean, Proterozoic, Mesozoic, Cenozoic, Neolithic, Chalcolithic**\r\n\r\n### 🔹 Concept Flow:\r\n\r\n🌋 Earth Forms → 🌊 Life Originates → 🦕 Dinosaurs → 🐘 Mammals → 🧍 Humans → 🌾 Farming → 🏙️ Civilizations\r\n\r\n---\r\n\r\n## 🌎 **Summary Diagram**\r\n\r\n```\r\nGeological Scale (Earth History)\r\n│\r\n├── Precambrian (Hadean → Archean → Proterozoic)\r\n│\r\n└── Phanerozoic\r\n    ├── Paleozoic → sea life & plants\r\n    ├── Mesozoic → reptiles & dinosaurs\r\n    └── Cenozoic\r\n        ├── Paleogene / Neogene → mammals evolve\r\n        └── Quaternary (Pleistocene → Holocene)\r\n            └── Human Prehistory\r\n                ├── Paleolithic\r\n                ├── Mesolithic\r\n                ├── Neolithic\r\n                ├── Chalcolithic\r\n                ├── Bronze Age\r\n                └── Iron Age\r\n```",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Prehistory and human evolution"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-b3f1a1502104aa",
@@ -1351,7 +1835,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/Ancient_History/Historical_Geological_Divisions/Human_Evolution.md",
       "text": "# 🌈 **A. “From Earth to Humans”**\r\n\r\n```\r\n🌋 EARTH FORMS (4.6 BYA) — Hadean [⚫ Black]\r\n    ↓\r\n🌊 Life Appears (3.8 BYA) — Archean [🟤 Brown]\r\n    ↓\r\n🌱 Multicellular Life — Proterozoic [🟢 Green]\r\n    ↓\r\n🦖 Dinosaurs — Mesozoic [🟠 Orange]\r\n    ↓\r\n🐘 Mammals Dominate — Cenozoic [🟣 Purple]\r\n    ↓\r\n🧍 Human Evolution — Quaternary (Pleistocene → Holocene) [🔵 Blue]\r\n        ↓\r\n        🔹 Australopithecus\r\n        🔹 Homo habilis\r\n        🔹 Homo erectus\r\n        🔹 Homo neanderthalensis\r\n        🔹 Homo sapiens\r\n```\r\n\r\n---\r\n\r\n# 🧬 **B. HUMAN EVOLUTION: From Ape to Modern Humans**\r\n\r\n### 🌍 Background\r\n\r\n* Started **~7 million years ago (mya)** in **Africa**.\r\n* We evolved from **ape-like ancestors**, not from modern apes but from a **common ancestor**.\r\n* Evolution is **gradual** — through adaptation to environment, posture, tool use, and brain growth.\r\n\r\n---\r\n\r\n## 🧭 **Timeline of Human Evolution**\r\n\r\n| Stage                                        | Time (approx)     | Key Features                                     | Significance                                | Icon  |\r\n| -------------------------------------------- | ----------------- | ------------------------------------------------ | ------------------------------------------- | ----- |\r\n| **1️⃣ Sahelanthropus tchadensis**            | 7 – 6 mya         | Oldest known ancestor, chimp-sized brain         | Early bipedalism (walked upright sometimes) | 🦍    |\r\n| **2️⃣ Australopithecus afarensis** (“Lucy”)  | 4 – 3 mya         | Walked upright, small brain (~400 cc), long arms | Clear link between apes & humans            | 🚶‍♀️ |\r\n| **3️⃣ Homo habilis** (“Handy Man”)           | 2.4 – 1.4 mya     | First stone tool user, bigger brain (~600 cc)    | Start of tool-making & thinking             | 🔨    |\r\n| **4️⃣ Homo erectus** (“Upright Man”)         | 1.9 mya – 250 kya | Fully upright, fire use, migrated from Africa    | Controlled fire 🔥, hunting, communication  | 🔥    |\r\n| **5️⃣ Homo neanderthalensis** (Neanderthals) | 400 – 40 kya      | Cold-adapted, large brain (~1600 cc), burials    | Social behavior, empathy, symbolic thought  | ❄️    |\r\n| **6️⃣ Homo sapiens** (Modern Humans)         | 300 kya – Present | Complex tools, art, language, culture            | Global spread, civilizations, technology    | 🧠    |\r\n\r\n---\r\n\r\n## 🔹 **C. Evolution Highlights by Trait**\r\n\r\n| Trait             | Evolution Path                                |\r\n| ----------------- | --------------------------------------------- |\r\n| **Posture**       | Quadruped (apes) → Bipedal (Australopithecus) |\r\n| **Brain Size**    | 400 cc → 600 cc → 900 cc → 1400 cc            |\r\n| **Tool Use**      | None → Simple flakes → Fire → Spears → Art    |\r\n| **Diet**          | Raw plants → Meat → Cooked food → Agriculture |\r\n| **Social Life**   | Solitary → Groups → Families → Societies      |\r\n| **Communication** | Gestures → Sounds → Speech → Language         |\r\n\r\n---\r\n\r\n## 🌍 **D. Major Evolutionary Transitions**\r\n\r\n| Transition                         | Cause                | Result                             |\r\n| ---------------------------------- | -------------------- | ---------------------------------- |\r\n| **Climate Cooling (Africa dries)** | Forests → Grasslands | Walking upright (bipedalism)       |\r\n| **Tool Innovation**                | Need for survival    | Smarter brains                     |\r\n| **Fire Control**                   | Cooked food          | Larger brain, better nutrition     |\r\n| **Migration**                      | Harsh environment    | Spread across continents           |\r\n| **Culture & Art**                  | Symbolic thinking    | Cave art, religion, social bonding |\r\n\r\n---\r\n\r\n## 🧩 **E. How to Understand It**\r\n\r\nThink of human evolution as a **ladder turning into a tree 🌳** —\r\nNot a straight line, but **many species coexisted**, some survived, some didn’t.\r\n\r\nVisual Concept:\r\n\r\n```\r\n            Homo sapiens (Modern Humans) 🧍‍♀️\r\n                ↑\r\n        Homo neanderthalensis (Europe)\r\n                ↑\r\n           Homo erectus (Africa → Asia)\r\n                ↑\r\n             Homo habilis\r\n                ↑\r\n       Australopithecus afarensis\r\n                ↑\r\n   Sahelanthropus (common ancestor)\r\n```\r\n\r\n---\r\n\r\n## 🧠 **F. Easy Mnemonic (for UPSC & Anthropology)**\r\n\r\n> “Some Apes Have Evolved Now Smartly”\r\n> → **Sahelanthropus → Australopithecus → Homo habilis → Homo erectus → Neanderthal → Sapiens**\r\n\r\n---\r\n\r\n## 🌈 **G. Summary: Merging Geological + Human Evolution**\r\n\r\n| Geological Epoch                   | Climate       | Dominant Life   | Human Stage                               |\r\n| ---------------------------------- | ------------- | --------------- | ----------------------------------------- |\r\n| **Miocene (23–5 mya)**             | Warm          | Early apes      | Pre-human ancestors                       |\r\n| **Pliocene (5–2.6 mya)**           | Cooling       | Grasslands      | Australopithecus                          |\r\n| **Pleistocene (2.6 mya–11.7 kya)** | Ice ages      | Mammals         | Habilis → Erectus → Neanderthal           |\r\n| **Holocene (11.7 kya–now)**        | Warm & stable | Humans dominate | Homo sapiens, agriculture & civilizations |",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Prehistory and human evolution"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-12fcd3d5baa6ab",
@@ -1369,7 +1858,12 @@ export const upscCatalogue = {
         "https://www.earth.com/earthpedia-articles/the-history-of-earth-in-exactly-2000-words/",
         "https://uk.pinterest.com/pin/25262447904185046/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Prehistory and human evolution"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-6d74505e063390",
@@ -1381,7 +1875,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/Ancient_History/Historical_Geological_Divisions/Revision_Chart.md",
       "text": "## 🌍 **Human Evolution + Geological Time Quick Chart**\r\n\r\n| **Era / Period**                     | **Epoch (if key)**           | **Approx. Time (MYA = million years ago)** | **Major Events / Significance**                                                        |\r\n| ------------------------------------ | ---------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------- |\r\n| **Precambrian (Hadean–Proterozoic)** | —                            | 4600 – 540 MYA                             | 🌋 Earth forms → oceans 🌊 → first life (bacteria, algae) 🌱                              |\r\n| **Paleozoic**                        | —                            | 540 – 250 MYA                              | Marine life 🐚 → fishes 🐠 → amphibians 🐸 → plants colonize land 🌿                       |\r\n| **Mesozoic (Age of Reptiles)**       | —                            | 250 – 65 MYA                               | 🦖 Dinosaurs dominate → mammals & birds evolve → extinction event                       |\r\n| **Cenozoic (Age of Mammals)**        | **Tertiary (65 – 2.6 MYA)**  | 65 – 2.6 MYA                               | Mammals diversify 🐘 → primates evolve 🐒 → *Australopithecus* appears                   |\r\n|                                      | **Quaternary → Pleistocene** | 2.6 MYA – 11,700 yrs ago                   | ❄️ Ice Ages → *Homo habilis*, *erectus*, *Neanderthal* evolve → tool cultures develop 🔨 |\r\n|                                      | **Holocene (Current Epoch)** | 11,700 yrs – Present                       | 🌾 Neolithic Revolution → agriculture, civilization, modern *Homo sapiens*              |\r\n\r\n---\r\n\r\n### 🧬 **Human Evolution Snapshot**\r\n\r\n| **Species**             | **Time Range**    | **Key Traits**                            | **Tools / Culture**        |\r\n| ----------------------- | ----------------- | ----------------------------------------- | -------------------------- |\r\n| *Australopithecus*      | ~4 – 2 MYA        | Upright posture, small brain (400–500 cc) | Pebble tools (rudimentary) |\r\n| *Homo habilis*          | 2.4 – 1.6 MYA     | “Handy man”, larger brain (600–700 cc)    | Oldowan tools              |\r\n| *Homo erectus*          | 1.8 MYA – 0.3 MYA | Fire 🔥, hunting, shelters                 | Acheulean hand-axes        |\r\n| *Homo neanderthalensis* | 0.3 – 0.04 MYA    | Burial practices ⚰️, language hints        | Mousterian tools           |\r\n| *Homo sapiens (modern)* | 0.3 MYA – Present | Symbolic thought, art 🎨, agriculture      | Upper Paleolithic tools    |\r\n\r\n---\r\n\r\n### 🧠 **Memory Hack**\r\n\r\n> “**Please Make Children Quietly Happy.**”\r\n> → **P**recambrian → **P**aleozoic → **M**esozoic → **C**enozoic → **H**olocene ✅",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Prehistory and human evolution"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-db69f39c254743",
@@ -1393,7 +1892,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/Ancient_History/Notes/Ancient_History_Summary.md",
       "text": "## 🧭 **FLOWCHART: Ancient Indian History (🪨 to 🏰)**\r\n\r\n```\r\n🌏 Prehistoric India (Before 2600 BCE)\r\n     │\r\n     ├── 🪨 Paleolithic Age (c. 2 million – 10,000 BCE)\r\n     │      → Primitive humans, caves, stone tools, fire\r\n     │\r\n     ├── 🪵 Mesolithic Age (c. 10,000 – 8,000 BCE)\r\n     │      → Microliths, domestication begins\r\n     │\r\n     ├── 🌾 Neolithic Age (c. 8,000 – 4,000 BCE)\r\n     │      → Agriculture, pottery, settled life\r\n     │\r\n     ├── ⚱️ Chalcolithic Age (c. 4,000 – 1,500 BCE)\r\n     │      → Copper & stone tools, early villages\r\n     │\r\n     └── 🏙️ Indus Valley Civilization (Harappan) (c. 2600 – 1900 BCE)\r\n            │\r\n            ├── 📜 Early Vedic Period (c. 1500 – 1000 BCE)\r\n            │      → Rig Veda, pastoral life\r\n            │\r\n            └── 🔔 Later Vedic Period (c. 1000 – 600 BCE)\r\n                   → Kingdoms, rituals, varna system\r\n                   │\r\n                   └── 🛕 Mahajanapadas & Kingdoms (c. 600 – 321 BCE)\r\n                          → 16 states, rise of Magadha, Buddhism & Jainism\r\n                          │\r\n                          ├── 🦁 Mauryan Empire (321 – 185 BCE)\r\n                          │      → Chandragupta, Ashoka, administration\r\n                          │\r\n                          ├── 🌸 Post-Mauryan Kingdoms (185 BCE – 320 CE)\r\n                          │      → Indo-Greeks, Kushanas, Satavahanas, art\r\n                          │\r\n                          ├── ✨ Gupta Empire (Golden Age) (320 – 550 CE)\r\n                          │      → Literature, science, culture peak\r\n                          │\r\n                          └── ⚔️ Post-Gupta / Regional Kingdoms (550 – 1200 CE)\r\n                                 → Harsha, Pallavas, Chalukyas, temple art\r\n                  └── ⚔️ Later Kingdoms & Invasions\r\n```\r\n\r\n---\r\n\r\n## 🪨 **1️⃣ Paleolithic Age (Old Stone Age)**\r\n\r\n**⏳ Time:** 2 million BCE – 10,000 BCE\r\n**Mnemonic:** “P for Primitive People” 🧍‍♂️🪨\r\n\r\n🔹 Hunter-gatherers, lived in caves\r\n\r\n🔹 Tools made of rough stone\r\n\r\n🔹 Used fire 🔥\r\n\r\n🔹 Art: Bhimbetka rock paintings 🖌️\r\n\r\n**Emoji Summary:** 🪨🔥🍖🖼️\r\n\r\n---\r\n\r\n## 🪵 **2️⃣ Mesolithic Age (Middle Stone Age)**\r\n\r\n**⏳ Time:** 10,000 – 8,000 BCE\r\n**Mnemonic:** “M for Mini tools” 🔪\r\n\r\n🔹 Microliths (tiny tools)\r\n\r\n🔹 Domestication begins 🐕\r\n\r\n🔹 Semi-settled life near rivers 🌊\r\n\r\n**Sites:** Bagor (Rajasthan), Adamgarh (MP)\r\n**Emoji Summary:** 🪓🐕🌾\r\n\r\n---\r\n\r\n## 🌾 **3️⃣ Neolithic Age (New Stone Age)**\r\n\r\n**⏳ Time:** 8000 – 4000 BCE\r\n**Mnemonic:** “N for New Life – Farming & Houses” 🏡\r\n\r\n🔹 Started agriculture 🌾\r\n\r\n🔹 Pottery 🍶\r\n\r\n🔹 Domesticated animals 🐄\r\n\r\n🔹 Polished stone tools\r\n\r\n**Sites:** Mehrgarh (Pakistan), Burzahom (Kashmir)\r\n**Emoji Summary:** 🌾🏡🍶\r\n\r\n---\r\n\r\n## ⚱️ **4️⃣ Chalcolithic Age (Copper-Stone Age)**\r\n\r\n**⏳ Time:** 4000 – 1500 BCE\r\n**Mnemonic:** “C for Copper Charm” 🪙\r\n\r\n🔹 Used both copper & stone tools\r\n\r\n🔹 Painted pottery 🖌️\r\n\r\n🔹 Village life evolved\r\n\r\n**Sites:** Malwa, Ahar-Banas, Kayatha\r\n**Emoji Summary:** 🪙🍶🏺\r\n\r\n---\r\n\r\n## 🏙️ **5️⃣ Indus Valley Civilization (Harappan)**\r\n\r\n**⏳ Time:** 2600 – 1900 BCE\r\n**Mnemonic:** “H for High Urban Life” 🏙️\r\n\r\n🔹 Planned cities (grid pattern) 🏗️\r\n\r\n🔹 Great Bath, Granaries, Drains 🚿\r\n\r\n🔹 Trade with Mesopotamia 🚢\r\n\r\n🔹 Script undeciphered ✍️\r\n\r\n**Major Sites:** Harappa, Mohenjo-Daro, Dholavira, Lothal\r\n**Emoji Summary:** 🏙️🚿🏺🚢\r\n\r\n---\r\n\r\n## 🔱 **6️⃣ Vedic Age**\r\n\r\n**⏳ Time:** 1500 – 600 BCE\r\n**Mnemonic:** “V for Vedas & Villages” 📜\r\n\r\n### 🕉️ Early Vedic (1500–1000 BCE)\r\n\r\n* Rigveda composed 🕉️\r\n* Tribal life, no large kingdoms\r\n\r\n### 🔔 Later Vedic (1000–600 BCE)\r\n\r\n* Kingdoms emerge 👑\r\n* Sacrifices, social classes solidified (varna system)\r\n\r\n**Emoji Summary:** 📜🕉️🔥👑\r\n\r\n---\r\n\r\n## 🛕 **7️⃣ Mahajanapadas (600 – 321 BCE)**\r\n\r\n**Mnemonic:** “Maha = Great States” 🗺️\r\n\r\n🔹 16 major kingdoms — e.g., Magadha, Kosala, Avanti\r\n\r\n🔹 Rise of new faiths: **Buddhism & Jainism** 🪷🕊️\r\n\r\n🔹 First urban revival after Harappa\r\n\r\n**Emoji Summary:** 🏙️🪷🕊️👑\r\n\r\n---\r\n\r\n## 🦁 **8️⃣ Mauryan Empire (321 – 185 BCE)**\r\n\r\n**Mnemonic:** “M = Massive Empire by Maurya” 🦁\r\n\r\n🔹 Founded by **Chandragupta Maurya**\r\n\r\n🔹 **Ashoka the Great** – spread Buddhism 🌍\r\n\r\n🔹 Arthashastra, Edicts on pillars 🪶\r\n\r\n**Capital:** Pataliputra\r\n**Emoji Summary:** 🦁📜🌏🪶\r\n\r\n---\r\n\r\n## 🌸 **9️⃣ Post-Mauryan Kingdoms (185 BCE – 320 CE)**\r\n\r\n**Mnemonic:** “Post Maurya = Patchwork Empires” 🧩\r\n\r\n🔹 Shungas, Satavahanas, Indo-Greeks, Kushanas\r\n\r\n🔹 Gandhara Art, trade & coinage flourish 💰🎨\r\n\r\n**Emoji Summary:** 🧩💰🎨\r\n\r\n---\r\n\r\n## ✨ **🔟 Gupta Empire (320 – 550 CE)**\r\n\r\n**Mnemonic:** “G = Golden Gupta Glory” 🌟\r\n\r\n🔹 Chandragupta I & Samudragupta\r\n\r\n🔹 Classical Sanskrit literature 🌸\r\n\r\n🔹 Aryabhata, Kalidasa 🧠📚\r\n\r\n🔹 Iron Pillar, Ajanta Caves 🏛️\r\n\r\n**Emoji Summary:** 🌟📚🧠🏛️\r\n\r\n---\r\n\r\n## ⚔️ **1️⃣1️⃣ Post-Gupta & Regional Kingdoms (550–1200 CE)**\r\n\r\n**Mnemonic:** “R for Regional Rise” 🏰\r\n\r\n🔹 Harsha, Chalukyas, Pallavas, Rashtrakutas\r\n\r\n🔹 Temple architecture peaks (Dravida & Nagara) 🛕\r\n\r\n🔹 Prelude to Medieval Era\r\n\r\n**Emoji Summary:** ⚔️🏰🛕\r\n\r\n---\r\n\r\n## 🪶 **🌸 QUICK SUMMARY CHART**\r\n\r\n| Era                       | Time Period                   | Keyword       | Highlights                 | Emoji  |\r\n| ------------------------- | ----------------------------- | ------------- | -------------------------- | ------ |\r\n| **Paleolithic**           | c. **2 million – 10,000 BCE** | Primitive     | Cave life, stone tools     | 🔥🪨   |\r\n| **Mesolithic**            | c. **10,000 – 8,000 BCE**     | Microliths    | Tiny tools, dogs           | 🪓🐕   |\r\n| **Neolithic**             | c. **8,000 – 4,000 BCE**      | New Life      | Farming, pottery           | 🌾🍶🏡 |\r\n| **Chalcolithic**          | c. **4,000 – 1,500 BCE**      | Copper        | Mixed tools                | 🪙🏺   |\r\n| **Harappan (IVC)**        | c. **2600 – 1900 BCE**        | Urban         | Planned cities             | 🏗️🚿  |\r\n| **Vedic (Early + Later)** | c. **1500 – 600 BCE**         | Vedas         | Tribal → Kingdoms          | 🕉️👑  |\r\n| **Mahajanapadas**         | c. **600 – 321 BCE**          | Great States  | Magadha rise, new faiths   | 🏙️🪷  |\r\n| **Mauryan Empire**        | c. **321 – 185 BCE**          | Empire        | Chandragupta, Ashoka       | 🦁🌏   |\r\n| **Post-Mauryan**          | c. **185 BCE – 320 CE**       | Regional      | Art, trade, fusion culture | 🎨💰   |\r\n| **Gupta Empire**          | c. **320 – 550 CE**           | Golden Age    | Science, Art, Literature   | 🌟📚   |\r\n| **Post-Gupta / Regional** | c. **550 – 1200 CE**          | Regional Rise | South kings, temples       | 🛕🏰   |\r\n\r\n---\r\n\r\n## 🧠 **Quick Mnemonic to Remember Full Sequence:**\r\n\r\n> **“Pretty Men Need Cool Hats, Very Many Mighty Powerful Good Rulers.”** 👑\r\n> **(Paleolithic → Mesolithic → Neolithic → Chalcolithic → Harappan → Vedic → Mahajanapada → Mauryan → Post-Mauryan → Gupta → Regional)**",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-b442666124111c",
@@ -1409,7 +1911,10 @@ export const upscCatalogue = {
         "https://www.vedantu.com/general-knowledge/janapadas-and-mahajanapadas",
         "https://upsctree.com/wp-content/uploads/2022/05/Indian-History-Timeline-1536x1023-1.jpg"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-1cbe8f76d79638",
@@ -1421,7 +1926,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/Ancient_History/Solved_Questions/Early_Ancient_India/Ancient_History_Archaeology_Methods.png",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Prehistory and archaeology"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-50c6599a84135c",
@@ -1433,7 +1943,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/Ancient_History/Solved_Questions/Early_Ancient_India/Archaeology_Methods_for_Dating_Time.png",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Prehistory and archaeology"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-e34db3ee866e18",
@@ -1445,7 +1960,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/Ancient_History/Solved_Questions/Early_Ancient_India/Archaeology_Six_Pivotal_Questions.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Prehistory and archaeology"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-cd3e95538da845",
@@ -1457,7 +1977,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/Ancient_History/Solved_Questions/Early_Ancient_India/Questions_Answers.md",
       "text": "# Q.1 What are the methods employed by archaeologist to date? Ancient sculptures and artifacts?\r\n\r\n## Answer:\r\n\r\n**Core topic** in archaeology and anthropology! 🏺\r\n\r\nArchaeologists use a mix of **absolute (chronometric)** and **relative dating methods** to determine the **age of ancient sculptures and artifacts**.\r\n\r\n## 🧭 **I. Relative Dating Methods**\r\n\r\n*(Tell us which object/artifact is older or younger, not the exact age)*\r\n\r\n### 1. **Stratigraphy**\r\n\r\n* Based on the **Law of Superposition** — deeper layers are older than upper layers.\r\n* Used in excavations to sequence artifacts and structures.\r\n  🪶 *Example:* Determining the relative age of terracotta figurines found in successive layers.\r\n\r\n### 2. **Typology**\r\n\r\n* Compares **styles, designs, or forms** of artifacts (e.g., pottery, sculptures).\r\n* Changes in style over time help build **chronological sequences**.\r\n  🎨 *Example:* Evolution of Buddha images from early Mathura to Gupta style.\r\n\r\n### 3. **Seriation**\r\n\r\n* Arranging artifacts in **chronological order** based on **frequency or popularity** of styles/types over time.\r\n  📊 *Example:* Changes in pottery decoration patterns across sites.\r\n\r\n---\r\n\r\n## 🕰️ **II. Absolute (Chronometric) Dating Methods**\r\n\r\n*(Provide an actual calendar age or date range)*\r\n\r\n### 1. **Radiocarbon Dating (C-14)**\r\n\r\n* Measures decay of **carbon-14 isotope** in organic materials (wood, charcoal, bone).\r\n* Effective up to ~50,000 years.\r\n  🔥 *Example:* Dating charcoal layers found near ancient sculpture workshops.\r\n\r\n### 2. **Thermoluminescence (TL) Dating**\r\n\r\n* Used for **ceramics, terracotta, and fired clay sculptures**.\r\n* Measures light released when reheated — tells when the object was last fired.\r\n  🏺 *Example:* Terracotta figurines of the Indus Valley Civilization.\r\n\r\n### 3. **Dendrochronology (Tree-Ring Dating)**\r\n\r\n* Based on **annual growth rings in wood**; gives exact year.\r\n  🌳 *Example:* Dating wooden beams used in ancient temples.\r\n\r\n### 4. **Potassium-Argon (K–Ar) Dating**\r\n\r\n* Used for **volcanic rock** associated with artifacts.\r\n* Determines the age of lava layers covering or under artifacts.\r\n  🌋 *Example:* Dating stone tools buried under volcanic ash.\r\n\r\n### 5. **Uranium-Series Dating**\r\n\r\n* Used for **calcium carbonate materials** (like cave deposits, limestone sculptures).\r\n* Measures decay of uranium isotopes.\r\n  ⛏️ *Example:* Dating cave art and limestone carvings.\r\n\r\n### 6. **Obsidian Hydration**\r\n\r\n* Measures the thickness of **hydration layer** formed on obsidian (volcanic glass) tools.\r\n* Indicates how long the surface was exposed.\r\n\r\n---\r\n\r\n## 🧩 **III. Cross-Dating / Correlation**\r\n\r\n* Combines **different sites or methods** using shared artifacts (e.g., pottery styles, coins).\r\n* Helps synchronize chronologies between regions.\r\n\r\n---\r\n\r\n✅ **Summary Table (for UPSC-style notes)**\r\n\r\n| Type     | Method             | Material / Use      | Principle         |\r\n| -------- | ------------------ | ------------------- | ----------------- |\r\n| Relative | Stratigraphy       | Soil layers         | Lower = older     |\r\n| Relative | Typology           | Pottery, sculptures | Style evolution   |\r\n| Absolute | Radiocarbon        | Organic matter      | C-14 decay        |\r\n| Absolute | Thermoluminescence | Clay, terracotta    | Last fired        |\r\n| Absolute | Dendrochronology   | Wood                | Tree rings        |\r\n| Absolute | K–Ar               | Volcanic rock       | Radioactive decay |\r\n| Absolute | Uranium Series     | Limestone, cave art | Uranium decay     |\r\n| Absolute | Obsidian Hydration | Volcanic glass      | Hydration layer   |\r\n\r\n---\r\n\r\n# Q.2 Contrast, the characteristic of coinage in ancient India with that of contemporary India explode. Compare the distinction between two sets of points concerning their materials symbols , designs and geometric features.\r\n\r\n## Answer:\r\n\r\n**Comparative analytical** one, often asked in **UPSC Mains (History/Anthropology)** to test the understanding of **material culture and symbolism** through numismatics 💰\r\n\r\n## 🪙 **Coinage in Ancient India vs Contemporary India**\r\n\r\n| Feature                         | **Ancient Indian Coinage**                                                                                                                             | **Contemporary Indian Coinage**                                                                                                                           |\r\n| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |\r\n| **1. Material**                 | Made of **precious metals** like silver, gold, copper, lead; some punch-marked and cast coins.                                                         | Made of **base metals and alloys** (nickel, steel, cupronickel, stainless steel); no intrinsic metal value.                                               |\r\n| **2. Technique of Manufacture** | **Hand-made**: cast, punch-marked, or die-struck by artisans; irregular shapes.                                                                        | **Machine-struck** using minting presses with precise uniformity and circular shape.                                                                      |\r\n| **3. Shape & Geometry**         | Often **irregular or rectangular** in early stages; later circular under Indo-Greeks and Guptas.                                                       | **Standard circular** shape with fixed dimensions and milled edges.                                                                                       |\r\n| **4. Symbols & Motifs**         | Depicted **religious and cultural symbols** — sun, tree, bull, swastika, Lakshmi, kings, gods; conveyed **political authority and divine legitimacy**. | Depict **national symbols** — Lion Capital of Ashoka 🦁, denomination, “India”, year, and motifs promoting national values (e.g. agriculture, technology). |\r\n| **5. Language & Script**        | Used **Brahmi, Kharoshthi, Greek, Arabic, or regional scripts** reflecting rulers and regions.                                                         | Uses **Devanagari and English** scripts standardized across the nation.                                                                                   |\r\n| **6. Function & Economic Role** | Had **intrinsic value** (metal worth ≈ face value); served as **both medium and store of value**.                                                      | Have **fiduciary value** (face value > metal value); depend on **state guarantee**.                                                                       |\r\n| **7. Authority of Issue**       | Issued by **kings, dynasties, guilds, city-states** — political and religious legitimacy linked to coinage.                                            | Issued solely by the **Government of India** under **Reserve Bank and Finance Ministry** authority.                                                       |\r\n| **8. Artistic Value**           | Served as **miniature art pieces** — dynastic emblems, regional deities, mythological scenes.                                                          | Focus on **national integration and identity** rather than artistry.                                                                                      |\r\n\r\n---\r\n\r\n## 🧾 **UPSC-Style Summary (150–200 words)**\r\n\r\nAncient Indian coinage reflected both economic activity and political symbolism. Coins were made of precious metals such as gold, silver, and copper, with irregular shapes and distinctive punch-marked symbols like the sun, tree, bull, or swastika. They bore inscriptions in early scripts such as Brahmi and Kharoshthi, serving as expressions of royal authority and religious belief. Their intrinsic metal value made them reliable stores of wealth.\r\n\r\nIn contrast, contemporary Indian coins are uniform, machine-struck, and circular, made of inexpensive alloys like nickel or stainless steel. Their value is fiduciary, backed by the state rather than metal content. Modern coinage bears national symbols such as the Lion Capital of Ashoka, the denomination, and inscriptions in Hindi and English, symbolizing unity, sovereignty, and democratic identity.\r\n\r\nThus, while **ancient coinage combined economic and religious symbolism**, **modern coinage emphasizes administrative standardization and national representation**.\r\n\r\n---\r\n\r\n# Q.3 What factors do you believe attract Numerous foreigners from diverse reason to visit ancient india?\r\n\r\n## Answer:\r\n\r\nIt connects **ancient Indian history, economy, and culture** with global interactions 🌏\r\n\r\n## 🌸 **Reasons Why Numerous Foreigners Were Attracted to Ancient India**\r\n\r\nForeigners — traders, scholars, monks, diplomats, and invaders — came to India for **economic prosperity, spiritual knowledge, political alliances, and cultural exchange.**\r\n\r\n---\r\n\r\n### 🏺 **1. Economic Prosperity & Trade Wealth**\r\n\r\n* India was known as **“Golden Bird (Sone ki Chidiya)”** for its wealth and resources.\r\n* Rich in **spices, textiles, gold, pearls, and precious stones** — high demand in Rome, China, Arabia, and Central Asia.\r\n* Important trade centers like **Pataliputra, Ujjain, Tamralipti, Taxila, Broach, and Kanchipuram** attracted merchants.\r\n* **Silk Route** and **maritime routes** (Arabian Sea & Bay of Bengal) connected India with the Mediterranean, Southeast Asia, and China.\r\n\r\n🛍️ *Example:* Roman coins found in South India show Indo-Roman trade links.\r\n\r\n---\r\n\r\n### 🕉️ **2. Spiritual and Religious Quest**\r\n\r\n* India was the **birthplace of major religions** — Hinduism, Buddhism, Jainism.\r\n* Buddhist philosophy, monasteries (like **Nalanda**, **Vikramashila**, **Taxila**) attracted monks and pilgrims.\r\n* Chinese travelers like **Fa-Hien**, **Hiuen Tsang**, and **Itsing** visited to study scriptures and Buddhist philosophy.\r\n\r\n🙏 *Example:* Hiuen Tsang’s detailed account of India (7th century CE) reflects spiritual learning centers and social life.\r\n\r\n---\r\n\r\n### 🏰 **3. Flourishing Centers of Learning**\r\n\r\n* Ancient universities like **Nalanda**, **Takshashila**, **Vallabhi**, **Kanchipuram** were globally renowned.\r\n* Subjects taught: philosophy, medicine (Ayurveda), mathematics, astronomy, grammar, and logic.\r\n  📚 *Example:* Scholars from Tibet, China, Korea, and Central Asia studied Sanskrit and Buddhist texts here.\r\n\r\n---\r\n\r\n### 🎨 **4. Rich Cultural and Artistic Heritage**\r\n\r\n* India’s **architecture, sculpture, music, and dance** fascinated travelers.\r\n* Stupas (Sanchi), rock-cut caves (Ajanta–Ellora), and temples reflected high craftsmanship.\r\n* Cultural tolerance and patronage of art under Mauryas, Guptas, and Cholas attracted visitors and artisans.\r\n\r\n🎭 *Example:* Greek ambassador **Megasthenes** (to Chandragupta Maurya’s court) admired Pataliputra’s grandeur.\r\n\r\n---\r\n\r\n### ⚖️ **5. Political Power and Stability**\r\n\r\n* Strong and organized empires — **Mauryan, Gupta, Kushan, Chola** — provided safety and patronage to foreigners.\r\n* Diplomatic relations encouraged cultural exchanges.\r\n  🌍 *Example:* Envoys from Greece, Persia, and Rome visited Indian courts.\r\n\r\n---\r\n\r\n### ⚗️ **6. Science, Medicine, and Knowledge Systems**\r\n\r\n* Ancient India excelled in **mathematics (zero, decimal), astronomy, metallurgy, medicine, and surgery (Sushruta, Charaka)**.\r\n* Attracted scholars and physicians from abroad seeking advanced learning.\r\n\r\n---\r\n\r\n### 🕊️ **7. Religious Tolerance and Hospitality**\r\n\r\n* India’s ethos of **“Atithi Devo Bhava”** (Guest is God) and acceptance of diverse faiths created an inviting atmosphere for foreigners.\r\n\r\n---\r\n\r\n## ✨ **In Summary (UPSC-ready paragraph)**\r\n\r\nAncient India attracted foreigners for its immense wealth, flourishing trade, spiritual wisdom, and intellectual excellence. Merchants came for India’s spices, textiles, and precious stones; monks and scholars sought enlightenment in its universities and monasteries; envoys admired its political organization and cultural sophistication. The land of Buddha and the Vedas stood as a beacon of learning, tolerance, and prosperity — drawing travelers from Greece, China, Persia, and Rome who left vivid accounts of India’s golden past.\r\n\r\n---\r\n\r\n# Q.4 In modern times large weapons are often perceived as more adverse. However , why was the reduction in the size of tools considered an advancement during the measures mesolithic age?\r\n\r\n## Answer:\r\n\r\n### 🪨 **Context: Mesolithic Age (Middle Stone Age)**\r\n\r\n* Period: roughly **10,000–8,000 BCE** (between Paleolithic and Neolithic).\r\n* Characterized by the emergence of **microliths** — *tiny, finely worked stone tools* usually less than 5 cm long.\r\n\r\n---\r\n\r\n## ⚖️ **Question Essence:**\r\n\r\n> Why was **smaller tool size** seen as **technological progress**, not regression?\r\n\r\n---\r\n\r\n## 💡 **1. Precision and Efficiency**\r\n\r\n* Smaller tools = **greater sharpness and control**.\r\n* Microliths were **more effective cutting or piercing edges**, improving **hunting, skinning, and food processing**.\r\n  🪶 *Hence:* The refinement of tool-making skill, not the size, indicated advancement.\r\n\r\n---\r\n\r\n## 🧠 **2. Composite Tool Technology**\r\n\r\n* Microliths were often **mounted on wood, bone, or antler handles** to form **arrows, spears, knives, or sickles**.\r\n* This shows **conceptual innovation** — using multiple materials to create a **multi-part tool**.\r\n  🔧 *Symbol of cognitive advancement and planning ability.*\r\n\r\n---\r\n\r\n## 🏹 **3. Adaptation to Changing Environment**\r\n\r\n* Post-Ice Age period → forests replaced open grasslands → **smaller, faster game animals**.\r\n* Large heavy tools became inefficient; **light, portable, and precise microliths** suited hunting small animals and birds.\r\n\r\n---\r\n\r\n## 🧭 **4. Resource Optimization**\r\n\r\n* Small flakes allowed **maximum use of raw material** (flint, chert).\r\n* Easy to carry and replace; suitable for **nomadic hunter-gatherer lifestyle**.\r\n  ⚙️ *Economy of material use = efficiency.*\r\n\r\n---\r\n\r\n## 👣 **5. Step Toward Neolithic Culture**\r\n\r\n* Mesolithic innovations (microliths, bow and arrow, fishing tools) paved the way for **food production** in the Neolithic period.\r\n  🌾 *So, miniaturization was part of technological evolution.*\r\n\r\n---\r\n\r\n✅ **UPSC-Style Summary (150 words):**\r\n\r\nIn modern times, large weapons symbolize greater destructive power, but during the Mesolithic Age, the reduction in tool size represented technological refinement. The development of microliths—tiny, sharp stone blades—reflected improved craftsmanship and adaptability. These smaller tools could be hafted onto wood or bone to make composite weapons like arrows and sickles, increasing efficiency and versatility. As climatic changes after the Ice Age led to forests and smaller fauna, lightweight tools became more effective for hunting and daily use. The miniaturization of tools also indicated better resource management and planning ability. Thus, the shift from large crude implements to small, sophisticated microliths marked **a major advance in human technological and cognitive evolution**, not decline.\r\n\r\n---\r\n\r\n# Q.5 Why did we v gordon shilde view neolithic as revolutionary ageWhy did  The new litcage is a revolutionary.what significant transformations were introduced during this era? Which of these changes hold the most significant value?\r\n\r\n## Answer:\r\n\r\n**V. Gordon Childe’s view** of the **Neolithic Age** as a **“Revolutionary Age.”**\r\n\r\n## 🧠 **1. Why did V. Gordon Childe view the Neolithic Age as a “Revolutionary Age”?**\r\n\r\n* The archaeologist **V. Gordon Childe** called the **Neolithic period (New Stone Age)** a **“Neolithic Revolution”** because it marked a **fundamental, rapid, and permanent transformation** in human life.\r\n* He compared it to a “revolution” — not political, but **economic, social, and technological** — that completely changed how humans lived.\r\n\r\n💬 **Childe’s key idea:**\r\n\r\n> “The Neolithic Revolution transformed man from a food-gatherer to a food-producer.”\r\n\r\n---\r\n\r\n## 🌾 **2. What transformations were introduced during this era?**\r\n\r\n| **Aspect**             | **Old (Palaeolithic)** | **New (Neolithic)**                                      | **Significance**                                     |\r\n| ---------------------- | ---------------------- | -------------------------------------------------------- | ---------------------------------------------------- |\r\n| **Subsistence**        | Hunting and gathering  | **Agriculture and animal domestication**                 | Beginning of food production and control over nature |\r\n| **Lifestyle**          | Nomadic                | **Permanent settlements and villages**                   | Rise of stable communities and architecture          |\r\n| **Tools & Technology** | Rough, chipped stone   | **Polished stone tools, pottery, weaving**               | Improved efficiency and craftsmanship                |\r\n| **Society**            | Small kin groups       | **Family units, division of labour, property ownership** | Foundation of social organization                    |\r\n| **Culture & Belief**   | Simple rituals         | **Burial practices, fertility cults, figurines**         | Spiritual and artistic development                   |\r\n\r\n---\r\n\r\n## 🏛️ **3. Why is it considered revolutionary?**\r\n\r\nBecause these changes:\r\n\r\n* **Transformed economic life** — humans produced food instead of relying on chance.\r\n* **Encouraged social complexity** — permanent settlements → villages → civilizations.\r\n* **Created new technology** — pottery, weaving, tool polishing, storage.\r\n* **Altered human–nature relationship** — from adaptation to control.\r\n\r\nIt was, in essence, the **birth of civilization**.\r\n\r\n---\r\n\r\n## 💭 **4. Your Opinion — Which change holds the most significant value?**\r\n\r\n> The **adoption of agriculture** is the most significant transformation.\r\n\r\nBecause:\r\n\r\n* It provided **food surplus**, enabling **settlements, trade, and specialization**.\r\n* It led to the **concept of property, family, and social hierarchy**.\r\n* It marked the beginning of **planned human life** — the base of all later progress.\r\n\r\n---\r\n\r\n## 🧾 **UPSC-Style 150-word Summary**\r\n\r\nV. Gordon Childe described the Neolithic Age as a revolutionary period because it brought a profound transformation in human life. During this age, man changed from a hunter-gatherer to a food producer through agriculture and animal domestication. People began to live in permanent villages, developed polished stone tools, pottery, and weaving, and evolved social structures based on cooperation and ownership. Religious and artistic expressions also flourished. These shifts collectively marked the transition from nature-dependent existence to organized social life. Among all these changes, the advent of agriculture was the most significant—it created surplus food, allowed population growth, and laid the foundations of civilization. Thus, the Neolithic Revolution stands as one of humanity’s greatest turning points.\r\n\r\n---\r\n\r\n# Q.6 Why was the production of copper achieved through melting techniques introduced well before the iron despite being an advanced technology?\r\n\r\n## Answer:\r\n\r\nThe **technological, geological, and cultural differences** between the two metals.\r\n\r\n### 🧱 1. **Availability and Nature of Ores**\r\n\r\n* **Copper ores** (like malachite, azurite, cuprite) occur **near the earth’s surface** and are often found in **native (metallic) form** — meaning early humans could directly find lumps of copper metal.\r\n* **Iron ores** (like hematite, magnetite) are **very stable oxides**, and iron **never occurs in native form** (except meteoric iron).\r\n* So, copper was **easier to discover and experiment with**, while iron required **more complex smelting and reduction knowledge**.\r\n\r\n### 🔥 2. **Melting Point Difference**\r\n\r\n| Metal  | Approx. Melting Point | Implication                                                                                          |\r\n| ------ | --------------------- | ---------------------------------------------------------------------------------------------------- |\r\n| Copper | ~1085°C               | Achievable in early clay furnaces with charcoal.                                                     |\r\n| Iron   | ~1538°C               | Required much **higher temperatures** and **better furnace design** (bloomery, later blast furnace). |\r\n\r\nSo, ancient furnaces could **reach copper-melting temperatures** but **not iron-smelting ones** initially.\r\n\r\n---\r\n\r\n### ⚗️ 3. **Chemical Reduction Difficulty**\r\n\r\n* To extract **metal from ore**, you must **reduce oxides** with carbon.\r\n* Copper oxides are **easily reducible** at moderate temperatures.\r\n* Iron oxides require **a reducing atmosphere** and **higher heat**, plus control over **carbon content** (else you get brittle cast iron).\r\n\r\nHence, **metallurgical control** for iron came much later (around 1200 BCE).\r\n\r\n---\r\n\r\n### 🏺 4. **Historical Sequence**\r\n\r\n* **Native copper used** → **Cold hammered** → **Melted and cast** (Bronze Age, ~4000–3000 BCE).\r\n* **Bronze (Copper + Tin)** technology developed → tools, weapons, ornaments.\r\n* **Iron smelting** only became widespread during the **Iron Age (~1200 BCE onward)** when **furnace and air-blast techniques** improved.\r\n\r\n---\r\n\r\n### ⚙️ 5. **Cultural & Practical Factors**\r\n\r\n* Copper and bronze were **softer but workable**, ideal for tools and ornaments.\r\n* Iron, though harder and better, was **initially brittle** and **costlier** due to production difficulty.\r\n* Societies adopted iron **only when technology matured** enough to produce **malleable wrought iron** efficiently.\r\n\r\n---\r\n\r\n✅ **In summary:**\r\n\r\n> Copper metallurgy appeared earlier than iron because copper ores were more accessible, easier to reduce, and required much lower temperatures for smelting — whereas iron extraction demanded higher furnace temperatures, better air control, and advanced techniques developed only later.",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Prehistory and archaeology"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-bf9432472193fc",
@@ -1472,7 +1997,10 @@ export const upscCatalogue = {
         "https://blog.finology.in/Legal-news/historical-chronology-bc-ad-bce-ce",
         "https://www.vedantu.com/full-form/what-is-the-bc-ad-ce-full-form"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-cb2135fe24d957",
@@ -1484,7 +2012,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/History_Handwritten_Index.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-3251150792128e",
@@ -1496,7 +2027,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/History_Handwritten_Notes.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-0685d8e4aef9c6",
@@ -1516,7 +2050,10 @@ export const upscCatalogue = {
         "https://oceanofpdf.com/authors/vedanta-ias-academy/pdf-epub-vedanta-ias-academy-modern-history-notes-for-civil-services-upsc-premlims-main-ias-ifs-ips-irs-irs-download/",
         "https://oceanofpdf.com/authors/hermann-kulke/pdf-epub-a-history-of-india-download-76774246747/?id=000323678063"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-b73102a9851a35",
@@ -1533,7 +2070,14 @@ export const upscCatalogue = {
         "https://blogmedia.testbook.com/blog/wp-content/uploads/2023/07/list-of-indian-national-movements-from-1857-to-1947-for-upsc-715d06ae.pdf",
         "https://cdn.visionias.in/value_added_material/6b809-freedom-movement.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "National movement"
+      ],
+      "appscTopics": [
+        "t-0-8"
+      ]
     },
     {
       "id": "upsc-2414c6340a2183",
@@ -1548,7 +2092,12 @@ export const upscCatalogue = {
         "https://pu.edu.pk/images/journal/pols/pdf-files/9_25_1_18.pdf",
         "https://nios.ac.in/media/documents/military_history_375/Book-2/Chapter-18.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Post-independence India"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-95b48c486d90a8",
@@ -1563,7 +2112,14 @@ export const upscCatalogue = {
         "https://www.drishtiias.com/daily-updates/daily-news-editorials/integration-of-north-eastern-states",
         "https://ncert.nic.in/pdf/publication/otherpublications/tinei101.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Indian physical geography"
+      ],
+      "appscTopics": [
+        "t-3-2"
+      ]
     },
     {
       "id": "upsc-975b328d1240a9",
@@ -1577,7 +2133,10 @@ export const upscCatalogue = {
       "links": [
         "https://upsc.gov.in/sites/default/files/CommonMistakeCndts-engl-130123.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-da7018fba7aff2",
@@ -1589,7 +2148,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/International_Relations/India_Neighbourhood_Policies/India%27s_Regional_Engagement_Blueprint.png",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "International relations"
+      ],
+      "appscTopics": [
+        "t-1-9"
+      ]
     },
     {
       "id": "upsc-66e9591f50dd79",
@@ -1601,7 +2167,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/International_Relations/India_Neighbourhood_Policies/India_Neighbourhood_First_Strategy.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "International relations"
+      ],
+      "appscTopics": [
+        "t-1-9"
+      ]
     },
     {
       "id": "upsc-ba3d772d5fe5cd",
@@ -1613,7 +2186,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/International_Relations/India_Neighbourhood_Policies/Indian_Diplomacy_Global_Strategy_Mind_Map.png",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "International relations"
+      ],
+      "appscTopics": [
+        "t-1-9"
+      ]
     },
     {
       "id": "upsc-6e266e40f48ea8",
@@ -1629,7 +2209,14 @@ export const upscCatalogue = {
         "https://vajiramandravi.com/upsc-exam/indias-foreign-policy-in-its-neighbourhood/",
         "https://testbook.com/ias-preparation/relation-of-india-with-its-neighbours"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "International relations"
+      ],
+      "appscTopics": [
+        "t-1-9"
+      ]
     },
     {
       "id": "upsc-0d5fa228bee96d",
@@ -1644,7 +2231,14 @@ export const upscCatalogue = {
         "https://hmmcollege.ac.in/uploads/dept_teaching_plan/International_Relations_by_Pavneet_Singh.pdf",
         "https://pwonlyias.com/hi/wp-content/uploads/2022/11/PSIR-Paper-2-Section-B-OnlyIAS-PSIR-2023.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "International relations"
+      ],
+      "appscTopics": [
+        "t-1-9"
+      ]
     },
     {
       "id": "upsc-46836b676a4b0f",
@@ -1659,7 +2253,10 @@ export const upscCatalogue = {
         "https://www.allpdfnotes.com/2022/08/english-grammar-notes-pdf-download-now.html",
         "https://handwritten.downloadpdfnotes.com/2023/02/pdf-english-grammar-handwritten-study.html#google_vignette"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Language",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-da0894f366934b",
@@ -1675,7 +2272,10 @@ export const upscCatalogue = {
         "https://cdnbbsr.s3waas.gov.in/s3kv01030328d28bc09a295997d199a634/uploads/2024/08/2024082111.pdf",
         "https://starnoldsvijaynagar.com/ELearning/ClassX/AlankarClassX.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Language",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-31a120b188bac4",
@@ -1689,7 +2289,10 @@ export const upscCatalogue = {
       "links": [
         "https://www.youtube.com/watch?v=gWL3PaI4wvk"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Language",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-9b231cf7f58b26",
@@ -1703,7 +2306,10 @@ export const upscCatalogue = {
       "links": [
         "https://youtube.com/shorts/UoJC8DTfxVY?si=OejtAJhbB7JoQbK5"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Language",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-6e23403b066020",
@@ -1722,7 +2328,10 @@ export const upscCatalogue = {
         "https://examrajasthan.com/hindi-grammar-notes-free-pdf-download-institute/",
         "https://instapdf.in/hindi-grammar-notes/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Language",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-3aec3961e8cde9",
@@ -1736,7 +2345,10 @@ export const upscCatalogue = {
       "links": [
         "https://www.sparknotes.com/lit/flies/characters/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-723659fa3a8412",
@@ -1751,7 +2363,10 @@ export const upscCatalogue = {
         "https://pwonlyias.com/pyq/normally-countries-shift-from-agriculture-to-industry-and-then-later-to-services-but-india-shifted-directly-from-agriculture-to-services-what-are-the-reasons-for-the-huge-growth-of-services-vis-a-vi/",
         "https://edukemy.com/blog/what-is-water-stress-how-and-why-does-it-differ-regionally-in-india-15-marks-250-words/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-fb6a8d48c52e8f",
@@ -1767,7 +2382,10 @@ export const upscCatalogue = {
         "https://camo.githubusercontent.com/ab69ee9351a4d968fa546502287669364c1c12819047a46edbe13c81747a13d1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d754174757155476e6e32504b73586873362f67697068792e676966",
         "https://camo.githubusercontent.com/2298df3ae690b26292d87e97209727867297670e847f399ccb6cea2d8bee2996/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f635a31663462343650334c47737a755875792f67697068792e676966"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-cb0c04c8d8abc6",
@@ -1781,7 +2399,10 @@ export const upscCatalogue = {
       "links": [
         "https://iasbaba.com/2020/09/mind-maps-geography-basics-structure-rotation-revolution-of-the-earth-general-studies-1/?theme_mode=dark"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-0d216aee662582",
@@ -1796,7 +2417,10 @@ export const upscCatalogue = {
         "https://mindmapai.app/mind-map/medieval-indian-history-1206-1707-69a2c3bd",
         "https://pdfcoffee.com/history-mind-maps-pdf-free.html"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-9e5bf3424e948f",
@@ -1808,7 +2432,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Mind_Maps/History/Medieval_History.docx",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Medieval India"
+      ],
+      "appscTopics": [
+        "t-0-5"
+      ]
     },
     {
       "id": "upsc-ffa24942fe1521",
@@ -1820,7 +2451,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Mind_Maps/History/Medieval_History.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Medieval India"
+      ],
+      "appscTopics": [
+        "t-0-5"
+      ]
     },
     {
       "id": "upsc-7a2b6e4e192807",
@@ -1832,7 +2470,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Mind_Maps/History/Slave_Dynasty.docx",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Delhi Sultanate"
+      ],
+      "appscTopics": [
+        "t-0-5"
+      ]
     },
     {
       "id": "upsc-a2cae4b5c950e7",
@@ -1844,7 +2489,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Mind_Maps/History/Slave_Dynasty.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Delhi Sultanate"
+      ],
+      "appscTopics": [
+        "t-0-5"
+      ]
     },
     {
       "id": "upsc-169bb5c9861c49",
@@ -1856,7 +2508,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Mind_Maps/International_Relations/India-Bangladesh-Relations.png.webp",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "International relations"
+      ],
+      "appscTopics": [
+        "t-1-9"
+      ]
     },
     {
       "id": "upsc-4f2d092947d5ad",
@@ -1872,7 +2531,10 @@ export const upscCatalogue = {
         "https://iasbaba.com/2020/05/new-initiative-brainstorming-through-mind-maps/",
         "https://iasbaba.com/mind-map/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-dc9f772fe65b86",
@@ -1885,9 +2547,12 @@ export const upscCatalogue = {
       "text": "Useful Mnemonics For UPSC IAS Exam:\r\n\r\nhttps://pwonlyias.com/mnemonics-for-upsc-exam/\r\n\r\nList of Mnemonics for UPSC CSE 2025:\r\n\r\nhttps://vajiramandravi.com/upsc-exam/mnemonics-for-upsc-cse/#:~:text=UPSC%20Mnemonics%20for%20International%20Relations,-UPSC%20Mnemonics%20for&text=G4%20Group%3A%20Brazil%2C%20India%2C,Germany%2C%20Japan%20(%20BIG%20Japan%20)\r\n\r\nRARE EARTHS:\r\n\r\nhttp://www.eudesign.com/mnems/rarearth.htm",
       "links": [
         "https://pwonlyias.com/mnemonics-for-upsc-exam/",
-        "https://vajiramandravi.com/upsc-exam/mnemonics-for-upsc-cse/#:~:text=UPSC%20Mnemonics%20for%20International%20Relations,-UPSC%20Mnemonics%20for&text=G4%20Group%3A%20Brazil%2C%20India%2C,Germany%2C%20Japan%20(%20BIG%20Japan%20"
+        "https://vajiramandravi.com/upsc-exam/mnemonics-for-upsc-cse/#:~:text=UPSC%20Mnemonics%20for%20International%20Relations,-UPSC%20Mnemonics%20for&text=G4%20Group%3A%20Brazil%2C%20India%2C,Germany%2C%20Japan%20(%20BIG%20Japan%20)"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-3f8d4806210196",
@@ -1907,7 +2572,14 @@ export const upscCatalogue = {
         "https://natural-resources.canada.ca/minerals-mining/mining-data-statistics-analysis/minerals-metals-facts/rare-earth-elements-facts",
         "https://www.stanfordmaterials.com/blog/what-are-rare-earth-materials.html"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Geography",
+      "upscTopics": [
+        "Mineral resources"
+      ],
+      "appscTopics": [
+        "t-3-5"
+      ]
     },
     {
       "id": "upsc-1cb381d8fbb799",
@@ -1944,7 +2616,10 @@ export const upscCatalogue = {
         "https://byjus.com/free-ias-prep/the-union-territories/",
         "https://en.m.wikipedia.org/wiki/States_and_union_territories_of_India"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-7f47980bf03236",
@@ -1962,7 +2637,10 @@ export const upscCatalogue = {
         "https://upsc.gov.in/examinations/Indian%20Forest%20Service%20%28Preliminary%29%20Examination%2C%202026%20through%20CS%28P%29%20Examination%2C%202026",
         "https://upsc.gov.in/sites/default/files/Notif-IFSP-26-Engl-040226.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-9a1b5838145586",
@@ -1979,7 +2657,10 @@ export const upscCatalogue = {
         "https://www.pavithran.net/wp-content/uploads/2023/10/Crux-laxmikant-polity.pdf",
         "https://testbook.com/pdf-viewer?u=https:%2F%2Fcdn.testbook.com%2F1745220197891-Polity%20Final%20Notes.pdf%2F1745220199.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-d302dbb8a862d2",
@@ -1995,7 +2676,14 @@ export const upscCatalogue = {
         "https://www.drishtiias.com/daily-updates/daily-news-analysis/6th-bimstec-summit",
         "https://en.m.wikipedia.org/wiki/BIMSTEC"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "International relations"
+      ],
+      "appscTopics": [
+        "t-1-9"
+      ]
     },
     {
       "id": "upsc-9b891f3c46b21e",
@@ -2009,7 +2697,12 @@ export const upscCatalogue = {
       "links": [
         "https://guidely.in/blog/list-of-geographical-indication-tags-in-india"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Economy & Planning",
+      "upscTopics": [
+        "Intellectual property and trade"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-53685cac165a6b",
@@ -2021,7 +2714,12 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Polity/Conventions/GI_Tag/TRIPS_Agreement_India.txt",
       "text": "TRIPS Agreement and India\n==========================\n\n1. What is TRIPS?\n-----------------\n- TRIPS stands for **Trade-Related Aspects of Intellectual Property Rights**.\n- It is an international legal agreement administered by the **World Trade Organization (WTO)**.\n- Sets **minimum standards** for IP protection and enforcement among WTO members.\n- Covers: copyrights, patents, trademarks, geographical indications, trade secrets, industrial designs, integrated circuits, plant varieties.\n\n2. TRIPS and India\n-------------------\n- India is a **WTO member**, hence bound by TRIPS.\n- Came into effect globally in **1995**.\n- Developing countries like India received a **transition period** to comply.\n- India amended its IP laws:\n  - **Patents Act, 1970** → amended in 1999, 2002, 2005 (introduced product patents for pharma & agrochemicals).\n  - **Copyright Act** updated.\n  - **Trademark Act** updated.\n  - **Geographical Indications of Goods (Registration and Protection) Act, 1999** (e.g., Darjeeling Tea).\n\n3. Key Features under TRIPS for India\n--------------------------------------\n- **Patent term:** 20 years from filing date.\n- **Copyright term:** Life of author + 60 years.\n- **Compulsory licensing:** Allowed under public health needs (e.g., Natco vs Bayer case).\n- **Protection for Traditional Knowledge:** India created **Traditional Knowledge Digital Library (TKDL)** to prevent biopiracy.\n\n4. Important Points for Exams\n------------------------------\n- TRIPS is part of **WTO agreements** (1995).\n- India shifted from **process patents** to **product patents** in 2005.\n- TRIPS provides for IP in **trade context**, linking IP with international commerce.\n- Issues: balancing IP protection with access to medicines and traditional knowledge.",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Economy & Planning",
+      "upscTopics": [
+        "Intellectual property and trade"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-cc522f4399f0d0",
@@ -2033,7 +2731,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Polity/Conventions/IUCN/IUCN_Species.docx",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Environment & Ecology",
+      "upscTopics": [
+        "Biodiversity and conservation"
+      ],
+      "appscTopics": [
+        "t-3-8"
+      ]
     },
     {
       "id": "upsc-d497b271ea2230",
@@ -2045,7 +2750,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Polity/Conventions/IUCN/IUCN_Species.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Environment & Ecology",
+      "upscTopics": [
+        "Biodiversity and conservation"
+      ],
+      "appscTopics": [
+        "t-3-8"
+      ]
     },
     {
       "id": "upsc-4868e0bda0dd38",
@@ -2057,7 +2769,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Polity/Conventions/IUCN/IUCN_reference_world_india_10x10_all_categories.csv",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Environment & Ecology",
+      "upscTopics": [
+        "Biodiversity and conservation"
+      ],
+      "appscTopics": [
+        "t-3-8"
+      ]
     },
     {
       "id": "upsc-0f836985ad8621",
@@ -2069,7 +2788,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Polity/Conventions/IUCN/IUCN_reference_world_india_10x10_all_categories.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Environment & Ecology",
+      "upscTopics": [
+        "Biodiversity and conservation"
+      ],
+      "appscTopics": [
+        "t-3-8"
+      ]
     },
     {
       "id": "upsc-e341e3be90bed6",
@@ -2089,7 +2815,14 @@ export const upscCatalogue = {
         "https://civils.pteducation.com/2021/10/UPSC-IAS-exam-preparation-IUCN-CLASSIFICATION.html",
         "https://en.wikipedia.org/wiki/IUCN_Red_List"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Environment & Ecology",
+      "upscTopics": [
+        "Biodiversity and conservation"
+      ],
+      "appscTopics": [
+        "t-3-8"
+      ]
     },
     {
       "id": "upsc-996ad68cac4714",
@@ -2103,7 +2836,14 @@ export const upscCatalogue = {
       "links": [
         "https://www.pmfias.com/ramsar-sites-india/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Environment & Ecology",
+      "upscTopics": [
+        "Wetland conservation"
+      ],
+      "appscTopics": [
+        "t-3-8"
+      ]
     },
     {
       "id": "upsc-dff9d65294b025",
@@ -2117,7 +2857,12 @@ export const upscCatalogue = {
       "links": [
         "https://vajiramandravi.com/current-affairs/7-wonders-of-the-world/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Cultural heritage"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-140f009f5bdffe",
@@ -2133,7 +2878,12 @@ export const upscCatalogue = {
         "https://mapsforupsc.com/wp-content/uploads/2025/07/UNESCO-World-Heritage-Sites-in-India-Map.pdf",
         "https://guidely.in/blog/unesco-world-heritage-sites-india"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Cultural heritage"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-922ab385d7d738",
@@ -2147,7 +2897,14 @@ export const upscCatalogue = {
       "links": [
         "https://cdn1.byjus.com/wp-content/uploads/2021/07/United-Nations.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "International relations"
+      ],
+      "appscTopics": [
+        "t-1-9"
+      ]
     },
     {
       "id": "upsc-d2742d37e26234",
@@ -2162,7 +2919,12 @@ export const upscCatalogue = {
         "https://unacademy.com/content/upsc/study-material/general-awareness/infantry-regiment-in-the-indian-army/",
         "https://byjus.com/defence-exams/indian-army-regiments/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Current Events",
+      "upscTopics": [
+        "Defence references"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-ec8a842c8c2859",
@@ -2178,7 +2940,14 @@ export const upscCatalogue = {
         "https://en.m.wikipedia.org/wiki/Country_code_top-level_domain",
         "https://www.godaddy.com/resources/skills/most-common-domain-extensions"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Science & Technology",
+      "upscTopics": [
+        "Information technology & AI"
+      ],
+      "appscTopics": [
+        "t-5-5"
+      ]
     },
     {
       "id": "upsc-cc4d30fc9d4fe0",
@@ -2194,7 +2963,14 @@ export const upscCatalogue = {
         "https://www.21kschool.com/ae/blog/national-curriculum-framework-ncf/",
         "https://www.drishtiias.com/daily-updates/daily-news-analysis/national-curriculum-framework-4"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Education policy and social justice"
+      ],
+      "appscTopics": [
+        "t-1-8"
+      ]
     },
     {
       "id": "upsc-8b1eea091903a7",
@@ -2206,7 +2982,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Polity/Education/NCF_23/NCF_23.txt",
       "text": "The National Curriculum Framework for School Education (NCF-SE) 2023 was officially released by the Union Minister of Education on 23 August 2023.\r\n\r\nIt provides guidelines for restructuring the school curriculum and pedagogy under the NEP 2020 vision. It aims to make education more holistic, competency-based, and aligned with 21st-century skills, replacing the previous framework of 2005.",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Education policy and social justice"
+      ],
+      "appscTopics": [
+        "t-1-8"
+      ]
     },
     {
       "id": "upsc-4291adc9be3f60",
@@ -2228,7 +3011,14 @@ export const upscCatalogue = {
         "https://www.ndtv.com/education/6-big-changes-in-nep-2020-that-every-parent-student-educator-should-know-8947658",
         "https://www.21kschool.com/in/blog/national-education-policy/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Education policy and social justice"
+      ],
+      "appscTopics": [
+        "t-1-8"
+      ]
     },
     {
       "id": "upsc-6825006e8aaaaa",
@@ -2252,7 +3042,14 @@ export const upscCatalogue = {
         "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1847066",
         "https://learnqoch.com/how-nep-2020-can-revolutionize-the-indian-education-system/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Education policy and social justice"
+      ],
+      "appscTopics": [
+        "t-1-8"
+      ]
     },
     {
       "id": "upsc-74a6bfcc646a8b",
@@ -2271,7 +3068,12 @@ export const upscCatalogue = {
         "https://testbook.com/ias-preparation/difference-between-left-wing-and-right-wing",
         "https://byjus.com/free-ias-prep/difference-between-left-wing-and-right-wing/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Internal security"
+      ],
+      "appscTopics": []
     },
     {
       "id": "upsc-ff5328deedc312",
@@ -2288,7 +3090,14 @@ export const upscCatalogue = {
         "https://www.drishtiias.com/daily-updates/daily-news-editorials/advancing-towards-one-nation-one-election",
         "https://en.m.wikipedia.org/wiki/One_Nation,_One_Election"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Electoral reform"
+      ],
+      "appscTopics": [
+        "t-6-3"
+      ]
     },
     {
       "id": "upsc-793300be71f0ae",
@@ -2303,7 +3112,15 @@ export const upscCatalogue = {
         "https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/29-07-2025/",
         "https://www.drishtiias.com/daily-updates/daily-news-analysis/pm-mitra-scheme-and-textile-sector"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Economy & Planning",
+      "upscTopics": [
+        "Industry & infrastructure"
+      ],
+      "appscTopics": [
+        "t-2-6",
+        "t-6-3"
+      ]
     },
     {
       "id": "upsc-a2b9c464deece0",
@@ -2318,7 +3135,14 @@ export const upscCatalogue = {
         "https://vajiramandravi.com/current-affairs/important-government-schemes/",
         "https://www.studyiq.com/articles/schemes-of-indian-government/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Government schemes"
+      ],
+      "appscTopics": [
+        "t-6-3"
+      ]
     },
     {
       "id": "upsc-502050cc8ce56c",
@@ -2334,7 +3158,14 @@ export const upscCatalogue = {
         "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2037688",
         "https://vajiramandravi.com/current-affairs/e-upahaar-portal/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Government schemes"
+      ],
+      "appscTopics": [
+        "t-6-3"
+      ]
     },
     {
       "id": "upsc-615c8f21ca10d8",
@@ -2349,7 +3180,14 @@ export const upscCatalogue = {
         "https://tathastuics.com/article/governance-the-structure-and-functions-of-the-central-and-state-governments-including-the-executive-legislature-and-judiciary",
         "https://en.m.wikipedia.org/wiki/Government_of_India"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Union executive & Parliament"
+      ],
+      "appscTopics": [
+        "t-1-3"
+      ]
     },
     {
       "id": "upsc-414291c630b6d3",
@@ -2361,7 +3199,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Polity/Government/Leaders_Ministries/Council_of_Ministers/Links.txt",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Union executive & Parliament"
+      ],
+      "appscTopics": [
+        "t-1-3"
+      ]
     },
     {
       "id": "upsc-edd275e823cdae",
@@ -2383,7 +3228,14 @@ export const upscCatalogue = {
         "https://igod.gov.in/ug/E002/organizations",
         "https://en.wikipedia.org/wiki/List_of_ministries_and_departments_of_the_Government_of_India"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Union executive & Parliament"
+      ],
+      "appscTopics": [
+        "t-1-3"
+      ]
     },
     {
       "id": "upsc-cb3efe9e7d93df",
@@ -2401,7 +3253,14 @@ export const upscCatalogue = {
         "https://www.presidentofindia.gov.in/",
         "https://www.pmindia.gov.in/en/former-prime-ministers/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Union executive & Parliament"
+      ],
+      "appscTopics": [
+        "t-1-3"
+      ]
     },
     {
       "id": "upsc-22ff516b0ce972",
@@ -2420,7 +3279,15 @@ export const upscCatalogue = {
         "https://www.iasgyan.in/daily-current-affairs/india-news-judiciary-vs-executive-clash",
         "https://www.insightsonindia.com/2018/11/20/insights-into-editorial-when-judges-legislate/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Constitutional institutions"
+      ],
+      "appscTopics": [
+        "t-1-3",
+        "t-1-4"
+      ]
     },
     {
       "id": "upsc-d530289260336e",
@@ -2435,7 +3302,10 @@ export const upscCatalogue = {
         "https://pwonlyias.com/important-awards-in-india/",
         "https://lotusarise.com/awards-and-honours-in-india-upsc/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-19490e3de8c24d",
@@ -2447,7 +3317,14 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Polity/Law/Constitution/Samvidhan_Hatya_Diwas/Links.txt",
       "text": "httpswww.drishtiias.comdaily-updatesdaily-news-analysissamvidhaan-hatya-diwas",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Constitution & Preamble"
+      ],
+      "appscTopics": [
+        "t-1-0"
+      ]
     },
     {
       "id": "upsc-5963775cbcc36a",
@@ -2461,7 +3338,14 @@ export const upscCatalogue = {
       "links": [
         "https://www.drishtiias.com/daily-updates/daily-news-analysis/the-constitution-day-1"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Constitution & Preamble"
+      ],
+      "appscTopics": [
+        "t-1-0"
+      ]
     },
     {
       "id": "upsc-424bb05cf6176f",
@@ -2476,7 +3360,10 @@ export const upscCatalogue = {
         "https://vajiramandravi.com/upsc-exam/important-articles-of-indian-constitution/",
         "https://blogmedia.testbook.com/blog/wp-content/uploads/2022/08/juvenile-justice-act-f4964c6e.pdf"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-03df4ee835789d",
@@ -2493,7 +3380,10 @@ export const upscCatalogue = {
         "https://en.m.wikipedia.org/wiki/Jana_Gana_Mana#",
         "https://en.m.wikipedia.org/wiki/Vande_Mataram"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-5e0bb375aab09b",
@@ -2516,7 +3406,10 @@ export const upscCatalogue = {
         "https://www.facebook.com/photo.php?fbid=346148151042396&id=100069416400483&set=a.290814589909086",
         "https://in.pinterest.com/pin/654781233347361254/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-63642913c767fa",
@@ -2530,7 +3423,14 @@ export const upscCatalogue = {
       "links": [
         "https://testbook.com/ias-preparation/national-highways-in-india"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Economy & Planning",
+      "upscTopics": [
+        "Industry & infrastructure"
+      ],
+      "appscTopics": [
+        "t-2-6"
+      ]
     },
     {
       "id": "upsc-e03aa6912461ba",
@@ -2542,7 +3442,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Polity/Polity_Handwritten_Index.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-b13e26d7bbdbd3",
@@ -2554,7 +3457,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Polity/Polity_Handwritten_Notes.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-5ba0f2cd40466f",
@@ -2566,7 +3472,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Polity/Renaming/Government_Renaming.md",
       "text": "## Government Renamings & Rebranding\r\n\r\n| 🏛️ Category             | 📛 Old Name              | ✨ New Name                                    | 📅 Year  | 🌟 Significance / Meaning                             | ⚙️ Process Used                           | ✅ Status                    |\r\n| ---------------------- | ----------------------- | --------------------------------------------- | ------- | ---------------------------------------------------- | ---------------------------------------- | --------------------------- |\r\n| 🏢 Central Office       | Prime Minister’s Office | **Seva Teerth (PMO Complex)**                 | 2025    | “Pilgrimage of Service”; service-oriented governance | Executive decision / renaming of complex | ✔️ **Officially designated** |\r\n| 🏗️ Office Complex       | Central Secretariat     | **Kartavya Bhavan**                           | 2022–24 | “Hall of Duty”; efficient governance                 | Cabinet approval + redevelopment         | ✔️ **Official complex name** |\r\n| 🗺️ National Institution | Planning Commission     | **NITI Aayog**                                | 2015    | Policy think-tank; cooperative federalism            | Cabinet resolution                       | ✔️ **Officially replaced**   |\r\n| 🛣️ National Avenue      | Rajpath                 | **Kartavya Path**                             | 2022    | Symbol of citizens’ duty                             | Gazette notification                     | ✔️ **Officially renamed**    |\r\n| 🏛️ Governor’s Residence | Raj Bhavan              | **Lok Bhavan**                                | 2024–25 | “People’s House”; public-centric symbolism           | State executive order                    | ✔️ **Officially renamed**    |\r\n| 🏠 Official Residence   | Raj Niwas               | **Lok Niwas**                                 | 2024–25 | Residence aligned with people-first identity         | State executive order                    | ✔️ **Officially renamed**    |\r\n| 🗽 Monument Canopy      | King George V Statue    | **Netaji Subhas Chandra Bose Statue**         | 2022    | Indian freedom & nationalism                         | Executive decision                       | ✔️ **Official replacement**  |\r\n| 🌸 Presidential Gardens | Mughal Gardens          | **Amrit Udyan**                               | 2023    | Indigenous identity; Amrit Kaal                      | Presidential Secretariat order           | ✔️ **Officially renamed**    |\r\n| ⚖️ Criminal Law         | Indian Penal Code (IPC) | **Bharatiya Nyaya Sanhita (BNS)**             | 2023    | Indianised criminal justice                          | Parliamentary legislation                | ✔️ **Official law**          |\r\n| ⚖️ Procedural Law       | CrPC                    | **Bharatiya Nagarik Suraksha Sanhita (BNSS)** | 2023    | Citizen-centric procedure                            | Parliamentary legislation                | ✔️ **Official law**          |\r\n| ⚖️ Evidence Law         | Indian Evidence Act     | **Bharatiya Sakshya Adhiniyam**               | 2023    | Modern evidence framework                            | Parliamentary legislation                | ✔️ **Official law**          |\r\n| 🗺️ State Name           | Orissa                  | **Odisha**                                    | 2011    | Linguistic authenticity                              | Constitutional amendment                 | ✔️ **Officially renamed**    |\r\n| 🗺️ State Name           | Uttaranchal             | **Uttarakhand**                               | 2007    | Cultural & geographic identity                       | Parliamentary act                        | ✔️ **Officially renamed**    |\r\n| 🚉 Railway Station      | Allahabad Jn            | **Prayagraj Junction**                        | 2018    | Historical city name                                 | Railway notification                     | ✔️ **Officially renamed**    |\r\n| 🚉 Railway Station      | Mughalsarai Jn          | **Pt. Deen Dayal Upadhyaya Jn**               | 2018    | Tribute to nationalist thinker                       | Railway notification                     | ✔️ **Officially renamed**    |\r\n| 🍛 Govt Scheme          | Mid-Day Meal Scheme     | **PM POSHAN Scheme**                          | 2021    | Nutrition + education focus                          | Cabinet approval                         | ✔️ **Official rebranding**   |\r\n| 🚽 Mission Phase        | Swachh Bharat Mission   | **SBM-I / SBM-II (ODF Plus)**                 | 2020    | Outcome-based sanitation                             | Administrative restructuring             | ✔️ **Phases renamed**        |\r\n\r\n---\r\n\r\n### 🧠 **Exam Gold Notes**\r\n\r\n* ✔️ **PMO complex officially designated as “Seva Teerth”** (means *pilgrimage of service*)\r\n* 🏛️ **Raj Bhavan → Lok Bhavan** & **Raj Niwas → Lok Niwas** reflect people-centric governance\r\n* 🏗️ **Kartavya Bhavan ≠ Ministry renaming** (only office complexes)\r\n* ⚖️ **BNS / BNSS / Bharatiya Sakshya Adhiniyam = extremely important for SSC, Banking, UPSC**\r\n* 🛣️ **Rajpath → Kartavya Path** = symbolic governance shift\r\n\r\n---\r\n\r\n## ✅ **Fully confirmed & non-controversial (safe for exams)**\r\n\r\nThese are **official, gazetted / legislated / universally accepted**:\r\n\r\n* **Planning Commission → NITI Aayog (2015)**\r\n* **Rajpath → Kartavya Path (2022)**\r\n* **Central Secretariat → Kartavya Bhavan (2022–24)** *(complex name)*\r\n* **Mughal Gardens → Amrit Udyan (2023)**\r\n* **IPC → Bharatiya Nyaya Sanhita (BNS) (2023)**\r\n* **CrPC → Bharatiya Nagarik Suraksha Sanhita (BNSS) (2023)**\r\n* **Indian Evidence Act → Bharatiya Sakshya Adhiniyam (2023)**\r\n* **Orissa → Odisha (2011)**\r\n* **Uttaranchal → Uttarakhand (2007)**\r\n* **Allahabad Jn → Prayagraj Jn (2018)**\r\n* **Mughalsarai Jn → Pt. Deen Dayal Upadhyaya Jn (2018)**\r\n* **Mid-Day Meal → PM POSHAN (2021)**\r\n* **SBM → SBM-I / SBM-II (ODF Plus)**\r\n\r\n👉 **No controversy. Fully exam-safe.**\r\n\r\n---\r\n\r\n## ⚠️ **Partially controversial / needs careful wording**\r\n\r\n### 1️⃣ **PMO → “Seva Teerth”**\r\n\r\n* ✔️ **Confirmed:** The **PMO complex/building** has been designated **“Seva Teerth”**\r\n* ❌ **Not correct to say:** “PMO has been renamed”\r\n* ✅ **Correct exam wording:**\r\n\r\n  > *PMO complex is officially designated as Seva Teerth; the institution remains the Prime Minister’s Office.*\r\n\r\n📌 This distinction **matters a LOT in exams**.\r\n\r\n---\r\n\r\n### 2️⃣ **Raj Bhavan → Lok Bhavan / Raj Niwas → Lok Niwas**\r\n\r\n* ✔️ **Confirmed:** Renaming **has happened in some states / specific contexts**\r\n* ❌ **Not uniform nationwide**\r\n* ❌ **No single central gazette mandating all Raj Bhavans to change**\r\n* ✅ **Correct framing:**\r\n\r\n  > *Renamed in certain states/administrations, not a pan-India change.*\r\n\r\n📌 This is **administrative, not constitutional**.",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-e079879ecc866a",
@@ -2580,7 +3489,10 @@ export const upscCatalogue = {
       "links": [
         "https://pbs.twimg.com/media/HBSnWoVaYAEGHP2.jpg"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-76ee60397126c2",
@@ -2595,7 +3507,10 @@ export const upscCatalogue = {
         "https://www.files.ethz.ch/isn/125396/1154_trystnehru.pdf",
         "https://poshampa.org/tryst-with-destiny-speech-in-hindi-by-jawaharlal-nehru/"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-cab15dd23cc7ed",
@@ -2609,7 +3524,10 @@ export const upscCatalogue = {
       "links": [
         "https://testbook.com/ias-preparation/ministries-and-departments-of-government-of-india"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-b36f49d5919db2",
@@ -2624,7 +3542,10 @@ export const upscCatalogue = {
         "https://en.m.wikipedia.org/wiki/List_of_Indian_state_symbols",
         "https://en.wikipedia.org/wiki/List_of_districts_in_India"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-6ee9b03b537afb",
@@ -2640,7 +3561,14 @@ export const upscCatalogue = {
         "https://spmiasacademy.com/upsc-india-states-capital-2025/",
         "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*Tim5L6hmB-1jW8lNIldj0g.jpeg&tbnid=Ta2IU2TFxCpkEM&vet=1&imgrefurl=https%3A%2F%2Fmedium.com%2F%40vasturaviraj%2Fvastushastra-eight-directions-aeb0d3022771&docid=5_M6jQnOBj7TjM&w=1400&h=1269&hl=en-IN&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=ecc75da2390062bf&shem=isst%2Cvivsdl"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Polity & Governance",
+      "upscTopics": [
+        "Federalism"
+      ],
+      "appscTopics": [
+        "t-1-6"
+      ]
     },
     {
       "id": "upsc-0adb861a3aac6a",
@@ -2663,7 +3591,10 @@ export const upscCatalogue = {
         "https://prepp.in/ias-exam-exam/question%20papers%202019",
         "https://drive.google.com/file/d/1PuSFHNNJ1_O7UMRYViljlAxVa4Eo3ts1/view"
       ],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-060ce29ebd6cc6",
@@ -2675,7 +3606,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Science_Technology/Science_Technology_Handwritten_Index.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Science & Technology",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-28f79c3a69d8f5",
@@ -2687,7 +3621,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Science_Technology/Science_Technology_Handwritten_Notes.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Science & Technology",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-7b2f9550fba8b7",
@@ -2699,7 +3636,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Static_Current_GK/Static_Current_GK_Handwritten_Index.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "General knowledge",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-f17b11b1f577c3",
@@ -2711,7 +3651,10 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Static_Current_GK/Static_Current_GK_Handwritten_Notes.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "General knowledge",
+      "upscTopics": [],
+      "appscTopics": []
     },
     {
       "id": "upsc-7bfd53195002e8",
@@ -2723,7 +3666,436 @@ export const upscCatalogue = {
       "url": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/UPSC_Syllabus_Exam_Structure_Handwritten.pdf",
       "text": "",
       "links": [],
-      "reviewStatus": "unreviewed"
+      "reviewStatus": "unreviewed",
+      "syllabusSubject": "Preparation guidance",
+      "upscTopics": [],
+      "appscTopics": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "upsc-ad3ad51edf48b0-q1",
+      "resourceId": "upsc-ad3ad51edf48b0",
+      "number": 1,
+      "prompt": "Discuss the anthropological approaches to the study of religion, highlighting the views of E.B. Tylor, Emile Durkheim, and Clifford Geertz. (20 marks)",
+      "answer": "Tylor (Animism): Religion originates from belief in spirits → basis of all religions is animism.\n\nDurkheim (Sacred & Profane): Religion is a social phenomenon; unites community through rituals and collective effervescence.\n\nGeertz (Symbolic/Interpretive): Religion is a cultural system of symbols giving meaning to existence.\n\nComparison: Evolutionary (Tylor) → Functionalist (Durkheim) → Symbolic (Geertz).\n\nAnthropology now studies religion in context (not only origins).",
+      "kind": "Model question",
+      "stage": "Mains",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/5%20model%20mains%20questions%20with%20answer.txt",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Religion and society"
+      ],
+      "appscTopics": []
+    },
+    {
+      "id": "upsc-ad3ad51edf48b0-q2",
+      "resourceId": "upsc-ad3ad51edf48b0",
+      "number": 2,
+      "prompt": "Differentiate between Magic, Religion, and Science with anthropological examples. (15 marks)",
+      "answer": "Magic: Individual, manipulative, based on belief in cause-effect (Malinowski’s Trobriand Islanders → magic used in open sea fishing).\n\nReligion: Collective, ritualistic, based on faith in supernatural (Durkheim – sacred/profane).\n\nScience: Empirical, experimental, rational.\n\nThey coexist: In tribal societies, magic complements religion; in modern societies, science challenges but doesn’t fully replace belief.",
+      "kind": "Model question",
+      "stage": "Mains",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/5%20model%20mains%20questions%20with%20answer.txt",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Religion and society"
+      ],
+      "appscTopics": []
+    },
+    {
+      "id": "upsc-ad3ad51edf48b0-q3",
+      "resourceId": "upsc-ad3ad51edf48b0",
+      "number": 3,
+      "prompt": "Examine the role of rituals and myths in sustaining social order. (15 marks)",
+      "answer": "Myths: Narratives of origin, gods, ancestors → legitimizes authority, morality (e.g., creation myths in tribes).\n\nRituals: Repetitive practices reinforcing solidarity (rites of passage: birth, marriage, death).\n\nDurkheim: Rituals strengthen collective conscience.\n\nExample: Hindu rituals (samskaras), Christian mass, tribal fertility rituals → all ensure continuity and stability.",
+      "kind": "Model question",
+      "stage": "Mains",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/5%20model%20mains%20questions%20with%20answer.txt",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Religion and society"
+      ],
+      "appscTopics": []
+    },
+    {
+      "id": "upsc-ad3ad51edf48b0-q4",
+      "resourceId": "upsc-ad3ad51edf48b0",
+      "number": 4,
+      "prompt": "Discuss the impact of religion on caste system in India. (20 marks)",
+      "answer": "Hindu religion & Varna system: Religious sanction (Purusha Sukta of Rigveda) gave birth to caste hierarchy.\n\nDharma & Karma theory: Justified caste inequality.\n\nBuddhism, Jainism, Bhakti, Sufi: Challenged caste rigidity, promoted equality.\n\nModern scenario: Secularism + reform movements (Arya Samaj, Ambedkarite Buddhism).\n\nReligion both entrenched caste and inspired reform.",
+      "kind": "Model question",
+      "stage": "Mains",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/5%20model%20mains%20questions%20with%20answer.txt",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Caste and religion"
+      ],
+      "appscTopics": [
+        "t-1-8",
+        "t-0-6"
+      ]
+    },
+    {
+      "id": "upsc-ad3ad51edf48b0-q5",
+      "resourceId": "upsc-ad3ad51edf48b0",
+      "number": 5,
+      "prompt": "Write short notes on Religious Syncretism in Indian society. (10 marks)",
+      "answer": "Syncretism = blending of traditions and practices of different religions.\n\nExamples:\n\nBhakti–Sufi traditions (Kabir, Nanak emphasized unity of God).\n\nTribal-Hindu integration (Adivasi deities merged with Hindu pantheon).\n\nChristianity in Kerala adopting local rituals.\n\n\nImportance: Shows Indian pluralism and accommodation.",
+      "kind": "Model question",
+      "stage": "Mains",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/5%20model%20mains%20questions%20with%20answer.txt",
+      "syllabusSubject": "Anthropology optional",
+      "upscTopics": [
+        "Religious syncretism"
+      ],
+      "appscTopics": [
+        "t-0-6"
+      ]
+    },
+    {
+      "id": "upsc-d79eab2ccdd1b4-q1",
+      "resourceId": "upsc-d79eab2ccdd1b4",
+      "number": 1,
+      "prompt": "“Souls are not only the property of animal and plant life, but also of rocks, running water and many other natural objects not looked on as living by other religious sects.” (2023 Prelims)\n→ Which sect does this reflect?",
+      "answer": "Jainism \nExplanation: Jain doctrine teaches that all entities — even inanimate ones like rocks, water, etc. — possess a soul (jīva). This is part of the Jain principle of universal life / sentience.",
+      "kind": "PYQ claim",
+      "stage": "Prelims",
+      "exam": "UPSC",
+      "claimedYear": 2023,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Selected%20UPSC%20%20Prelims%20Questions.txt",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Buddhism & Jainism"
+      ],
+      "appscTopics": [
+        "t-0-2"
+      ]
+    },
+    {
+      "id": "upsc-d79eab2ccdd1b4-q2",
+      "resourceId": "upsc-d79eab2ccdd1b4",
+      "number": 2,
+      "prompt": "In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist center under the Mahasanghikas, located?\n(Options: Andhra, Gandhara, Kalinga, Magadha)",
+      "answer": "Andhra \nExplanation: Dhanyakataka (also known as Amaravati in Andhra Pradesh) was an important Buddhist site patronized by Mahasanghikas.",
+      "kind": "PYQ claim",
+      "stage": "Prelims",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Selected%20UPSC%20%20Prelims%20Questions.txt",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Buddhism & Jainism"
+      ],
+      "appscTopics": [
+        "t-0-2"
+      ]
+    },
+    {
+      "id": "upsc-d79eab2ccdd1b4-q3",
+      "resourceId": "upsc-d79eab2ccdd1b4",
+      "number": 3,
+      "prompt": "The concept of Anuvrata was advocated by (1995 Prelims)",
+      "answer": "Jainism \nExplanation: Anuvrata refers to a set of minor vows (restraints) for laity in Jainism—lesser vows compared to the full vows taken by monks.",
+      "kind": "PYQ claim",
+      "stage": "Prelims",
+      "exam": "UPSC",
+      "claimedYear": 1995,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Selected%20UPSC%20%20Prelims%20Questions.txt",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Buddhism & Jainism"
+      ],
+      "appscTopics": [
+        "t-0-2"
+      ]
+    },
+    {
+      "id": "upsc-d79eab2ccdd1b4-q4",
+      "resourceId": "upsc-d79eab2ccdd1b4",
+      "number": 4,
+      "prompt": "Which of the following statements is/are applicable to Jain doctrine?\n\n1. The surest way of annihilating Karma is to practice penance.\n\n\n2. Every object, even the smallest particle, has a soul.\n\n\n3. Karma is the bane of the soul and must be ended.\nOptions:\na) 1 only\nb) 2 and 3 only\nc) 1 and 3 only\nd) 1, 2 and 3",
+      "answer": "d) 1, 2 and 3 \nExplanation: Jain doctrine teaches that all three are true: (1) Penance / austerities help in reducing karmic bonds; (2) Every entity has a jīva; (3) Karma is indeed the obstacle to liberation.",
+      "kind": "PYQ claim",
+      "stage": "Prelims",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Selected%20UPSC%20%20Prelims%20Questions.txt",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Buddhism & Jainism"
+      ],
+      "appscTopics": [
+        "t-0-2"
+      ]
+    },
+    {
+      "id": "upsc-d79eab2ccdd1b4-q5",
+      "resourceId": "upsc-d79eab2ccdd1b4",
+      "number": 5,
+      "prompt": "Which one of the following describes best the concept of Nirvana in Buddhism?\na) The extinction of the flame of desire\nb) The complete annihilation of self\nc) A state of bliss and rest\nd) A mental stage beyond all comprehension",
+      "answer": "a) The extinction of the flame of desire \nExplanation: In Buddhist thought, Nirvana is often portrayed as the “extinction” (nirodha) of tanha (craving / desire) and the cessation of suffering, rather than annihilation of self.",
+      "kind": "PYQ claim",
+      "stage": "Prelims",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Selected%20UPSC%20%20Prelims%20Questions.txt",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Buddhism & Jainism"
+      ],
+      "appscTopics": [
+        "t-0-2"
+      ]
+    },
+    {
+      "id": "upsc-d79eab2ccdd1b4-q6",
+      "resourceId": "upsc-d79eab2ccdd1b4",
+      "number": 6,
+      "prompt": "With reference to the religious history of India, consider the following statements:\n\n1. The concept of Bodhisattva is central to the Hinayana sect of Buddhism.\n\n\n2. Bodhisattva is a compassionate one on his way to enlightenment.\n\n\n3. Bodhisattva delays achieving his own salvation to help all sentient beings on their path to it.\nWhich of the statements given above is/are correct?",
+      "answer": "2 and 3 only \nExplanation:\n\n\n\nStatement 1 is false — the Bodhisattva ideal is central to Mahayana Buddhism, not Hinayana.\n\nStatements 2 and 3 properly describe the Mahayana concept of Bodhisattva: compassion and postponement of one's own final nirvana to help others.",
+      "kind": "PYQ claim",
+      "stage": "Prelims",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Selected%20UPSC%20%20Prelims%20Questions.txt",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Buddhism & Jainism"
+      ],
+      "appscTopics": [
+        "t-0-2"
+      ]
+    },
+    {
+      "id": "upsc-d79eab2ccdd1b4-q7",
+      "resourceId": "upsc-d79eab2ccdd1b4",
+      "number": 7,
+      "prompt": "With reference to the religious practices in India, the “Sthanakavasi” sect belongs to\na) Buddhism\nb) Jainism\nc) Vaishnavism\nd) Shaivism",
+      "answer": "b) Jainism \nExplanation: Sthanakavasi is a reform sect within the Svetambara branch of Jainism. They reject idol worship and emphasize inner purity.",
+      "kind": "PYQ claim",
+      "stage": "Prelims",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Selected%20UPSC%20%20Prelims%20Questions.txt",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Buddhism & Jainism"
+      ],
+      "appscTopics": [
+        "t-0-2"
+      ]
+    },
+    {
+      "id": "upsc-d79eab2ccdd1b4-q8",
+      "resourceId": "upsc-d79eab2ccdd1b4",
+      "number": 8,
+      "prompt": "Which of the following statements about Jainism is/are correct?\n\n1. The most important idea in Jainism is that the entire world is animated; even stones, rocks and water have life.\n\n\n2. Asceticism and penance are required to free oneself from the cycle of Karma.\nOptions:\na) 1 only\nb) 2 only\nc) Both 1 and 2\nd) Neither",
+      "answer": "c) Both 1 and 2 \nExplanation: Both statements correctly reflect core Jain beliefs.",
+      "kind": "PYQ claim",
+      "stage": "Prelims",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Selected%20UPSC%20%20Prelims%20Questions.txt",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Buddhism & Jainism"
+      ],
+      "appscTopics": [
+        "t-0-2"
+      ]
+    },
+    {
+      "id": "upsc-d79eab2ccdd1b4-q9",
+      "resourceId": "upsc-d79eab2ccdd1b4",
+      "number": 9,
+      "prompt": "With reference to religious history of India, consider the following statements:\n\n1. Sautrantika and Sammitiya were sects of Jainism.\n\n\n2. Sarvastivadin held that the constituents of phenomena were not wholly momentary, but existed forever in latent form.\nWhich is/are correct?",
+      "answer": "Statement 2 only \nExplanation:\n\n\n\nStatement 1 is false: Sautrantika and Sammitiya are Buddhist sects, not Jain sects.\n\nStatement 2 is correct — Sarvāstivādins posited that dharma elements exist in past, present, and future (i.e. a kind of continuity) even though their manifested forms might change.",
+      "kind": "PYQ claim",
+      "stage": "Prelims",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Selected%20UPSC%20%20Prelims%20Questions.txt",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Buddhism & Jainism"
+      ],
+      "appscTopics": [
+        "t-0-2"
+      ]
+    },
+    {
+      "id": "upsc-d79eab2ccdd1b4-q10",
+      "resourceId": "upsc-d79eab2ccdd1b4",
+      "number": 10,
+      "prompt": "Consider the following statements with respect to Bhakti and Sufi movements:\n(a) Chaitanya Mahaprabhu was a proponent of the Achintya Bheda Abheda doctrine and of Gaudiya Vaishnavism.\n(b) He was a Nirguna saint.\n(c) He strongly propagated devotion (bhakti) to Krishna with attributes.\nHow many of these statements are correct?",
+      "answer": "2 (i.e. statements a and c) \nExplanation:\n\nStatement (a): correct. Chaitanya propagated the doctrine of Achintya Bheda Abheda (inconceivable oneness & difference) and led the Gaudiya Vaishnava tradition.\n\nStatement (b): incorrect, he was not a Nirguna saint; his devotion was to Krishna (a personal deity, Saguna).\n\nStatement (c): correct — his worship was with attributes (form) to Krishna.",
+      "kind": "PYQ claim",
+      "stage": "Prelims",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/Anthropology/Notes/Religion/Selected%20UPSC%20%20Prelims%20Questions.txt",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Bhakti & Sufi movements"
+      ],
+      "appscTopics": [
+        "t-0-6"
+      ]
+    },
+    {
+      "id": "upsc-cd3e95538da845-q1",
+      "resourceId": "upsc-cd3e95538da845",
+      "number": 1,
+      "prompt": "What are the methods employed by archaeologist to date? Ancient sculptures and artifacts?",
+      "answer": "**Core topic** in archaeology and anthropology! 🏺\n\nArchaeologists use a mix of **absolute (chronometric)** and **relative dating methods** to determine the **age of ancient sculptures and artifacts**.\n\n## 🧭 **I. Relative Dating Methods**\n\n*(Tell us which object/artifact is older or younger, not the exact age)*\n\n### 1. **Stratigraphy**\n\n* Based on the **Law of Superposition** — deeper layers are older than upper layers.\n* Used in excavations to sequence artifacts and structures.\n  🪶 *Example:* Determining the relative age of terracotta figurines found in successive layers.\n\n### 2. **Typology**\n\n* Compares **styles, designs, or forms** of artifacts (e.g., pottery, sculptures).\n* Changes in style over time help build **chronological sequences**.\n  🎨 *Example:* Evolution of Buddha images from early Mathura to Gupta style.\n\n### 3. **Seriation**\n\n* Arranging artifacts in **chronological order** based on **frequency or popularity** of styles/types over time.\n  📊 *Example:* Changes in pottery decoration patterns across sites.\n\n---\n\n## 🕰️ **II. Absolute (Chronometric) Dating Methods**\n\n*(Provide an actual calendar age or date range)*\n\n### 1. **Radiocarbon Dating (C-14)**\n\n* Measures decay of **carbon-14 isotope** in organic materials (wood, charcoal, bone).\n* Effective up to ~50,000 years.\n  🔥 *Example:* Dating charcoal layers found near ancient sculpture workshops.\n\n### 2. **Thermoluminescence (TL) Dating**\n\n* Used for **ceramics, terracotta, and fired clay sculptures**.\n* Measures light released when reheated — tells when the object was last fired.\n  🏺 *Example:* Terracotta figurines of the Indus Valley Civilization.\n\n### 3. **Dendrochronology (Tree-Ring Dating)**\n\n* Based on **annual growth rings in wood**; gives exact year.\n  🌳 *Example:* Dating wooden beams used in ancient temples.\n\n### 4. **Potassium-Argon (K–Ar) Dating**\n\n* Used for **volcanic rock** associated with artifacts.\n* Determines the age of lava layers covering or under artifacts.\n  🌋 *Example:* Dating stone tools buried under volcanic ash.\n\n### 5. **Uranium-Series Dating**\n\n* Used for **calcium carbonate materials** (like cave deposits, limestone sculptures).\n* Measures decay of uranium isotopes.\n  ⛏️ *Example:* Dating cave art and limestone carvings.\n\n### 6. **Obsidian Hydration**\n\n* Measures the thickness of **hydration layer** formed on obsidian (volcanic glass) tools.\n* Indicates how long the surface was exposed.\n\n---\n\n## 🧩 **III. Cross-Dating / Correlation**\n\n* Combines **different sites or methods** using shared artifacts (e.g., pottery styles, coins).\n* Helps synchronize chronologies between regions.\n\n---\n\n✅ **Summary Table (for UPSC-style notes)**\n\n| Type     | Method             | Material / Use      | Principle         |\n| -------- | ------------------ | ------------------- | ----------------- |\n| Relative | Stratigraphy       | Soil layers         | Lower = older     |\n| Relative | Typology           | Pottery, sculptures | Style evolution   |\n| Absolute | Radiocarbon        | Organic matter      | C-14 decay        |\n| Absolute | Thermoluminescence | Clay, terracotta    | Last fired        |\n| Absolute | Dendrochronology   | Wood                | Tree rings        |\n| Absolute | K–Ar               | Volcanic rock       | Radioactive decay |\n| Absolute | Uranium Series     | Limestone, cave art | Uranium decay     |\n| Absolute | Obsidian Hydration | Volcanic glass      | Hydration layer   |",
+      "kind": "Model question",
+      "stage": "Mains",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/Ancient_History/Solved_Questions/Early_Ancient_India/Questions_Answers.md",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Prehistory and archaeology"
+      ],
+      "appscTopics": []
+    },
+    {
+      "id": "upsc-cd3e95538da845-q2",
+      "resourceId": "upsc-cd3e95538da845",
+      "number": 2,
+      "prompt": "Contrast, the characteristic of coinage in ancient India with that of contemporary India explode. Compare the distinction between two sets of points concerning their materials symbols , designs and geometric features.",
+      "answer": "**Comparative analytical** one, often asked in **UPSC Mains (History/Anthropology)** to test the understanding of **material culture and symbolism** through numismatics 💰\n\n## 🪙 **Coinage in Ancient India vs Contemporary India**\n\n| Feature                         | **Ancient Indian Coinage**                                                                                                                             | **Contemporary Indian Coinage**                                                                                                                           |\n| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **1. Material**                 | Made of **precious metals** like silver, gold, copper, lead; some punch-marked and cast coins.                                                         | Made of **base metals and alloys** (nickel, steel, cupronickel, stainless steel); no intrinsic metal value.                                               |\n| **2. Technique of Manufacture** | **Hand-made**: cast, punch-marked, or die-struck by artisans; irregular shapes.                                                                        | **Machine-struck** using minting presses with precise uniformity and circular shape.                                                                      |\n| **3. Shape & Geometry**         | Often **irregular or rectangular** in early stages; later circular under Indo-Greeks and Guptas.                                                       | **Standard circular** shape with fixed dimensions and milled edges.                                                                                       |\n| **4. Symbols & Motifs**         | Depicted **religious and cultural symbols** — sun, tree, bull, swastika, Lakshmi, kings, gods; conveyed **political authority and divine legitimacy**. | Depict **national symbols** — Lion Capital of Ashoka 🦁, denomination, “India”, year, and motifs promoting national values (e.g. agriculture, technology). |\n| **5. Language & Script**        | Used **Brahmi, Kharoshthi, Greek, Arabic, or regional scripts** reflecting rulers and regions.                                                         | Uses **Devanagari and English** scripts standardized across the nation.                                                                                   |\n| **6. Function & Economic Role** | Had **intrinsic value** (metal worth ≈ face value); served as **both medium and store of value**.                                                      | Have **fiduciary value** (face value > metal value); depend on **state guarantee**.                                                                       |\n| **7. Authority of Issue**       | Issued by **kings, dynasties, guilds, city-states** — political and religious legitimacy linked to coinage.                                            | Issued solely by the **Government of India** under **Reserve Bank and Finance Ministry** authority.                                                       |\n| **8. Artistic Value**           | Served as **miniature art pieces** — dynastic emblems, regional deities, mythological scenes.                                                          | Focus on **national integration and identity** rather than artistry.                                                                                      |\n\n---\n\n## 🧾 **UPSC-Style Summary (150–200 words)**\n\nAncient Indian coinage reflected both economic activity and political symbolism. Coins were made of precious metals such as gold, silver, and copper, with irregular shapes and distinctive punch-marked symbols like the sun, tree, bull, or swastika. They bore inscriptions in early scripts such as Brahmi and Kharoshthi, serving as expressions of royal authority and religious belief. Their intrinsic metal value made them reliable stores of wealth.\n\nIn contrast, contemporary Indian coins are uniform, machine-struck, and circular, made of inexpensive alloys like nickel or stainless steel. Their value is fiduciary, backed by the state rather than metal content. Modern coinage bears national symbols such as the Lion Capital of Ashoka, the denomination, and inscriptions in Hindi and English, symbolizing unity, sovereignty, and democratic identity.\n\nThus, while **ancient coinage combined economic and religious symbolism**, **modern coinage emphasizes administrative standardization and national representation**.",
+      "kind": "Model question",
+      "stage": "Mains",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/Ancient_History/Solved_Questions/Early_Ancient_India/Questions_Answers.md",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Prehistory and archaeology"
+      ],
+      "appscTopics": []
+    },
+    {
+      "id": "upsc-cd3e95538da845-q3",
+      "resourceId": "upsc-cd3e95538da845",
+      "number": 3,
+      "prompt": "What factors do you believe attract Numerous foreigners from diverse reason to visit ancient india?",
+      "answer": "It connects **ancient Indian history, economy, and culture** with global interactions 🌏\n\n## 🌸 **Reasons Why Numerous Foreigners Were Attracted to Ancient India**\n\nForeigners — traders, scholars, monks, diplomats, and invaders — came to India for **economic prosperity, spiritual knowledge, political alliances, and cultural exchange.**\n\n---\n\n### 🏺 **1. Economic Prosperity & Trade Wealth**\n\n* India was known as **“Golden Bird (Sone ki Chidiya)”** for its wealth and resources.\n* Rich in **spices, textiles, gold, pearls, and precious stones** — high demand in Rome, China, Arabia, and Central Asia.\n* Important trade centers like **Pataliputra, Ujjain, Tamralipti, Taxila, Broach, and Kanchipuram** attracted merchants.\n* **Silk Route** and **maritime routes** (Arabian Sea & Bay of Bengal) connected India with the Mediterranean, Southeast Asia, and China.\n\n🛍️ *Example:* Roman coins found in South India show Indo-Roman trade links.\n\n---\n\n### 🕉️ **2. Spiritual and Religious Quest**\n\n* India was the **birthplace of major religions** — Hinduism, Buddhism, Jainism.\n* Buddhist philosophy, monasteries (like **Nalanda**, **Vikramashila**, **Taxila**) attracted monks and pilgrims.\n* Chinese travelers like **Fa-Hien**, **Hiuen Tsang**, and **Itsing** visited to study scriptures and Buddhist philosophy.\n\n🙏 *Example:* Hiuen Tsang’s detailed account of India (7th century CE) reflects spiritual learning centers and social life.\n\n---\n\n### 🏰 **3. Flourishing Centers of Learning**\n\n* Ancient universities like **Nalanda**, **Takshashila**, **Vallabhi**, **Kanchipuram** were globally renowned.\n* Subjects taught: philosophy, medicine (Ayurveda), mathematics, astronomy, grammar, and logic.\n  📚 *Example:* Scholars from Tibet, China, Korea, and Central Asia studied Sanskrit and Buddhist texts here.\n\n---\n\n### 🎨 **4. Rich Cultural and Artistic Heritage**\n\n* India’s **architecture, sculpture, music, and dance** fascinated travelers.\n* Stupas (Sanchi), rock-cut caves (Ajanta–Ellora), and temples reflected high craftsmanship.\n* Cultural tolerance and patronage of art under Mauryas, Guptas, and Cholas attracted visitors and artisans.\n\n🎭 *Example:* Greek ambassador **Megasthenes** (to Chandragupta Maurya’s court) admired Pataliputra’s grandeur.\n\n---\n\n### ⚖️ **5. Political Power and Stability**\n\n* Strong and organized empires — **Mauryan, Gupta, Kushan, Chola** — provided safety and patronage to foreigners.\n* Diplomatic relations encouraged cultural exchanges.\n  🌍 *Example:* Envoys from Greece, Persia, and Rome visited Indian courts.\n\n---\n\n### ⚗️ **6. Science, Medicine, and Knowledge Systems**\n\n* Ancient India excelled in **mathematics (zero, decimal), astronomy, metallurgy, medicine, and surgery (Sushruta, Charaka)**.\n* Attracted scholars and physicians from abroad seeking advanced learning.\n\n---\n\n### 🕊️ **7. Religious Tolerance and Hospitality**\n\n* India’s ethos of **“Atithi Devo Bhava”** (Guest is God) and acceptance of diverse faiths created an inviting atmosphere for foreigners.\n\n---\n\n## ✨ **In Summary (UPSC-ready paragraph)**\n\nAncient India attracted foreigners for its immense wealth, flourishing trade, spiritual wisdom, and intellectual excellence. Merchants came for India’s spices, textiles, and precious stones; monks and scholars sought enlightenment in its universities and monasteries; envoys admired its political organization and cultural sophistication. The land of Buddha and the Vedas stood as a beacon of learning, tolerance, and prosperity — drawing travelers from Greece, China, Persia, and Rome who left vivid accounts of India’s golden past.",
+      "kind": "Model question",
+      "stage": "Mains",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/Ancient_History/Solved_Questions/Early_Ancient_India/Questions_Answers.md",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Prehistory and archaeology"
+      ],
+      "appscTopics": []
+    },
+    {
+      "id": "upsc-cd3e95538da845-q4",
+      "resourceId": "upsc-cd3e95538da845",
+      "number": 4,
+      "prompt": "In modern times large weapons are often perceived as more adverse. However , why was the reduction in the size of tools considered an advancement during the measures mesolithic age?",
+      "answer": "### 🪨 **Context: Mesolithic Age (Middle Stone Age)**\n\n* Period: roughly **10,000–8,000 BCE** (between Paleolithic and Neolithic).\n* Characterized by the emergence of **microliths** — *tiny, finely worked stone tools* usually less than 5 cm long.\n\n---\n\n## ⚖️ **Question Essence:**\n\n> Why was **smaller tool size** seen as **technological progress**, not regression?\n\n---\n\n## 💡 **1. Precision and Efficiency**\n\n* Smaller tools = **greater sharpness and control**.\n* Microliths were **more effective cutting or piercing edges**, improving **hunting, skinning, and food processing**.\n  🪶 *Hence:* The refinement of tool-making skill, not the size, indicated advancement.\n\n---\n\n## 🧠 **2. Composite Tool Technology**\n\n* Microliths were often **mounted on wood, bone, or antler handles** to form **arrows, spears, knives, or sickles**.\n* This shows **conceptual innovation** — using multiple materials to create a **multi-part tool**.\n  🔧 *Symbol of cognitive advancement and planning ability.*\n\n---\n\n## 🏹 **3. Adaptation to Changing Environment**\n\n* Post-Ice Age period → forests replaced open grasslands → **smaller, faster game animals**.\n* Large heavy tools became inefficient; **light, portable, and precise microliths** suited hunting small animals and birds.\n\n---\n\n## 🧭 **4. Resource Optimization**\n\n* Small flakes allowed **maximum use of raw material** (flint, chert).\n* Easy to carry and replace; suitable for **nomadic hunter-gatherer lifestyle**.\n  ⚙️ *Economy of material use = efficiency.*\n\n---\n\n## 👣 **5. Step Toward Neolithic Culture**\n\n* Mesolithic innovations (microliths, bow and arrow, fishing tools) paved the way for **food production** in the Neolithic period.\n  🌾 *So, miniaturization was part of technological evolution.*\n\n---\n\n✅ **UPSC-Style Summary (150 words):**\n\nIn modern times, large weapons symbolize greater destructive power, but during the Mesolithic Age, the reduction in tool size represented technological refinement. The development of microliths—tiny, sharp stone blades—reflected improved craftsmanship and adaptability. These smaller tools could be hafted onto wood or bone to make composite weapons like arrows and sickles, increasing efficiency and versatility. As climatic changes after the Ice Age led to forests and smaller fauna, lightweight tools became more effective for hunting and daily use. The miniaturization of tools also indicated better resource management and planning ability. Thus, the shift from large crude implements to small, sophisticated microliths marked **a major advance in human technological and cognitive evolution**, not decline.",
+      "kind": "Model question",
+      "stage": "Mains",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/Ancient_History/Solved_Questions/Early_Ancient_India/Questions_Answers.md",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Prehistory and archaeology"
+      ],
+      "appscTopics": []
+    },
+    {
+      "id": "upsc-cd3e95538da845-q5",
+      "resourceId": "upsc-cd3e95538da845",
+      "number": 5,
+      "prompt": "Why did we v gordon shilde view neolithic as revolutionary ageWhy did  The new litcage is a revolutionary.what significant transformations were introduced during this era? Which of these changes hold the most significant value?",
+      "answer": "**V. Gordon Childe’s view** of the **Neolithic Age** as a **“Revolutionary Age.”**\n\n## 🧠 **1. Why did V. Gordon Childe view the Neolithic Age as a “Revolutionary Age”?**\n\n* The archaeologist **V. Gordon Childe** called the **Neolithic period (New Stone Age)** a **“Neolithic Revolution”** because it marked a **fundamental, rapid, and permanent transformation** in human life.\n* He compared it to a “revolution” — not political, but **economic, social, and technological** — that completely changed how humans lived.\n\n💬 **Childe’s key idea:**\n\n> “The Neolithic Revolution transformed man from a food-gatherer to a food-producer.”\n\n---\n\n## 🌾 **2. What transformations were introduced during this era?**\n\n| **Aspect**             | **Old (Palaeolithic)** | **New (Neolithic)**                                      | **Significance**                                     |\n| ---------------------- | ---------------------- | -------------------------------------------------------- | ---------------------------------------------------- |\n| **Subsistence**        | Hunting and gathering  | **Agriculture and animal domestication**                 | Beginning of food production and control over nature |\n| **Lifestyle**          | Nomadic                | **Permanent settlements and villages**                   | Rise of stable communities and architecture          |\n| **Tools & Technology** | Rough, chipped stone   | **Polished stone tools, pottery, weaving**               | Improved efficiency and craftsmanship                |\n| **Society**            | Small kin groups       | **Family units, division of labour, property ownership** | Foundation of social organization                    |\n| **Culture & Belief**   | Simple rituals         | **Burial practices, fertility cults, figurines**         | Spiritual and artistic development                   |\n\n---\n\n## 🏛️ **3. Why is it considered revolutionary?**\n\nBecause these changes:\n\n* **Transformed economic life** — humans produced food instead of relying on chance.\n* **Encouraged social complexity** — permanent settlements → villages → civilizations.\n* **Created new technology** — pottery, weaving, tool polishing, storage.\n* **Altered human–nature relationship** — from adaptation to control.\n\nIt was, in essence, the **birth of civilization**.\n\n---\n\n## 💭 **4. Your Opinion — Which change holds the most significant value?**\n\n> The **adoption of agriculture** is the most significant transformation.\n\nBecause:\n\n* It provided **food surplus**, enabling **settlements, trade, and specialization**.\n* It led to the **concept of property, family, and social hierarchy**.\n* It marked the beginning of **planned human life** — the base of all later progress.\n\n---\n\n## 🧾 **UPSC-Style 150-word Summary**\n\nV. Gordon Childe described the Neolithic Age as a revolutionary period because it brought a profound transformation in human life. During this age, man changed from a hunter-gatherer to a food producer through agriculture and animal domestication. People began to live in permanent villages, developed polished stone tools, pottery, and weaving, and evolved social structures based on cooperation and ownership. Religious and artistic expressions also flourished. These shifts collectively marked the transition from nature-dependent existence to organized social life. Among all these changes, the advent of agriculture was the most significant—it created surplus food, allowed population growth, and laid the foundations of civilization. Thus, the Neolithic Revolution stands as one of humanity’s greatest turning points.",
+      "kind": "Model question",
+      "stage": "Mains",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/Ancient_History/Solved_Questions/Early_Ancient_India/Questions_Answers.md",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Prehistory and archaeology"
+      ],
+      "appscTopics": []
+    },
+    {
+      "id": "upsc-cd3e95538da845-q6",
+      "resourceId": "upsc-cd3e95538da845",
+      "number": 6,
+      "prompt": "Why was the production of copper achieved through melting techniques introduced well before the iron despite being an advanced technology?",
+      "answer": "The **technological, geological, and cultural differences** between the two metals.\n\n### 🧱 1. **Availability and Nature of Ores**\n\n* **Copper ores** (like malachite, azurite, cuprite) occur **near the earth’s surface** and are often found in **native (metallic) form** — meaning early humans could directly find lumps of copper metal.\n* **Iron ores** (like hematite, magnetite) are **very stable oxides**, and iron **never occurs in native form** (except meteoric iron).\n* So, copper was **easier to discover and experiment with**, while iron required **more complex smelting and reduction knowledge**.\n\n### 🔥 2. **Melting Point Difference**\n\n| Metal  | Approx. Melting Point | Implication                                                                                          |\n| ------ | --------------------- | ---------------------------------------------------------------------------------------------------- |\n| Copper | ~1085°C               | Achievable in early clay furnaces with charcoal.                                                     |\n| Iron   | ~1538°C               | Required much **higher temperatures** and **better furnace design** (bloomery, later blast furnace). |\n\nSo, ancient furnaces could **reach copper-melting temperatures** but **not iron-smelting ones** initially.\n\n---\n\n### ⚗️ 3. **Chemical Reduction Difficulty**\n\n* To extract **metal from ore**, you must **reduce oxides** with carbon.\n* Copper oxides are **easily reducible** at moderate temperatures.\n* Iron oxides require **a reducing atmosphere** and **higher heat**, plus control over **carbon content** (else you get brittle cast iron).\n\nHence, **metallurgical control** for iron came much later (around 1200 BCE).\n\n---\n\n### 🏺 4. **Historical Sequence**\n\n* **Native copper used** → **Cold hammered** → **Melted and cast** (Bronze Age, ~4000–3000 BCE).\n* **Bronze (Copper + Tin)** technology developed → tools, weapons, ornaments.\n* **Iron smelting** only became widespread during the **Iron Age (~1200 BCE onward)** when **furnace and air-blast techniques** improved.\n\n---\n\n### ⚙️ 5. **Cultural & Practical Factors**\n\n* Copper and bronze were **softer but workable**, ideal for tools and ornaments.\n* Iron, though harder and better, was **initially brittle** and **costlier** due to production difficulty.\n* Societies adopted iron **only when technology matured** enough to produce **malleable wrought iron** efficiently.\n\n---\n\n✅ **In summary:**\n\n> Copper metallurgy appeared earlier than iron because copper ores were more accessible, easier to reduce, and required much lower temperatures for smelting — whereas iron extraction demanded higher furnace temperatures, better air control, and advanced techniques developed only later.",
+      "kind": "Model question",
+      "stage": "Mains",
+      "exam": "UPSC",
+      "claimedYear": null,
+      "verified": false,
+      "reviewStatus": "unreviewed",
+      "source": "https://github.com/madhurimarawat/UPSC-Notes-Resources/blob/3e9d46ce703ce18b9a161ca4b8819f789f31de46/History/Ancient_History/Solved_Questions/Early_Ancient_India/Questions_Answers.md",
+      "syllabusSubject": "History & Culture",
+      "upscTopics": [
+        "Prehistory and archaeology"
+      ],
+      "appscTopics": []
     }
   ]
 };
