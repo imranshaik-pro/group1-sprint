@@ -26,7 +26,7 @@ Publication of an edition is separate from complete official-syllabus coverage. 
 - t-0-9: Andhra culture & reform
 - t-1-0: Constitution & Preamble
 
-Status: Published in the website and mobile web app, version 11. Validation and review limits are recorded in VALIDATION_2026-10-16.md.
+Status: Chapter edition authored and tested; production publication recorded in the validation document.
 
 ### Batch 2: Rights, government & economic foundations (11 topics)
 
@@ -42,7 +42,7 @@ Status: Published in the website and mobile web app, version 11. Validation and 
 - t-2-0: National income
 - t-2-1: Inflation & monetary policy
 
-Status: Not started.
+Status: Chapter edition authored and locally tested; browser and production publication are pending.
 
 ### Batch 3: Economy & physical geography (11 topics)
 
@@ -113,12 +113,20 @@ Use original explanatory wording, not copied textbook chapters, illustrations or
 
 The 1,460 imported records contain metadata and source links only. They provide no embedded stems or keys, mix Prelims and Mains references and retain unverified provenance. The upstream README also describes answer-only Prelims formats, so absent distractors must not be invented and presented as the original paper. They cannot be promoted automatically into scored PYQs. New questions are clearly marked original, with no claimed exam year.
 
-## Batch 1 result
+## Batch 1 result (historical release)
 
 11 expanded bilingual editions, 52 teaching sections, 88 new scored original questions. Total bank: 267. Topics with scored questions: 17; topics without: 48. Remaining chapter editions: 54. Of those, 52 remain short foundations and two retain the earlier rights/physics guided foundations.
 
 78 microtopic links were corrected and 219 reference records relinked from explicit microtheme assignments. These are topic-link corrections only, not question or answer validation. Bifurcation metadata incorrectly placed under Indus was unassigned for review. Full details are in REFERENCE_AUDIT_2026-10-16.json.
 
+## Batch 2 result
+
+11 additional chapter editions: Fundamental Rights; Directive Principles & Duties; Union executive & Parliament; Judiciary; State executive & legislature; Federalism & local government; Constitutional bodies; Social justice & welfare; International relations; National income; Inflation & monetary policy.
+
+50 bilingual sections and 92 original scored questions (12 for Fundamental Rights and eight for each other topic). Combined totals: 22 chapter editions, 102 bilingual sections in those editions, 359 bundled original questions and 27 topics with scored practice. 43 chapter editions and 38 topics without scored practice remain. Full official-syllabus completeness remains under review.
+
+Added a chapter restart control for learners returning from the earlier short edition, preserving notebook/history records. The three-day-exhaustion message now explains that fresh questions are unavailable instead of incorrectly saying the topic has no reviewed questions.
+
 ## Next delivery
 
-Batch 2 starts with Fundamental Rights and continues through Inflation & monetary policy. Each topic needs its own source review and question audit; no automatic background completion is implied. AI integration remains deferred.
+Batch 3: Public finance & taxation through Indian physical geography. Batches 3–6 remain not started. AI integration remains deferred. No automatic background completion is implied.

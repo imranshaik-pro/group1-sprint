@@ -1,6 +1,7 @@
 import {gmaQuestions,rightsQuestions} from './content.js';
 import {reviewedVariants} from './reviewed-variants.js';
 import {curriculumQuestions} from './curriculum-questions.js';
+import {batch2Questions} from './curriculum-batch2-questions.js';
 const date='2026-10-15',arithmetic='https://ncert.nic.in/textbook.php',law='https://www.legislative.gov.in/constitution-of-india/';
 const make=(id,topic,text,options,correct,explanation,source,extra={})=>{const shift=id.split('').reduce((n,c)=>n+c.charCodeAt(0),0)%4;const rotated=[...options.slice(shift),...options.slice(0,shift)];return {id,topic,text,options:rotated,answer:(correct-shift+4)%4,explanation,source,kind:'original',paper:topic.startsWith('t-4-')||topic.startsWith('t-5-')?'II':'I',stage:'prelims',exam:'APPSC Group-I',reviewStatus:'reviewed',reviewed:true,review:{date,method:'Original template; answer relationship and distractors checked by regression tests'},...extra};};
 // Values and wording change together; answers are calculated from bounded, tested templates.
@@ -36,4 +37,4 @@ export const conceptQuestions=[
  ...fact('physics-motor','t-5-0',['An electric motor primarily converts energy in which direction?','A fan motor turns when electrical power is supplied. Which conversion occurs?','Distinguish a motor from a generator: which conversion describes a motor?'],['Electrical to mechanical','Mechanical to electrical','Energy created from nothing','Heat to mass'],0,'A motor converts electrical energy into mechanical energy. A generator performs the reverse primary conversion; real devices also lose useful energy as heat.',science)
 ];
 const families={'gma-1':'gma-percent','gma-2':'gma-ratio','gma-3':'gma-speed','gma-4':'gma-series','gma-5':'gma-work','original-rights-1':'rights-abolition','original-rights-2':'rights-property-transfer'};
-export function practiceBank(){return [...gmaQuestions,...rightsQuestions].map(q=>({...q,reviewStatus:'reviewed',stage:'prelims',exam:'APPSC Group-I',paper:q.topic.startsWith('t-4-')?'II':'I',familyId:families[q.id]||q.id})).concat(reviewedVariants.map(q=>({...q,familyId:families[q.parentId]||q.parentId})),arithmeticVariations(),conceptQuestions,curriculumQuestions);}
+export function practiceBank(){return [...gmaQuestions,...rightsQuestions].map(q=>({...q,reviewStatus:'reviewed',stage:'prelims',exam:'APPSC Group-I',paper:q.topic.startsWith('t-4-')?'II':'I',familyId:families[q.id]||q.id})).concat(reviewedVariants.map(q=>({...q,familyId:families[q.parentId]||q.parentId})),arithmeticVariations(),conceptQuestions,curriculumQuestions,batch2Questions);}
