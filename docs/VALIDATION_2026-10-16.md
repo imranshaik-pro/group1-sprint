@@ -28,6 +28,7 @@ Current release browser workflow and deployment are recorded after the code push
 - First standalone checkout test run was incomplete because helper scripts, reference metadata and web-push dependencies had not been restored; after restoring dependencies/files, all 47 tests passed.
 - TypeScript caught an optional topic ID in the batch view; explicit topic existence validation fixed it.
 - Browser test authoring initially assumed a five-question mobile quiz and a non-existent submit label. Source inspection corrected it to the actual eight-question Batch 1 set and Submit test before running CI.
+- Browser run 38929256342 passed build and Node checks but failed in the new test because it used a non-existent `.questioncard h2` selector. The app renders its question in a section containing the answer buttons; the test was corrected to that actual structure and now waits for each question number before answering. No learner code was changed for this test correction.
 - No failed build or unverified archive has been deployed.
 
 ## Remaining scope

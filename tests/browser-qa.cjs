@@ -46,7 +46,7 @@ for(let i=0;i<3;i++)await page.locator('[name=answer'+i+']').fill(['Archaeology 
 await page.locator('#learningflowform [name=reviewed]').check();
 await page.getByRole('button',{name:'Continue to practice',exact:true}).click();
 await page.getByRole('button',{name:'Start topic practice',exact:true}).click();
-for(let i=0;i<8;i++){await page.locator('[data-action=answer]').first().waitFor();const correct=await page.evaluate(async()=>{const {practiceBank}=await import('/practice-bank.js');const stem=document.querySelector('.questioncard h2').textContent;const q=practiceBank().find(q=>stem.includes(q.text));if(!q)throw Error('Chapter question missing');return q.answer;});await page.locator('[data-action=answer][data-choice="'+correct+'"]').click();if(i<7)await page.getByRole('button',{name:'Next question',exact:true}).click();}
+for(let i=0;i<8;i++){await page.getByText('Question '+(i+1)+' of 8',{exact:true}).waitFor();await page.locator('[data-action=answer]').first().waitFor();const correct=await page.evaluate(async()=>{const {practiceBank}=await import('/practice-bank.js');const stem=document.querySelector('[data-action=answer]').closest('section').querySelector('h2').textContent;const q=practiceBank().find(q=>stem.includes(q.text));if(!q)throw Error('Chapter question missing');return q.answer;});await page.locator('[data-action=answer][data-choice="'+correct+'"]').click();if(i<7)await page.getByRole('button',{name:'Next question',exact:true}).click();}
 await page.getByRole('button',{name:'Submit test',exact:true}).click();
 await page.getByRole('heading',{name:'8.00 / 8',exact:true}).waitFor();
 await page.getByRole('button',{name:'Back to practice',exact:true}).click();
