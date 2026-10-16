@@ -1,0 +1,484 @@
+{
+  "date": "2026-10-16",
+  "origin": "BhavishyaIAS/bhimboy",
+  "sourceCommit": "d06cee211aa37f3820cd26f06ac9ff695f1f39ef",
+  "referenceRecords": 1460,
+  "microtopics": 469,
+  "recordsWithQuestionText": 0,
+  "recordsWithAnswerKey": 0,
+  "usableBundledImportedMCQs": 0,
+  "approvedAsOfficialPYQ": 0,
+  "reason": "Imported index is metadata-only; original source and official answer verification are not established. No absent distractors or answer keys are invented.",
+  "questionLinksChanged": 219,
+  "microtopicCorrections": [
+    {
+      "id": "PRE-PI-HC-009",
+      "title": "16 Mahajanapadas & rise of Magadha",
+      "from": null,
+      "to": "t-0-3"
+    },
+    {
+      "id": "PRE-PI-HC-023",
+      "title": "Badami Chalukyas: polity, art, architecture",
+      "from": null,
+      "to": "t-0-5"
+    },
+    {
+      "id": "PRE-PI-HC-024",
+      "title": "Eastern Chalukyas of Vengi",
+      "from": null,
+      "to": "t-0-4"
+    },
+    {
+      "id": "PRE-PI-HC-025",
+      "title": "Rashtrakutas: administration & culture",
+      "from": null,
+      "to": "t-0-5"
+    },
+    {
+      "id": "PRE-PI-HC-026",
+      "title": "Kalyani (Western) Chalukyas",
+      "from": null,
+      "to": "t-0-5"
+    },
+    {
+      "id": "PRE-PI-HC-027",
+      "title": "Cholas: administration, local self-govt, art",
+      "from": null,
+      "to": "t-0-5"
+    },
+    {
+      "id": "PRE-PI-HC-028",
+      "title": "Hoyasalas & Yadavas",
+      "from": null,
+      "to": "t-0-5"
+    },
+    {
+      "id": "PRE-PI-HC-029",
+      "title": "Kakatiyas & Reddis (overview)",
+      "from": null,
+      "to": "t-0-5"
+    },
+    {
+      "id": "PRE-PI-HC-037",
+      "title": "Bhakti Movement: saints & impact",
+      "from": "t-0-5",
+      "to": "t-0-6"
+    },
+    {
+      "id": "PRE-PI-HC-038",
+      "title": "Sufism: orders, ideas & influence",
+      "from": "t-0-5",
+      "to": "t-0-6"
+    },
+    {
+      "id": "PRE-PI-HC-039",
+      "title": "Advent of Europeans & struggle for supremacy",
+      "from": null,
+      "to": "t-0-7"
+    },
+    {
+      "id": "PRE-PI-HC-041",
+      "title": "Governor-Generals & Viceroys (chronology & reforms)",
+      "from": null,
+      "to": "t-0-7"
+    },
+    {
+      "id": "PRE-PI-HC-042",
+      "title": "1857: origin, nature, causes, consequences, significance",
+      "from": null,
+      "to": "t-0-7"
+    },
+    {
+      "id": "PRE-PI-HC-043",
+      "title": "19th-century reform movements (India & AP)",
+      "from": null,
+      "to": "t-0-7"
+    },
+    {
+      "id": "PRE-PI-HC-044",
+      "title": "India's freedom movement: phases overview",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "PRE-PI-HC-045",
+      "title": "Revolutionaries in India and abroad",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "PRE-PI-HC-130",
+      "title": "Constitutional acts & missions 1909–1947 (Morley-Minto to Cabinet Mission)",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "PRE-PI-HC-046",
+      "title": "Gandhi: thoughts, principles, philosophy",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "PRE-PI-HC-047",
+      "title": "Champaran to Non-Cooperation: early Gandhian satyagrahas",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "PRE-PI-HC-129",
+      "title": "Civil Disobedience & Quit India movements; INA",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "PRE-PI-HC-048",
+      "title": "Sardar Patel & Subhas Chandra Bose roles",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "PRE-PI-HC-049",
+      "title": "Ambedkar: life & role in Constitution-making",
+      "from": null,
+      "to": "t-1-0"
+    },
+    {
+      "id": "PRE-PI-HC-050",
+      "title": "Integration & linguistic reorganization of states",
+      "from": null,
+      "to": "t-0-9"
+    },
+    {
+      "id": "PRE-PI-PSJI-053",
+      "title": "Fundamental Rights",
+      "from": "t-1-0",
+      "to": "t-1-1"
+    },
+    {
+      "id": "PRE-PI-PSJI-054",
+      "title": "Fundamental Duties",
+      "from": "t-1-0",
+      "to": "t-1-2"
+    },
+    {
+      "id": "PRE-PI-PSJI-055",
+      "title": "Directive Principles of State Policy",
+      "from": "t-1-0",
+      "to": "t-1-2"
+    },
+    {
+      "id": "PRE-PI-PSJI-062",
+      "title": "Constitutional bodies: powers, functions, responsibilities",
+      "from": "t-1-0",
+      "to": "t-1-7"
+    },
+    {
+      "id": "MN-PII-HCOI-018",
+      "title": "Bhakti & Sufi movements & influence",
+      "from": "t-0-5",
+      "to": "t-0-6"
+    },
+    {
+      "id": "MN-PII-HCOI-021",
+      "title": "Mughal administration, socio-religious life & culture",
+      "from": null,
+      "to": "t-0-5"
+    },
+    {
+      "id": "MN-PII-HCOI-022",
+      "title": "Shivaji & rise of the Maratha Empire",
+      "from": null,
+      "to": "t-0-5"
+    },
+    {
+      "id": "MN-PII-HCOI-023",
+      "title": "Advent of Europeans; trade practices",
+      "from": null,
+      "to": "t-0-7"
+    },
+    {
+      "id": "MN-PII-HCOI-024",
+      "title": "Rise of East India Company & its hegemony",
+      "from": null,
+      "to": "t-0-7"
+    },
+    {
+      "id": "MN-PII-HCOI-027",
+      "title": "Rise of British rule 1757–1856",
+      "from": null,
+      "to": "t-0-7"
+    },
+    {
+      "id": "MN-PII-HCOI-028",
+      "title": "Permanent, Ryotwari & Mahalwari settlements",
+      "from": null,
+      "to": "t-0-7"
+    },
+    {
+      "id": "MN-PII-HCOI-029",
+      "title": "1857 Revolt & its impact",
+      "from": null,
+      "to": "t-0-7"
+    },
+    {
+      "id": "MN-PII-HCOI-031",
+      "title": "19th-c socio-religious reform: Raja Ram Mohan Roy, Dayananda, Vivekananda",
+      "from": null,
+      "to": "t-0-7"
+    },
+    {
+      "id": "MN-PII-HCOI-097",
+      "title": "19th-c socio-religious reform: Annie Besant, Sir Syed Ahmad Khan & others",
+      "from": null,
+      "to": "t-0-7"
+    },
+    {
+      "id": "MN-PII-HCOI-032",
+      "title": "Rise of Indian nationalism & INC activities",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "MN-PII-HCOI-033",
+      "title": "Vandemataram, Home Rule & Self-Respect movements",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "MN-PII-HCOI-034",
+      "title": "Phule, Narayana Guru, Periyar Ramaswamy",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "MN-PII-HCOI-035",
+      "title": "Rowlatt Act, Jallianwala Bagh; Non-Cooperation & Khilafat movements",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "MN-PII-HCOI-094",
+      "title": "Civil Disobedience, Dandi March & Round Table Conferences",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "MN-PII-HCOI-095",
+      "title": "Quit India Movement, INA & Subhash Chandra Bose",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "MN-PII-HCOI-036",
+      "title": "Ambedkar & his contributions",
+      "from": null,
+      "to": "t-1-0"
+    },
+    {
+      "id": "MN-PII-HCOI-037",
+      "title": "Freedom struggle 1885-1905, 1905-1920, Gandhi phase 1920-1947",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "MN-PII-HCOI-096",
+      "title": "Acts of 1909, 1919 & 1935; Simon Commission, Cripps & Cabinet Mission",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "MN-PII-HCOI-038",
+      "title": "Peasant, women, tribal & workers movements",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "MN-PII-HCOI-039",
+      "title": "Role of different parties; local & regional movements",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "MN-PII-HCOI-040",
+      "title": "Inter-religious unity & communalism",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "MN-PII-HCOI-041",
+      "title": "Independence & Partition; rehabilitation",
+      "from": null,
+      "to": "t-0-8"
+    },
+    {
+      "id": "MN-PII-HCOI-042",
+      "title": "Linguistic reorganization & integration of states",
+      "from": null,
+      "to": "t-0-9"
+    },
+    {
+      "id": "MN-PII-HCOA-045",
+      "title": "Social & economic conditions; religion & language (Telugu)",
+      "from": null,
+      "to": "t-0-4"
+    },
+    {
+      "id": "MN-PII-HCOA-047",
+      "title": "Eastern Chalukyas, Rashtrakutas, Renati Cholas: socio-cultural life",
+      "from": null,
+      "to": "t-0-5"
+    },
+    {
+      "id": "MN-PII-HCOA-048",
+      "title": "Telugu script & language; literature, art & architecture",
+      "from": null,
+      "to": "t-0-9"
+    },
+    {
+      "id": "MN-PII-HCOA-050",
+      "title": "Antiquity & growth of Telugu language & literature (Kavitraya, Ashtadiggajas)",
+      "from": "t-0-5",
+      "to": "t-0-9"
+    },
+    {
+      "id": "MN-PII-HCOA-054",
+      "title": "Praja Kavi Vemana & regional literature",
+      "from": "t-0-5",
+      "to": "t-0-9"
+    },
+    {
+      "id": "MN-PII-HCOA-055",
+      "title": "European trade establishments; Andhra under Company rule",
+      "from": "t-0-9",
+      "to": "t-0-7"
+    },
+    {
+      "id": "MN-PII-HCOA-056",
+      "title": "Christian missionaries; socio-cultural & literary awakening",
+      "from": null,
+      "to": "t-0-7"
+    },
+    {
+      "id": "MN-PII-HCOA-057",
+      "title": "C.P. Brown, Thomas Munro, Mackenzie",
+      "from": null,
+      "to": "t-0-7"
+    },
+    {
+      "id": "MN-PII-HCOA-058",
+      "title": "Zamindari & Palegar system; native states & little kings",
+      "from": null,
+      "to": "t-0-7"
+    },
+    {
+      "id": "MN-PII-HCOA-059",
+      "title": "Gurajada, Veeresalingam, Venkataratnam Naidu, Gidugu Ramamurthy, Besant",
+      "from": null,
+      "to": "t-0-9"
+    },
+    {
+      "id": "MN-PII-HCOA-060",
+      "title": "Library movement & role of newspapers",
+      "from": null,
+      "to": "t-0-9"
+    },
+    {
+      "id": "MN-PII-HCOA-061",
+      "title": "Folk & tribal culture, oral traditions, subaltern culture, role of women",
+      "from": null,
+      "to": "t-0-9"
+    },
+    {
+      "id": "MN-PII-HCOA-063",
+      "title": "Nationalist & revolutionary literature: Jashuva, Bheemanna, Sri Sri, Garimella, Rayaprolu, Unnava, Tripuraneni",
+      "from": null,
+      "to": "t-0-9"
+    },
+    {
+      "id": "MN-PII-HCOA-065",
+      "title": "Alluri Sitaramaraju, Duggirala Gopalakrishnaiah, Konda Venkatappayya, Pattabhi, Ponaka Kanakamma, Dokka Sitamma",
+      "from": null,
+      "to": "t-0-9"
+    },
+    {
+      "id": "MN-PII-HCOA-066",
+      "title": "Granthalaya movement leaders (Ayyanki, Gadicherla, Kasinathuni)",
+      "from": null,
+      "to": "t-0-9"
+    },
+    {
+      "id": "MN-PII-HCOA-068",
+      "title": "Emergence of AP 1956; AP 1956-2014 & causes for bifurcation",
+      "from": null,
+      "to": "t-0-9"
+    },
+    {
+      "id": "MN-PII-HCOA-071",
+      "title": "Division of employees & native issues; trade, commerce & industry effects",
+      "from": "t-0-0",
+      "to": null
+    },
+    {
+      "id": "MN-PIII-PC-002",
+      "title": "Functions & duties of Union & State governments",
+      "from": "t-1-0",
+      "to": "t-1-6"
+    },
+    {
+      "id": "MN-PIII-PC-003",
+      "title": "Issues & challenges of federal structure",
+      "from": "t-1-0",
+      "to": "t-1-6"
+    },
+    {
+      "id": "MN-PIII-PC-004",
+      "title": "Role of Governor in states",
+      "from": "t-1-0",
+      "to": "t-1-5"
+    },
+    {
+      "id": "MN-PIII-PC-005",
+      "title": "Union, State & Concurrent lists; issues & challenges",
+      "from": "t-1-0",
+      "to": "t-1-6"
+    },
+    {
+      "id": "MN-PIII-PC-006",
+      "title": "Rural & urban local governance",
+      "from": "t-1-0",
+      "to": "t-1-6"
+    },
+    {
+      "id": "MN-PIII-PC-007",
+      "title": "Constitutional authorities & their role",
+      "from": "t-1-0",
+      "to": "t-1-7"
+    },
+    {
+      "id": "MN-PIII-PC-008",
+      "title": "Structure, functioning & conduct of business",
+      "from": "t-1-0",
+      "to": "t-1-3"
+    },
+    {
+      "id": "MN-PIII-PC-009",
+      "title": "Powers, privileges & arising issues",
+      "from": "t-1-0",
+      "to": "t-1-3"
+    },
+    {
+      "id": "MN-PIII-PC-010",
+      "title": "Structure & functions of judiciary",
+      "from": "t-1-0",
+      "to": "t-1-4"
+    },
+    {
+      "id": "MN-PIII-PC-012",
+      "title": "Judicial review & Public Interest Litigation",
+      "from": "t-1-0",
+      "to": "t-1-4"
+    }
+  ],
+  "pending": "Question-by-question official-paper/key checks, content permissions and complete current official syllabus reconciliation remain pending."
+}

@@ -13,7 +13,8 @@ test('app startup renders its dashboard with the complete module graph',async()=
  const interval=globalThis.setInterval;globalThis.setInterval=()=>({unref(){}});
  try{await import('../app/ui.js');await new Promise(r=>setTimeout(r,60));assert.match(node.innerHTML,/Make today count, Aspirant/);assert.doesNotMatch(node.innerHTML,/Workspace could not open/);
  for(const route of ['today','plan','library','catalogue','learn/t-5-0','revisions','practice','ledger','papers','current','insights','tutor','settings']){location.hash='#'+route;listeners.get('hashchange')();assert.match(node.innerHTML,/<h1>/,route);assert.doesNotMatch(node.innerHTML,/Workspace could not open/,route);if(route==='tutor')assert.match(node.innerHTML,/id="tutorform"/);if(route==='library')assert.match(node.innerHTML,/topiccard/);if(route==='plan')assert.match(node.innerHTML,/id="planform"/);}
- const {topics}=await import('../app/content.js');for(const topic of topics){location.hash='#learn/'+topic.id;listeners.get('hashchange')();assert.ok(node.innerHTML.includes(topic.title.replaceAll('&','&amp;')),topic.id);assert.match(node.innerHTML,/learningjourney/,topic.id);}
+ const {topics}=await import('../app/content.js');for(const topic of topics){location.hash='#learn/'+topic.id;listeners.get('hashchange')();assert.ok(node.innerHTML.includes(topic.title.replaceAll('&','&amp;')),topic.id);assert.match(node.innerHTML,/learningjourney/,topic.id);if(topic.id.startsWith('t-0-')||topic.id==='t-1-0'){assert.match(node.innerHTML,/Chapter outline/,topic.id);assert.match(node.innerHTML,/Revision summary/,topic.id);assert.match(node.innerHTML,/Sources for further study/,topic.id);assert.doesNotMatch(node.innerHTML,/A foundation to build on/,topic.id);}}
  location.hash='#catalogue';listeners.get('hashchange')();assert.ok(!node.innerHTML.includes('Open source file'));
  }finally{globalThis.setInterval=interval;}
 });
+

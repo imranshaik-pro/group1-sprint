@@ -1,0 +1,1 @@
+export function practiceHistory(events){return events.flatMap(e=>{if(e.type==='practice-exposure'&&Array.isArray(e.data?.items))return e.data.items.map(q=>({id:q.id,at:Date.parse(e.at)}));if(e.type==='practice'&&Array.isArray(e.data?.items))return e.data.items.map(q=>({id:q.id,at:Date.parse(e.at),wrong:q.choice===null?undefined:q.choice!==q.answer}));return [];});}

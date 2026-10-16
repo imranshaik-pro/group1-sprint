@@ -1,0 +1,1 @@
+export function learningSource(url){try{const u=new URL(url);if(u.protocol!=='https:'||u.username||u.password||['github.com','raw.githubusercontent.com','api.github.com'].includes(u.hostname)||/\.(json|js|mjs|tsx?|jsx|zip)$/i.test(u.pathname))return null;return u.href;}catch{return null;}}

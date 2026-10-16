@@ -12,6 +12,7 @@ export function validEvent(value:unknown):value is StudyEvent {
  switch(e.type){
  case 'reading-preferences':return validReading(d);
  case 'learning-flow':return validFlow(d);
+ case 'practice-exposure':return Array.isArray(d.items)&&d.items.length>0&&d.items.length<=120&&d.items.every((x:unknown)=>{const q=x as {id?:unknown;topic?:unknown};return !!q&&typeof q.id==='string'&&/^[a-zA-Z0-9-]{1,100}$/.test(q.id)&&topic(q.topic);});
  case 'cursor':return ['today','plan','library','lesson','revision','practice','papers','reading','current','insights','tutor','settings'].includes(String(d.page))&&(d.page!=='lesson'||topic(d.topic));
  case 'reading':return short(d.resource,100)&&short(d.title,300)&&typeof d.page==='number'&&Number.isInteger(d.page)&&d.page>=1&&typeof d.total==='number'&&Number.isInteger(d.total)&&d.total>=d.page&&d.total<=10000;
  case 'plan':return typeof d.start==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(d.start)&&Number.isFinite(Date.parse(d.start))&&typeof d.hours==='number'&&d.hours>=1&&d.hours<=12&&short(d.level)&&short(d.weak)&&d.days===105;
