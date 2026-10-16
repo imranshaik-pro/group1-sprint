@@ -1,0 +1,14 @@
+'use client';
+import {useState} from 'react';
+import {upscCatalogue} from '../lib/upsc-resources.js';
+export default function UpscLibrary(){
+ const [query,setQuery]=useState(''),[subject,setSubject]=useState('All subjects'),[limit,setLimit]=useState(20);
+ const resources=upscCatalogue.resources.filter(r=>(subject==='All subjects'||r.subject===subject)&&`${r.title} ${r.subject} ${r.path} ${r.text}`.toLowerCase().includes(query.trim().toLowerCase()));
+ return <section aria-label="UPSC resource library"><div className="page-heading"><span className="eyebrow">UPSC · STUDY RESOURCES</span><h1>Expand your preparation.</h1><p>Subject-wise notes, source PDFs, syllabus references and further reading.</p></div>
+ <div className="notice"><span>Imported reference collection · content and external links await review. This collection is not a complete syllabus or a verified question bank. Check dated current affairs against current official sources. External PDFs need an internet connection.</span></div>
+ <div className="library-toolbar"><label className="field-label">Search UPSC resources<input value={query} onChange={e=>{setQuery(e.target.value);setLimit(20);}} placeholder="Subject, topic or words in the notes"/></label><label className="field-label">UPSC subject<select value={subject} onChange={e=>{setSubject(e.target.value);setLimit(20);}}><option>All subjects</option>{[...new Set(upscCatalogue.resources.map(r=>r.subject))].sort().map(s=><option key={s}>{s}</option>)}</select></label></div>
+ <p role="status">{resources.length} resources found · showing {Math.min(limit,resources.length)}</p>
+ <div className="upsc-grid">{resources.slice(0,limit).map(r=><article className="panel" key={r.id}><span className="pill">{r.subject} · {r.format}</span><h2>{r.title}</h2><p className="muted">Reference · pending review</p>{r.text&&<details><summary>Read notes</summary><pre className="upsc-note">{r.text}</pre></details>}{r.links.length>0&&<details><summary>{r.links.length} external resources</summary><ul>{r.links.map(url=><li key={url}><a href={url} target="_blank" rel="noopener noreferrer">{url}</a></li>)}</ul></details>}<a className="text-button" href={r.url} target="_blank" rel="noopener noreferrer">{r.format==='PDF'?'Open source PDF':r.format==='PNG'?'Open source image':'View original source'} ↗</a></article>)}</div>
+ {!resources.length&&<p>No matching resources. Try another subject or a broader search.</p>}{limit<resources.length&&<button className="secondary-button" onClick={()=>setLimit(limit+20)}>Show more resources</button>}
+ <p className="muted">Source: <a href={upscCatalogue.source} target="_blank" rel="noopener noreferrer">Madhurima Rawat · UPSC Notes Resources</a> · MIT licence. {upscCatalogue.copyright}. External publishers retain rights to their linked materials.</p></section>;
+}
