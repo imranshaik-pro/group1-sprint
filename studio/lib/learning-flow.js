@@ -1,6 +1,11 @@
+import {topics} from './content.js';
+import {batch1Lessons} from './curriculum-batch1.js';
+import {batch2Lessons} from './curriculum-batch2.js';
+const topicIds=new Set(topics.map(t=>t.id));
+export function lessonSegmentCount(id){if(!topicIds.has(id))return 0;return (batch2Lessons[id]||batch1Lessons[id])?.segments.length||(['t-1-1','t-5-0'].includes(id)?4:1);}
 export const stages=['learn','recall','practice','revise'];
 export function latestFlow(events,topic){return events.filter(e=>e.type==='learning-flow'&&e.data.topic===topic).at(-1)?.data||{topic,stage:'learn',segment:0,answers:['','',''],reviewed:false,reflection:'',practiceDone:false};}
-export function validFlow(d){return !!d&&/^t-[0-6]-[0-9]$/.test(d.topic)&&stages.includes(d.stage)&&Number.isInteger(d.segment)&&d.segment>=0&&d.segment<4&&Array.isArray(d.answers)&&d.answers.length===3&&d.answers.every(a=>typeof a==='string'&&a.length<=1500)&&typeof d.reviewed==='boolean'&&typeof d.reflection==='string'&&d.reflection.length<=1500&&(!('practiceDone' in d)||typeof d.practiceDone==='boolean');}
+export function validFlow(d){return !!d&&/^t-[0-6]-[0-9]$/.test(d.topic)&&stages.includes(d.stage)&&Number.isInteger(d.segment)&&d.segment>=0&&d.segment<lessonSegmentCount(d.topic)&&Array.isArray(d.answers)&&d.answers.length===3&&d.answers.every(a=>typeof a==='string'&&a.length<=1500)&&typeof d.reviewed==='boolean'&&typeof d.reflection==='string'&&d.reflection.length<=1500&&(!('practiceDone' in d)||typeof d.practiceDone==='boolean');}
 export function canAdvance(d){return d.stage==='learn'||d.stage==='recall'&&d.reviewed&&d.answers.every(a=>a.trim().length>=10)||d.stage==='practice'&&d.reflection.trim().length>=10;}
 export const teluguSegments=[
  {title:'హక్కులు ఎందుకు అవసరం?',text:'ప్రభుత్వానికి అధికారం ఉంది. కానీ ఆ అధికారం ఉపయోగించినప్పుడు మన గౌరవం, సమానత్వం, స్వేచ్ఛను కాపాడాలి. హక్కు అంటే కేవలం వాగ్దానం కాదు: ఉల్లంఘన జరిగితే న్యాయ పరిష్కారం పొందే మార్గం కూడా ఉండాలి.',example:'ఒక ప్రభుత్వ కార్యాలయంలో మీపై వివక్ష జరిగిందనుకోండి. ఏ హక్కు వర్తిస్తుంది, పరిష్కారం కోసం ఎక్కడికి వెళ్లాలి అని ఆలోచించడం ఈ పాఠం ఉద్దేశం.'},
