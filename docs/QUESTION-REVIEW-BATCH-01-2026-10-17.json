@@ -1,0 +1,2494 @@
+{
+  "batchId": "import-review-01",
+  "checkedAt": "2026-10-17",
+  "assigned": 378,
+  "reviewed": 100,
+  "remainingInBatch": 278,
+  "counts": {
+    "confirmed": 61,
+    "held": 7,
+    "correction_required": 32
+  },
+  "allTenBatchesTotal": 3776,
+  "unexaminedAcrossTenBatches": 3676,
+  "scoredBankNewApprovals": 0,
+  "policy": "Independent answer review with cited evidence. Confirmed means the substantive answer has source support; it does not auto-approve scoring. Correction-required items need repaired stems/options. Held items are unresolved. No batch is fully verified.",
+  "method": "Read original stem/options; formulate answer and explanation; compare authoritative evidence with imported claims; record caveats, dates, corrections and topic proposals. No imported key was bulk-promoted.",
+  "items": [
+    {
+      "position": 1,
+      "id": "current-9b819719a94c-q28",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "A",
+      "solution": "West Bengal, Tamil Nadu, Kerala, Assam and Puducherry",
+      "explanation": "The ECI schedule covers these four states and one Union Territory. Andhra Pradesh and Telangana are not part of that set.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn7search0",
+          "url": "https://www.eci.gov.in/election-details/2026/S25/3",
+          "locator": "ECI schedule heading; PIB 2 April 2026 poll-date table"
+        },
+        {
+          "sourceId": "turn7search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2248316&lang=2&reg=3",
+          "locator": "ECI schedule heading; PIB 2 April 2026 poll-date table"
+        }
+      ],
+      "sourceTextSha256": "98f33ba47eda68301f9b7a3bae6b015973012d7fb3da12ee7a06aaa1326194ed",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 2,
+      "id": "current-9b819719a94c-q166",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Odisha",
+      "explanation": "DRDO launched two Pralay missiles from the same launcher off Odisha on 31 December 2025. The question concerns the test location, not the Hyderabad development laboratory.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn7search3",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210128&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "6d61b79f06922a4945b6f40c024268492568bec069806a2fea2ea6078496734e",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 3,
+      "id": "current-9b819719a94c-q293",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": "B",
+      "solution": "Kakinada is the intended nearest option; exact landfall wording needs the final IMD record",
+      "explanation": "The retrieved IMD bulletin forecasts crossing around Kakinada. A forecast alone does not prove where landfall actually occurred; later accounts distinguish the area south of Kakinada near Narsapur.",
+      "requiredCorrectionOrHoldReason": "Retrieve and reconcile the final IMD cyclone report before approving the stated actual landfall and date.",
+      "proposedTopicId": "t-3-9",
+      "scope": "AP-specific event; wider cyclone study relevance",
+      "evidence": [
+        {
+          "sourceId": "turn7search6",
+          "url": "https://mausam.imd.gov.in/amaravati/mcdata/sbulletin.pdf",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn22search1",
+          "url": "https://internal.imd.gov.in/pages/press_release_mausam.php?apiversion=v2&batchservertelemetry=1&domshim=1&gemSnapshotKey=GM33BAA8EE-snapshot-4&noservercache=1&noservertelemetry=1&wcseo=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "a9205ba260814f1759d3a7d3aca1136a540dc134bfde1d3d667e371700fdfc94",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 4,
+      "id": "current-a4b49eee3ea8-q84",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Southern Naval Command, Kochi",
+      "explanation": "The Ministry of Defence announcement identifies Kochi for the eighth bilateral EOD exercise, scheduled for 10–14 August 2026.",
+      "requiredCorrectionOrHoldReason": "Use: According to the 9 August 2026 announcement, where was the eighth India–US EOD exercise scheduled? The retrieved announcement is prospective, not a completion report.",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn7search4",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296842&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "0033625bb975ac378b614b7bfcc90427e1a9e0abf13f045cd4589be2e0ef75ba",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 5,
+      "id": "current-a4b49eee3ea8-q326",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "The imported A is not approved as written",
+      "explanation": "The parliamentary bill proposes inserting Amaravati in section 5(2), effective 2 June 2024. Its own account says Hyderabad was a common capital for up to ten years. The broad statement about ending all uncertainty is not a precise legal proposition.",
+      "requiredCorrectionOrHoldReason": "Check the enacted Gazette text, assent and commencement. Rewrite subjective statement 2 and preserve the 2014–2024 common-capital distinction; a passed Bill alone is insufficient.",
+      "proposedTopicId": "t-1-6",
+      "scope": "AP-specific",
+      "evidence": [
+        {
+          "sourceId": "turn8search10",
+          "url": "https://sansad.in/getFile/BillsTexts/LSBillTexts/Asintroduced/as%20intro412026124446PM.pdf?source=legislation",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "4196ef136783b43be6afe51384e2282705c3d961e2f9a1eb862bec8663fbc423",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 6,
+      "id": "uploaded-upsc-7ecfe56a1bb7-q11",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "D",
+      "solution": "All four statements, with the wind statement clarified",
+      "explanation": "October–November is the retreating-monsoon season. Southern peninsular rainfall includes Tamil Nadu and coastal Andhra Pradesh; this should not suggest that southwest winds physically retrace an identical path.",
+      "requiredCorrectionOrHoldReason": "Replace statement 2 with: Northeasterly seasonal flow from land towards the Bay can pick up moisture and bring rain to the southeast coast. Reclassify from current events to climate.",
+      "proposedTopicId": "t-3-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn23view0",
+          "url": "https://www.ncert.nic.in/textbook/pdf/kegy104.pdf",
+          "locator": "NCERT Climate, Season of Retreating Monsoon, PDF pp. 11–12"
+        }
+      ],
+      "sourceTextSha256": "ffbc4fe4174862667eefbe576562190f92be94edc331626222c3ac264e0cb20f",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 7,
+      "id": "uploaded-upsc-bb2ea4203771-q28",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "A",
+      "solution": "Statements 1, 2 and a corrected statement 3",
+      "explanation": "Krishna originates near Mahabaleshwar and flows east to the Bay of Bengal. Its basin includes Maharashtra, Karnataka, Telangana and Andhra Pradesh; Tungabhadra is a tributary. Statement 4 is false.",
+      "requiredCorrectionOrHoldReason": "Add Telangana to statement 3 and the explanation. Reclassify to rivers. Confirm the tributary detail against the basin chapter before scored release.",
+      "proposedTopicId": "t-3-3",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn9search6",
+          "url": "https://cwc.gov.in/sites/default/files/volume-1.pdf",
+          "locator": "CWC basin description and state-wise drainage-area table"
+        }
+      ],
+      "sourceTextSha256": "ae286d5d0ac9883210e93c78b92d6830b4ab870e86b8f449a5a835679341c2fb",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 8,
+      "id": "uploaded-upsc-e82003883aac-q26",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": "D",
+      "solution": "All four pairs are the likely intended answer; not fully verified in this pass",
+      "explanation": "The pairings describe familiar flood patterns. A third-party NCERT transcription matches the list, but the complete original NCERT chapter was not retrieved from its official host in this pass.",
+      "requiredCorrectionOrHoldReason": "Verify every pairing, especially Punjab flash floods, against a complete primary text. Do not treat a matching secondary transcription as completed authentication.",
+      "proposedTopicId": "t-3-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn22search9",
+          "url": "https://www.nrsc.gov.in/nrscnew/assets/pdf/DMSP/FloodAffectedAreaAtlas_Digital.pdf",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn24search7",
+          "url": "https://dmrelief.rajasthan.gov.in/documents/Flood_plan_2024_12092024.pdf",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "1d44c90a60ce45354ff6648c5a3012ede81cc35807e12b34c40f3803ab15064e",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 9,
+      "id": "current-9b819719a94c-q3",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "David Noble Relays",
+      "explanation": "The March 2026 meet was held in San Angelo, Texas. The reported winning total of 7,947 was wind-assisted and must not be called a ratified national decathlon record.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn9search4",
+          "url": "https://worldathletics.org/competition/calendar-results/results/7235066",
+          "locator": "World Athletics meet listing, 26–28 March 2026; Akashvani results report"
+        },
+        {
+          "sourceId": "turn9search5",
+          "url": "https://newsonair.gov.in/tejaswin-shankar-wins-2026-david-noble-relays-in-texas-with-wind-assisted-pb-of-7947-points/",
+          "locator": "World Athletics meet listing, 26–28 March 2026; Akashvani results report"
+        }
+      ],
+      "sourceTextSha256": "58a0e0d6898bf0dd39d2f6acb6efc6199b186e1dbd16ce56ff66bd585a12e409",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 10,
+      "id": "current-9b819719a94c-q5",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Gautam Buddha Nagar",
+      "explanation": "The official inauguration itinerary locates Noida International Airport at Jewar, Gautam Buddha Nagar, Uttar Pradesh. The inauguration release confirms the 28 March event.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-2-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn14search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2245509&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn14search0",
+          "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2246413&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "1faeb3db9e39a89e1b251533bf2c0e322bd662b65196be266cde791ac514062a",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 11,
+      "id": "current-9b819719a94c-q6",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "10 teams",
+      "explanation": "The official league schedule lists ten distinct franchises. The official first-phase release starts the season on 28 March and the playoff advisory schedules the final on 31 May 2026.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn24search6",
+          "url": "https://documents.iplt20.com/smart-images/1774525332894_TATA_IPL_2026-Schedule.pdf",
+          "locator": "Official schedule: distinct home/away franchise names; opening and final-date announcements"
+        },
+        {
+          "sourceId": "turn24search1",
+          "url": "https://www.iplt20.com/news/article/bcci-announces-schedule-for-first-phase-of-tata-ipl-2026",
+          "locator": "Official schedule: distinct home/away franchise names; opening and final-date announcements"
+        },
+        {
+          "sourceId": "turn24search0",
+          "url": "https://www.iplt20.com/news/article/schedule-for-tata-ipl-2026-playoffs-announced-ahmedabad-to-host-grand-finale",
+          "locator": "Official schedule: distinct home/away franchise names; opening and final-date announcements"
+        }
+      ],
+      "sourceTextSha256": "78fdc05e5d54de98c5a140a7fdf0ca3ff3810283424eb0e9c5af21faf42f1e68",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 12,
+      "id": "current-9b819719a94c-q7",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "India — 7.6% for FY 2025–26 in the March 2026 Outlook",
+      "explanation": "OECD paragraph 20 gives 7.6% for FY 2025–26, then 6.1% for FY 2026–27 and 6.4% for FY 2027–28. The 7.6% figure must retain its report edition and financial year; it is not a timeless current forecast.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-4",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn14search2",
+          "url": "https://www.oecd.org/en/publications/oecd-economic-outlook-interim-report-march-2026_d4623013-en/full-report/component-3.html",
+          "locator": "OECD March 2026 Interim Outlook, Projections, paragraph 20"
+        }
+      ],
+      "sourceTextSha256": "87383e549fc14c51f5353404475ac0c509b0b487bb6e65b9539318009899591e",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 13,
+      "id": "current-9b819719a94c-q8",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Balendra Shah",
+      "explanation": "Nepal’s Prime Minister’s Office records his assumption of office on 27 March 2026. India’s same-day congratulatory release independently corroborates the appointment.",
+      "requiredCorrectionOrHoldReason": "Ask who assumed office on 27 March 2026; omit the unverified youngest-elected-PM superlative.",
+      "proposedTopicId": "t-6-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn24search4",
+          "url": "https://www.opmcm.gov.np/minister-detail/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "38a0aa60f7a1b57725d5b3525da9eb8afc0ae9c93491c02d09a2872f6fcbabf8",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 14,
+      "id": "current-9b819719a94c-q14",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "Gujarat",
+      "explanation": "The 25 March 2026 Home Ministry release says Gujarat followed Uttarakhand in passing its UCC Bill. Passing a Bill must not be conflated with its commencement or universal applicability.",
+      "requiredCorrectionOrHoldReason": "Anchor to the 25 March official release unless the precise 24 March passage date is separately confirmed from Assembly records.",
+      "proposedTopicId": "t-1-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn6search7",
+          "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2244960&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "8854af38534402205074d4a198f694c7502d9df6378a0de73f89b3a91ea9a8f2",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 15,
+      "id": "current-9b819719a94c-q16",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Approximately 33%, more precisely as nearly as may be one-third",
+      "explanation": "The 106th Amendment provides women’s reservation in the Lok Sabha and State Assemblies. A question about the reserved fraction must not imply seats were already operationally reserved in every election.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-3",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn45search3",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2251287&lang=2&reg=48",
+          "locator": "PMO release, 12 April 2026: one-third reservation under the 2023 Act"
+        }
+      ],
+      "sourceTextSha256": "75ba922f79670806ea746549b9ab6c69da369a31413c7ad178f87e1bd51b0533",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 16,
+      "id": "current-9b819719a94c-q17",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Pawan Kumar Chamling",
+      "explanation": "The 22 March 2026 official statement compares Modi’s combined head-of-government tenure with former Sikkim Chief Minister Chamling’s 8,930 days. This is not a comparison of Prime Minister tenure alone.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn10search2",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243560&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "2968b11fd6e3bbd77cca35b52e5015ff2738d5cdf2f8ad12f8a2e5c8a41c1590",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 17,
+      "id": "current-9b819719a94c-q18",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Iranian/Persian calendar",
+      "explanation": "Nowruz marks the Persian new year around the spring equinox. Parsi observances use different calendar traditions, so a universal March 21 Parsi-New-Year claim conflates distinct observances.",
+      "requiredCorrectionOrHoldReason": "Use: Nowruz, associated with the spring equinox and International Nowruz Day, marks the new year in which calendar tradition? Retain C.",
+      "proposedTopicId": null,
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn10search3",
+          "url": "https://www.un.org/en/observances/international-nowruz-day",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "4c7d7d6d42399b406da1bc3c2728b227c2909135d9b4830dde11ed13aee603b3",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 18,
+      "id": "current-9b819719a94c-q20",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Shawwal",
+      "explanation": "Eid-ul-Fitr falls on 1 Shawwal, immediately after Ramadan. The Gregorian date can vary by lunar observation; the Islamic month does not change.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": null,
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn19search4",
+          "url": "https://saudipedia.com/en/eid-al-fitr-in-saudi-arabia",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "1b29e466d59ea1e33e4190386ee1a296cb79a8533234c1e700843b8fdf78c4af",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 19,
+      "id": "current-9b819719a94c-q21",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "D",
+      "solution": "Vikram Samvat 2083",
+      "explanation": "The official 19 March 2026 greeting explicitly names Vikram Samvat 2083. India has multiple regional and religious new-year traditions, so Hindu New Year should not be presented as one universal date.",
+      "requiredCorrectionOrHoldReason": "Specify the Chaitra/Nav Samvatsar observance referred to in the 19 March 2026 greeting.",
+      "proposedTopicId": null,
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn10search5",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2242290&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "b9634e33f40a50aa0d6a6e7a83883b14855567b78e444131d16d57a4831a8b38",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 20,
+      "id": "current-9b819719a94c-q22",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "The indoor athletics facility at Kalinga Stadium, Bhubaneswar",
+      "explanation": "World Athletics awarded the 2028 indoor championships to Odisha; its calendar specifies Kalinga Indoor Stadium, Bhubaneshwar, 3–5 March 2028.",
+      "requiredCorrectionOrHoldReason": "Make option B explicitly Kalinga Indoor Stadium/facility, Bhubaneswar. This is a scheduled future event, not a completed championship.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn20search0",
+          "url": "https://worldathletics.org/competition/calendar-results",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn20search8",
+          "url": "https://www.yas.nic.in/sites/default/files/India%20to%20host%20World%20Indoor%20Athletics%20Championships%20in%202028.pdf",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "301865d4a20542d29472168650ff353f45e1440f5d209f52ef3e4b135f398b77",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 21,
+      "id": "current-9b819719a94c-q24",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Plug-and-play industrial parks",
+      "explanation": "The Cabinet’s 18 March 2026 BHAVYA release approves development of 100 plug-and-play industrial parks. Export processing zones and IT-only SEZs do not describe the scheme.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-2-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn11search2",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2241814&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "3fbc4ee6038f10ca1847593196b132134753ecb4f2bbbf443ad608712e2bc02e",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 22,
+      "id": "current-9b819719a94c-q25",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "One Battle after Another",
+      "explanation": "The Academy’s official 98th Oscars winners list marks this film as the Best Picture winner, distinct from Sinners and Frankenstein, which appear in other categories.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn11search5",
+          "url": "https://www.oscars.org/oscars/ceremonies/2026",
+          "locator": "98th Oscars 2026: Best Picture, Winner"
+        }
+      ],
+      "sourceTextSha256": "bed91de07be7e347c43e43610db2dac3e25b50abea69be222699736cd980eaa4",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 23,
+      "id": "current-9b819719a94c-q26",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "Dal Lake",
+      "explanation": "Jammu and Kashmir Tourism Development Corporation places the Srinagar tulip garden beside Dal Lake. This location is independently established without needing an opening-day claim.",
+      "requiredCorrectionOrHoldReason": "Remove the March 2026 opening clause unless verified from the opening announcement; ask the stable location fact.",
+      "proposedTopicId": "t-3-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn11search4",
+          "url": "https://jktdc.co.in/info.aspx?id=27",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "f04c2da5f3b13da7d88033d9836eccd0b0b2e987c65c272b48955d27027c97d9",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 24,
+      "id": "current-9b819719a94c-q27",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Mamta Kalia",
+      "explanation": "Sahitya Akademi’s official 2025 award table lists the Hindi memoir Jeete Jee Allahabad and its author Mamta Kalia.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn14search5",
+          "url": "https://sahitya-akademi.gov.in/pdf/sahityaakademiawards-2025.pdf",
+          "locator": "Annexure A, Hindi row"
+        }
+      ],
+      "sourceTextSha256": "b480cc3f5486c327cb9332fcbec144932a87d15abd0dc2a079cd4a796e32c67d",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 25,
+      "id": "current-9b819719a94c-q31",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "Iran and Oman",
+      "explanation": "The strait connects the Persian Gulf to the Gulf of Oman, between Iran and Oman. Oil-flow shares depend on year and denominator, and restricted traffic is not equivalent to an absolute continuous closure.",
+      "requiredCorrectionOrHoldReason": "Ask the stable geographical location; remove undated trade percentages and the blanket closure assertion.",
+      "proposedTopicId": "t-3-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn14search4",
+          "url": "https://www.eia.gov/todayinenergy/detail.php?id=39932&os=ios",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "202de03de3825a4d128419c2cae3658e31109a649e8759ce97ba701a56a6fa5b",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 26,
+      "id": "current-9b819719a94c-q32",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "Disruption of imports through the Strait of Hormuz is the intended cause",
+      "explanation": "March government briefings discuss West Asia supply disruption while prioritising household LPG and report Indian LPG carriers crossing the strait. A universal domestic shortage and completely closed strait are overstatements.",
+      "requiredCorrectionOrHoldReason": "Ask which international disruption put pressure on LPG imports in March 2026. Replace option B closure with disruption/restriction of shipping. Remove unsupported 25-day delays and universal shortage claims.",
+      "proposedTopicId": "t-2-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn19search2",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2244642&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn19search3",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2240210&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "fac46a74d795c88bd40544c02ca6a5d1290da49408773201ab0f41694fa302ce",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 27,
+      "id": "current-9b819719a94c-q33",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Shubman Gill",
+      "explanation": "BCCI identifies Gill for the Polly Umrigar Award for Best International Cricketer (Men), covering the 2024–25 performance season, at the 2026 Naman ceremony. Smriti Mandhana is the separate women’s winner.",
+      "requiredCorrectionOrHoldReason": "Name the men’s Polly Umrigar category and the performance season; do not use an unqualified Cricketer of the Year label.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn12search0",
+          "url": "https://www.bcci.tv/news/article/bcci-to-honour-roger-binny-rahul-dravid-and-mithali-raj-with-lifetime-achievement-awards-at-naman-awards-2026",
+          "locator": "BCCI 14 March 2026 advisory, Best International Cricketer paragraph"
+        }
+      ],
+      "sourceTextSha256": "3818d55d0a1e28a584ae61e606b6053b7dd582b661ed3f9fc82465ac8ebe1f6a",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 28,
+      "id": "current-9b819719a94c-q35",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "New Delhi",
+      "explanation": "World Para Athletics lists New Delhi competition dates as 11–13 March 2026; classification takes place on 8–10 March. These are distinct parts of the programme.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn12search2",
+          "url": "https://www.paralympic.org/news/world-para-athletics-grand-prix-2026-calendar-released",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn12search6",
+          "url": "https://www.paralympic.org/sites/default/files/2025-11/Information%20Package_New%20Delhi2026.pdf",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "a75de4c4eb959c75418e1020d51b2689c04967f028927d5a9114e1f9866442db",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 29,
+      "id": "current-9b819719a94c-q36",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Common Cause v. Union of India (2018)",
+      "explanation": "The Supreme Court’s Harish Rana summary links dignified withdrawal of treatment to Common Cause and Article 21. The medical condition is an irreversible vegetative state, which should not be casually equated with every long-term coma.",
+      "requiredCorrectionOrHoldReason": "Use the Court’s terminology: irreversible vegetative state and withdrawal of clinically assisted nutrition/hydration under safeguards. Retain C.",
+      "proposedTopicId": "t-1-4",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn19search1",
+          "url": "https://www.sci.gov.in/landmark-judgment-summaries/",
+          "locator": "Harish Rana, 2026 INSC 222, factual background and questions"
+        }
+      ],
+      "sourceTextSha256": "813b4e151c86b0ab63c0ff4d5ee294eb663b5896f928263656741f54dd0e99ee",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 30,
+      "id": "current-9b819719a94c-q37",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "Up to 10% non-controlling beneficial ownership",
+      "explanation": "The March Cabinet decision applies the beneficial-owner test at investor-entity level. The automatic route remains subject to sectoral caps, entry routes, conditions and reporting; it is not blanket approval for all investments.",
+      "requiredCorrectionOrHoldReason": "Include the sectoral and reporting conditions and distinguish Cabinet approval in March from the 1 May 2026 notified rules.",
+      "proposedTopicId": "t-2-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn12search5",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2237806&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn12search3",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2301992&lang=1&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "4150bd4f342c49ce557c827de47c07a311f35c2059cd4a017cd54933391402a0",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 31,
+      "id": "current-9b819719a94c-q38",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "150 kilograms",
+      "explanation": "The DRDO/Indian Navy release explicitly describes a 150 kg payload for ADC-150 and four release trials from P8I off Goa between 21 February and 1 March 2026.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn13search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2237814&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "a5bdc5590680e5127f0abc47f44356741f4497f54eeae8acbdf1d64a525bf706",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 32,
+      "id": "current-9b819719a94c-q39",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "A",
+      "solution": "Exercise Lamitiye",
+      "explanation": "The defence release identifies the eleventh India–Seychelles Lamitiye at Seychelles Defence Academy, 9–20 March 2026. The conclusion report confirms the maiden tri-service participation.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn13search1",
+          "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2236791&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn13search9",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243504&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "355cdb2ac8eff71eeb60a40fc753b2094d2a18595ab33a09675366c366bd563a",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 33,
+      "id": "current-9b819719a94c-q40",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Zojila Pass",
+      "explanation": "Akashvani’s report quoting the BRO project chief says the pass operated for an unusually long winter period but was closed for four days. That contradicts the imported explanation’s uninterrupted-connectivity wording.",
+      "requiredCorrectionOrHoldReason": "Remove first-ever and continuously/uninterruptedly open claims. Attribute the unusually long winter operation to the 9 March 2026 BRO-account report.",
+      "proposedTopicId": "t-3-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn24search3",
+          "url": "https://newsonair.gov.in/historic-winter-opening-of-zojila-pass-ensures-ladakh-connectivity/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "0c76f276241c22acd38fe81ceb5642149bdb4b771e9456309cd5934fd3eda855",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 34,
+      "id": "current-9b819719a94c-q41",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "10 March 1969",
+      "explanation": "India Code gives 10 March 1969 as the CISF Act’s enforcement date. The enactment year is 1968, which explains the distractor but is not the force’s raising date.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn17search3",
+          "url": "https://www.indiacode.nic.in/indiacode/handle/123456789/1599?view_type=browse",
+          "locator": "India Code Act details: enforcement date and notification"
+        }
+      ],
+      "sourceTextSha256": "4593385c2727ceadaabd21f1f299ba50eed95d4715ce51f11b1cd4f19efdb372",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 35,
+      "id": "current-9b819719a94c-q42",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "India — 2026 ICC Men’s T20 World Cup",
+      "explanation": "ICC’s final scorecard records India 255/5, New Zealand 159 and India’s 96-run victory on 8 March 2026. The event year must be in the question because Australia also defeated New Zealand in the 2021 final.",
+      "requiredCorrectionOrHoldReason": "Insert 2026 in the stem. Without a year, more than one offered team has defeated New Zealand in a men’s T20 World Cup final.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn15search0",
+          "url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/matches",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn15search1",
+          "url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/live-india-new-zealand-chase-world-cup-glory?appview=true",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "a2134983678af51c005333c1d458c2f54eadee12ab422209bae37dd5e04755fd",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 36,
+      "id": "current-9b819719a94c-q43",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Lin Chun-yi",
+      "explanation": "The title sponsor’s event report names Lin as the 2026 All England men’s singles champion. Taiwan’s official overseas-affairs report confirms his final win over Lakshya Sen.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn17search8",
+          "url": "https://www.yonex.com/news/historic-wins-highlight-yonex-all-england-2026/",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn26search3",
+          "url": "https://www.ocac.gov.tw/OCAC/Eng/Pages/Detail.aspx?nodeid=329&pid=84352474",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "dba70abc53818122c8a039680d6b773a3152ac2a63ba91e856a5a179d67158bb",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 37,
+      "id": "current-9b819719a94c-q44",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Mojtaba Khamenei",
+      "explanation": "The US Government Publishing Office’s March 2026 presidential record identifies Mojtaba as Iran’s Supreme Leader and son of Ali Khamenei. This is an event-dated succession question, not a claim about an unspecified future incumbent.",
+      "requiredCorrectionOrHoldReason": "Anchor the question explicitly to the March 2026 succession.",
+      "proposedTopicId": "t-6-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn18search6",
+          "url": "https://www.govinfo.gov/app/details/DCPD-202600217/",
+          "locator": "DCPD-202600217, editorial notes identifying the office holder"
+        }
+      ],
+      "sourceTextSha256": "ff86eef70a250dfcbcb5be380b29673f34a56b78c1d28afa1088cfa29cef0c73",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 38,
+      "id": "current-9b819719a94c-q45",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Anuj Agnihotri",
+      "explanation": "UPSC’s official CSE 2025 final-result merit list places Anuj Agnihotri first, followed by Rajeshwari Suve M and Akansh Dhull. College labels are unnecessary to establish rank.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn15search7",
+          "url": "https://upsconline.gov.in/CSE_2025_FR_Eng_06032026.pdf",
+          "locator": "Official final result, merit list serial numbers 1–3"
+        }
+      ],
+      "sourceTextSha256": "1b3fb718e636b991d908e7b32dc117a54cc98b5c8da8f12da29020706e6ee1df",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 39,
+      "id": "current-9b819719a94c-q46",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "Ambiguous: Balendra Shah is a senior leader; Rabi Lamichhane is party president",
+      "explanation": "Nepal’s PM Office calls Shah a senior RSP leader. RSP’s own office-bearer list identifies Rabi Lamichhane as president. The generic leader wording does not distinguish the offices.",
+      "requiredCorrectionOrHoldReason": "Replace leader with either prime-ministerial candidate or party president. If asking party president, none of the original options is correct.",
+      "proposedTopicId": "t-6-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn24search4",
+          "url": "https://www.opmcm.gov.np/minister-detail/",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn25search2",
+          "url": "https://www.rspnepal.org/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "2eea56f781d1cd73591035e3ab8a808fc252393657d64fe09ebde9da61849e96",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 40,
+      "id": "current-9b819719a94c-q47",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Shiv Pratap Shukla",
+      "explanation": "The President’s 5 March 2026 communique appoints Shukla Governor of Telangana. The appointment notification date must be distinguished from assuming charge.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn17search0",
+          "url": "https://www.presidentofindia.gov.in/press_releases/press-communique-32",
+          "locator": "5 March 2026 communique, paragraph 2(i)"
+        }
+      ],
+      "sourceTextSha256": "8ca03499353259c8d9e4723744d76acc3e226559ce140c14ec88308ac7d1df5c",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 41,
+      "id": "current-9b819719a94c-q48",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "A",
+      "solution": "Jishnu Dev Varma",
+      "explanation": "The same presidential communique transfers Jishnu Dev Varma from Telangana to Maharashtra as Governor. This is the March appointment, not a timeless incumbent query.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn17search0",
+          "url": "https://www.presidentofindia.gov.in/press_releases/press-communique-32",
+          "locator": "5 March 2026 communique, paragraph 2(ii)"
+        }
+      ],
+      "sourceTextSha256": "ad35356e6c08949d895844203b96892b3636fbd818ce6e11fc5a2afd8fc71b93",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 42,
+      "id": "current-9b819719a94c-q49",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Narendra Modi Stadium, Ahmedabad",
+      "explanation": "The ICC final match record gives Ahmedabad’s Narendra Modi Stadium as the venue on 8 March 2026. Eden Gardens hosted a different match, not this final.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn15search2",
+          "url": "https://www.icc-cricket.com/matches/268129/india-vs-new-zealand",
+          "locator": "ICC final match record: venue and date"
+        }
+      ],
+      "sourceTextSha256": "74ba80f308a7dfdb34b3fd7b279b30d19e7d15c4b8d93b8b351edb165d50756d",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 43,
+      "id": "current-9b819719a94c-q51",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Hiranyakashipu",
+      "explanation": "NCERT’s art-education module describes Prahlad as Hiranyakashipu’s son and a devotee of Vishnu in its explanation of the Narasimha sculpture. This is a traditional narrative, not an asserted historical event.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": null,
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn28search7",
+          "url": "https://www.ncert.nic.in/deaa/pdf/tpaev201.pdf",
+          "locator": "Module 6: Narasimha/Hiranyakashipu sculpture panel"
+        }
+      ],
+      "sourceTextSha256": "5de6498a3f718f128ebac75ea5428f8efd39ae4b184825f94c4d73c42c82fd8f",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 44,
+      "id": "current-9b819719a94c-q52",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "D",
+      "solution": "Jammu and Kashmir",
+      "explanation": "BCCI’s final record shows a drawn Karnataka–Jammu and Kashmir final, won by Jammu and Kashmir on first-innings advantage. A draw therefore did not make them joint champions.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn16search5",
+          "url": "https://www.bcci.tv/matches/230838/More/match-details",
+          "locator": "Ranji Trophy final, Hubli, 24–28 February 2026: result"
+        }
+      ],
+      "sourceTextSha256": "0bdeae9aa2800821acf984540bed0b538777b33cd06c60e469eef420cad87a2e",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 45,
+      "id": "current-9b819719a94c-q53",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": null,
+      "solution": "Uranium supply agreement, approximately CAD 2.6 billion; no exact original option",
+      "explanation": "The Canada–India joint statement explicitly uses CAD 2.6 billion. Cameco also specifies Canadian dollars unless otherwise stated. The original option C incorrectly says USD and the stem’s most significant ranking is subjective.",
+      "requiredCorrectionOrHoldReason": "Replace USD with CAD in option C and ask which civil-nuclear supply agreement was welcomed, rather than ranking its significance. After correction, C is correct.",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn28search0",
+          "url": "https://www.cameco.com/media/news/cameco-signs-long-term-uranium-supply-agreement-with-india",
+          "locator": "Canada–India 2 March 2026 joint statement paragraph 3; Cameco currency heading"
+        },
+        {
+          "sourceId": "turn28search2",
+          "url": "https://www.pm.gc.ca/en/news/statements/2026/03/02/joint-statement-prime-minister-carney-and-prime-minister-modi",
+          "locator": "Canada–India 2 March 2026 joint statement paragraph 3; Cameco currency heading"
+        }
+      ],
+      "sourceTextSha256": "5e8694419ca30f195d40ef90712cd20aaa306006283968ddaf29da8b2d21fa5d",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 46,
+      "id": "current-9b819719a94c-q54",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "United States and Israel, in the broader joint operation",
+      "explanation": "The US official record dates Ali Khamenei’s death to an Israeli airstrike on 28 February 2026; a Congressional resolution describes the wider US–Israel operation. Attribute the specific strike precisely.",
+      "requiredCorrectionOrHoldReason": "Ask which countries conducted the wider February operation; explain that the specific fatal strike is described as Israeli. Do not assert both forces performed the same strike.",
+      "proposedTopicId": "t-6-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn25search0",
+          "url": "https://www.govinfo.gov/app/details/DCPD-202600145",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn25search6",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres156ih/pdf/BILLS-119hjres156ih.pdf",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "02f01e0e4ea386823bc020e6e7696b3acf9c4923e22846e94385355f3b30d406",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 47,
+      "id": "current-9b819719a94c-q55",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "D",
+      "solution": "Sanju Samson",
+      "explanation": "ICC records West Indies 195/4 and India 199/5, with Samson unbeaten on 97. The target was 196; India’s completed score was 199, so these figures are not contradictory.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn26search0",
+          "url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/live-india-face-west-indies-in-winner-takes-all-contest",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "804124aca6ff4a647731894cd851c90b4d8128a85be1e8ebd200736213b1176c",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 48,
+      "id": "current-9b819719a94c-q56",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Special Strategic Partnership for Peace, Innovation and Prosperity",
+      "explanation": "The official 26 February 2026 India–Israel statement uses this full title. The shorter option Special Strategic Partnership is the matching answer.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn16search2",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233269&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn16search3",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233228&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "044e72e5fd170827afc0fb3bd5db078ba32c1f02bec828922e3a4e2b4e8be62d",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 49,
+      "id": "current-9b819719a94c-q57",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "Durand Line dispute is intended, but Pashtunistan is also historically relevant",
+      "explanation": "The historical diplomatic document records Pakistan–Afghanistan disagreement over the Durand Line. The offered Pashtunistan movement also concerns long-standing bilateral tensions, so the generic historical-issue stem is not uniquely discriminating.",
+      "requiredCorrectionOrHoldReason": "Ask specifically which disputed boundary separates Afghanistan and Pakistan, then B is unique. Do not approve the original broad stem.",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn18search9",
+          "url": "https://history.state.gov/historicaldocuments/frus1951v06p2/d298",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "4913a8ddb6b5ce464029b708314a2836708fd01832544ca1392937f2e92495fb",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 50,
+      "id": "current-9b819719a94c-q59",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Knesset",
+      "explanation": "The official 25 February 2026 release explicitly identifies Modi as the first Indian Prime Minister to address Israel’s Parliament. A visit to Israel in 2017 does not establish an earlier Knesset address.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn20search3",
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2232916&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "f3fba77c9615608db362c1f2a716f49246ec5be39cd3698f6989052d99bce758",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 51,
+      "id": "current-9b819719a94c-q61",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Vajra Prahar",
+      "explanation": "The defence announcement names the sixteenth India–US Special Forces exercise at Bakloh, scheduled for 24 February–16 March 2026. Yudh Abhyas is a different exercise.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn29search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2232288&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "915b66400bb671dfcaeb40e08f63f7d167a4cb250b7f806686a38804d455d25b",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 52,
+      "id": "current-9b819719a94c-q62",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Keralam",
+      "explanation": "The Cabinet approved a renaming proposal on 24 February 2026. The release sets out subsequent Article 3 referral and parliamentary steps; Cabinet approval alone does not complete a constitutional state-name change.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn29search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2232123&lang=3&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "073ae9f723ab0eea2f57f6a30354b182d168539f1c81f144d047371be98d7574",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 53,
+      "id": "current-9b819719a94c-q63",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Japan",
+      "explanation": "The seventh Dharma Guardian began at Chaubattia on 24 February 2026 with Indian Army and Japan Ground Self-Defense Force contingents.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn29search2",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2232191&lang=3&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "d999fb138f6dd504c19b0deec6d0f374076d1515215eee44be857104a5e97de9",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 54,
+      "id": "current-9b819719a94c-q64",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Boong",
+      "explanation": "BAFTA’s official 2026 winners announcement places Boong in Children’s & Family Film. Animated Film is a separate category won by Zootropolis 2.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn29search3",
+          "url": "https://www.bafta.org/media-centre/press-releases/winners-announced-2026-film-awards/",
+          "locator": "BAFTA 22 February 2026 official winners, Children’s & Family Film"
+        },
+        {
+          "sourceId": "turn29search4",
+          "url": "https://www.bafta.org/awards/search/?award-year=2026&search=2026+BAFTA+Awards&winner=winner",
+          "locator": "BAFTA 22 February 2026 official winners, Children’s & Family Film"
+        }
+      ],
+      "sourceTextSha256": "7030b520dfc4427b092d71940ae1a9a10a17f07b1296d5622b8f1657dab38f40",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 55,
+      "id": "current-9b819719a94c-q65",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "D",
+      "solution": "One Battle After Another",
+      "explanation": "BAFTA’s official announcement credits the film with six awards, including Best Film, Director and Adapted Screenplay. The Oscars are a separate awards ceremony.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn29search3",
+          "url": "https://www.bafta.org/media-centre/press-releases/winners-announced-2026-film-awards/",
+          "locator": "BAFTA official 2026 winners announcement, headline results"
+        }
+      ],
+      "sourceTextSha256": "90bc499df9080eaaf9f4bf7f77f712a1387bcf5a401f98925a52c14b6cde8090",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 56,
+      "id": "current-9b819719a94c-q66",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Deny terrorist access to financing, weapons and support",
+      "explanation": "PRAHAAR’s prevention section addresses disruption of financial and logistical support and illegal-arms links. The strategy also stresses rule-of-law processes and international cooperation, contradicting the other choices.",
+      "requiredCorrectionOrHoldReason": "Use funds, weapons and logistical support, which the cited prevention section directly supports; check a separate policy passage before retaining the precise safe-havens phrase.",
+      "proposedTopicId": "t-6-3",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn42view0",
+          "url": "https://www.mha.gov.in/sites/default/files/PRAHAAREnglish_23022026.pdf",
+          "locator": "PRAHAAR official policy, printed page 4: Prevention of Terror Attacks"
+        }
+      ],
+      "sourceTextSha256": "54c4c3d9f1ff044a5fb1b757bb6934438af1c732e1b834aeba6ca1896b75a867",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 57,
+      "id": "current-9b819719a94c-q67",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "Delhi–Meerut",
+      "explanation": "The February 2026 PMO release concerns dedication of the entire Delhi–Meerut Namo Bharat corridor and the Meerut Metro. The initial priority RRTS section had begun earlier, so first launch in February 2026 is misleading.",
+      "requiredCorrectionOrHoldReason": "Ask which entire corridor was dedicated in February 2026, instead of dating the initial RRTS launch to that month.",
+      "proposedTopicId": "t-2-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn30search3",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2230858&lang=2&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn30search5",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231487&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "3178897c2832473bb59a5e573534978585a95b042893a0dc8e8517d89c20abe9",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 58,
+      "id": "current-9b819719a94c-q68",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Vijay Goel",
+      "explanation": "The Vice-President’s Secretariat names Vijay Goel as author of the coffee-table book. C. P. Radhakrishnan released the book and is not its author.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn30search4",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231299&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "92573ec4a4ca6fd27cd907e3a7c8014bcc2d0ee4610a0614ac29637418cee02e",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 59,
+      "id": "current-9b819719a94c-q69",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "20 February",
+      "explanation": "The UN observes World Day of Social Justice annually on 20 February. Human Rights Day on 10 December is a different observance.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn30search8",
+          "url": "https://www.un.org/en/node/239841",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "ba3c7146f601151b12e153f2c749338e63cf214e11f48062a6489897d2e56ff2",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 60,
+      "id": "current-9b819719a94c-q70",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "1 April 2026 was the proposed date",
+      "explanation": "NHAI’s 20 February announcement contemplated ending cash toll payments from 1 April. A proposal does not prove nationwide implementation occurred on that date.",
+      "requiredCorrectionOrHoldReason": "Add According to NHAI’s 20 February 2026 proposal. Preserve proposed rather than implemented language.",
+      "proposedTopicId": "t-2-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn31search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2230756&lang=1&reg=6",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "e4551ca23815d2ac3ae377fbe483e93c9749f228161e3bc769ed901cef2bc86b",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 61,
+      "id": "current-9b819719a94c-q72",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Responsible, trusted and inclusive AI through global cooperation",
+      "explanation": "The New Delhi Declaration announcement emphasises collaborative, trusted, resilient and efficient AI for economic growth and social good. It does not confine AI to military use, developed countries or industry.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn31search2",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231208&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "ccc4c310ae0422b98c2780959d7e58a12819ca4b8215ac6c9dc4e04a23a0f8d1",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 62,
+      "id": "current-9b819719a94c-q73",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Dr. Shashi Tharoor",
+      "explanation": "The official book-launch record identifies Tharoor as author. Vice-President Radhakrishnan was the person releasing the book, which is a common author-versus-launcher distractor.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn31search3",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2230386&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn31search6",
+          "url": "https://vicepresidentofindia.nic.in/speech/launch-of-book-the-sage-who-reimagined-hinduism-the-life-lessons-and-legacy-of-sree-narayana-guru-by-dr-shashi-tharoor/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "e3bbcdafe81509a0c299e024929fa69e4dfd4e4171b8adb2b55b19b2b2ff42fb",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 63,
+      "id": "current-9b819719a94c-q75",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "17 February",
+      "explanation": "UN General Assembly resolution 77/269, operative paragraph 2, proclaims 17 February as Global Tourism Resilience Day.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn44search8",
+          "url": "https://documents.un.org/doc/undoc/gen/n23/047/11/pdf/n2304711.pdf",
+          "locator": "A/RES/77/269, operative paragraph 2"
+        }
+      ],
+      "sourceTextSha256": "4f275fc9e462d50a7c263da6a3b08df60ce684fa7ff14819c98074b1b6f2a41f",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 64,
+      "id": "current-9b819719a94c-q76",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "AI impact for inclusive and sustainable development",
+      "explanation": "The official declaration frames AI around broad access and social/economic benefit. Official material distinguishes summit sessions from the extended programme, so the imported 16–20 February date range should not be treated as a definitive record of every event.",
+      "requiredCorrectionOrHoldReason": "Ask the main objective of the February 2026 summit without an uncertain programme date range.",
+      "proposedTopicId": "t-5-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn31search2",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231208&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn31search5",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234343&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "08dd5cab3860b99f64d911b26d5ab9fb15922de6e032e288675a23e537426b3b",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 65,
+      "id": "current-9b819719a94c-q78",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Tarique Rahman",
+      "explanation": "The 13 February 2026 PMO release congratulates Tarique Rahman on leading the BNP to its parliamentary-election victory. The question is anchored to that election, not an unspecified future leadership position.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn32search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227381&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "d7a09a09a9cb5273d45233ca33a896c4b5314168b23f5fb28e423bc41324f531",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 66,
+      "id": "current-9b819719a94c-q79",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Prime Minister’s Office",
+      "explanation": "The Cabinet’s official transition note identifies the new PMO as Seva Teerth. Other institutions may share the wider complex; the new PMO name is the fact being tested.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-3",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn32search2",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2228026&lang=16&reg=5",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "f26a96464303c2a1d2a7e9fc9f5c5448d2635399635d5bc86d9082fdbda057a7",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 67,
+      "id": "current-9b819719a94c-q80",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "D",
+      "solution": "Pakistan",
+      "explanation": "ICC’s 9 February 2026 statement confirms Pakistan’s participation in all scheduled matches, including India on 15 February in Colombo.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn32search4",
+          "url": "https://www.icc-cricket.com/news/pakistan-to-play-against-india-in-t20-world-cup-2026",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "406e75393aa9e1cdafd13aa5f9b04072010b028e90cf71c3339ac2857306d7f3",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 68,
+      "id": "current-9b819719a94c-q81",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Expand dairy cooperatives, milk procurement, employment and women’s empowerment",
+      "explanation": "The Ministry of Cooperation describes White Revolution 2.0 as a cooperative-led expansion, including increased procurement and coverage. It is not privatisation or a reduction of milk production.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-2-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn32search3",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2225903&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "0c6e901ca6d4f1475532e756df6e66a1bede3bda5c4fe816ad0137c2fec7b843",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 69,
+      "id": "current-9b819719a94c-q82",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "D",
+      "solution": "Men’s heptathlon",
+      "explanation": "World Athletics lists Shankar first in the men’s indoor heptathlon in Tianjin on 6–8 February 2026. Indoor heptathlon should not be confused with outdoor decathlon.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn35search0",
+          "url": "https://worldathletics.org/competition/calendar-results/results/7230012?eventId=10229571&gender=M",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn35search1",
+          "url": "https://worldathletics.org/news/report/asian-indoor-championships-2026-tianjin",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "33e078b6b4c485b21a8618c9960d1d5073e7b627d230ee71fc6f003d45fe4fba",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 70,
+      "id": "current-9b819719a94c-q83",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "45th",
+      "explanation": "The NRI publisher’s India profile places India 45th among 127 economies. The February release date is confirmed by the publisher and PIB; 49th refers to the previous edition.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-4",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn35search8",
+          "url": "https://download.networkreadinessindex.org/reports/countries/2025/india.pdf",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn35search7",
+          "url": "https://networkreadinessindex.org/nri-2025-press-release/",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn35search6",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2225406&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "d44e5a4a58b54f6510800d39d38a8666f06c03ad01d94b6a1a1b6e1d44e2e56e",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 71,
+      "id": "current-9b819719a94c-q84",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Sanae Takaichi; her initial appointment was in October 2025",
+      "explanation": "Japan’s PM Office records Takaichi’s designation and cabinet inauguration on 21 October 2025. The original claim that she first became female PM after the 2026 election misdates the milestone.",
+      "requiredCorrectionOrHoldReason": "Replace the first-appointment date with 21 October 2025. Distinguish any later election or reappointment from first becoming PM.",
+      "proposedTopicId": "t-6-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn35search4",
+          "url": "https://japan.kantei.go.jp/104/actions/202510/21takaichinaikaku.html",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn35search5",
+          "url": "https://japan.kantei.go.jp/104/actions/202510/21shimei.html",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "797398bc8b68564fa0fb82a86695d8f9322ce916cd16a53b32ec54f08affd12c",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 72,
+      "id": "current-9b819719a94c-q86",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "5.25%, at the February 2026 MPC meeting",
+      "explanation": "RBI’s 6 February resolution keeps the repo rate at 5.25%, SDF at 5.00% and MSF/Bank Rate at 5.50%. These are separate policy rates; the answer is tied to that meeting.",
+      "requiredCorrectionOrHoldReason": "Replace current repo rate with repo rate decided at the 4–6 February 2026 meeting. It is not a claim about today’s rate.",
+      "proposedTopicId": "t-2-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn43view0",
+          "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62169",
+          "locator": "RBI resolution dated 6 February 2026, paragraph 2"
+        }
+      ],
+      "sourceTextSha256": "955fbf6a787c3930fedbe29a820ea2ae987883431756d68f1c6550a8aa973ef8",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 73,
+      "id": "current-9b819719a94c-q87",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "England",
+      "explanation": "ICC’s final report records India beating England by 100 runs at Harare Sports Club on 6 February 2026 for its sixth men’s U19 title.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn33search0",
+          "url": "https://www.icc-cricket.com/tournaments/u19-cricket-worldcup-2026/news/dominant-india-beat-england-to-lift-the-u19-world-cup",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn33search1",
+          "url": "https://www.icc-cricket.com/media-releases/sooryavanshi-fires-india-to-icc-u19-men-s-cricket-world-cup-glory",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "b4267823e7ff3bef4d79de212bc5f9832bae68c95590135ff6762d8c7b7176c7",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 74,
+      "id": "current-9b819719a94c-q89",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Rouble Nagi",
+      "explanation": "The award organiser identifies Rouble Nagi as the 2026 Global Teacher Prize winner. The prize is an initiative of the Varkey Foundation organised in collaboration with UNESCO.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn33search5",
+          "url": "https://globalteacherprize.org/news/global-teacher-prize/2203/2203-Meet-Rouble-Nagi-Winner-of-the-GEMS-Education-2026-Global-Teacher-Prize",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "036613f83a6fed6fee5548ad1e0f3b598fd5debe2f94d140ae01ddfd0374a39e",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 75,
+      "id": "current-9b819719a94c-q91",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Yumnam Khemchand Singh",
+      "explanation": "The PMO’s 4 February 2026 congratulations name Khemchand Singh as the newly sworn-in Manipur Chief Minister. To verify the full premise, the revocation of President’s Rule needs its own legal notification.",
+      "requiredCorrectionOrHoldReason": "Ask who took oath as Manipur CM on 4 February 2026; omit the revocation clause until the official notification is checked.",
+      "proposedTopicId": "t-1-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn33search3",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2223363&lang=9&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "ea47dcc81e19efa45d82e340c25fdb89a53c623d1a1aa909160785c9fa8b8d38",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 76,
+      "id": "current-9b819719a94c-q92",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Long-range air-to-air missiles",
+      "explanation": "The DRDO release states that SFDR technology enables development of long-range air-to-air missiles. Demonstrating propulsion technology does not itself mean a finished operational missile was inducted.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn41search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2222635&lang=1&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "cffc0bd3cb4e9f0dc1d8cc0af9e52dcf63057e81ef2eff9dfee1dd5ee6695db9",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 77,
+      "id": "current-9b819719a94c-q93",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Kyrgyzstan",
+      "explanation": "The official defence announcement identifies the thirteenth India–Kyrgyzstan KHANJAR at Missamari, Assam, beginning 4 February 2026.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn34search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2223244&lang=1&reg=6",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "548d5668e759b199169e1022a6ef0bc89b317010ef79645acab0a90c87b1a460",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 78,
+      "id": "current-9b819719a94c-q94",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Ramsar Convention / Convention on Wetlands",
+      "explanation": "The Convention Secretariat explains that World Wetlands Day marks adoption of the Convention on 2 February 1971 in Ramsar, Iran.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-3-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn34search4",
+          "url": "https://www.ramsar.org/our-work/activities/world-wetlands-day",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "e0bc67f8ba6f85d2ec9dd1e4048bf64a1e78da977c294fb322e9dbdbce0f4b16",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 79,
+      "id": "current-9b819719a94c-q95",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "18% in the announced February 2026 framework",
+      "explanation": "The US–India joint statement specifies an 18% reciprocal tariff on specified originating Indian goods, with conditions and potential exclusions. It is not a uniform tariff on all goods, nor a timeless rate.",
+      "requiredCorrectionOrHoldReason": "Specify the 6 February 2026 interim-agreement framework and the announced reciprocal rate on covered goods. Do not describe negotiations as a fully concluded comprehensive trade treaty.",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn34search3",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/02/united-states-india-joint-statement/",
+          "locator": "Joint statement: key terms, reciprocal tariff bullet"
+        }
+      ],
+      "sourceTextSha256": "c97c5f4b449b2522a77aa068a4266c52021b8a9dcc81885cff29a245db385a41",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 80,
+      "id": "current-9b819719a94c-q96",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "D",
+      "solution": "Haryana Thunders",
+      "explanation": "The league organiser’s 2 February 2026 report records Haryana’s 5–4 final win over Delhi Dangal Warriors at Noida Indoor Stadium.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn34search8",
+          "url": "https://theprowrestlingleague.com/news/pro-wrestling-league-prize-money-list-of-award-winners",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "a2f05ef01286929acc0ec29fb16e94ec18f324f7b00e5906c89596ff6558d093",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 81,
+      "id": "current-9b819719a94c-q97",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Patna Bird Sanctuary and Chhari Dhand",
+      "explanation": "The Convention Secretariat’s 30 January 2026 announcement identifies these additions. Patna Bird Sanctuary is in Uttar Pradesh, not Bihar; Chhari Dhand is in Gujarat.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-3-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn36search0",
+          "url": "https://www.ramsar.org/news/india-names-two-more-wetlands-international-importance-1",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn36search2",
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2221114&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "457d02074c4a644a64c276d362992600dc19b0c0cd29ff417562b4479278d01e",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 82,
+      "id": "current-9b819719a94c-q101",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "India’s indigenous Automatic Train Protection system",
+      "explanation": "Railways describes Kavach 4.0 as indigenous ATP. It monitors movements and can apply brakes to prevent signal-passed-at-danger events and collisions; it is not a fare system.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn36search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2221011&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn36search5",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298315&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "0a53665e3757e85afbfb17de00d154017884fdcbd05723ca7b22c933ab8ff37a",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 83,
+      "id": "current-9b819719a94c-q102",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "D",
+      "solution": "Article 21 — right to life and personal liberty",
+      "explanation": "The Jaya Thakur judgment treats dignified menstrual health as part of Article 21. Its analysis also uses equality under Article 14 and education under Article 21A, so these related provisions should not be denied in the explanation.",
+      "requiredCorrectionOrHoldReason": "Ask specifically which provision’s right-to-life guarantee grounds dignified menstrual health. Preserve the judgment’s additional equality and education dimensions.",
+      "proposedTopicId": "t-1-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn42search10",
+          "url": "https://api.sci.gov.in/supremecourt/2022/35023/35023_2022_7_1502_68117_Judgement_30-Jan-2026.pdf",
+          "locator": "2026 INSC 97, section C, printed pages 45–71"
+        }
+      ],
+      "sourceTextSha256": "6ce41b568f72a6fe8b4d8de77f416494be88e6b8d7a229dc27f981fdbe9a23cc",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 84,
+      "id": "current-9b819719a94c-q104",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": "C",
+      "solution": "Constitutional concerns, including vague/exclusionary provisions, are the intended answer",
+      "explanation": "The retrieved order transcription discusses the 2026 UGC Regulations and challenges to the caste-discrimination definition. The official signed order and latest procedural status were not authenticated here.",
+      "requiredCorrectionOrHoldReason": "Retrieve the Supreme Court’s signed 29 January order and subsequent orders. Do not convert reported concerns at an interim hearing into a final finding of invalidity.",
+      "proposedTopicId": "t-1-4",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn36search3",
+          "url": "https://indiankanoon.org/doc/82474788/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "ee56784e03a5f3e7800dc2398b0c8de4044b119a5d3d1014fc62b54626382780",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 85,
+      "id": "current-9b819719a94c-q105",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Indian Navy — judges’ award",
+      "explanation": "The official results separate three-services judging from other categories and the popular-choice poll. Navy won the judges’ three-services category.",
+      "requiredCorrectionOrHoldReason": "Specify the judges’ award among the three services at Republic Day Parade 2026, to avoid confusion with popular-choice results.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn39search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2219846&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn39search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2220887&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "7ca594104644d8625a2cd15244bc31897381465c7e88d6aa971111e7d378b207",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 86,
+      "id": "current-9b819719a94c-q106",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "D",
+      "solution": "Delhi Police — judges’ CAPF/auxiliary category",
+      "explanation": "The official judging results name Delhi Police in the CAPF/other auxiliary forces category. This is distinct from the popular-choice category.",
+      "requiredCorrectionOrHoldReason": "Specify judges’ award and the CAPF/other auxiliary category.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn39search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2219846&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn39search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2220887&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "d7e7096e2dbf1df817e89201b56be75a67dedc645d216b6e71e74a55795afe18",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 87,
+      "id": "current-9b819719a94c-q107",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "Maharashtra",
+      "explanation": "The panel of judges placed Maharashtra’s Ganeshotsav tableau first among states and UTs, followed by Jammu and Kashmir and Kerala.",
+      "requiredCorrectionOrHoldReason": "Specify the judges’ state/UT tableau ranking, rather than an unspecified audience poll.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn39search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2219846&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "9c3e021afec2f91bbf3d8d4ebb5ea9e8b73c2343418446b4a931abe3c436db11",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 88,
+      "id": "current-9b819719a94c-q108",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Baramati Airport",
+      "explanation": "AAIB’s preliminary report identifies accident aircraft VT-SSK and Baramati on 28 January 2026. A preliminary report should not be used to invent a final cause of the crash.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn39search8",
+          "url": "https://aaib.gov.in/What%27s%20New%20Assets/Preliminary%20Report%20on%20VT-SSK.pdf",
+          "locator": "AAIB preliminary-report title and occurrence particulars"
+        }
+      ],
+      "sourceTextSha256": "e94e27a3a268f3d3f3ce095c30b454cc1c2a4f659fd338196e2264c9cb345fa0",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 89,
+      "id": "current-9b819719a94c-q109",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "D",
+      "solution": "Mother of all deals",
+      "explanation": "The official 27 January trade factsheet uses that descriptive phrase for the conclusion of India–EU FTA negotiations. The phrase is a political/communications label, not the treaty’s legal name or proof it entered into force.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn39search5",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2219146&lang=1&reg=6",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn39search4",
+          "url": "https://policy.trade.ec.europa.eu/trade-podcast/episode-17_en",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "e483fd1bf1ba657e54536e4f771e4024ddfffebd7b29c592eeb4fda791be4b4c",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 90,
+      "id": "current-9b819719a94c-q111",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": "B",
+      "solution": "Inclusion of OBC students is the imported/intended answer; comparison not authenticated",
+      "explanation": "A valid comparison requires reading the actual 2012 and 2026 regulatory definitions and the subsequent court orders. The sources retrieved in this pass did not establish that full comparison on an official host.",
+      "requiredCorrectionOrHoldReason": "Retrieve both Gazette/UGC texts, identify exact clauses and distinguish promulgation from stayed operation. Do not treat the imported comparison as independently verified.",
+      "proposedTopicId": "t-1-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn36search3",
+          "url": "https://indiankanoon.org/doc/82474788/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "6d004e5c42f51fc73cf557d9e7de0397c4d56e069331d6a00424c3f3b917172e",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 91,
+      "id": "current-9b819719a94c-q112",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Group Captain Shubhanshu Shukla",
+      "explanation": "The Defence Ministry’s Republic Day gallantry list names Shukla for the Ashoka Chakra. Ashoka Chakra and wartime Param Vir Chakra are different decorations.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn37search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2218540&lang=2&reg=3",
+          "locator": "25 January 2026 gallantry-awards release: Ashoka Chakra row"
+        }
+      ],
+      "sourceTextSha256": "1dc5046a5c66241784aeec2298bfe4b47bb550f3e9f3bb2c127612c0a6ec800b",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 92,
+      "id": "current-9b819719a94c-q113",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Scotland",
+      "explanation": "ICC’s 24 January 2026 announcement formally replaces Bangladesh with Scotland in the men’s T20 World Cup 2026.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn37search2",
+          "url": "https://www.icc-cricket.com/media-releases/scotland-to-replace-bangladesh-in-icc-men-s-t20-world-cup-2026?appview=true",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "4e1da9421eb8eb9701e5df38e86c53ccb2f1f6becd61ff59b63f71731d75499b",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 93,
+      "id": "current-9b819719a94c-q114",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Dharmendra Singh Deol, posthumously",
+      "explanation": "The official Padma Awards 2026 material names Dharmendra for Padma Vibhushan in Art, posthumously. The later Gazette notification confirms conferral; do not confuse notification and January announcement dates.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn37search5",
+          "url": "https://www.padmaawards.gov.in/Document/pdf/Notifications/PadmaAwards/PadmaAwards2026.pdf",
+          "locator": "Padma Vibhushan 2026, Dharmendra Singh Deol row"
+        },
+        {
+          "sourceId": "turn37search4",
+          "url": "https://www.padmaawards.gov.in/?src=android",
+          "locator": "Padma Vibhushan 2026, Dharmendra Singh Deol row"
+        }
+      ],
+      "sourceTextSha256": "4acabc90e166773e0d2123548bf616db757896fbf99f7f04e7c8de3d7efc4dce",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 94,
+      "id": "current-9b819719a94c-q115",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Visakhapatnam — January 2026, not January 2025",
+      "explanation": "Railways’ 23 January 2026 release identifies the deployment at Visakhapatnam. The original stem’s year 2025 is wrong.",
+      "requiredCorrectionOrHoldReason": "Change January 2025 to January 2026 in the stem and explanation.",
+      "proposedTopicId": "t-5-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn37search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2217905&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "ec8a5505050d5f5ff7d786bf64ee492d6dc0746be0944123d48ee6a105c5f04a",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 95,
+      "id": "current-9b819719a94c-q117",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Netaji Subhas Chandra Bose",
+      "explanation": "The Ministry of Culture identifies Parakram Diwas with Netaji’s birth anniversary on 23 January.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-0-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn38search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2217412&lang=13&reg=22",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn38search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2217768&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "1303fa445f602501af4f577fc3fa59347543f45a1db85cfe13422bef8addbb6a",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 96,
+      "id": "current-9b819719a94c-q118",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Goddess Saraswati",
+      "explanation": "The official Basant Panchami greeting invokes Saraswati as the deity of knowledge and arts. This identifies the religious tradition tested, without asserting a historical supernatural event.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": null,
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn38search4",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2217529&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "1b85f8d8028ef3a02d68ce7720d87c1c72c82ae6b80a1489b11d19238cd8119a",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 97,
+      "id": "current-9b819719a94c-q121",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Mughal Gardens",
+      "explanation": "The Ministry of Tourism’s Incredible India page explicitly introduces Amrit Udyan as formerly known as the Mughal Gardens.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn42search5",
+          "url": "https://www.incredibleindia.gov.in/en/delhi/delhi/amrit-udyan",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "89ee256cf42ee7db003932362836580f9e31f6c23b081771d0a1bc96821bc25d",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 98,
+      "id": "current-9b819719a94c-q122",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Nawang Dorjan Stobdan (NDS) Stadium, Leh",
+      "explanation": "The Sports Ministry’s 20 January release places the sixth Khelo India Winter Games opening at NDS Stadium. This was the Ladakh ice-sports leg; Gulmarg hosts the separate snow leg.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn38search5",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2216523&lang=9&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "6f0dbc74a45fe0acd62961a2837277e6d989c10f9b43693227f5130429c99916",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 99,
+      "id": "current-9b819719a94c-q123",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Surendra Kumar Pachauri",
+      "explanation": "The Vice-President’s release names Pachauri as author of Chalice of Ambrosia. The official who launched it is not the author.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn40search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2216540&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn40search1",
+          "url": "https://vicepresidentofindia.nic.in/press-release-ram-janmabhoomi-movement/?field_start_date_value%5Bvalue%5D=&field_start_date_value_1%5Bvalue%5D=&field_start_date_value_3%5Bvalue%5D=&title=",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "900b492e43472ff0a0d9ad7052c892be572a7bae4853ee29c69c9575eded0b5d",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 100,
+      "id": "current-9b819719a94c-q124",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Davos",
+      "explanation": "The organiser identifies Davos-Klosters as the location of its 2026 Annual Meeting. Traditional location does not mean every exceptional past meeting had to be held there.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn40search3",
+          "url": "https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2026/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "0e57c78967b64daf1ada2a02fa68af1d35299bb2813e3bba53b1c5a5d95c4415",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    }
+  ]
+}
