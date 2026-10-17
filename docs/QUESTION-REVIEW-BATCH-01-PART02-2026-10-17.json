@@ -1,0 +1,1280 @@
+{
+  "batchId": "import-review-01",
+  "checkedAt": "2026-10-17",
+  "part": 2,
+  "positions": [
+    101,
+    150
+  ],
+  "reviewedInPart": 50,
+  "counts": {
+    "confirmed": 34,
+    "correction_required": 9,
+    "held": 7
+  },
+  "cumulativeReviewed": 150,
+  "cumulativeCounts": {
+    "confirmed": 95,
+    "held": 14,
+    "correction_required": 41
+  },
+  "remainingInBatch": 228,
+  "unexaminedAcrossTenBatches": 3626,
+  "newScoredApprovals": 0,
+  "policy": "Review decisions only. Confirmed answers have evidence support; corrections and holds are not release-ready. None is automatically eligible for scoring.",
+  "items": [
+    {
+      "position": 101,
+      "id": "current-9b819719a94c-q125",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Nitin Nabin",
+      "explanation": "Nabin’s own official site identifies his January 2026 appointment as BJP’s youngest national president. This is a party-office fact, not a constitutional government office.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn46search0",
+          "url": "https://www.nabinnitin.in/",
+          "locator": "Official Nitin Nabin biography, National President section"
+        }
+      ],
+      "sourceTextSha256": "12ca1b3bb2e2cd76b3a8fd82aa3e809e381473e161308f062a8a0356e9cd7618",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 102,
+      "id": "current-9b819719a94c-q126",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "President of the United Arab Emirates",
+      "explanation": "The 19 January 2026 joint statement explicitly names Mohamed bin Zayed as UAE President. Crown Prince Khaled bin Mohamed is a different person.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn46search2",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2216270&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "4979d147d77ce7c0c4ba3d434410cb5240f9f6a7dab466cfae1346151e103c8c",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 103,
+      "id": "current-9b819719a94c-q128",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Strategic oversight of transitional governance and reconstruction",
+      "explanation": "The White House describes the Board’s role as strategic oversight, mobilisation of resources and accountability during Gaza’s transition. It is distinct from a political party or a purely military command.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn46search3",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/01/statement-on-president-trumps-comprehensive-plan-to-end-the-gaza-conflict/?cst=&trk=article-ssr-frontend-pulse_little-text-block",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn46search6",
+          "url": "https://www.whitehouse.gov/releases/2026/01/president-trump-ratifies-board-of-peace-in-historic-ceremony-opening-path-to-hope-and-dignity-for-gazans/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "1f277489c8ac8241984e22aa129cf013ea41ec84698d10a90e3024569ebc4638",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 104,
+      "id": "current-9b819719a94c-q130",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "Praveen Vashista",
+      "explanation": "The official CVC release records an appointment warrant dated 12 December 2025 and oath on 16 January 2026. Treating oath, notification and appointment-warrant dates as identical loses an important distinction.",
+      "requiredCorrectionOrHoldReason": "Ask who took oath as Vigilance Commissioner on 16 January 2026, and retain B.",
+      "proposedTopicId": "t-1-7",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn46search4",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2215352&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "9fa95d8288ddd20cb8d292727eeac32cb85820b67011b7d024c4c1f5b0bc9929",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 105,
+      "id": "current-9b819719a94c-q131",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": "C",
+      "solution": "Shatrujeet Singh Kapoor is the candidate answer; appointment date not authenticated",
+      "explanation": "The exact BSF appointment order and its effective date were not retrieved from an official source in this pass. The imported date and key cannot be independently approved.",
+      "requiredCorrectionOrHoldReason": "Retrieve the ACC/DoPT or BSF appointment order; no official appointment source has been authenticated.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [],
+      "sourceTextSha256": "ca3c226d8f46415dcebfdd2e66b5a62cabf5e2d1e4ab456b16825a8dec69a83d",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 106,
+      "id": "current-9b819719a94c-q132",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "16 January 2016",
+      "explanation": "DPIIT/Startup India dates the initiative’s Action Plan launch to 16 January 2016. Distinguish the 2015 Independence Day announcement from the formal action-plan launch.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-2-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn48search3",
+          "url": "https://www.startupindia.gov.in/national-startup-day-2026/",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn48search6",
+          "url": "https://www.dpiit.gov.in/ministry/about-us/details/Title%3DStart-up-India-ITMwETMtQWa",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "8293751f0b9c0d9623a7daab162ee3b0826664d86e2d3f306e2f562f1276bd17",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 107,
+      "id": "current-9b819719a94c-q133",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Antonio Luis Santos da Costa and Ursula von der Leyen",
+      "explanation": "The European Council’s official summit account confirms both Presidents attended India’s 77th Republic Day as guests of honour on 26 January 2026.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn48search7",
+          "url": "https://www.consilium.europa.eu/en/meetings/international-summit/2026/01/27/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "dceb7c07d93be6945dcefc4f321938ac825ff931ed6cb872c8fcd4c36583fbcc",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 108,
+      "id": "current-9b819719a94c-q134",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "K. M. Cariappa — first Indian Commander-in-Chief of the Indian Army",
+      "explanation": "The Army Day release identifies the 15 January 1949 transition from British leadership to Cariappa. There had been British Commanders-in-Chief before him, so first Commander-in-Chief without Indian is inaccurate.",
+      "requiredCorrectionOrHoldReason": "Insert first Indian Commander-in-Chief of the Indian Army in the stem.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn48search2",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2215113&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "6fd97af32c48d2d381312698f36030823684b66b3db64a08663e907f6229941c",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 109,
+      "id": "current-9b819719a94c-q135",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Iran",
+      "explanation": "The UN Special Rapporteur’s January communication describes protests beginning in Tehran’s Grand Bazaar on 28 December 2025, triggered initially by severe economic conditions and then spreading.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn47search11",
+          "url": "https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=30690",
+          "locator": "OHCHR communication dated 9 January 2026, opening account of protests"
+        }
+      ],
+      "sourceTextSha256": "d1361713f84e333cc3a35f57be1aae83de1b4b91e5021135fa36d910ee9df344",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 110,
+      "id": "current-9b819719a94c-q136",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "Til and rorhi is one proposed derivation; no uniquely authenticated answer",
+      "explanation": "Lohri has multiple popular etymologies. The wording believed by many does not identify an authority or make the alternatives objectively distinguishable.",
+      "requiredCorrectionOrHoldReason": "Do not score an unattributed folk etymology. Replace with a documented observance/custom question. No authoritative etymological source was authenticated in this pass.",
+      "proposedTopicId": null,
+      "scope": "PSC common",
+      "evidence": [],
+      "sourceTextSha256": "835a90611324fa925285ae0b8c3d52297e1b2ef95aeb8fb3a89acf1e321f4308",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 111,
+      "id": "current-9b819719a94c-q137",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Field Marshal K. M. Cariappa",
+      "explanation": "The 2026 Veterans Day account records Cariappa’s retirement on 14 January 1953. Army Day concerns his 15 January 1949 appointment; the two commemorations must not be confused.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn47search6",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2214598&lang=9&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "c7d0c75085c89ed07cb8bc35dfc1e8cc3af59d62edcde4d111d44362e2c02950",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 112,
+      "id": "current-9b819719a94c-q138",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Building for Resilience, Innovation, Cooperation and Sustainability",
+      "explanation": "MEA’s 14 May 2026 BRICS@20 statement uses this wording. It is the 2026 presidency formulation, not a theme that automatically carries into later presidencies.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn58search0",
+          "url": "https://www.mea.gov.in/eam-speeches-interviews.htm",
+          "locator": "MEA statement title, 14 May 2026"
+        },
+        {
+          "sourceId": "turn58search1",
+          "url": "https://www.mea.gov.in/whats-new-viewall.htm",
+          "locator": "MEA statement title, 14 May 2026"
+        }
+      ],
+      "sourceTextSha256": "4989599828d5a70aa170d6a93978201c67ea8aaacfc5c08edb94025a369fb600",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 113,
+      "id": "current-9b819719a94c-q139",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Hamnet",
+      "explanation": "The organiser’s 2026 Golden Globes list marks Hamnet as Best Motion Picture — Drama. Best Motion Picture — Musical or Comedy is a separate award.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn49search0",
+          "url": "https://www.goldenglobes.com/nominations/2026",
+          "locator": "Golden Globes, 2026 winner, Drama"
+        },
+        {
+          "sourceId": "turn49search1",
+          "url": "https://goldenglobes.com/film/hamnet/",
+          "locator": "Golden Globes, 2026 winner, Drama"
+        }
+      ],
+      "sourceTextSha256": "ad8c397484f10c86664750bf30c1f41db2e8146588f2db6d634bb2e793c0e95c",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 114,
+      "id": "current-9b819719a94c-q140",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "One Battle After Another",
+      "explanation": "The organiser lists this film as the 2026 Musical or Comedy winner, distinct from Drama winner Hamnet.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn49search0",
+          "url": "https://www.goldenglobes.com/nominations/2026",
+          "locator": "Golden Globes, 2026 winner, Musical or Comedy"
+        },
+        {
+          "sourceId": "turn49search2",
+          "url": "https://goldenglobes.com/film/one-battle-after-another/",
+          "locator": "Golden Globes, 2026 winner, Musical or Comedy"
+        }
+      ],
+      "sourceTextSha256": "b28eef534d124240770d98dc98830d74914d2f3149afcb0e8e3ab26fed1df8c1",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 115,
+      "id": "current-9b819719a94c-q141",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Friedrich Merz",
+      "explanation": "The official India–Germany statement records Chancellor Merz’s January 2026 visit. Frank-Walter Steinmeier is not the Chancellor named in that visit record.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn49search4",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2213744&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn49search5",
+          "url": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-reist-nach-indien-2401564",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "87cb0fb68c63258a444dd706be05b519a8534f27612aa26d74c2b32045a71153",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 116,
+      "id": "current-9b819719a94c-q142",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "D",
+      "solution": "Swami Vivekananda",
+      "explanation": "The Home Ministry’s 12 January 2026 observance explicitly links National Youth Day to Vivekananda’s birth anniversary.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn49search6",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2213578&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "21e80cea50c2b6239f2710a46b07829a914ac13cf2328bb84ef018a7d221be89",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 117,
+      "id": "current-9b819719a94c-q144",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Denmark / the Kingdom of Denmark",
+      "explanation": "Denmark’s Foreign Ministry identifies Greenland as part of the Kingdom with extensive self-government. Self-government is not the same as an independent sovereign state.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-3-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn53search0",
+          "url": "https://um.dk/en/foreign-policy/the-arctic/greenland-and-the-faroe-islands",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "78eb6faf7ee8f6ac3656c14ac3ea760cd613ad460332c0593523abf0dc318ab0",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 118,
+      "id": "current-9b819719a94c-q145",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Navi Mumbai and Vadodara",
+      "explanation": "The official WPL schedule allocates the 9 January–5 February 2026 tournament to these two cities, with the first leg at Navi Mumbai and the later fixtures at Vadodara.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn53search3",
+          "url": "https://www.wplt20.com/news/article/tata-womens-premier-league-2026-schedule-announced",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn53search9",
+          "url": "https://www.wplt20.com/static-assets/pdfs/tata-wpl-2026-schedule.pdf",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "0828cd16cb4e191f927fefe583e6af02492f7e1a816c574c7757450fd01a39cd",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 119,
+      "id": "current-9b819719a94c-q146",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Mahatma Gandhi",
+      "explanation": "MEA explains that 9 January commemorates Gandhi’s return from South Africa in 1915. The annual observance and biennial convention format are separate matters.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-0-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn59search0",
+          "url": "https://www.mea.gov.in/pravasi-bharatiya-divas.htm",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "103fb3a1697d9e541f5d7e258c943fc197b69213ec28f6c8e6cb702ec7cc5f45",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 120,
+      "id": "current-9b819719a94c-q148",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "D",
+      "solution": "1,000 years since the 1026 attack on Somnath",
+      "explanation": "The January official backgrounder explicitly identifies this thousand-year commemoration. A separate May 2026 observance also marks 75 years since the 1951 reopening.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn59search4",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2213128&lang=1&reg=6",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn59search3",
+          "url": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=158477&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "91a4213686d35b9a6487b412ac88f40723de6ee5ee3709441f4305d752198a54",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 121,
+      "id": "current-9b819719a94c-q150",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Indian Military History: Valour and Wisdom @75",
+      "explanation": "The National Book Trust’s announcement and retrospective fair report give this exact 2026 theme.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn51search0",
+          "url": "https://www.nbtindia.gov.in/enewsletters/18-31-dec-2025/new-delhi-world-book-fair-2026-to-return-to-bharat-mandapam-with-a-global-literary-showcase.html",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn51search1",
+          "url": "https://www.nbtindia.gov.in/enewsletters/1-18-january-2026/new-delhi-world-book-fair-2026-concludes-successfully.html",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "5c4c759df0213e4e7eb6131da81061851d80ae0ae132dae26b3320b1f24fa90a",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 122,
+      "id": "current-9b819719a94c-q152",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "Bio-bitumen",
+      "explanation": "The 7 January official release attributes the world-first commercial-production claim to the Minister. Subsequent technical material explains pyrolysis of agricultural residue and partial blending with conventional bitumen.",
+      "requiredCorrectionOrHoldReason": "Phrase the superlative as According to the 7 January 2026 Ministry announcement; do not present an independently audited global industrial ranking.",
+      "proposedTopicId": "t-5-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn51search2",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2212083&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn51search4",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2223190&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "ba48ac2134dcb12a7c779c78b380b4b04b6facd313f84b6c8370ab2e5509d9fc",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 123,
+      "id": "current-9b819719a94c-q154",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "The original world-ranking premise is not established",
+      "explanation": "Electrification share and absolute electrified route length are different metrics. The July Railways release gives 99.6% broad-gauge electrification and a percentage comparison with Switzerland, not proof that India overtook China and Russia in route length.",
+      "requiredCorrectionOrHoldReason": "Specify date, network scope, route-km versus track-km and ranking metric. Do not accept the imported B without comparable international data.",
+      "proposedTopicId": "t-2-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn51search5",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287573&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "efee8d0fac550593026978f98579260e6d47b7208e3c95003fc436ddf0f92bcc",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 124,
+      "id": "current-9b819719a94c-q155",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "Port Blair and Sri Vijaya Puram denote the same city",
+      "explanation": "The original options A and D are old and new names for the same place. Even if the inauguration location is established, these cannot be mutually exclusive answer options.",
+      "requiredCorrectionOrHoldReason": "Retrieve the official inauguration release and rename notification, replace one duplicate-location option, then solve the repaired MCQ. The retrieved project-news account is not authentication.",
+      "proposedTopicId": "t-2-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn58search6",
+          "url": "https://www.projectstoday.ai/news-details/union-home-minister-amit-shah-inaugurates-rs-373-cr-development-projects-in-andaman-and-nicobar",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "35cf6a62e0273e1854949ee1103833339b46086e9d72166675cec71ae93a64e9",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 125,
+      "id": "current-9b819719a94c-q156",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Telangana",
+      "explanation": "The Fisheries Ministry locates the Smart Green Aquaculture RAS rainbow-trout farm near Hyderabad. Its directly supported distinction is commercial-scale tropical RAS trout farming, not an unqualified largest inland farm claim.",
+      "requiredCorrectionOrHoldReason": "Name the specific farm and its tropical recirculating system; remove largest unless supported by comparable farm data.",
+      "proposedTopicId": "t-5-7",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn52search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2211212&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn52search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2293018&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "d2dbaf63698e0ae01e1ea3500d603d39f4891eb9517d8c293b75670382288a4c",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 126,
+      "id": "current-9b819719a94c-q158",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Operation Absolute Resolve",
+      "explanation": "The White House and Pentagon both identify the 3 January 2026 Venezuela operation by this codename.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn52search3",
+          "url": "https://www.whitehouse.gov/gallery/operation-absolute-resolve-january-3-2026/",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn52search4",
+          "url": "https://www.war.gov/serve-from-netstorage/News/News-Stories/Article/Article/4393256/hegseth-touts-deterrent-effect-of-venezuela-raid-during-first-2026-cabinet-meet/index.html",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "96a6a6e9cf74542339c703672c102cbee7fe5d3c8e714e0b0565bd38d417562c",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 127,
+      "id": "current-9b819719a94c-q159",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "4 January",
+      "explanation": "The UN calendar lists World Braille Day on 4 January; official explanatory material links the date to Louis Braille’s birth.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn52search5",
+          "url": "https://www.un.org/en/observances/list-days-weeks?trk=public_post_comment-text",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn52search7",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1992861&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "96ef119920e83c92211565812c6e98e4c07f80107a8ecd6d0aeef4397fe1f496",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 128,
+      "id": "current-9b819719a94c-q160",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": "D",
+      "solution": "China is the intended comparison; the date and production basis need reconciliation",
+      "explanation": "Official agricultural material states that India became the largest rice producer with 150.18 million tonnes in crop year 2024–25. That is not a quantity produced during January 2026, and rice/paddy versus milled equivalents must be compared consistently.",
+      "requiredCorrectionOrHoldReason": "Obtain the underlying global production table with China, definition and crop year. Do not verify the precise overtaking claim from a report’s publication month alone.",
+      "proposedTopicId": "t-2-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn58search4",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2269182&lang=1&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn58search10",
+          "url": "https://sansad.in/getFile/annex/270/AS230_LdRCVy.pdf?amp%3Butm_source=openai&source=pqars",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "21311bc6d9e42c458843288579b12f829e76514bc0edb3703403ac05d3f003b3",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 129,
+      "id": "current-9b819719a94c-q161",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Sjoerd Marijne",
+      "explanation": "Hockey India’s coach profile and July 2026 squad announcement identify Marijne as chief coach of the women’s side. These establish the role at a specified time, not indefinitely.",
+      "requiredCorrectionOrHoldReason": "Anchor the question to the 2026 appointment/season or July squad announcement.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn50search1",
+          "url": "https://hockeyindia.org/coaches/waltherus-norbertus-maria-marijne?team_type=2",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn50search2",
+          "url": "https://hockeyindia.org/news/hockey-india-announces-squad-for-fih-hockey-womens-world-cup-2026",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "3b529e4d44a0d6463dba67f93729f9de45c48f1bb30ebe4b5956839728fa2628",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 130,
+      "id": "current-9b819719a94c-q163",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Indian Army and UAE Land Forces",
+      "explanation": "The defence release identifies Desert Cyclone-II in Abu Dhabi, scheduled for 18–30 December 2025, with Indian mechanised-infantry and UAE land-force contingents.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn50search4",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2205132&lang=1&noshow=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "34a0ae85d59f8012701512881277cdec12da156c5675723511d14a51395ab7d5",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 131,
+      "id": "current-9b819719a94c-q164",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "D",
+      "solution": "The Light & the Lotus: Relics of the Awakened One",
+      "explanation": "The PMO announcement gives this title for the sacred Piprahwa relics exposition at Rai Pithora Cultural Complex, scheduled to open on 3 January 2026.",
+      "requiredCorrectionOrHoldReason": "Use scheduled for inauguration on 3 January according to the 1 January release, unless a completion report is cited.",
+      "proposedTopicId": "t-0-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn50search5",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210541&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "0adfe11d6544dcec6810979f57854adc8ecbcbe3a458d9cbf0a830a893383845",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 132,
+      "id": "current-9b819719a94c-q165",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Air Marshal Nagesh Kapoor",
+      "explanation": "The Defence Ministry’s 1 January 2026 release directly records Kapoor taking over as Vice Chief of the Air Staff on that date.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn50search6",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210450&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "a473c9c1bc09cff97928e4353f66a83d332b97af329f634415af9d81bf4e6ac9",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 133,
+      "id": "current-9b819719a94c-q167",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Nashik–Solapur–Akkalkot",
+      "explanation": "The Cabinet’s 31 December 2025 release approves a 374 km six-lane greenfield corridor in Maharashtra on BOT toll mode. Approval does not mean the corridor was already completed.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-2-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn54search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2210105&lang=1&reg=6",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "8a126d6e2c5a775972573cbcf19b79c3924dcda84d5195301817f3f8cd140f29",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 134,
+      "id": "current-9b819719a94c-q168",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Magnus Carlsen",
+      "explanation": "FIDE’s official final report records Carlsen’s 10.5/13 score and sixth World Rapid title in Doha in December 2025. The women’s winner was Aleksandra Goryachkina.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn54search4",
+          "url": "https://www.fide.com/carlsen-and-goryachkina-take-world-rapid-titles-in-doha/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "d860a63dc8ffdd9a4933eb9b0c2fc3c64aa551197d7c04db72a61eb37e661b18",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 135,
+      "id": "current-9b819719a94c-q169",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Pinaka Long Range Guided Rocket, LRGR 120",
+      "explanation": "The 29 December defence release records the maiden LRGR 120 flight at Chandipur with a demonstrated 120 km maximum range. Pralay is a different missile system.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn54search2",
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2209588&lang=2&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "bbf360999ae7b506310b37e2b7ce1ed15fd34f9e23dc850a929cb2c01cf59089",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 136,
+      "id": "current-9b819719a94c-q170",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "INS Vaghsheer",
+      "explanation": "The President’s Secretariat records Murmu’s dived sortie from Karwar on 28 December 2025. She was the second Indian President to undertake a submarine sortie, after A. P. J. Abdul Kalam.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn54search3",
+          "url": "https://www.presidentofindia.gov.in/press_releases/president-india-takes-sortie-submarine-ins-vaghsheer",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "4736b2e12f8524b84f5c7df77abff888ba741d9b19d84a3d730f1a7f83dc4479",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 137,
+      "id": "current-9b819719a94c-q171",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Israel, in relation to the post-1991 Republic of Somaliland",
+      "explanation": "The Knesset’s account confirms Israel’s formal recognition in late 2025. The phrase first in the world needs the post-1991 context because the short-lived State of Somaliland existed in 1960.",
+      "requiredCorrectionOrHoldReason": "Specify the Republic of Somaliland that declared restored independence in 1991; authenticate the exact 26 December date from the original recognition statement before scored release.",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn55search0",
+          "url": "https://m.knesset.gov.il/EN/News/PressReleases/Pages/press176261.aspx",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "5dee9155e8b87f2ae3ed630f19448d30c15580c0c0011af7e6c2e4e43a55d4d3",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 138,
+      "id": "current-9b819719a94c-q172",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Vaibhav Suryavanshi",
+      "explanation": "The Women and Child Development Ministry lists Vaibhav as a 2025 Bal Puraskar sports recipient; the President’s release confirms presentation on 26 December.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn55search2",
+          "url": "https://wcd.gov.in/videogalleries",
+          "locator": "WCD 2025 awardee listing and presidential presentation release"
+        },
+        {
+          "sourceId": "turn55search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2208778&lang=1&reg=1",
+          "locator": "WCD 2025 awardee listing and presidential presentation release"
+        }
+      ],
+      "sourceTextSha256": "9c75e5dc784a40feefdc0dd37fdd47962e1a01d8403d78e52d6992f332a1508e",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 139,
+      "id": "current-9b819719a94c-q173",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Sahibzada Zorawar Singh and Sahibzada Fateh Singh",
+      "explanation": "The official Veer Bal Diwas backgrounder identifies the two youngest sons of Guru Gobind Singh whose martyrdom is commemorated on 26 December.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn55search3",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2208848&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "bdd9960d72d36a4dbfdeda2793a15a13fe2adfe214e1d4d3e3759a099677fe6b",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 140,
+      "id": "current-9b819719a94c-q174",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Atal Bihari Vajpayee",
+      "explanation": "The official Good Governance Day backgrounder links 25 December to Vajpayee’s birth anniversary.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn55search4",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2208145&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "4282c7bcc8ce616acec59483fdffcc2e9660ec18f5e86a68c216cbcb5f088524",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 141,
+      "id": "current-9b819719a94c-q175",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "Hardik Singh was reported as nominated, not necessarily awarded",
+      "explanation": "Akashvani’s December bulletin reports Hardik as the selection-panel nominee. Nomination is a distinct stage from the Ministry’s final award announcement; later reporting indicates the final outcome changed.",
+      "requiredCorrectionOrHoldReason": "Anchor to the December 2025 nomination report. Check the final Sports Ministry outcome before describing him as the 2025 award winner.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn57search0",
+          "url": "https://newsonair.gov.in/bulletins-detail/morning-news-592/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "fd5851fb235cfc2c10ca7d82fecf143fe547b1cfe00e390bed0f61aa60da7a3b",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 142,
+      "id": "current-9b819719a94c-q177",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "23 December",
+      "explanation": "The ICAR’s official Kisan Diwas account records the annual observance on 23 December.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-2-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn57search6",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2207695&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "5a33a0d7627febd592a67d25a7bc900b01425d21149bbc1bc02b727f6e529666",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 143,
+      "id": "current-9b819719a94c-q178",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Science, technology and innovation",
+      "explanation": "The President’s 2025 award release explains that Rashtriya Vigyan Puraskar recognises scientists, technologists and innovators individually or in teams across these fields.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn57search4",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2207836&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn57search5",
+          "url": "https://presidentofindia.nic.in/press_releases/president-india-presents-rashtriya-vigyan-puraskar-2025",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "c865dfaaa3635507ee32e26a83c53023e350a22684fe52e6da49fe51d611b99b",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 144,
+      "id": "current-9b819719a94c-q179",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": "C",
+      "solution": "Suryakumar Yadav, for the 2026 T20 World Cup squad",
+      "explanation": "The answer is event-specific: later in 2026 ICC reported Shreyas Iyer’s appointment for subsequent assignments, which cannot replace the World Cup captain retrospectively. The original World Cup squad release still needs direct authentication.",
+      "requiredCorrectionOrHoldReason": "Retrieve the BCCI World Cup squad announcement or the tournament squad/scorecard captain field before confirming the key.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn15search1",
+          "url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/live-india-new-zealand-chase-world-cup-glory?appview=true",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn57search1",
+          "url": "https://www.icc-cricket.com/news/new-captain-teen-sensation-named-in-india-s-t20i-squad",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "1d7fec2c68491f4b33fe2c11e4a316f918df1658ea96d0eb233b2c8c376081c6",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 145,
+      "id": "current-9b819719a94c-q180",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Srinivasa Ramanujan",
+      "explanation": "Official December 2025 material links National Mathematics Day on 22 December to Ramanujan’s birth anniversary.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn56search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2207581&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn56search1",
+          "url": "https://newsonair.gov.in/national-mathematics-day-being-observed-today/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "284041d63bc66790ea3702d31a5718d5361d7d16ecdc8a572a2d44c021294e89",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 146,
+      "id": "current-9b819719a94c-q181",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": "C",
+      "solution": "50% is confirmed in the later official reply; the December 2025 change needs the notification",
+      "explanation": "The July 2026 Home Ministry reply gives 50% reservation for ex-Agniveers, while the 2023 reply gave 10%. This supports the policy levels but does not alone authenticate the exact December 2025 amendment date.",
+      "requiredCorrectionOrHoldReason": "Retrieve the BSF recruitment-rule Gazette amendment and effective date before approving the original dated change claim.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn60search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287043&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn56search7",
+          "url": "https://www.mha.gov.in/MHA1/Par2017/pdfs/par2023-pdfs/LS19122023/2547.pdf",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "a2963763839261fcd382d31dcd8d424671557cd70076ec021482f1193ecc9edd",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 147,
+      "id": "current-9b819719a94c-q182",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Vande Mataram",
+      "explanation": "The Parliamentary Affairs Ministry’s session summary records special discussions on its 150th anniversary in both Houses in December 2025.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-0-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn56search3",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2206655&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn56search5",
+          "url": "https://sansadtv.nic.in/episode/perspective-discussion-on-150th-anniversary-of-vande-mataram-08-december-2025",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "cf325c5fe80bf5ca9085ebad89172e41720ae876746e870ebd6826ff66ae0a9c",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 148,
+      "id": "current-9b819719a94c-q183",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Sultan Haitham bin Tarik",
+      "explanation": "The official 18 December conferment release names Sultan Haitham as the person presenting the Order of Oman. Sultan Qaboos instituted the Order in 1970 but did not present this 2025 award.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn60search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2206032&lang=1&reg=1",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn60search5",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2206306&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "dc27eb5ae2fdb991ffca88798420a7ce0bcdc777552960f8cbca3386fbff7fb6",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 149,
+      "id": "current-9b819719a94c-q184",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "My Ayush Integrated Services Portal",
+      "explanation": "The PMO’s 18 December 2025 programme announcement names the portal for launch at the summit closing ceremony the following day.",
+      "requiredCorrectionOrHoldReason": "State that the portal was scheduled for launch according to the announcement, unless the actual 19 December launch report is cited.",
+      "proposedTopicId": "t-5-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn59search5",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2205938&lang=2&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "30e20ecb3d46bb6e07f7ab8a000560731bc1d4fdc38501abc32906366167e880",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 150,
+      "id": "current-9b819719a94c-q185",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "D",
+      "solution": "Nuclear energy",
+      "explanation": "SHANTI stands for Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India. The official explanation addresses nuclear-sector regulation and participation; the February reply confirms presidential assent on 20 December 2025.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn59search7",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2206598&amp=&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn59search6",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227086&lang=2&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "3f8f8a0bdd81e269c1aea95c0cc02c2ae5962f5d1af4a14642cc6db8d6ba5870",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    }
+  ]
+}
