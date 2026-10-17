@@ -35,7 +35,7 @@ The reproducible inputs and complete old/new decisions are in `import-repair-inp
 - TypeScript: `tsc --noEmit` passed.
 - New checks cover all 11 outlines, bilingual teaching fields, section-question mapping, independent arithmetic calculations, original-document checksums, repair lineage, answer eligibility, corrected reader escaping/topic filtering and website/PWA byte parity.
 - During verification three first-section examples were too short for the existing content check. They were expanded with worked reasoning. A test calculator initially parsed `2,300` as `2`; comma handling was corrected. Bank-size assertions and the old 50-model UPSC selection cap were updated for the new approved bank.
-- Browser regression adds a complete Batch 4 time-and-work learn/recall/eight-question/reflection/revision cycle, the 44-of-65 catalogue count, and offline Batch 4 plus repaired-module loading. Its remote CI result, build and deployment identifiers are recorded in the release status after completion.
+- Browser regression adds a complete Batch 4 time-and-work learn/recall/ten-question/reflection/revision cycle, the 44-of-65 catalogue count, and offline Batch 4 plus repaired-module loading. The first remote browser run found an obsolete eight-question assertion in the existing public-finance flow: approved imports increased that set to nine, while time/work has ten selected questions. Assertions now validate those actual sizes and scores. It also checks corrected reader search, explanation reveal and superseded original labels. Its final remote CI result, build and deployment identifiers are recorded in the release status after completion.
 
 ## Deferred work
 
