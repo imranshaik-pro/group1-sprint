@@ -58,7 +58,7 @@ Status: Published as Site version 15 on 17 October 2026; browser workflow and re
 - t-3-1: Climate & monsoons
 - t-3-2: Indian physical geography
 
-Status: Published as Site version 17 on 17 October 2026. Browser workflow 38993345304, 72 app tests, 31 Site tests, TypeScript and production build passed.
+Status: 11 editions, 44 sections and 88 questions authored and tested; browser/release validation in progress.
 
 ### Batch 4: Geography & quantitative foundations (11 topics)
 
@@ -135,3 +135,7 @@ Batch 4: Rivers & water resources through Time & work. Batches 4–6 remain not 
 ## Batch 3 result
 
 11 editions, 44 bilingual sections and 88 original scored questions. Combined: 33 editions, 146 expanded-edition sections, 447 original questions plus 50 previously checked imported questions (497 scored total), 41 scored topics. Remaining: 32 editions in Batches 4–6 and 24 scored-practice gaps. Full official-syllabus coverage remains under review. See VALIDATION_BATCH3_2026-10-17.md for sources, checks and failure records.
+
+## Batch 4 — 17 October 2026
+
+11 editions (t-3-3 through t-4-3), 44 bilingual sections and 88 original questions authored and locally validated. Combined: 44 editions, 190 sections, 535 original questions plus 153 reviewed imported models (688 scored total), 58 scored topics. Batches 5–6: 21 remaining editions; seven scored-question gaps. The import repair delta contains 71 corrections and 32 held-item rewrites. Approval applies only to the revised versions; narrower dated premises replace unauthenticated original claims where necessary. See VALIDATION_BATCH4_2026-10-17.md and IMPORT-REPAIR-RESULTS-2026-10-17.json. Publication and remote browser result are recorded separately after release.

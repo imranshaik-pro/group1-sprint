@@ -1,3 +1,5 @@
+import {repairedImports} from './repaired-imports.js';
+import {batch4Questions} from './curriculum-batch4-questions.js';
 import {batch3Questions} from './curriculum-batch3-questions.js';
 import {reviewedImports} from './reviewed-imports.js';
 import {gmaQuestions,rightsQuestions} from './content.js';
@@ -39,4 +41,4 @@ export const conceptQuestions=[
  ...fact('physics-motor','t-5-0',['An electric motor primarily converts energy in which direction?','A fan motor turns when electrical power is supplied. Which conversion occurs?','Distinguish a motor from a generator: which conversion describes a motor?'],['Electrical to mechanical','Mechanical to electrical','Energy created from nothing','Heat to mass'],0,'A motor converts electrical energy into mechanical energy. A generator performs the reverse primary conversion; real devices also lose useful energy as heat.',science)
 ];
 const families={'gma-1':'gma-percent','gma-2':'gma-ratio','gma-3':'gma-speed','gma-4':'gma-series','gma-5':'gma-work','original-rights-1':'rights-abolition','original-rights-2':'rights-property-transfer'};
-export function practiceBank(){return [...gmaQuestions,...rightsQuestions].map(q=>({...q,reviewStatus:'reviewed',stage:'prelims',exam:'APPSC Group-I',paper:q.topic.startsWith('t-4-')?'II':'I',familyId:families[q.id]||q.id})).concat(reviewedVariants.map(q=>({...q,familyId:families[q.parentId]||q.parentId})),arithmeticVariations(),conceptQuestions,curriculumQuestions,batch2Questions,batch3Questions,reviewedImports);}
+export function practiceBank(){return [...gmaQuestions,...rightsQuestions].map(q=>({...q,reviewStatus:'reviewed',stage:'prelims',exam:'APPSC Group-I',paper:q.topic.startsWith('t-4-')?'II':'I',familyId:families[q.id]||q.id})).concat(reviewedVariants.map(q=>({...q,familyId:families[q.parentId]||q.parentId})),arithmeticVariations(),conceptQuestions,curriculumQuestions,batch2Questions,batch3Questions,batch4Questions,reviewedImports,repairedImports);}

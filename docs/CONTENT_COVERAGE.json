@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "scope": "65 existing study units; expanded editions are not full official-syllabus certification",
+  "scope": "65 study units; expanded editions are not certification of full official syllabus coverage",
   "topics": [
     {
       "id": "t-0-0",
@@ -46,7 +46,7 @@
       "te": "చరిత్ర & సంస్కృతి",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 8,
+      "questions": 9,
       "chapterEdition": "2026-10-16",
       "chapterOutline": [
         "Why new paths gained followers",
@@ -216,7 +216,7 @@
       "te": "రాజ్యాంగం & పాలన",
       "level": "Expanded chapter",
       "segments": 8,
-      "questions": 34,
+      "questions": 35,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "The map: who is protected, against what?",
@@ -256,7 +256,7 @@
       "te": "రాజ్యాంగం & పాలన",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 8,
+      "questions": 11,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "Formal head and responsible government",
@@ -274,7 +274,7 @@
       "te": "రాజ్యాంగం & పాలన",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 8,
+      "questions": 13,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "A court system with an independent role",
@@ -292,7 +292,7 @@
       "te": "రాజ్యాంగం & పాలన",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 8,
+      "questions": 10,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "Governor, Chief Minister and responsibility",
@@ -310,7 +310,7 @@
       "te": "రాజ్యాంగం & పాలన",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 8,
+      "questions": 10,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "Sharing authority across levels",
@@ -328,7 +328,7 @@
       "te": "రాజ్యాంగం & పాలన",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 8,
+      "questions": 9,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "Identify the source of an institution’s status",
@@ -346,7 +346,7 @@
       "te": "రాజ్యాంగం & పాలన",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 8,
+      "questions": 10,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "From equal rules to meaningful access",
@@ -364,7 +364,7 @@
       "te": "రాజ్యాంగం & పాలన",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 8,
+      "questions": 20,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "Read foreign policy through interests and instruments",
@@ -401,7 +401,7 @@
       "te": "ఆర్థిక వ్యవస్థ",
       "level": "Expanded chapter",
       "segments": 5,
-      "questions": 34,
+      "questions": 35,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "Price level, inflation and purchasing power",
@@ -420,7 +420,7 @@
       "te": "ఆర్థిక వ్యవస్థ",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 8,
+      "questions": 9,
       "chapterEdition": "2026-10-17-b3",
       "chapterOutline": [
         "Follow the money before classifying it",
@@ -474,7 +474,7 @@
       "te": "ఆర్థిక వ్యవస్థ",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 8,
+      "questions": 9,
       "chapterEdition": "2026-10-17-b3",
       "chapterOutline": [
         "Area, yield and output tell different stories",
@@ -492,7 +492,7 @@
       "te": "ఆర్థిక వ్యవస్థ",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 8,
+      "questions": 15,
       "chapterEdition": "2026-10-17-b3",
       "chapterOutline": [
         "Trace a product through its production network",
@@ -582,7 +582,7 @@
       "te": "భూగోళ శాస్త్రం",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 8,
+      "questions": 9,
       "chapterEdition": "2026-10-17-b3",
       "chapterOutline": [
         "Heat sets the atmosphere in motion",
@@ -600,7 +600,7 @@
       "te": "భూగోళ శాస్త్రం",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 8,
+      "questions": 11,
       "chapterEdition": "2026-10-17-b3",
       "chapterOutline": [
         "Build a map of six broad physiographic settings",
@@ -616,11 +616,16 @@
       "subject": "Geography",
       "paper": "I",
       "te": "భూగోళ శాస్త్రం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 9,
+      "chapterEdition": "2026-10-17-b4",
+      "chapterOutline": [
+        "A basin is a connected drainage system",
+        "Compare river regimes, not slogans",
+        "Storage, recharge and useful water",
+        "Water decisions involve quantity, quality and allocation"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -629,11 +634,16 @@
       "subject": "Geography",
       "paper": "I",
       "te": "భూగోళ శాస్త్రం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b4",
+      "chapterOutline": [
+        "Soil is a slowly built living system",
+        "Identify Indian soils by properties and setting",
+        "Conservation matches the erosion process",
+        "Read cropping intensity and crop suitability"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -642,11 +652,16 @@
       "subject": "Geography",
       "paper": "I",
       "te": "భూగోళ శాస్త్రం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b4",
+      "chapterOutline": [
+        "A resource depends on use and limits",
+        "Minerals and energy have different chains",
+        "Locate industries by linked requirements",
+        "Resource policy includes external costs"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -655,11 +670,16 @@
       "subject": "Geography",
       "paper": "I",
       "te": "భూగోళ శాస్త్రం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b4",
+      "chapterOutline": [
+        "Orient AP on the map before memorising facts",
+        "Rivers join plateau, plains and coast",
+        "Hills, soils and ecosystems shape livelihoods",
+        "Physical advantages also create exposure"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -668,11 +688,16 @@
       "subject": "Geography",
       "paper": "I",
       "te": "భూగోళ శాస్త్రం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b4",
+      "chapterOutline": [
+        "Population change has three components",
+        "Density, composition and dependency",
+        "Migration connects origins and destinations",
+        "Urbanisation is more than city population growth"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -681,11 +706,16 @@
       "subject": "Geography",
       "paper": "I",
       "te": "భూగోళ శాస్త్రం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 3,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 12,
+      "chapterEdition": "2026-10-17-b4",
+      "chapterOutline": [
+        "From organisms to a functioning ecosystem",
+        "Diversity exists at several levels",
+        "Protect habitats and maintain ecological processes",
+        "Pollution, climate and sustainable choices"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -694,11 +724,16 @@
       "subject": "Geography",
       "paper": "I",
       "te": "భూగోళ శాస్త్రం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 10,
+      "chapterEdition": "2026-10-17-b4",
+      "chapterOutline": [
+        "A hazard becomes risk through exposure and vulnerability",
+        "Distinguish water and weather hazards",
+        "Ground hazards require different protective systems",
+        "Preparedness links warning to action and recovery"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -707,11 +742,16 @@
       "subject": "General Mental Ability",
       "paper": "II",
       "te": "సామాన్య మానసిక సామర్థ్యం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b4",
+      "chapterOutline": [
+        "Place value, signs and rational numbers",
+        "Divisibility reduces work",
+        "HCF and LCM solve different questions",
+        "Remainders, factors and last digits"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -720,11 +760,16 @@
       "subject": "General Mental Ability",
       "paper": "II",
       "te": "సామాన్య మానసిక సామర్థ్యం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 52,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 60,
+      "chapterEdition": "2026-10-17-b4",
+      "chapterOutline": [
+        "A percentage always needs a base",
+        "Successive changes multiply",
+        "Ratios compare like units and common parts",
+        "Proportion and weighted averages"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -733,11 +778,16 @@
       "subject": "General Mental Ability",
       "paper": "II",
       "te": "సామాన్య మానసిక సామర్థ్యం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b4",
+      "chapterOutline": [
+        "Cost price is the profit-rate base",
+        "Marked price, discounts and break-even",
+        "Simple interest keeps the principal fixed",
+        "Compound interest depends on frequency"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -746,11 +796,16 @@
       "subject": "General Mental Ability",
       "paper": "II",
       "te": "సామాన్య మానసిక సామర్థ్యం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 26,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 34,
+      "chapterEdition": "2026-10-17-b4",
+      "chapterOutline": [
+        "Turn days into work rates",
+        "Efficiency and workforce assumptions",
+        "Joining, leaving and alternating work",
+        "Pipes, leaks and fair payment"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -891,7 +946,7 @@
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 0,
+      "questions": 1,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -904,7 +959,7 @@
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 0,
+      "questions": 4,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -917,7 +972,7 @@
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 0,
+      "questions": 1,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -930,7 +985,7 @@
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 0,
+      "questions": 1,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -956,7 +1011,7 @@
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 0,
+      "questions": 7,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -982,7 +1037,7 @@
       "te": "సమకాలీన అంశాలు",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 0,
+      "questions": 32,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -995,7 +1050,7 @@
       "te": "సమకాలీన అంశాలు",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 0,
+      "questions": 8,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -1008,7 +1063,7 @@
       "te": "సమకాలీన అంశాలు",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 0,
+      "questions": 1,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -1021,7 +1076,7 @@
       "te": "సమకాలీన అంశాలు",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 0,
+      "questions": 1,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false

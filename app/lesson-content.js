@@ -1,3 +1,4 @@
+import {batch4Lessons} from './curriculum-batch4.js';
 import {batch3Lessons} from './curriculum-batch3.js';
 import {guideFor} from './guides.js';
 import {lesson} from './content.js';
@@ -9,6 +10,7 @@ import {batch2Lessons} from './curriculum-batch2.js';
 /** @returns {{topic:string,level:string,batch?:number,edition?:string,outline?:string[],summary?:string[],source:{name:string,url:string},sources:string[][],segments:Array<{title:string,text:string,example:string,trap:string,recall:string,teTitle?:string,te?:string,teExample?:string}>,recall:string[],references:string[]}|null} */
 export function learningContent(id){
  const guide=guideFor(id);if(!guide)return null;const example=topicExample(id);
+ if(batch4Lessons[id])return batch4Lessons[id];
  if(batch3Lessons[id])return batch3Lessons[id];
  if(batch2Lessons[id])return batch2Lessons[id];
  if(batch1Lessons[id])return batch1Lessons[id];
