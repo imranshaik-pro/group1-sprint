@@ -1,0 +1,538 @@
+{
+  "asOf": "2026-10-17",
+  "headlineWindow": {
+    "start": "2025-10-18",
+    "end": "2026-10-17"
+  },
+  "method": "Original teaching from primary educational, institutional and official sources. No claim of full independent expert syllabus certification. The Act text is cited from a PRS mirror. HDR 2025 and NQM 2023 are explicitly historical background.",
+  "topics": [
+    {
+      "id": "t-5-5",
+      "name": "Information technology & AI",
+      "sources": [
+        [
+          "NCERT — Computer System",
+          "https://ncert.nic.in/textbook/pdf/kecs101.pdf"
+        ],
+        [
+          "NCERT — Emerging Trends",
+          "https://ncert.nic.in/textbook/pdf/kecs103.pdf"
+        ],
+        [
+          "NIST — voluntary AI Risk Management Framework",
+          "https://www.nist.gov/itl/ai-risk-management-framework"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Data, processing and memory",
+          "source": [
+            "NCERT — Computer System",
+            "https://ncert.nic.in/textbook/pdf/kecs101.pdf"
+          ]
+        },
+        {
+          "title": "Networks, identity and protected communication",
+          "source": [
+            "NCERT — Computer System",
+            "https://ncert.nic.in/textbook/pdf/kecs101.pdf"
+          ]
+        },
+        {
+          "title": "Learning models and generating answers",
+          "source": [
+            "NCERT — Emerging Trends",
+            "https://ncert.nic.in/textbook/pdf/kecs103.pdf"
+          ]
+        },
+        {
+          "title": "Evaluation, leakage and responsible deployment",
+          "source": [
+            "NIST — voluntary AI Risk Management Framework",
+            "https://www.nist.gov/itl/ai-risk-management-framework"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t-5-6",
+      "name": "Energy technology",
+      "sources": [
+        [
+          "US EIA — generation, capacity and storage concepts",
+          "https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php"
+        ],
+        [
+          "US Department of Energy — electrolysis",
+          "https://www.energy.gov/cmei/fuels/hydrogen-production-electrolysis"
+        ],
+        [
+          "NCERT — Electricity",
+          "https://ncert.nic.in/textbook/pdf/jesc111.pdf"
+        ],
+        [
+          "US DOE — fission and fusion",
+          "https://www.energy.gov/ne/articles/fission-and-fusion-what-difference"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Power, energy and generation",
+          "source": [
+            "US EIA — generation, capacity and storage concepts",
+            "https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php"
+          ]
+        },
+        {
+          "title": "Solar conversion and storage",
+          "source": [
+            "US EIA — generation, capacity and storage concepts",
+            "https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php"
+          ]
+        },
+        {
+          "title": "Fission, fusion and hydrogen pathways",
+          "source": [
+            "US Department of Energy — electrolysis",
+            "https://www.energy.gov/cmei/fuels/hydrogen-production-electrolysis"
+          ]
+        },
+        {
+          "title": "Grids, efficiency and lifecycle comparison",
+          "source": [
+            "NCERT — Electricity",
+            "https://ncert.nic.in/textbook/pdf/jesc111.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t-5-7",
+      "name": "Agriculture technology",
+      "sources": [
+        [
+          "ICAR — agricultural technologies and knowledge resources",
+          "https://www.icar.org.in/index.php/en/technologies-and-knowledge-resources"
+        ],
+        [
+          "ICAR — consortia research platforms",
+          "https://www.icar.org.in/en/consortia-research-platform-projects"
+        ],
+        [
+          "FAO — e-agriculture",
+          "https://www.fao.org/e-agriculture/"
+        ],
+        [
+          "NCERT — Biotechnology and its Applications",
+          "https://ncert.nic.in/textbook/pdf/lebo110.pdf"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Improvement and propagation are different tasks",
+          "source": [
+            "NCERT — Biotechnology and its Applications",
+            "https://ncert.nic.in/textbook/pdf/lebo110.pdf"
+          ]
+        },
+        {
+          "title": "Precision water and nutrient management",
+          "source": [
+            "ICAR — consortia research platforms",
+            "https://www.icar.org.in/en/consortia-research-platform-projects"
+          ]
+        },
+        {
+          "title": "Drones, satellites and decision support",
+          "source": [
+            "FAO — e-agriculture",
+            "https://www.fao.org/e-agriculture/"
+          ]
+        },
+        {
+          "title": "Post-harvest systems and adoption",
+          "source": [
+            "ICAR — agricultural technologies and knowledge resources",
+            "https://www.icar.org.in/index.php/en/technologies-and-knowledge-resources"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t-5-8",
+      "name": "Indian scientific institutions",
+      "sources": [
+        [
+          "ISRO — organisation",
+          "https://www.isro.gov.in/profile.html"
+        ],
+        [
+          "DRDO — organisation",
+          "https://www.drdo.gov.in/"
+        ],
+        [
+          "CSIR — institutional mandate",
+          "https://www.csir.res.in/"
+        ],
+        [
+          "ICAR — agricultural technologies and knowledge resources",
+          "https://www.icar.org.in/index.php/en/technologies-and-knowledge-resources"
+        ],
+        [
+          "ICMR — biomedical research",
+          "https://www.icmr.gov.in/"
+        ],
+        [
+          "DAE — activities and constituent research centres",
+          "https://dae.gov.in/activities/"
+        ],
+        [
+          "ANRF — research support",
+          "https://anrf.gov.in/"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Space and defence research",
+          "source": [
+            "DRDO — organisation",
+            "https://www.drdo.gov.in/"
+          ]
+        },
+        {
+          "title": "Industrial and agricultural research networks",
+          "source": [
+            "CSIR — institutional mandate",
+            "https://www.csir.res.in/"
+          ]
+        },
+        {
+          "title": "Biomedical and atomic-energy research",
+          "source": [
+            "ICMR — biomedical research",
+            "https://www.icmr.gov.in/"
+          ]
+        },
+        {
+          "title": "Funding, execution and collaboration",
+          "source": [
+            "ANRF — research support",
+            "https://anrf.gov.in/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t-5-9",
+      "name": "Science policy & applications",
+      "sources": [
+        [
+          "ANRF — research support",
+          "https://anrf.gov.in/"
+        ],
+        [
+          "Cabinet — National Quantum Mission approval, 19 April 2023",
+          "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1917888&lang=2&reg=48"
+        ],
+        [
+          "NIST — voluntary AI Risk Management Framework",
+          "https://www.nist.gov/itl/ai-risk-management-framework"
+        ],
+        [
+          "ICAR — agricultural technologies and knowledge resources",
+          "https://www.icar.org.in/index.php/en/technologies-and-knowledge-resources"
+        ],
+        [
+          "WIPO — patent rights and licensing",
+          "https://www.wipo.int/en/web/patents/faq_patents"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Research support and public purpose",
+          "source": [
+            "ANRF — research support",
+            "https://anrf.gov.in/"
+          ]
+        },
+        {
+          "title": "National Quantum Mission: approval and domains",
+          "source": [
+            "Cabinet — National Quantum Mission approval, 19 April 2023",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1917888&lang=2&reg=48"
+          ]
+        },
+        {
+          "title": "From laboratory to field application",
+          "source": [
+            "ICAR — agricultural technologies and knowledge resources",
+            "https://www.icar.org.in/index.php/en/technologies-and-knowledge-resources"
+          ]
+        },
+        {
+          "title": "Evidence, rights and risk in applications",
+          "source": [
+            "NIST — voluntary AI Risk Management Framework",
+            "https://www.nist.gov/itl/ai-risk-management-framework"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t-6-0",
+      "name": "Andhra Pradesh events",
+      "sources": [
+        [
+          "Andhra Pradesh Reorganisation (Amendment) Act 2026 — Act text, PRS mirror",
+          "https://prsindia.org/files/bills_acts/bills_parliament/2026/Andhra_Pradesh_Reorganisation_(A)Act_2026.pdf"
+        ],
+        [
+          "AP Finance — Budget 2026–27 documents",
+          "https://apfinance.gov.in/budget.html"
+        ],
+        [
+          "IMD Chennai — Northeast Monsoon 2025 report, April 2026",
+          "https://mausam.imd.gov.in/chennai/mcdata/ne_monsoon_2025.pdf"
+        ],
+        [
+          "MeitY/PIB — NIELIT–AP MoU, 21 February 2026",
+          "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231125&reg=48&lang=2"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Amaravati: assent and deemed commencement",
+          "source": [
+            "Andhra Pradesh Reorganisation (Amendment) Act 2026 — Act text, PRS mirror",
+            "https://prsindia.org/files/bills_acts/bills_parliament/2026/Andhra_Pradesh_Reorganisation_(A)Act_2026.pdf"
+          ]
+        },
+        {
+          "title": "AP Budget 2026–27: reading estimates",
+          "source": [
+            "AP Finance — Budget 2026–27 documents",
+            "https://apfinance.gov.in/budget.html"
+          ]
+        },
+        {
+          "title": "Cyclone Montha: retrospective evidence",
+          "source": [
+            "IMD Chennai — Northeast Monsoon 2025 report, April 2026",
+            "https://mausam.imd.gov.in/chennai/mcdata/ne_monsoon_2025.pdf"
+          ]
+        },
+        {
+          "title": "NIELIT–AP MoU: proposal versus operation",
+          "source": [
+            "MeitY/PIB — NIELIT–AP MoU, 21 February 2026",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231125&reg=48&lang=2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t-6-1",
+      "name": "National events",
+      "sources": [
+        [
+          "Ministry of Finance — Union Budget 2026–27, Budget at a Glance",
+          "https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf"
+        ],
+        [
+          "MeitY/PIB — AI Impact Summit declaration, 21 February 2026",
+          "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231208&lang=2&reg=48"
+        ],
+        [
+          "PIB — DPDP Rules notification, 14 November 2025",
+          "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2190014&lang=2&reg=3"
+        ],
+        [
+          "ICC — Women’s World Cup final, 2 November 2025",
+          "https://www.icc-cricket.com/media-releases/india-clinch-historic-first-icc-women-s-cricket-world-cup-title"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Union Budget 2026–27 and fiscal arithmetic",
+          "source": [
+            "Ministry of Finance — Union Budget 2026–27, Budget at a Glance",
+            "https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf"
+          ]
+        },
+        {
+          "title": "AI Impact Summit and the New Delhi Declaration",
+          "source": [
+            "MeitY/PIB — AI Impact Summit declaration, 21 February 2026",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231208&lang=2&reg=48"
+          ]
+        },
+        {
+          "title": "DPDP Rules 2025: final notification versus draft",
+          "source": [
+            "PIB — DPDP Rules notification, 14 November 2025",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2190014&lang=2&reg=3"
+          ]
+        },
+        {
+          "title": "India’s first women’s ODI World Cup title",
+          "source": [
+            "ICC — Women’s World Cup final, 2 November 2025",
+            "https://www.icc-cricket.com/media-releases/india-clinch-historic-first-icc-women-s-cricket-world-cup-title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t-6-2",
+      "name": "International events",
+      "sources": [
+        [
+          "UNFCCC — COP30 session information and reports",
+          "https://unfccc.int/cop30"
+        ],
+        [
+          "South African DIRCO — G20 leaders declaration, November 2025",
+          "https://dirco.gov.za/g20-south-africa-summit-leaders-declaration-22-and-23-november-2025/"
+        ],
+        [
+          "IOC — Milano Cortina 2026 dates",
+          "https://support.olympics.com/hc/en-gb/articles/43002165477267-Where-and-when-will-the-2026-Olympic-Winter-Games-take-place"
+        ],
+        [
+          "European Commission — EU–India trade negotiations",
+          "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/india_en"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "COP30 in Belém: climate negotiations",
+          "source": [
+            "UNFCCC — COP30 session information and reports",
+            "https://unfccc.int/cop30"
+          ]
+        },
+        {
+          "title": "Johannesburg G20 Summit 2025",
+          "source": [
+            "South African DIRCO — G20 leaders declaration, November 2025",
+            "https://dirco.gov.za/g20-south-africa-summit-leaders-declaration-22-and-23-november-2025/"
+          ]
+        },
+        {
+          "title": "Milano Cortina 2026: Olympic calendar",
+          "source": [
+            "IOC — Milano Cortina 2026 dates",
+            "https://support.olympics.com/hc/en-gb/articles/43002165477267-Where-and-when-will-the-2026-Olympic-Winter-Games-take-place"
+          ]
+        },
+        {
+          "title": "EU–India FTA: conclusion is a milestone",
+          "source": [
+            "European Commission — EU–India trade negotiations",
+            "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/india_en"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t-6-3",
+      "name": "Schemes & policy changes",
+      "sources": [
+        [
+          "Road Transport Ministry/PIB — PM-RAHAT reply, 12 August 2026",
+          "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298285&lang=2&reg=48"
+        ],
+        [
+          "PIB — four decisions, 13 February 2026",
+          "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227542&lang=1&reg=1"
+        ],
+        [
+          "DPIIT — Fund of Funds 2.0 notification, 13 April 2026",
+          "https://www.startupindia.gov.in/content/dam/startupindia/Startup-India-Fund-of-Funds-2.0-Scheme.pdf"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "PM-RAHAT: dates and scheme parameters",
+          "source": [
+            "Road Transport Ministry/PIB — PM-RAHAT reply, 12 August 2026",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298285&lang=2&reg=48"
+          ]
+        },
+        {
+          "title": "Lakhpati Didi: a revised target",
+          "source": [
+            "PIB — four decisions, 13 February 2026",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227542&lang=1&reg=1"
+          ]
+        },
+        {
+          "title": "Agriculture Infrastructure Fund: financing scale",
+          "source": [
+            "PIB — four decisions, 13 February 2026",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227542&lang=1&reg=1"
+          ]
+        },
+        {
+          "title": "Startup India Fund of Funds 2.0",
+          "source": [
+            "PIB — four decisions, 13 February 2026",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227542&lang=1&reg=1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t-6-4",
+      "name": "Reports & indices",
+      "sources": [
+        [
+          "WIPO — Global Innovation Index 2026 results",
+          "https://www.wipo.int/web-publications/global-innovation-index-2026/en/gii-2026-results.html"
+        ],
+        [
+          "UNDP India — Human Development Report 2025 release, 6 May 2025",
+          "https://www.undp.org/india/press-releases/indias-human-development-continues-make-progress-ranks-130-out-193-countries"
+        ],
+        [
+          "Ministry of Finance — Economic Survey 2025–26",
+          "https://www.indiabudget.gov.in/economicsurvey/"
+        ],
+        [
+          "MoSPI/PIB — PLFS May 2026 bulletin, 15 June 2026",
+          "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2272969&lang=1&reg=1"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Global Innovation Index 2026",
+          "source": [
+            "WIPO — Global Innovation Index 2026 results",
+            "https://www.wipo.int/web-publications/global-innovation-index-2026/en/gii-2026-results.html"
+          ]
+        },
+        {
+          "title": "HDR 2025: publication year versus data year",
+          "source": [
+            "UNDP India — Human Development Report 2025 release, 6 May 2025",
+            "https://www.undp.org/india/press-releases/indias-human-development-continues-make-progress-ranks-130-out-193-countries"
+          ]
+        },
+        {
+          "title": "Economic Survey 2025–26 and the Budget",
+          "source": [
+            "Ministry of Finance — Economic Survey 2025–26",
+            "https://www.indiabudget.gov.in/economicsurvey/"
+          ]
+        },
+        {
+          "title": "PLFS: reference period and denominators",
+          "source": [
+            "MoSPI/PIB — PLFS May 2026 bulletin, 15 June 2026",
+            "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2272969&lang=1&reg=1"
+          ]
+        }
+      ]
+    }
+  ]
+}

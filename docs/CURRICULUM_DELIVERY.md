@@ -1,3 +1,5 @@
+Current status (17 October 2026): Batches 1–5 published. Batch 6 authored and locally validated, awaiting browser CI and publication. All 65 planned topic editions and 276 bilingual sections are now authored; the six-batch sequence is the same combined chapter-and-practice track. Historical results below retain their release-time counts.
+
 # Six-batch curriculum delivery
 
 Request: expand all 65 study units in six balanced batches, delivering teaching and scored practice together. Defer AI integration and other feature work until curriculum delivery is complete.
@@ -74,7 +76,7 @@ Status: 11 editions, 44 sections and 88 questions authored and tested; browser/r
 - t-4-2: Profit, loss & interest
 - t-4-3: Time & work
 
-Status: Not started.
+Historical plan status; see current status above.
 
 ### Batch 5: Reasoning & science foundations (11 topics)
 
@@ -90,7 +92,7 @@ Status: Not started.
 - t-5-3: Biotechnology
 - t-5-4: Space technology
 
-Status: Not started.
+Historical plan status; see current status above.
 
 ### Batch 6: Technology & current affairs (10 topics)
 
@@ -105,7 +107,7 @@ Status: Not started.
 - t-6-3: Schemes & policy changes
 - t-6-4: Reports & indices
 
-Status: Not started.
+Historical plan status; see current status above.
 
 ## Source and question policy
 
@@ -129,7 +131,7 @@ Added a chapter restart control for learners returning from the earlier short ed
 
 ## Next delivery
 
-Batch 4: Rivers & water resources through Time & work. Batches 4–6 remain not started. AI integration remains deferred. No automatic background completion is implied.
+Historical next-delivery entry; superseded by the current status above. AI integration remains deferred.
 
 
 ## Batch 3 result
@@ -142,6 +144,13 @@ Batch 4: Rivers & water resources through Time & work. Batches 4–6 remain not 
 
 ## Batch 5 — 17 October 2026
 
-11 editions (t-4-4 through t-5-4),46 bilingual sections and92 new original questions published in Site version20 after local and remote browser validation. Physics preserves its existing four sections and adds fluids and thermal physics, giving six. Combined:55 editions,236 expanded-edition sections,627 original questions plus350 reviewed imported models=977 scored total.64 topics have scored practice; Andhra Pradesh events remains without it. Batch6 contains ten remaining expanded editions. Full official-syllabus and independent expert review remain pending. See VALIDATION_BATCH5_2026-10-17.md; publication is recorded in RELEASE_BATCH5_2026-10-17.md.
+11 editions (t-4-4 through t-5-4),46 bilingual sections and92 new original questions authored and validated. Physics preserves its existing four sections and adds fluids and thermal physics, giving six. Combined:55 editions,236 expanded-edition sections,627 original questions plus350 reviewed imported models=977 scored total.64 topics have scored practice; Andhra Pradesh events remains without it. Batch6 contains ten remaining expanded editions. Full official-syllabus and independent expert review remain pending. See VALIDATION_BATCH5_2026-10-17.md; publication is recorded after release.
 
 Batch5 preserves the concurrent197-question confirmed-import release and topic filters from6ef4c89; final counts include that addition.
+
+
+## Batch 6 — 17 October 2026
+
+Ten editions (t-5-5 through t-6-4),40 bilingual sections and80 original questions. The five technology/policy and five current-affairs chapters complete the planned 65-topic expansion sequence. Combined:65 expanded editions,276 sections,707 original questions plus350 reviewed imported models=1057 scored questions; all65 topics have scored practice. Current affairs are a dated snapshot (18 October 2025–17 October 2026), not a live news feed. HDR2025 and NQM2023 are explicitly background examples outside that window.
+
+Each section includes original English/Telugu teaching, example, trap and recall; each has two scored questions with keys, explanations and source pointers. This completes editions in the existing layout; full official syllabus reconciliation and independent subject-expert review remain pending. The separate imported-question review track and AI integration also remain pending. See BATCH6-SOURCE-MAP-2026-10-17.json and VALIDATION_BATCH6_2026-10-17.md. Publication provenance follows after successful deployment.

@@ -1133,7 +1133,7 @@
         "t-6-3",
         "t-6-4"
       ],
-      "status": "not-started",
+      "status": "validated-awaiting-publication",
       "topics": [
         {
           "id": "t-5-5",
@@ -1141,11 +1141,16 @@
           "subject": "Science & Technology",
           "paper": "II",
           "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
-          "level": "Short foundation",
-          "segments": 1,
-          "questions": 8,
-          "chapterEdition": null,
-          "chapterOutline": [],
+          "level": "Expanded chapter",
+          "segments": 4,
+          "questions": 16,
+          "chapterEdition": "2026-10-17-b6",
+          "chapterOutline": [
+            "Data, processing and memory",
+            "Networks, identity and protected communication",
+            "Learning models and generating answers",
+            "Evaluation, leakage and responsible deployment"
+          ],
           "fullChapterReviewed": false
         },
         {
@@ -1154,11 +1159,16 @@
           "subject": "Science & Technology",
           "paper": "II",
           "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
-          "level": "Short foundation",
-          "segments": 1,
-          "questions": 5,
-          "chapterEdition": null,
-          "chapterOutline": [],
+          "level": "Expanded chapter",
+          "segments": 4,
+          "questions": 13,
+          "chapterEdition": "2026-10-17-b6",
+          "chapterOutline": [
+            "Power, energy and generation",
+            "Solar conversion and storage",
+            "Fission, fusion and hydrogen pathways",
+            "Grids, efficiency and lifecycle comparison"
+          ],
           "fullChapterReviewed": false
         },
         {
@@ -1167,11 +1177,16 @@
           "subject": "Science & Technology",
           "paper": "II",
           "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
-          "level": "Short foundation",
-          "segments": 1,
-          "questions": 1,
-          "chapterEdition": null,
-          "chapterOutline": [],
+          "level": "Expanded chapter",
+          "segments": 4,
+          "questions": 9,
+          "chapterEdition": "2026-10-17-b6",
+          "chapterOutline": [
+            "Improvement and propagation are different tasks",
+            "Precision water and nutrient management",
+            "Drones, satellites and decision support",
+            "Post-harvest systems and adoption"
+          ],
           "fullChapterReviewed": false
         },
         {
@@ -1180,11 +1195,16 @@
           "subject": "Science & Technology",
           "paper": "II",
           "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
-          "level": "Short foundation",
-          "segments": 1,
-          "questions": 3,
-          "chapterEdition": null,
-          "chapterOutline": [],
+          "level": "Expanded chapter",
+          "segments": 4,
+          "questions": 11,
+          "chapterEdition": "2026-10-17-b6",
+          "chapterOutline": [
+            "Space and defence research",
+            "Industrial and agricultural research networks",
+            "Biomedical and atomic-energy research",
+            "Funding, execution and collaboration"
+          ],
           "fullChapterReviewed": false
         },
         {
@@ -1193,11 +1213,16 @@
           "subject": "Science & Technology",
           "paper": "II",
           "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
-          "level": "Short foundation",
-          "segments": 1,
-          "questions": 14,
-          "chapterEdition": null,
-          "chapterOutline": [],
+          "level": "Expanded chapter",
+          "segments": 4,
+          "questions": 22,
+          "chapterEdition": "2026-10-17-b6",
+          "chapterOutline": [
+            "Research support and public purpose",
+            "National Quantum Mission: approval and domains",
+            "From laboratory to field application",
+            "Evidence, rights and risk in applications"
+          ],
           "fullChapterReviewed": false
         },
         {
@@ -1206,11 +1231,16 @@
           "subject": "Current Events",
           "paper": "II",
           "te": "సమకాలీన అంశాలు",
-          "level": "Short foundation",
-          "segments": 1,
-          "questions": 0,
-          "chapterEdition": null,
-          "chapterOutline": [],
+          "level": "Expanded chapter",
+          "segments": 4,
+          "questions": 8,
+          "chapterEdition": "2026-10-17-b6",
+          "chapterOutline": [
+            "Amaravati: assent and deemed commencement",
+            "AP Budget 2026–27: reading estimates",
+            "Cyclone Montha: retrospective evidence",
+            "NIELIT–AP MoU: proposal versus operation"
+          ],
           "fullChapterReviewed": false
         },
         {
@@ -1219,11 +1249,16 @@
           "subject": "Current Events",
           "paper": "II",
           "te": "సమకాలీన అంశాలు",
-          "level": "Short foundation",
-          "segments": 1,
-          "questions": 117,
-          "chapterEdition": null,
-          "chapterOutline": [],
+          "level": "Expanded chapter",
+          "segments": 4,
+          "questions": 125,
+          "chapterEdition": "2026-10-17-b6",
+          "chapterOutline": [
+            "Union Budget 2026–27 and fiscal arithmetic",
+            "AI Impact Summit and the New Delhi Declaration",
+            "DPDP Rules 2025: final notification versus draft",
+            "India’s first women’s ODI World Cup title"
+          ],
           "fullChapterReviewed": false
         },
         {
@@ -1232,11 +1267,16 @@
           "subject": "Current Events",
           "paper": "II",
           "te": "సమకాలీన అంశాలు",
-          "level": "Short foundation",
-          "segments": 1,
-          "questions": 17,
-          "chapterEdition": null,
-          "chapterOutline": [],
+          "level": "Expanded chapter",
+          "segments": 4,
+          "questions": 25,
+          "chapterEdition": "2026-10-17-b6",
+          "chapterOutline": [
+            "COP30 in Belém: climate negotiations",
+            "Johannesburg G20 Summit 2025",
+            "Milano Cortina 2026: Olympic calendar",
+            "EU–India FTA: conclusion is a milestone"
+          ],
           "fullChapterReviewed": false
         },
         {
@@ -1245,11 +1285,16 @@
           "subject": "Current Events",
           "paper": "II",
           "te": "సమకాలీన అంశాలు",
-          "level": "Short foundation",
-          "segments": 1,
-          "questions": 1,
-          "chapterEdition": null,
-          "chapterOutline": [],
+          "level": "Expanded chapter",
+          "segments": 4,
+          "questions": 9,
+          "chapterEdition": "2026-10-17-b6",
+          "chapterOutline": [
+            "PM-RAHAT: dates and scheme parameters",
+            "Lakhpati Didi: a revised target",
+            "Agriculture Infrastructure Fund: financing scale",
+            "Startup India Fund of Funds 2.0"
+          ],
           "fullChapterReviewed": false
         },
         {
@@ -1258,11 +1303,16 @@
           "subject": "Current Events",
           "paper": "II",
           "te": "సమకాలీన అంశాలు",
-          "level": "Short foundation",
-          "segments": 1,
-          "questions": 5,
-          "chapterEdition": null,
-          "chapterOutline": [],
+          "level": "Expanded chapter",
+          "segments": 4,
+          "questions": 13,
+          "chapterEdition": "2026-10-17-b6",
+          "chapterOutline": [
+            "Global Innovation Index 2026",
+            "HDR 2025: publication year versus data year",
+            "Economic Survey 2025–26 and the Budget",
+            "PLFS: reference period and denominators"
+          ],
           "fullChapterReviewed": false
         }
       ]
