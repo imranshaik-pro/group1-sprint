@@ -42,7 +42,7 @@ Status: Chapter edition authored and tested; production publication recorded in 
 - t-2-0: National income
 - t-2-1: Inflation & monetary policy
 
-Status: Chapter edition authored and locally tested; browser and production publication are pending.
+Status: Published as Site version 15 on 17 October 2026; browser workflow 38944518206 and release build/checks passed.
 
 ### Batch 3: Economy & physical geography (11 topics)
 
@@ -58,7 +58,7 @@ Status: Chapter edition authored and locally tested; browser and production publ
 - t-3-1: Climate & monsoons
 - t-3-2: Indian physical geography
 
-Status: Not started.
+Status: Authoring started on 17 October 2026.
 
 ### Batch 4: Geography & quantitative foundations (11 topics)
 

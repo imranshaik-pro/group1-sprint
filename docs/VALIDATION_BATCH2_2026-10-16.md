@@ -29,3 +29,7 @@ Expand the next eleven topics and scored practice together; keep AI work deferre
 ## Review limits
 
 Editorial self-review and structural tests are not independent subject-expert certification. Full official-syllabus and every microtopic’s completeness remain under review; fullChapterReviewed flags remain false. Real Android hardware and the signed-in production Sites browser are not manually tested. Browser tests run through the repository’s existing GitHub workflow. No real AI-provider request, credential setup or Vercel/GitHub Pages publication is claimed.
+
+## Published — 17 October 2026
+
+Batch 2 published successfully as Site version 15, source commit 05d3e45708ead5f80b64ef5e6a7bb2c339a06ad1. Native deployment appgdep_6ad2d24ea2a08191b6db1fea0072bbff returned succeeded. Website: https://group1-sprint-studio.spryplume16.chatgpt.site ; PWA: /sprint/index.html. GitHub browser workflow 38944518206 passed after the four-section save-limit fix; latest resource-integration workflow 38990731013 passed. Release checkout passed 26 Node content/render/progress tests, TypeScript compilation and final production build. Existing UPSC and imported collections retained; PWA collection data paths mirrored. Cache v17 includes Batch 2 modules. Batch 3 is next; 43 chapters still pending.

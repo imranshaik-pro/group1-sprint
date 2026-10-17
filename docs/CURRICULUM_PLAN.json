@@ -254,7 +254,7 @@
         "t-2-0",
         "t-2-1"
       ],
-      "status": "chapter-edition-authored-and-tested",
+      "status": "published",
       "topics": [
         {
           "id": "t-1-1",
@@ -460,7 +460,12 @@
           ],
           "fullChapterReviewed": false
         }
-      ]
+      ],
+      "publication": {
+        "siteVersion": 15,
+        "sourceCommit": "05d3e45708ead5f80b64ef5e6a7bb2c339a06ad1",
+        "date": "2026-10-17"
+      }
     },
     {
       "id": 3,
@@ -478,7 +483,7 @@
         "t-3-1",
         "t-3-2"
       ],
-      "status": "not-started",
+      "status": "authoring",
       "topics": [
         {
           "id": "t-2-2",
