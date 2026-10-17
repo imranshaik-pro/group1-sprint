@@ -1,4 +1,4 @@
-Current status (17 October 2026): Batches 1–5 published. Batch 6 authored and locally validated, awaiting browser CI and publication. All 65 planned topic editions and 276 bilingual sections are now authored; the six-batch sequence is the same combined chapter-and-practice track. Historical results below retain their release-time counts.
+Current status (17 October 2026): All six curriculum batches published; Batch 6 is live in Site version21. All 65 planned topic editions and 276 bilingual sections are now published; the six-batch sequence is the same combined chapter-and-practice track. Historical results below retain their release-time counts.
 
 # Six-batch curriculum delivery
 
@@ -154,3 +154,5 @@ Batch5 preserves the concurrent197-question confirmed-import release and topic f
 Ten editions (t-5-5 through t-6-4),40 bilingual sections and80 original questions. The five technology/policy and five current-affairs chapters complete the planned 65-topic expansion sequence. Combined:65 expanded editions,276 sections,707 original questions plus350 reviewed imported models=1057 scored questions; all65 topics have scored practice. Current affairs are a dated snapshot (18 October 2025–17 October 2026), not a live news feed. HDR2025 and NQM2023 are explicitly background examples outside that window.
 
 Each section includes original English/Telugu teaching, example, trap and recall; each has two scored questions with keys, explanations and source pointers. This completes editions in the existing layout; full official syllabus reconciliation and independent subject-expert review remain pending. The separate imported-question review track and AI integration also remain pending. See BATCH6-SOURCE-MAP-2026-10-17.json and VALIDATION_BATCH6_2026-10-17.md. Publication provenance follows after successful deployment.
+
+Batch6 publication succeeded in Site version21; browser workflow39036515470 passed against c6bed32e460109f6399904400c24af8f20afa808. Release provenance, screenshot review and remaining work are in RELEASE_BATCH6_2026-10-17.md.

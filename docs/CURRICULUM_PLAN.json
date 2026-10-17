@@ -1133,7 +1133,7 @@
         "t-6-3",
         "t-6-4"
       ],
-      "status": "validated-awaiting-publication",
+      "status": "published",
       "topics": [
         {
           "id": "t-5-5",
@@ -1315,7 +1315,14 @@
           ],
           "fullChapterReviewed": false
         }
-      ]
+      ],
+      "publication": {
+        "siteVersion": 21,
+        "siteSourceCommit": "7bdd4a32c430ce10ce5e9081e0bdd91f3c2c139e",
+        "githubValidatedCommit": "c6bed32e460109f6399904400c24af8f20afa808",
+        "browserWorkflowRun": 39036515470,
+        "date": "2026-10-17"
+      }
     }
   ]
 }
