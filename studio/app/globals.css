@@ -39,3 +39,5 @@
 .upsc-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr));gap:20px;margin:20px 0}.upsc-grid article{min-width:0;overflow-wrap:anywhere}.upsc-grid h2{font-size:1.2rem}.upsc-grid details{margin:12px 0}.upsc-note{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit;line-height:1.75;max-height:65vh;overflow:auto;padding:12px}.upsc-grid summary{cursor:pointer;font-weight:600}
 
 .exam-sections{margin:0 0 20px;flex-wrap:wrap}.upsc-grid textarea{width:100%;max-width:100%}
+
+[aria-label="Smart topic tracker"] table{border-collapse:collapse;width:100%;margin:14px 0}[aria-label="Smart topic tracker"] th,[aria-label="Smart topic tracker"] td{padding:10px;text-align:left;border-bottom:1px solid #98aaa0;vertical-align:top}[aria-label="Smart topic tracker"] caption{text-align:left;font-weight:700;margin:10px 0}
