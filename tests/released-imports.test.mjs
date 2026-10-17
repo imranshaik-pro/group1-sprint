@@ -12,7 +12,7 @@ test('only individually confirmed IDs are released, with immutable source lineag
  const originals=new Map(fs.readdirSync('app/imports').flatMap(p=>JSON.parse(fs.readFileSync('app/imports/'+p)).questions).map(q=>[q.id,q]));
  assert.equal(releasedImports.length,197);assert.deepEqual(new Set(releasedImports.map(q=>q.id)),new Set(confirmed.map(q=>q.id)));
  for(const q of releasedImports){const t=topics.find(t=>t.id===q.topic);assert.ok(t);assert.equal(q.paper,t.paper);assert.ok(q.verification.evidence.length);const raw=originals.get(q.id);assert.equal(q.verification.sourceTextSha256,createHash('sha256').update(raw.prompt+'\n'+raw.answer).digest('hex'));assert.ok(q.text.length>20);assert.ok(q.options.every(o=>o.trim()));assert.doesNotMatch(q.options.join(' '),/\bCorrect\b/);for(const exam of ['APPSC Group-I','UPSC','Other PSC'])assert.ok(eligible(q,exam));}
- const bank=practiceBank();assert.equal(bank.length,new Set(bank.map(q=>q.id)).size);assert.equal(bank.length,885);assert.equal(bank.length,new Set(bank.map(q=>q.text)).size);
+ const bank=practiceBank();assert.equal(bank.length,new Set(bank.map(q=>q.id)).size);assert.equal(bank.length,977);assert.equal(bank.length,new Set(bank.map(q=>q.text)).size);
  assert.equal(choosePractice(bank,{exam:'UPSC',count:1000}).length,350);
 });
 test('learners can filter, reveal checked solutions and start scored topic practice from both clients',()=>{

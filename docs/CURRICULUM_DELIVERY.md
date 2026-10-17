@@ -139,3 +139,9 @@ Batch 4: Rivers & water resources through Time & work. Batches 4–6 remain not 
 ## Batch 4 — 17 October 2026
 
 11 editions (t-3-3 through t-4-3), 44 bilingual sections and 88 original questions published in Site version18 after local and remote browser verification. Combined: 44 editions, 190 sections, 535 original questions plus 153 reviewed imported models (688 scored total), 58 scored topics. Batches 5–6: 21 remaining editions; seven scored-question gaps. The import repair delta contains 71 corrections and 32 held-item rewrites. Approval applies only to the revised versions; narrower dated premises replace unauthenticated original claims where necessary. See VALIDATION_BATCH4_2026-10-17.md and IMPORT-REPAIR-RESULTS-2026-10-17.json. Release provenance and passing remote browser result are recorded in RELEASE_BATCH4_2026-10-17.md.
+
+## Batch 5 — 17 October 2026
+
+11 editions (t-4-4 through t-5-4),46 bilingual sections and92 new original questions authored and validated. Physics preserves its existing four sections and adds fluids and thermal physics, giving six. Combined:55 editions,236 expanded-edition sections,627 original questions plus350 reviewed imported models=977 scored total.64 topics have scored practice; Andhra Pradesh events remains without it. Batch6 contains ten remaining expanded editions. Full official-syllabus and independent expert review remain pending. See VALIDATION_BATCH5_2026-10-17.md; publication is recorded after release.
+
+Batch5 preserves the concurrent197-question confirmed-import release and topic filters from6ef4c89; final counts include that addition.

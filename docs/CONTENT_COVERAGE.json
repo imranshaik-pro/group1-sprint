@@ -46,7 +46,7 @@
       "te": "చరిత్ర & సంస్కృతి",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 9,
+      "questions": 10,
       "chapterEdition": "2026-10-16",
       "chapterOutline": [
         "Why new paths gained followers",
@@ -140,7 +140,7 @@
       "te": "చరిత్ర & సంస్కృతి",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 8,
+      "questions": 9,
       "chapterEdition": "2026-10-16",
       "chapterOutline": [
         "From trading company to territorial power",
@@ -158,7 +158,7 @@
       "te": "చరిత్ర & సంస్కృతి",
       "level": "Expanded chapter",
       "segments": 6,
-      "questions": 8,
+      "questions": 14,
       "chapterEdition": "2026-10-16",
       "chapterOutline": [
         "Organised nationalism and its changing methods",
@@ -197,7 +197,7 @@
       "te": "రాజ్యాంగం & పాలన",
       "level": "Expanded chapter",
       "segments": 5,
-      "questions": 8,
+      "questions": 10,
       "chapterEdition": "2026-10-16",
       "chapterOutline": [
         "Why a constitution is more than a rulebook",
@@ -256,7 +256,7 @@
       "te": "రాజ్యాంగం & పాలన",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 11,
+      "questions": 13,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "Formal head and responsible government",
@@ -292,7 +292,7 @@
       "te": "రాజ్యాంగం & పాలన",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 10,
+      "questions": 12,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "Governor, Chief Minister and responsibility",
@@ -310,7 +310,7 @@
       "te": "రాజ్యాంగం & పాలన",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 10,
+      "questions": 12,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "Sharing authority across levels",
@@ -328,7 +328,7 @@
       "te": "రాజ్యాంగం & పాలన",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 9,
+      "questions": 14,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "Identify the source of an institution’s status",
@@ -346,7 +346,7 @@
       "te": "రాజ్యాంగం & పాలన",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 10,
+      "questions": 15,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "From equal rules to meaningful access",
@@ -364,7 +364,7 @@
       "te": "రాజ్యాంగం & పాలన",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 20,
+      "questions": 53,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "Read foreign policy through interests and instruments",
@@ -420,7 +420,7 @@
       "te": "ఆర్థిక వ్యవస్థ",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 9,
+      "questions": 11,
       "chapterEdition": "2026-10-17-b3",
       "chapterOutline": [
         "Follow the money before classifying it",
@@ -456,7 +456,7 @@
       "te": "ఆర్థిక వ్యవస్థ",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 8,
+      "questions": 9,
       "chapterEdition": "2026-10-17-b3",
       "chapterOutline": [
         "Growth is a means; development asks who benefits",
@@ -474,7 +474,7 @@
       "te": "ఆర్థిక వ్యవస్థ",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 9,
+      "questions": 13,
       "chapterEdition": "2026-10-17-b3",
       "chapterOutline": [
         "Area, yield and output tell different stories",
@@ -492,7 +492,7 @@
       "te": "ఆర్థిక వ్యవస్థ",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 15,
+      "questions": 21,
       "chapterEdition": "2026-10-17-b3",
       "chapterOutline": [
         "Trace a product through its production network",
@@ -600,7 +600,7 @@
       "te": "భూగోళ శాస్త్రం",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 11,
+      "questions": 12,
       "chapterEdition": "2026-10-17-b3",
       "chapterOutline": [
         "Build a map of six broad physiographic settings",
@@ -618,7 +618,7 @@
       "te": "భూగోళ శాస్త్రం",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 9,
+      "questions": 10,
       "chapterEdition": "2026-10-17-b4",
       "chapterOutline": [
         "A basin is a connected drainage system",
@@ -708,7 +708,7 @@
       "te": "భూగోళ శాస్త్రం",
       "level": "Expanded chapter",
       "segments": 4,
-      "questions": 12,
+      "questions": 15,
       "chapterEdition": "2026-10-17-b4",
       "chapterOutline": [
         "From organisms to a functioning ecosystem",
@@ -814,11 +814,16 @@
       "subject": "General Mental Ability",
       "paper": "II",
       "te": "సామాన్య మానసిక సామర్థ్యం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 26,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 34,
+      "chapterEdition": "2026-10-17-b5",
+      "chapterOutline": [
+        "Start with units and total travel",
+        "Relative speed and closing gaps",
+        "Trains and boats need the right length and frame",
+        "Round trips and graphs"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -827,11 +832,16 @@
       "subject": "General Mental Ability",
       "paper": "II",
       "te": "సామాన్య మానసిక సామర్థ్యం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 26,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 34,
+      "chapterEdition": "2026-10-17-b5",
+      "chapterOutline": [
+        "A pattern is a rule to test",
+        "Alternating and recursive sequences",
+        "Letter and substitution codes",
+        "Word codes and inconsistent evidence"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -840,11 +850,16 @@
       "subject": "General Mental Ability",
       "paper": "II",
       "te": "సామాన్య మానసిక సామర్థ్యం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b5",
+      "chapterOutline": [
+        "Conclusions must follow from premises",
+        "Conditions, converse and negation",
+        "Arrangements, directions and relationships",
+        "Arguments, assumptions and causal claims"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -853,11 +868,16 @@
       "subject": "General Mental Ability",
       "paper": "II",
       "te": "సామాన్య మానసిక సామర్థ్యం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b5",
+      "chapterOutline": [
+        "Read the table before calculating",
+        "Shares, growth and denominators",
+        "Mean, median, mode and dispersion",
+        "Probability and limits of inference"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -866,11 +886,16 @@
       "subject": "General Mental Ability",
       "paper": "II",
       "te": "సామాన్య మానసిక సామర్థ్యం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b5",
+      "chapterOutline": [
+        "Public purpose and lawful authority",
+        "Fairness, conflicts and accountability",
+        "Triage, delegation and records",
+        "Listen, explain and improve the service"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -879,11 +904,16 @@
       "subject": "General Mental Ability",
       "paper": "II",
       "te": "సామాన్య మానసిక సామర్థ్యం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b5",
+      "chapterOutline": [
+        "Attention and perception filter information",
+        "Memory needs encoding and retrieval",
+        "Judgement, empathy and emotional regulation",
+        "Ability scores require careful interpretation"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -892,11 +922,18 @@
       "subject": "Science & Technology",
       "paper": "II",
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
-      "level": "Expanded foundation",
-      "segments": 4,
-      "questions": 27,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 6,
+      "questions": 39,
+      "chapterEdition": "2026-10-17-b5",
+      "chapterOutline": [
+        "Motion, force and pressure",
+        "Work, energy, power and heat",
+        "Light, lenses and sound",
+        "Electricity, circuits and magnetism",
+        "Fluids, buoyancy and flotation",
+        "Heat, temperature and changes of state"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -905,11 +942,16 @@
       "subject": "Science & Technology",
       "paper": "II",
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b5",
+      "chapterOutline": [
+        "Particles, mixtures and chemical change",
+        "Acids, bases, salts and pH",
+        "Metals, electrons and displacement",
+        "Corrosion, combustion and useful materials"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -918,11 +960,16 @@
       "subject": "Science & Technology",
       "paper": "II",
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 1,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 12,
+      "chapterEdition": "2026-10-17-b5",
+      "chapterOutline": [
+        "Cells connect structure to function",
+        "Nutrition, respiration and transport",
+        "Coordination and inheritance",
+        "Infection, immunity and public health"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -931,11 +978,16 @@
       "subject": "Science & Technology",
       "paper": "II",
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 10,
+      "chapterEdition": "2026-10-17-b5",
+      "chapterOutline": [
+        "From biological processes to biotechnology",
+        "Tools have different molecular jobs",
+        "Agricultural and medical applications",
+        "Evidence, biosafety and social choices"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -944,11 +996,16 @@
       "subject": "Science & Technology",
       "paper": "II",
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 1,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 9,
+      "chapterEdition": "2026-10-17-b5",
+      "chapterOutline": [
+        "Launch vehicle, satellite and payload",
+        "Orbit determines what can be observed",
+        "Communication, sensing and navigation",
+        "Read a mission claim scientifically"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -959,7 +1016,7 @@
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 4,
+      "questions": 8,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -972,7 +1029,7 @@
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 1,
+      "questions": 5,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -998,7 +1055,7 @@
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 1,
+      "questions": 3,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -1011,7 +1068,7 @@
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 7,
+      "questions": 14,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -1037,7 +1094,7 @@
       "te": "సమకాలీన అంశాలు",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 32,
+      "questions": 117,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -1050,7 +1107,7 @@
       "te": "సమకాలీన అంశాలు",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 8,
+      "questions": 17,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -1076,7 +1133,7 @@
       "te": "సమకాలీన అంశాలు",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 1,
+      "questions": 5,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
