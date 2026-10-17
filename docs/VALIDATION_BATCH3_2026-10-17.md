@@ -29,3 +29,7 @@ Editorial self-review is not independent subject-expert certification. Full offi
 ## Concurrent release preservation
 
 GitHub advanced during the guarded update, so the initial branch move was rejected. Read the new main de67df1121e49e0bec23b0fcb638aaa12712836f and latest Site source c8b6a8c3003ef6735d25962c68a08e6214a08a66 (version 16). Merged its smart tracker, adaptive coaching, source-review ledger, eligibility checks and 50 checked imported models. Updated total-bank assertions while retaining separate original-question counts. A fresh isolated verification checkout passed 72 tests. Cache v19 includes the combined module graph. No forced branch/source update was used.
+
+## Published successfully
+
+Site version 17, source 75a79b55fa0043b4b2f451516f5cdf6f1571d21c, deployment appgdep_6ad2d7bb35688191a0c36b1e0025baca returned succeeded on 17 October 2026. Website https://group1-sprint-studio.spryplume16.chatgpt.site and mobile web app https://group1-sprint-studio.spryplume16.chatgpt.site/sprint/index.html use the same curriculum. Browser workflow https://github.com/imranshaik-pro/group1-sprint/actions/runs/38993345304 passed for implementation 9d4c964c3cc924f6c1f00e31b706f48a7469c44c. Fresh merged checks: 72 app tests; 31 Site tests; TypeScript and production build passed. All literal offline file assets and collection data paths exist. Guarded source publishing preserved the concurrent tracker release; cache v19 includes all new modules. Batches 1–3 published; Batches 4–6 remain not started (32 topics). AI integration remains deferred.

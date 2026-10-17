@@ -58,7 +58,7 @@ Status: Published as Site version 15 on 17 October 2026; browser workflow and re
 - t-3-1: Climate & monsoons
 - t-3-2: Indian physical geography
 
-Status: 11 editions, 44 sections and 88 questions authored and tested; browser/release validation in progress.
+Status: Published as Site version 17 on 17 October 2026. Browser workflow 38993345304, 72 app tests, 31 Site tests, TypeScript and production build passed.
 
 ### Batch 4: Geography & quantitative foundations (11 topics)
 

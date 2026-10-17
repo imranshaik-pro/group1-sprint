@@ -483,7 +483,7 @@
         "t-3-1",
         "t-3-2"
       ],
-      "status": "authored-and-tested",
+      "status": "published",
       "topics": [
         {
           "id": "t-2-2",
@@ -683,7 +683,13 @@
           ],
           "fullChapterReviewed": false
         }
-      ]
+      ],
+      "publication": {
+        "siteVersion": 17,
+        "sourceCommit": "75a79b55fa0043b4b2f451516f5cdf6f1571d21c",
+        "date": "2026-10-17",
+        "browserWorkflow": "38993345304"
+      }
     },
     {
       "id": 4,
