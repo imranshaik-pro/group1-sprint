@@ -1,0 +1,1238 @@
+{
+  "batchId": "import-review-01",
+  "checkedAt": "2026-10-17",
+  "part": 5,
+  "positions": [
+    251,
+    300
+  ],
+  "reviewedInPart": 50,
+  "counts": {
+    "held": 11,
+    "confirmed": 33,
+    "correction_required": 6
+  },
+  "cumulativeReviewed": 300,
+  "cumulativeCounts": {
+    "confirmed": 197,
+    "held": 32,
+    "correction_required": 71
+  },
+  "remainingInBatch": 78,
+  "unexaminedAcrossTenBatches": 3476,
+  "newScoredApprovals": 0,
+  "policy": "Independent review decisions only. Confirmed answers have source support; corrections and holds are not release-ready. No automatic scoring approval.",
+  "items": [
+    {
+      "position": 251,
+      "id": "current-9b819719a94c-q304",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "No current launch date is authenticated from these options",
+      "explanation": "ISRO’s G1 campaign and component-test accounts describe preparations, not a definitive launch commitment matching one of the four choices. A launch schedule without an as-of announcement date becomes stale.",
+      "requiredCorrectionOrHoldReason": "Retrieve a dated ISRO schedule for the period being tested. Do not select an old aspirational date or label a preparation milestone as a launch.",
+      "proposedTopicId": "t-5-4",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn94search1",
+          "url": "https://new1.isro.gov.in/ISRO_EN/Liquid_Propulsion_Systems_integrated_CrewModule_G1.html",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn94search2",
+          "url": "https://www.isro.gov.in/LVM3_first_uncrewed_flight_Gaganyaan.html",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn94search3",
+          "url": "https://www.isro.gov.in/Gaganyaan_Drogue_Parachute_Deployment_Tests.html",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "29f626c37a7ecb80677cdd8e265329d99dca28ef3ed0288ce83270884b9ffa0e",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 252,
+      "id": "current-9b819719a94c-q305",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": "B",
+      "solution": "Bhai Dooj is the candidate; shrine-specific closure notices remain unverified",
+      "explanation": "A general Bhai Dooj greeting does not authenticate the closure of both shrines in a specified year. Their official closure notices and the event year are needed.",
+      "requiredCorrectionOrHoldReason": "Retrieve the temple committee/administration notices and add the year; do not infer closure from festival coincidence.",
+      "proposedTopicId": null,
+      "scope": "PSC common",
+      "evidence": [],
+      "sourceTextSha256": "a67beb25ab273115540f2712b1767def65c39222da6d54439479fea4ebfcfb2f",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 253,
+      "id": "current-9b819719a94c-q306",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "The first trial location/date is unresolved",
+      "explanation": "The Delhi Lieutenant Governor’s page establishes discussions about cloud seeding, not proof of a first trial at one of the offered localities on 23 October 2025.",
+      "requiredCorrectionOrHoldReason": "Retrieve the IIT Kanpur/Delhi flight/trial report and distinguish dry runs, actual seeding and measured rainfall. Do not turn a discussion into proof of a trial.",
+      "proposedTopicId": "t-5-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn94search7",
+          "url": "https://lg.delhi.gov.in/image-gallery/10551",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "24caba976a8541aa4b5171b711ee815732703d48f1713066d0046d3339ff6227",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 254,
+      "id": "current-9b819719a94c-q307",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Neeraj Chopra",
+      "explanation": "The Defence Ministry’s 22 October 2025 account records formal conferral of the honorary Lieutenant Colonel insignia in the Territorial Army on Chopra. Honourary rank is distinct from regular commissioned-service recruitment.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn94search6",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2181457&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "c4f6ec8f6b078acf5b9ed59daea4a086e45926aa8394ef6e7b5b97a0f17e3325",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 255,
+      "id": "current-9b819719a94c-q308",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Manipur",
+      "explanation": "The government broadcaster’s event account identifies Ningol Chakouba with Manipur and family bonds between married women and their natal families. The Meitei calendar date differs from a fixed Gregorian date.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": null,
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn93search0",
+          "url": "https://newsonair.gov.in/manipur-celebrates-ningol-chakouba-festival-of-bond-between-married-women-and-brothers/",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn93search4",
+          "url": "https://newsonair.gov.in/in-manipur-one-of-the-major-festivals-of-the-state-ningol-chakouba-was-held-today-across-the-state-it-was-also-held-in-other-neighbouring-states-and-countries-where-manipuri-reside-the-festival-sy/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "1d423434c7dba18637aafd896ee410d7e4f748f3d3f9fcdc618ec7427ca11e22",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 256,
+      "id": "current-9b819719a94c-q309",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "Author not authenticated in the retrieved official launch account",
+      "explanation": "The official 22 October book-launch report establishes discussion of civil–military fusion but the retrieved text did not authenticate the exact author attribution among these choices.",
+      "requiredCorrectionOrHoldReason": "Obtain the publisher’s bibliographic record or book title page. Do not equate the person releasing a book with its author.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn93search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2181602&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "faf0e13c8681ffb52bd69723a0ffa908db8d0baccf92ba975e8b60ffa26c0587",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 257,
+      "id": "current-9b819719a94c-q310",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Ninth",
+      "explanation": "The Environment Ministry’s October 2025 release and parliamentary answer give India ninth in total forest area under GFRA 2025. Third refers instead to net annual forest-area gain.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-4",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn103search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2181416&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn103search6",
+          "url": "https://sansad.in/getFile/loksabhaquestions/annex/186/AU79_PjFs4j.pdf?source=pqals",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "77f678aaf89a202acbc47bd9a4da25d32b2ce51125576255fab2d5bd87329758",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 258,
+      "id": "current-9b819719a94c-q311",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Sanae Takaichi",
+      "explanation": "Japan’s official designation and cabinet-inauguration records place Takaichi’s first appointment on 21 October 2025, unlike the misdated 2026 version elsewhere in the import.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn35search4",
+          "url": "https://japan.kantei.go.jp/104/actions/202510/21takaichinaikaku.html",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn35search5",
+          "url": "https://japan.kantei.go.jp/104/actions/202510/21shimei.html",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "d86e27045e190178289adf46c3f867724c572b678a8ca4fcc3b041c21f4aee1b",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 259,
+      "id": "current-9b819719a94c-q313",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Goa; the Arpora venue and date wording need alignment",
+      "explanation": "The official FIDE event site gives Goa and the event span 30 October–27 November 2025. Opening ceremonies and first playing rounds can have different dates.",
+      "requiredCorrectionOrHoldReason": "Use the organiser’s full event dates; verify Resort Rio/Arpora in the venue particulars before retaining that precise locality. Do not date the whole event from the first playing round alone.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn93search3",
+          "url": "https://worldcup2025.fide.com/",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn93search7",
+          "url": "https://worldcup2025.fide.com/2025/08/26/fide-world-cup-2025-heads-to-goa-india/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "0158694f12b437a8d8075d12bb51a385edb5dc602a99bc63c20bb7f7cc02d007",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 260,
+      "id": "current-9b819719a94c-q315",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Qatar and Turkiye",
+      "explanation": "Both mediators’ Foreign Ministries identify Qatar and Turkiye in the Doha ceasefire process of 18–19 October 2025 and later Istanbul talks.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn92search0",
+          "url": "https://mofa.gov.qa/en/latest-articles/statements/pakistan-and-afghanistan-agree-to-an-immediate-ceasefire-during-a-round-of-negotiations-in-doha",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn92search4",
+          "url": "https://www.mfa.gov.tr/joint-statement-on-the-talks-between-afghanistan-and-pakistan-through-the-mediation-of-turkiye-and-qatar-30-10-2025.en.mfa",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "48f4f8c2f9e2a8e51953315d46a64bab677761e839254b9e3ff7829f51e7cd75",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 261,
+      "id": "current-9b819719a94c-q316",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Rodrigo Paz",
+      "explanation": "Bolivia’s electoral authority records delivery of the elected-president credentials to Rodrigo Paz on 5 November 2025. That final certification is stronger evidence than a preliminary election-night count.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn92search5",
+          "url": "https://fuentedirecta.oep.org.bo/noticia/tse-entrega-credenciales-a-rodrigo-paz-y-edmand-lara-y-cierra-el-proceso-de-las-elecciones-generales-2025/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "ee99c1a5a73d9139b6d8d1eca75f8dd3947b9c748b69a0338b9d5f00f89a01d3",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 262,
+      "id": "current-9b819719a94c-q317",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "The 1959 Hot Springs incident in Ladakh",
+      "explanation": "The official Police Commemoration Day account identifies ten policemen killed at Hot Springs on 21 October 1959 and explains the annual observance.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn92search7",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2180723&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "ffd534d1f9d4a2c761f8320d06e097d4dcddd9599a06e74137042078142526ac",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 263,
+      "id": "current-9b819719a94c-q318",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Sultan of Johor Cup — junior men’s team",
+      "explanation": "Hockey India’s 17 October report records its junior men’s side reaching the final in Johor. It is not the senior national team’s Champions Trophy final.",
+      "requiredCorrectionOrHoldReason": "Specify Indian junior men’s hockey team in the stem.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn104search3",
+          "url": "https://www.hockeyindia.org/news/india-progress-to-the-final-of-the-sultan-of-johor-cup-2025-after-win-against-malaysia",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "8e85756ca133c7651c0a65bbe99bf00b3ebdd70bc191a7816a1580de0fd99203",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 264,
+      "id": "current-9b819719a94c-q320",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "1984",
+      "explanation": "The official NSG foundation-day account describes 41 years in October 2025, corresponding to establishment in 1984. The NSG Act of 1986 is a later statutory milestone.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn103search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2178986&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "13afc61a2a7d2e67b09058ad13ec56331f7a3412400f26d2aa337224aabdf13f",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 265,
+      "id": "current-9b819719a94c-q322",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "India and Indonesia",
+      "explanation": "The Navy’s official fifth Samudra Shakti account identifies India and Indonesia at Visakhapatnam, 14–17 October 2025.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn91search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179326",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "ad26d9e612e830545c4d0af76abddc1fe14e3cb464ff774610450ba5f4a62dd7",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 266,
+      "id": "current-9b819719a94c-q324",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "SIG716",
+      "explanation": "The contract release explicitly identifies the SIG716 7.62×51 mm rifle and night sights under the INR 659.47 crore agreement of 15 October 2025.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn91search2",
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2179522&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "c081e64327297f1197b52773e2aee63d7c971dfd0023537e785199308fa502eb",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 267,
+      "id": "current-9b819719a94c-q325",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": "A",
+      "solution": "Mallojula Venugopal Rao alias Bhupati is the candidate",
+      "explanation": "The retrieved reporting identifies the person, but the official surrender record and exact organisational office were not authenticated here.",
+      "requiredCorrectionOrHoldReason": "Check the Maharashtra Police/Home Department surrender statement; do not approve a specific political-bureau designation from a copied key.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [],
+      "sourceTextSha256": "76ed2af19eb9f6083e09f093de514060829ad15bcbbbb0329fb9ed915824cffe",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 268,
+      "id": "current-9b819719a94c-q326",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "General Anil Chauhan",
+      "explanation": "The official 14 October release names the Chief of Defence Staff as author. Rajnath Singh released the book and is not its author.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn98search5",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179114&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "522a45a26f06ce502d2c3f062915c61f17d3b37ef1b6f0d4e4142ea0484adec0",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 269,
+      "id": "current-9b819719a94c-q327",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Busan",
+      "explanation": "The Navy’s official account records INS Sahyadri arriving at Busan Naval Harbour on 13 October 2025 for the inaugural India–Republic of Korea bilateral exercise.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn98search2",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179047&lang=2&noshow=1&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "332deed9348a742f944051153e0b17dba359c40844690c52b7d6f158634950b1",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 270,
+      "id": "current-9b819719a94c-q328",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "No universal flat customs duty can be authenticated from the stem",
+      "explanation": "India Post’s October resumption notice concerns a postal Delivered Duty Paid mechanism. Customs liability depends on the dated US rule, product/origin and exemptions; a postal collection arrangement is not a universal tariff for every India–US shipment.",
+      "requiredCorrectionOrHoldReason": "Read the full dated postal notice and applicable US tariff order. State the covered shipment class, exclusions and valuation base before offering a single percentage.",
+      "proposedTopicId": "t-2-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn98search26",
+          "url": "https://www.indiapost.gov.in/api/documents/file/U2FsdGVkX1-uGkwq4Wl_umrDtH8wyJPExiUOyG-5RxTOYZYWavGW5TxMv0OFpo7lLMqJ2kdQlUVvxFGawcflaQ",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "3b5ee2b78a5d0ff3206233078d8066b9cada397c0b7b6f44abfd6ccae1dfb28d",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 271,
+      "id": "current-9b819719a94c-q330",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Joel Mokyr, Philippe Aghion and Peter Howitt",
+      "explanation": "The Royal Swedish Academy’s announcement awards the 2025 economics prize for explaining innovation-driven growth. Mokyr receives half; Aghion and Howitt share the other half for sustained growth through creative destruction.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-2-4",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn98search0",
+          "url": "https://www.nobelprize.org/prizes/economic-sciences/2025/press-release/?linkId=100000392630554",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "a26bdbd33ca1b799121bd36c81af11c85a1b9ce5a06a1d8ffc061f4845a1cd2b",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 272,
+      "id": "current-9b819719a94c-q331",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Ukhnaagiin Khurelsukh / Khurelsukh Ukhnaa",
+      "explanation": "The Lok Sabha Secretariat’s October 2025 account identifies the visiting Mongolian President by that name. Name-order transliterations should not create a false distractor.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn96search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179044&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "957ede8c003160ecd056563c458eabf7eab629bcb11ed0584ef3690d1ad8bdd7",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 273,
+      "id": "current-9b819719a94c-q332",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "Recruitment-agency transition remains unresolved; do not assume RRB or SSC from old cycles",
+      "explanation": "The official Railways recruitment review describes RRB-era ongoing RPF notifications, while secondary material claims a later SSC role. Neither a prior-cycle notice nor a copied annual-current-affairs answer authenticates the specific October reform.",
+      "requiredCorrectionOrHoldReason": "Retrieve the RPF 2025 recruitment-rule amendment and official implementation notice, distinguishing future selection from ongoing RRB cycles.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn104search2",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2198345&lang=1&reg=3",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "e00508708294b184d68ad901b2a0623eb4d25836abcfeffe903c658a47ef15b1",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 274,
+      "id": "current-9b819719a94c-q333",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Gorkha Rifles",
+      "explanation": "The Defence Ministry’s AUSTRAHIND 2025 announcement states that a Gorkha Rifles battalion led the Indian contingent to Perth for 13–26 October.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn96search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2178040&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "e1af44a82e5a984c8ae1f45ade62d8b555f0c0d8687ae9aec67452e6684dbdc6",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 275,
+      "id": "current-9b819719a94c-q334",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": "C",
+      "solution": "Darul Uloom Deoband is the candidate; inferred motive is not verified",
+      "explanation": "The institutional visit is reported, but no primary institutional/MEA account was authenticated here. The phrase to signal outreach assigns a motive not established by the offered factual visit.",
+      "requiredCorrectionOrHoldReason": "Retrieve the seminary or MEA visit record and remove the unsupported motive clause.",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [],
+      "sourceTextSha256": "15b1ebf791f80f83e2b0898ddd91fb8fc171645cec026d9e749a58c38886288a",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 276,
+      "id": "current-9b819719a94c-q336",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Venezuela",
+      "explanation": "The Norwegian Nobel Committee’s official 2025 release identifies Machado’s work for democratic rights in Venezuela, establishing the country association.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn97search5",
+          "url": "https://www.nobelprize.org/prizes/peace/2025/press-release/?stream=top",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn97search4",
+          "url": "https://www.nobelpeaceprize.org/laureates/2025",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "bc3d0ab502e9fac676c7b90922589a2eb3e1863f244a6e2d7f8ade9ff2c23e6c",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 277,
+      "id": "current-9b819719a94c-q337",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": "C",
+      "solution": "Mixed team event is the candidate answer",
+      "explanation": "Reports call India a losing semifinalist in the Suhandinata Cup. The retrieved primary event preview confirms that Cup is the mixed-team competition but does not itself establish the final bronze result.",
+      "requiredCorrectionOrHoldReason": "Authenticate the BWF/Badminton Association of India final results. Do not use a preview as proof of a medal.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn105search8",
+          "url": "https://newsonair.gov.in/junior-badminton-championship-returns-to-india-after-17-years-begins-in-guwahati-today/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "0a049bee228ad1af7df7332dd44da8184263307f0a3879ac5949d043eb23a31b",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 278,
+      "id": "current-9b819719a94c-q338",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": "C",
+      "solution": "A limited technical mission is the candidate",
+      "explanation": "The exact MEA announcement upgrading the Kabul presence and the date of the earlier technical mission were not authenticated in the retrieved sources.",
+      "requiredCorrectionOrHoldReason": "Read the dated MEA mission-upgrade release before approval; diplomatic presence and political recognition are different questions.",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [],
+      "sourceTextSha256": "0ea401822f257841b590708fb7ce9f8f5c613ba818ac9a8dcfa5c3f3ed0109e6",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 279,
+      "id": "current-9b819719a94c-q339",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Laszlo Krasznahorkai",
+      "explanation": "The Swedish Academy’s official 9 October 2025 announcement names the Hungarian author as Literature laureate. Accented and unaccented spellings denote the same person.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn97search11",
+          "url": "https://www.nobelprize.org/uploads/2025/10/Enpress25.pdf",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "4281f19d6ede7a1719467a41cb034a956376d347620d968e630172f2bb1d6443",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 280,
+      "id": "current-9b819719a94c-q340",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "The stem conflates negotiation, phase-one agreement and a later declaration",
+      "explanation": "The White House documents the October 13 declaration and the Sharm el-Sheikh summit. It does not establish that every document called the first phase was signed there by Israel and Hamas.",
+      "requiredCorrectionOrHoldReason": "Identify the exact document, signatories and date. Ask about the October 13 summit declaration if Sharm el-Sheikh is intended; do not merge different stages.",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn95search0",
+          "url": "https://www.whitehouse.gov/presidential-actions/2025/10/the-trump-declaration-for-enduring-peace-and-prosperity/",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn95search1",
+          "url": "https://www.whitehouse.gov/gallery/president-trumps-visit-to-the-middle-east/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "17a402701011b9b2877e972977b8460e26386d529008adca2c80d2363d5e89e5",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 281,
+      "id": "current-9b819719a94c-q342",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "Keir Starmer, on the October 2025 visit",
+      "explanation": "The PMO’s 8 October release names Starmer as the visiting UK Prime Minister. The historical visit identity should not be recast as an undated current-office question.",
+      "requiredCorrectionOrHoldReason": "Remove current and anchor the question to the October 2025 visit.",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn95search2",
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2176152&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "b2a56804c37d833bf7d69aed6c619aeb72dd3bb72e85a80f4a5bdd9dbf23d92f",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 282,
+      "id": "current-9b819719a94c-q343",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "10 October",
+      "explanation": "WHO identifies 10 October as World Mental Health Day. Its annual theme varies, while the observance date remains fixed.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn95search3",
+          "url": "https://www.who.int/campaigns/world-mental-health-day",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "9868b206059fafbd260730c8ccf864d825e114425abc68c918ee67bca4fea154",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 283,
+      "id": "current-9b819719a94c-q345",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "8 October",
+      "explanation": "The Defence Ministry’s current 2026 release index records the Air Force Day celebration on 8 October, consistent with the annual observance.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn95search6",
+          "url": "https://www.pib.gov.in/AllRelease.aspx?lang=1&reg=21",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "3f41095d3bf0e2e3d0f570cb495dd1d106e45b04267796f1772a1859753e34fa",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 284,
+      "id": "current-9b819719a94c-q346",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": null,
+      "solution": "Ulwe, Navi Mumbai, in Panvel taluka; options A and B overlap",
+      "explanation": "The airport’s environmental report explicitly places it at Ulwe in Panvel taluka. An unqualified Panvel option is therefore not cleanly exclusive of Ulwe.",
+      "requiredCorrectionOrHoldReason": "Ask the specific locality (Ulwe) and replace Panvel with an unrelated locality, or ask the district/taluka with consistently scoped options.",
+      "proposedTopicId": "t-2-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn101search7",
+          "url": "https://www.nmiairport.co.in/-/media/Images/AdaniAirNaviMumbai/Circular-Doc/NMIA_EIA_Report_2021.pdf",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn101search0",
+          "url": "https://aim-india.aai.aero/eaip/eaip-v2-04-2026/eAIP/IN-AD%202.1VANM-en-GB.html",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "ffb8562537a610efed19bc950271d6c5a8b5870bec185c54762f12088f62ab43",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 285,
+      "id": "current-9b819719a94c-q347",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "6 and 11 November 2025",
+      "explanation": "ECI’s Bihar election schedule gives these dates for the first and second phases. Counting took place on a different date, 14 November.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-7",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn83search3",
+          "url": "https://www.eci.gov.in/election-details/2025/S04/3?mode=light",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "fbae4c955078abfc241c82b7e26343ea6ce700ed2557442904e36b18e6b38166",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 286,
+      "id": "current-9b819719a94c-q348",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Empowering Finance for a Better World, Powered by AI",
+      "explanation": "The event organiser’s 2025 site states this theme and the 7–9 October Mumbai dates. It distinguishes augmented intelligence with human insight in its theme explanation.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn101search3",
+          "url": "https://2025.globalfintechfest.com/",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn101search4",
+          "url": "https://2025.globalfintechfest.com/theme",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "6d802c52471f087c4755d57ad596fefc149978ad6fd4f3b03840a0ba673acbe5",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 287,
+      "id": "current-9b819719a94c-q349",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Mary E. Brunkow, Fred Ramsdell and Shimon Sakaguchi",
+      "explanation": "The Nobel Assembly’s 2025 announcement names these three for discoveries concerning peripheral immune tolerance. Ambros and Ruvkun belong to the prior year’s medicine prize.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-3",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn101search9",
+          "url": "https://www.nobelprize.org/uploads/2025/10/press-medicineprize2025.pdf",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "a04762c7a154cbd24bcd620c54de9b34affe5c6c495776172c854a646e7db105",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 288,
+      "id": "current-9b819719a94c-q350",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "10th place; original threshold options are not mutually exclusive",
+      "explanation": "The Sports Ministry records tenth overall with 22 medals, including six golds. A tenth-place finish satisfies both top ten and top fifteen, so the original choices overlap; it was a best medal count, not necessarily the best ranking.",
+      "requiredCorrectionOrHoldReason": "Replace top-3/top-5/top-10/top-15 with distinct exact ranks, or ask the best threshold among the offered ranges. Remove any first-ever/best-ranking implication.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn105search3",
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2177789&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "5be793dec61c3219a30cb96787789183afb7c9c143121e4038e91861e661e3cc",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 289,
+      "id": "current-9b819719a94c-q351",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Shubman Gill",
+      "explanation": "BCCI’s 4 October 2025 Australia-tour squad directly names Gill captain of the ODI side and Suryakumar captain of the separate T20I squad.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn99search0",
+          "url": "https://www.bcci.tv/news/article/india-s-squad-for-tour-of-australia-announced",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn99search2",
+          "url": "https://www.icc-cricket.com/news/india-announce-new-odi-captain-for-the-australia-series",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "96e356080efccef5d6b7524f973c88159cbb8669cc84ed0f16222e770fef7e88",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 290,
+      "id": "current-9b819719a94c-q352",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "India and the United Kingdom",
+      "explanation": "The official KONKAN-25 commencement release identifies the Indian Navy and the Royal Navy off India’s western coast.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn99search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2175054&lang=13&reg=22",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "32b8def36be8249c7722db880ff14d012dd8cdc2ad1162aa1c575e7cd18276a9",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 291,
+      "id": "current-9b819719a94c-q353",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "At ages 5 and 15",
+      "explanation": "UIDAI’s update material distinguishes the child’s two mandatory biometric-update milestones and their service windows. The free-update age windows and fee waivers should not be mistaken for different milestone ages.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn99search5",
+          "url": "https://uidai.gov.in/images/Gazette_Notification_dated_22_08_2025.pdf",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn99search6",
+          "url": "https://uidai.gov.in/images/UIDAI_conducts_1Cr_MBUs_for_school_children_in_5_months.pdf",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "697aeb35c8edcd2c1e6fc794258aa9bdc924979ee26d357f3951d4335189114f",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 292,
+      "id": "current-9b819719a94c-q354",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Three percentage points, from 55% to 58% of basic pay/pension",
+      "explanation": "The 1 October Cabinet release makes the additional instalment effective 1 July 2025. The change is three percentage points of basic pay/pension, not a three-percent multiplication of the existing allowance.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-2-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn105search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2173541&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "e651745f76ccd95dbe40a027d6090400b501f89f58d7dbaeb14a527900cd6bfa",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 293,
+      "id": "current-9b819719a94c-q355",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "INR 2,585 per quintal",
+      "explanation": "The official RMS 2026–27 table gives wheat MSP of INR 2,585 versus INR 2,425 in the prior season; subtraction verifies the INR 160 increase.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-2-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn102search2",
+          "url": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=155448&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "372e920c1fd94ed264817de7dba73963eced7727291ae65aa95ee99294f94ad6",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 294,
+      "id": "current-9b819719a94c-q356",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Outstanding Achievements in Social Security",
+      "explanation": "ISSA’s own 3 October 2025 release names the award and its recognition of expanded social-security coverage. It is not an education or trade award.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn102search3",
+          "url": "https://www.issa.int/news/india-wins-issa-award-expanding-social-security",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "2f90aa978bea3e50d1662aee292238e6aac32703db8231c81a7efdc4b6067395",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 295,
+      "id": "current-9b819719a94c-q357",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "View, store and review their question papers, responses and correct answers",
+      "explanation": "SSC’s official October reform announcement provides for this disclosure and also discusses challenge fees and integrity measures. It does not remove negative marking.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn102search4",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2174557&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "543c5f754999bc11768e050a28b0740062658f084e3ea1b4504078cd42b745cf",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 296,
+      "id": "current-9b819719a94c-q359",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Donald Trump",
+      "explanation": "UN resolution 2803 annexes the Comprehensive Plan of 29 September 2025 and refers explicitly to President Trump’s plan. This identifies the proposer without endorsing the plan’s claims.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn78search2",
+          "url": "https://www.un.org/unispal/document/security-council-resolution-on-president-donald-j-trumps-comprehensive-plan-to-end-the-gaza-conflict-s-res-2803-2025/",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "d80400d5996713c367ac07299fa840096eb99b167f5dac23e790990b20071255",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 297,
+      "id": "current-9b819719a94c-q360",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": null,
+      "solution": "India was the designated host; the 2025 tournament’s matches also used Sri Lanka",
+      "explanation": "ICC’s June 2025 schedule explicitly says the event ran across venues in India and Sri Lanka. Selecting India alone without defining host designation versus playing venues omits part of the event geography.",
+      "requiredCorrectionOrHoldReason": "Ask which country was designated host (India), or add an India-and-Sri-Lanka option when asking where matches were held. Specify the full September–November event.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn102search6",
+          "url": "https://www.icc-cricket.com/tournaments/womens-cricket-worldcup-2025/news/schedule-unveiled-for-2025-icc-women-s-cricket-world-cup",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn102search7",
+          "url": "https://www.icc-cricket.com/media-releases/hosts-for-icc-womens-global-events-until-2027-announced",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "ca0af067dacd6461f397da96d0a0a8be6205ca29887d7c199a4d422d73827b28",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 298,
+      "id": "current-9b819719a94c-q361",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Bhutan",
+      "explanation": "Bhutan’s Foreign Ministry records the 29 September 2025 railway MoU for Gelephu–Kokrajhar and Samtse–Banarhat. These are Bhutan’s first planned cross-border rail links, not India’s first rail links with any neighbour.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-2-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn100search0",
+          "url": "https://www.mfa.gov.bt/press-release-709/",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn100search2",
+          "url": "https://indembthimphu.gov.in/pages/NDEy",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "08b741826e4c22c0bc46f9bc41a823bccabc88f2e44c26197953574703422809",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 299,
+      "id": "current-9b819719a94c-q362",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Pakistan",
+      "explanation": "The Asian Cricket Council and Pakistan Cricket Board record India’s five-wicket final victory over Pakistan at Dubai on 28 September 2025.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn100search5",
+          "url": "https://www.asiancricket.org/news/2025/19342",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn100search7",
+          "url": "https://www.pcb.com.pk/match/36280.html",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "c6996791ff628227f5d41eac611796fddc794e2df1015dabc0846a28ee824577",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    },
+    {
+      "position": 300,
+      "id": "current-9b819719a94c-q363",
+      "batch": "import-review-01",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Himachal Pradesh",
+      "explanation": "UNESCO places the Cold Desert Biosphere Reserve in Lahaul–Spiti, Himachal Pradesh, and records its 2025 inclusion. A UNESCO biosphere reserve is not the same designation as a World Heritage Site.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-3-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn100search4",
+          "url": "https://www.unesco.org/en/mab/cold-desert",
+          "locator": "Main factual statement in the cited release/report"
+        },
+        {
+          "sourceId": "turn100search3",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2172428&lang=2&reg=48",
+          "locator": "Main factual statement in the cited release/report"
+        }
+      ],
+      "sourceTextSha256": "a44f2a3e8ebd342f4ec3499884e8c1097bf9804fbd6f85cb7b4cbcba3a18daf2",
+      "releaseStatus": "not_integrated",
+      "scoredEligible": false
+    }
+  ]
+}
