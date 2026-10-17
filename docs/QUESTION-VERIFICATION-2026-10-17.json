@@ -1,0 +1,485 @@
+{
+  "checkedAt": "2026-10-17",
+  "approved": 50,
+  "held": 5,
+  "uniqueImportedPrompts": 3826,
+  "pendingUnapproved": 3776,
+  "previousCollectionUnreviewed": 21,
+  "reviewed": [
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q1",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 1–2",
+      "sourceTextSha256": "4c03eb41bbef831e2ce00eaeae98678f08b699ed6f0faf006e532b8229f6575c"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q2",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "C",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 1–2",
+      "sourceTextSha256": "217b910b36c50c5b820bcf6bdf6c49f53a2158c12edfeefc85523d4f589a5066"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q3",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "A",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 1–2",
+      "sourceTextSha256": "b2647955a642f0d7c24c4cf95b90874f6f38875f5806dcbce868815852639b4f"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q4",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "A",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 1–2",
+      "sourceTextSha256": "f02ace99f364d59761203c9321f7a732a32187e19a79875919ad61d1ddaeabb7"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q5",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "A",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 2, 8–10",
+      "sourceTextSha256": "d5afeea033b7ffc18ea48acfb00ebae7819504273ea1547b2fe566cfbdbd8726"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q6",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 2, 8–10",
+      "sourceTextSha256": "89c29f2267a6a0d85cdb9df243dee95bdfb2bb2a4e6e2d78429b1fae85b381db"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q7",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 2, 8–10",
+      "sourceTextSha256": "b6523e88502ab25e244f154262bf00c686fa5e94f3c21164f8e1a845b20da85f"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q8",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 2, 8–10",
+      "sourceTextSha256": "9cf4c2f52320442b7fc57872a3d467c970bf77df5d2989bfcc72e6322e986ee8"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q9",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "C",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 2, 8–10",
+      "sourceTextSha256": "d0f6c122a1b0166c25c388d9a6e71f074d65b2cc17e2c8c2492258f030b31a28"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q10",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 2, 8–10",
+      "sourceTextSha256": "be6d07c9c676c509d24255bc64b84f5e3bcfae22344460927b049b96f7bd26f6"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q11",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 2, 8–10",
+      "sourceTextSha256": "437883ebf160873a18d4236db0bf7dbf0010f49f5b84e50e56b8456eedf54715"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q12",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 2, 8–10",
+      "sourceTextSha256": "65acf9a7f302bedcc6e1ce22e742541a6be23b5b0e7c23fc54ad13918f051d3e"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q13",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "D",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 10–12",
+      "sourceTextSha256": "eee90dc858c010d59b1f324674206af23de53e119e7606df9e0832d6bb1ca6eb"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q14",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "A",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 10–12",
+      "sourceTextSha256": "d148c1a8046822130919019caa2e127ad05bc89bd93ab1564b28f1a721196e55"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q15",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 10–12",
+      "sourceTextSha256": "0246b483cb68c78af599a278687c2953bcef0fdc12e0b60d2ddd6c70e4a3744f"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q16",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 10–12",
+      "sourceTextSha256": "2a797b2f203b7b1e20e6e60fdf1d690d50f8049d45f6ed4ebd19202a767b6266"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q17",
+      "status": "held",
+      "reason": "Expectation/realised-rate sequence is ambiguous; requires rewrite."
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q18",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 10–12",
+      "sourceTextSha256": "c8d6fe7aac70190911d2446e049e76042488e192cedd380625c0c271089844d9"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q19",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 10–12",
+      "sourceTextSha256": "f79f5878dcdc1c8bf31601fab188f41e38ed685792cce123b58df660fba67919"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q20",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "A",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 10–12",
+      "sourceTextSha256": "ef1c823af34f452c254e8f1765f976f83272204186943d9c8f874c3044b741d2"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q21",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 10–12",
+      "sourceTextSha256": "2e508ecaf4c3f8a19297fe2437eddb8e9842b7cbbfad292b12612cea492e5cbe"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q22",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 12–13",
+      "sourceTextSha256": "b341a39b525cb958185d2339bd9c2879ecd832db40e92db36e73b8d3112476b6"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q23",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 12–13",
+      "sourceTextSha256": "84d9b9202af8ab5882f6e3ec3b6b8c9bbeb005e0de4a77d5e3f3c6c0fe87b032"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q24",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 12–13",
+      "sourceTextSha256": "737b3fc92b104b6494ab2c0715aaf76c555d5cb8b70afb7ab430c0d02e9923ac"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q25",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 12–13",
+      "sourceTextSha256": "fcecb779e556fa0d2ccf8308eaca8fc1dc82f36e39c4dc1210e1bb209bdc3d55"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q26",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "D",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 12–13",
+      "sourceTextSha256": "dce93839961ed7f3a52982cd46c7f7b1aa360d7433541a2d8b787d19e2b03da3"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q27",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "C",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 12–13",
+      "sourceTextSha256": "1d848c1089fa0887c7f6bcc6d79f28660696a288b0676eac192b7e17bd5cd99d"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q28",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 12–13",
+      "sourceTextSha256": "99e3752481d40297e2c377d8df793d7b93ee626f25de300e4ab5d977c615bdb8"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q29",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "D",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "5eae2d6635b6e26e98551b80b7f20ad8876b3c0fbf20a8d1536dc335395d7dfc"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q30",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "b0ac8bb36d41f856ea13b0ad17d9b5e5a3f2f5d1882c3a97751a5a415b8562a7"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q31",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "0d21732e817753b0b4c1eb63151dd9aa9dabf7d0b078c6e7e29923c203b63fa2"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q32",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "A",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "9c09b7badf4d0558564d226b4b3fa830862fdc6ef18cf01d88523542204e2ae4"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q33",
+      "status": "held",
+      "reason": "Distinguish an initial reserve injection from an ordinary deposit transfer."
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q34",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "A",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "90c8d65e7f8f6cc6bbcf62938f2fa514a45783f5f18190329381085b980254a0"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q35",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "D",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "b6a35cc30aa726c016d99bd0e90a63908574f8c985b77e747b1ba69880788362"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q36",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "fd98e25dafe13528f392a8225486ddb6d467d11446221838150f4b89c4759601"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q37",
+      "status": "held",
+      "reason": "Repo/OMO framing needs precise transaction perspective."
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q38",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "f76712a0c5b24e482b5fb40de913cc2d0ffb2d433c618fdd5795bd2036c1715c"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q39",
+      "status": "held",
+      "reason": "Repo/reverse-repo wording lacks clear buyer/seller perspective."
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q40",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "8e0872935a1e7ad8549cc1f9d0bc1c3610f45942b8db5befbb2561baaf99aec2"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q41",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "D",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "031497e5daea2a7a7bfbc61e263505797e87e206aef0a5bba730c210976dd244"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q42",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "D",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "d542735b746a2418791c2d4c4946a3011dc6e760a65972c29c327fc422995317"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q43",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "A",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "58bcd137992372916bd1f94cef7af9b02a210537b3e4ed0205e411f6b9351f39"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q44",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "56749444135322469767ca1e8ddeafdc833f7a759de12df1092e9f40eafb7544"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q45",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "D",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "2b5be46c7c76d46b91bc93502372dfd7807d69bd1462d0761a42bf8ccabd3bb4"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q46",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "A",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "41d9f3d6387510b9581d8bae47a5121b836fe12379eec653a6495eade5cd4231"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q47",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "D",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "9e0b692dcb979a24d7507bea51af998f39d622250b502aefffee3320d479762e"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q48",
+      "status": "approved",
+      "topic": "t-2-3",
+      "expectedAnswer": "C",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 3–7",
+      "sourceTextSha256": "82214ec63e55132a12063c9d3fdec4a19e45c717f0cc16dd0527e39017a81930"
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q49",
+      "status": "held",
+      "reason": "Retain for separately dated review of historical demonetisation claims."
+    },
+    {
+      "id": "uploaded-upsc-2f2cc8e61186-q50",
+      "status": "approved",
+      "topic": "t-2-1",
+      "expectedAnswer": "B",
+      "source": "https://www.ncert.nic.in/textbook/pdf/leec103.pdf",
+      "locator": "Chapter 3, sections 3.1–3.4 and Box 3.1; PDF pp. 7, 10–12",
+      "sourceTextSha256": "3afc07a1ac939b256e23ac5af7c3c28340ea959bca9bb33740d3734d3c28d765"
+    },
+    {
+      "id": "current-9b819719a94c-q4",
+      "status": "approved",
+      "topic": "t-3-8",
+      "expectedAnswer": "C",
+      "source": "https://www.un.org/observances/zero-waste-day",
+      "locator": "Background and zero-waste/circular-economy objectives",
+      "sourceTextSha256": "c07fcc097deae522ba47c862725527a8e2f87f75ea164c0e00131c6302acc678"
+    },
+    {
+      "id": "current-9b819719a94c-q15",
+      "status": "approved",
+      "topic": "t-5-2",
+      "expectedAnswer": "B",
+      "source": "https://www.who.int/campaigns/world-tb-day",
+      "locator": "World Tuberculosis Day: date and historical discovery",
+      "sourceTextSha256": "76fb618e98f49efb472e553c507f9bea28cdf549f6cbaef61861f885bf8b83d1"
+    },
+    {
+      "id": "current-9b819719a94c-q58",
+      "status": "approved",
+      "topic": "t-5-8",
+      "expectedAnswer": "B",
+      "source": "https://www.ursc.gov.in/science-promotion/nsd-2026/",
+      "locator": "National Science Day and Raman Effect",
+      "sourceTextSha256": "886658f8d7147da0878d8a23a598411f887db2c6d449b9d101a1e239ce32ae84"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q297",
+      "status": "approved",
+      "topic": "t-3-8",
+      "expectedAnswer": "C",
+      "source": "https://www.un.org/en/observances/earth-day",
+      "locator": "International Mother Earth Day: 22 April",
+      "sourceTextSha256": "799a7ed3f9784427b5c24598fe426d591579436c084b87bd6c6467036848d10a"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q213",
+      "status": "approved",
+      "topic": "t-3-8",
+      "expectedAnswer": "A",
+      "source": "https://www.unep.org/en/events/un-day/world-environment-day-2026",
+      "locator": "2026 event: host country",
+      "sourceTextSha256": "a65f33c6b33cb45d323ed464f5901432f234f267123b6871d1778d9426466bd6"
+    }
+  ]
+}
