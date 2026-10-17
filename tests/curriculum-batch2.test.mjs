@@ -16,7 +16,7 @@ test('Batch 2 covers its eleven stable IDs with fifty bilingual sections and exp
  for(const p of c.segments){assert.ok(p.text.length>300,id);assert.match(p.te,/[\u0c00-\u0c7f]/);assert.ok(p.te.length>150,id);assert.ok(p.teExample&&p.teTitle&&p.example&&p.trap&&p.recall);}}
 });
 test('ninety-two new original questions are topic/section mapped, unique and not promoted to PYQs',()=>{
- assert.equal(batch2Questions.length,92);const bank=practiceBank();assert.equal(bank.length,688);assert.equal(new Set(bank.map(q=>q.id)).size,688);assert.equal(new Set(bank.map(q=>q.text)).size,688);
+ assert.equal(batch2Questions.length,92);const bank=practiceBank();assert.equal(bank.length,885);assert.equal(new Set(bank.map(q=>q.id)).size,885);assert.equal(new Set(bank.map(q=>q.text)).size,885);
  for(const id of curriculumBatches[1].topicIds){const qs=batch2Questions.filter(q=>q.topic===id);assert.equal(qs.length,id==='t-1-1'?12:8);assert.ok(new Set(qs.map(q=>q.chapterSegment)).size>=4);for(const q of qs){assert.equal(q.kind,'original');assert.equal(q.year,undefined);assert.equal(new Set(q.options).size,4);assert.ok(q.options[q.answer]);assert.ok(q.explanation.length>60);assert.equal(q.sourceSection,batch2Lessons[id].segments[q.chapterSegment].title);const c=batch2Lessons[id];assert.ok([c.source.url,...c.sources.map(s=>s[1])].includes(q.source));}}
 });
 test('rights teaching distinguishes enabling clauses, beneficiary scope and emergency exceptions',()=>{
@@ -39,7 +39,7 @@ test('new-topic practice records scoring and exact-repeat exclusion through exha
  const items=seen.slice(0,3).map((q,i)=>({id:q.id,topic:q.topic,answer:q.answer,choice:i===0?q.answer:i===1?(q.answer+1)%4:null,kind:q.kind}));assert.ok(validPracticeItems(items,3));const total=practiceTotals(items);assert.equal(total.correct,1);assert.equal(total.wrong,1);assert.equal(total.attempted,2);assert.ok(Math.abs(total.score-2/3)<1e-9);
 });
 test('progress counts chapter editions separately from question coverage',()=>{
- const all=curriculumProgress().flatMap(b=>b.topics);assert.equal(all.filter(t=>t.expanded).length,44);assert.equal(all.filter(t=>t.questions>0).length,58);assert.equal(all.filter(t=>!t.questions).length,7);assert.equal(all.length,65);
+ const all=curriculumProgress().flatMap(b=>b.topics);assert.equal(all.filter(t=>t.expanded).length,44);assert.equal(all.filter(t=>t.questions>0).length,59);assert.equal(all.filter(t=>!t.questions).length,6);assert.equal(all.length,65);
 });
 test('economic lessons avoid undated current policy-rate claims and keep their series update dated',()=>{
  const income=learningContent('t-2-0').segments.at(-1).text;assert.match(income,/31 August 2026/);assert.match(income,/2022–23/);

@@ -1,0 +1,299 @@
+{
+  "batchId": "import-review-02",
+  "checkedAt": "2026-10-17",
+  "positions": [
+    1,
+    12
+  ],
+  "reviewed": 12,
+  "counts": {
+    "confirmed": 7,
+    "correction_required": 4,
+    "held": 1
+  },
+  "remainingInBatch": 366,
+  "policy": "Source-backed review record. Corrections/holds not approved; release decisions are separate and never inferred from imported keys.",
+  "items": [
+    {
+      "position": 1,
+      "id": "current-a4b49eee3ea8-q43",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "John Ternus",
+      "explanation": "Apple’s 20 April 2026 succession announcement specifies Ternus as CEO effective 1 September 2026. The official newsroom also records Cook’s final CEO day on 31 August. The question concerns the transition date, not a timeless incumbent.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn116search0",
+          "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        },
+        {
+          "sourceId": "turn116search4",
+          "url": "https://www.apple.com/newsroom/",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "56d8bd4561a116380179fa3a0b360be36ec35bcef958ae88f502d3b52f9f271a",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 2,
+      "id": "current-a4b49eee3ea8-q46",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Bishkek, Kyrgyzstan",
+      "explanation": "The SCO’s 1 September 2026 meeting report identifies Yrys-Ordo Congress Hall in Bishkek and the organisation’s twenty-fifth anniversary. It calls this the twenty-sixth Council of Heads of State meeting; the anniversary and meeting number are different measures.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn116search1",
+          "url": "https://eng.sectsco.org/20260901/2493609.html",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "a29824000f648408482867fd80635884d21f68f7aef79bdc3be505a21a495dd2",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 3,
+      "id": "current-a4b49eee3ea8-q47",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Shravana Purnima",
+      "explanation": "The PMO greeting of 28 August 2026 explicitly associates World Sanskrit Day with Shravana Purnima. This lunar observance does not have one fixed Gregorian calendar date.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn116search2",
+          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2304068&lang=2&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "9a7111173b6be2a43a0834e3bb964f735d906ded8609e0218319bf1316e9e059",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 4,
+      "id": "current-a4b49eee3ea8-q49",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "R. Praggnanandhaa",
+      "explanation": "The organiser names Praggnanandhaa the 2026 overall Grand Chess Tour champion and final winner, defeating Fabiano Caruana. Its release establishes his own first title but does not itself supply a complete historical first-Indian comparison.",
+      "requiredCorrectionOrHoldReason": "Ask who won the 2026 overall Grand Chess Tour title; omit first-Indian unless checked against the complete historical champions list.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn116search3",
+          "url": "https://grandchesstour.org/news/grandmaster-praggnanandhaa-rameshbabu-crowned-winner-of-2026-gct-finals-and-overall-gct-champion/",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "08dba0a3d37a00090692189841da071020004b127c1be999ddf0bce662dbda7d",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 5,
+      "id": "current-a4b49eee3ea8-q51",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Major Dhyan Chand",
+      "explanation": "The 2026 Sports Ministry event announcement states that 29 August commemorates the birth anniversary of Major Dhyan Chand. The special programme on 27 August does not change the annual observance date.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn114search7",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2303198&lang=2&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "ae98323d9c4717b56154235e357e21c23426ebb6e0bc22b5b815e070f7beb9fe",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 6,
+      "id": "current-a4b49eee3ea8-q52",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "AIS-119 and AIS-153",
+      "explanation": "ICAT’s official 26 August 2026 release names both standards and Synaty Automotive’s fifteen-metre multi-axle sleeper bus compliance certificate. These are the standards in this specific certification announcement, not a statement that other vehicle rules never apply.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-2-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn114search1",
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2303487&lang=2&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "c3a2fe18d960372788228ef7ad8e57d1dfe824f32c1a918a0edb8fb4d2a14855",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 7,
+      "id": "current-a4b49eee3ea8-q54",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "The proposed Sher name remains unauthenticated from a primary naming announcement",
+      "explanation": "The Defence Ministry establishes the India–Russia joint venture and production at Korwa, but the retrieved official source does not establish the Sher naming claim or a wholly Indian-origin design. Media reports alone were not used to authenticate this key.",
+      "requiredCorrectionOrHoldReason": "Retrieve an IRRPL, Kalashnikov or Ministry naming announcement. Distinguish local components/manufacture from the origin of the AK-203 design; do not publish the candidate name as verified.",
+      "proposedTopicId": "t-5-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn114search2",
+          "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1783413&lang=2&reg=3",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "08ef3a706337b6bb529653f5845b0d11ae12a11c00cbb4afec2aea999982c05c",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 8,
+      "id": "current-a4b49eee3ea8-q55",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Ten years since the August 2016 app rollout",
+      "explanation": "NPCI’s own product booklet distinguishes the 11 April 2016 pilot launch from bank UPI-app uploads beginning on 25 August 2016. Subtracting 2016 from 2026 gives ten, but the broad completed-years wording obscures the milestone being counted.",
+      "requiredCorrectionOrHoldReason": "Ask: On 25 August 2026, how many years had elapsed since banks began uploading UPI-enabled apps to Google Play? Preserve the separate April pilot date.",
+      "proposedTopicId": "t-2-3",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn117search3",
+          "url": "https://www.npci.org.in/PDF/npci/upi/Product-Booklet.pdf",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "986e51e6619c275a81ab16da8400218beb646debabcfed8f8c57d328e1c893ec",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 9,
+      "id": "current-a4b49eee3ea8-q56",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Ajit Doval is the announced Indian representative",
+      "explanation": "China’s Foreign Ministry briefing of 24 August 2026 announces Doval and Wang Yi as co-chairs for the twenty-fifth round in Beijing on 25 August. A prospective briefing authenticates the announced representative but does not independently prove the meeting took place as planned.",
+      "requiredCorrectionOrHoldReason": "Attribute the question to the 24 August official briefing and ask who was announced to represent India; alternatively retrieve a post-meeting record before asserting completion.",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn117search2",
+          "url": "https://fj.china-embassy.gov.cn/eng/fyrth/202608/t20260824_12009284.htm",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "8575d08dde64d150d42551954a0362333f110fa020d227b69e3e076d7e5ada9a",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 10,
+      "id": "current-a4b49eee3ea8-q57",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "23 August",
+      "explanation": "ISRO’s 24 August 2026 account ties National Space Day to Chandrayaan-3’s soft landing on 23 August 2023 and records the 2026 celebration on that date. The announcement or report date is not the observance date.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-4",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn115search1",
+          "url": "https://www.isro.gov.in/3rd_National_Space_Day_2026.html",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "d55b1825e010af273eafdb008e386d0be51068bdc4a50be892a16029348917b6",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 11,
+      "id": "current-a4b49eee3ea8-q59",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Kajal Dhochak, with the year and changing weight class specified",
+      "explanation": "United World Wrestling records Kajal’s 2026 U20 title at 76 kg after her 2025 title at 72 kg. The import can misleadingly suggest two consecutive titles in the same weight class.",
+      "requiredCorrectionOrHoldReason": "Ask which Indian wrestler won the 2026 U20 women’s 76 kg world title after winning at 72 kg in 2025. Do not imply both titles were at 76 kg.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn115search3",
+          "url": "https://uww.org/articles/leydecker-kajal-repeat-u20-world-champs-salnazarian-breaks-through",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "c7029ed6560cbaf4a7af104ac16036772a60c26708335d8370bb3ac72cf90d06",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 12,
+      "id": "current-a4b49eee3ea8-q60",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Ten lakh tonnes of raw sugar",
+      "explanation": "The 21 August 2026 Consumer Affairs release permits duty-free import of ten lakh metric tonnes of raw sugar to augment availability. This is the dated decision, not an open-ended entitlement to import any sugar quantity duty-free.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-2-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn115search4",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2302018&lang=1&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "5f28f1ac893a93610f7eeb7d6b4652f86182bd2f46615f5ee0150fa30d904b81",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    }
+  ]
+}

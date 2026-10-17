@@ -13,7 +13,7 @@ test('50 reviewed models preserve actual source identity/hash and are eligible a
  assert.equal(reviewedImports.length,50);assert.equal(new Set(reviewedImports.map(q=>q.id)).size,50);
  const audit=JSON.parse(fs.readFileSync('docs/QUESTION-VERIFICATION-2026-10-17.json'));assert.equal(audit.held,5);assert.equal(audit.pendingUnapproved,3776);
  for(const q of reviewedImports){const source=sourceQuestions.get(q.id);assert.ok(source);assert.equal(createHash('sha256').update(source.prompt+'\n'+source.answer).digest('hex'),q.verification.sourceTextSha256);assert.ok(q.verification.locator);assert.ok(q.verification.source.startsWith('https://'));assert.ok(eligible(q));assert.ok(eligible(q,'UPSC'));assert.ok(eligible(q,'Other PSC'));assert.equal(eligible({...q,reviewStatus:'unreviewed'}),false);assert.equal(eligible({...q,verification:null}),false);assert.equal(q.kind,'practice');assert.equal(new Set(q.options).size,4);}
- assert.equal(choosePractice(practiceBank(),{exam:'UPSC',count:200}).length,153);assert.ok(choosePractice(practiceBank(),{exam:'UPSC',count:10}).every(q=>q.exam==='PSC common'));
+ assert.equal(choosePractice(practiceBank(),{exam:'UPSC',count:1000}).length,350);assert.ok(choosePractice(practiceBank(),{exam:'UPSC',count:10}).every(q=>q.exam==='PSC common'));
  for(const n of [17,33,37,39,49])assert.ok(!reviewedImports.some(q=>q.id==='uploaded-upsc-2f2cc8e61186-q'+n));
  for(const [n,v] of [[8,60],[9,4],[15,100],[27,1000],[34,5],[46,150],[48,2000]]){const q=reviewedImports.find(q=>q.id==='uploaded-upsc-2f2cc8e61186-q'+n);assert.ok(q);assert.ok(q.options[q.answer].replaceAll(',','').includes(String(v)));}
 });

@@ -14,7 +14,7 @@ test('new source inventory and every document hash match mirrored content with r
  for(const q of data.questions){assert.ok(!ids.has(q.id));ids.add(q.id);assert.equal(q.verified,false);assert.equal(q.reviewStatus,'unreviewed');assert.equal(q.sourceId,d.id);assert.ok(q.prompt.length>10);for(const t of q.appscTopics)assert.ok(topicIds.has(t));if(q.duplicateOf)dup++;if(!q.answer)missing++;if(q.page)assert.ok(q.page>=1&&q.page<=d.pages);}
  assert.equal(selectImportedQuestions(data,{limit:10000}).length,d.uniqueQuestionCount);
  }
- assert.equal(total,3834);assert.equal(dup,8);assert.equal(missing,4);assert.equal(practiceBank().filter(q=>ids.has(q.id)).length,50);assert.ok(practiceBank().filter(q=>ids.has(q.id)).every(q=>q.reviewStatus==='reviewed'&&q.verification?.source));assert.equal(fs.readFileSync('app/study-imports.json','utf8'),fs.readFileSync('studio/public/study-imports.json','utf8'));
+ assert.equal(total,3834);assert.equal(dup,8);assert.equal(missing,4);assert.equal(practiceBank().filter(q=>ids.has(q.id)).length,247);assert.ok(practiceBank().filter(q=>ids.has(q.id)).every(q=>q.reviewStatus==='reviewed'&&q.verification?.source));assert.equal(fs.readFileSync('app/study-imports.json','utf8'),fs.readFileSync('studio/public/study-imports.json','utf8'));
 });
 test('collection filters and reader render escaped uploaded text and never execute MDX/HTML',()=>{
  const bank=selectDocuments(index,{collection:'Uploaded UPSC Markdown',query:'money'});assert.equal(bank.length,1);assert.ok(bank[0].appscTopics.includes('t-2-3'));
