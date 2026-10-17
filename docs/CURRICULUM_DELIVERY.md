@@ -42,7 +42,7 @@ Status: Chapter edition authored and tested; production publication recorded in 
 - t-2-0: National income
 - t-2-1: Inflation & monetary policy
 
-Status: Published as Site version 15 on 17 October 2026; browser workflow 38944518206 and release build/checks passed.
+Status: Published as Site version 15 on 17 October 2026; browser workflow and release build passed.
 
 ### Batch 3: Economy & physical geography (11 topics)
 
@@ -58,7 +58,7 @@ Status: Published as Site version 15 on 17 October 2026; browser workflow 389445
 - t-3-1: Climate & monsoons
 - t-3-2: Indian physical geography
 
-Status: Authoring started on 17 October 2026.
+Status: 11 editions, 44 sections and 88 questions authored and tested; browser/release validation in progress.
 
 ### Batch 4: Geography & quantitative foundations (11 topics)
 
@@ -129,4 +129,9 @@ Added a chapter restart control for learners returning from the earlier short ed
 
 ## Next delivery
 
-Batch 3: Public finance & taxation through Indian physical geography. Batches 3–6 remain not started. AI integration remains deferred. No automatic background completion is implied.
+Batch 4: Rivers & water resources through Time & work. Batches 4–6 remain not started. AI integration remains deferred. No automatic background completion is implied.
+
+
+## Batch 3 result
+
+11 editions, 44 bilingual sections and 88 original scored questions. Combined: 33 editions, 146 expanded-edition sections, 447 original questions plus 50 previously checked imported questions (497 scored total), 41 scored topics. Remaining: 32 editions in Batches 4–6 and 24 scored-practice gaps. Full official-syllabus coverage remains under review. See VALIDATION_BATCH3_2026-10-17.md for sources, checks and failure records.

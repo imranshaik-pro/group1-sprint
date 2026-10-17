@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-16",
-  "scope": "65 existing study units; expanded chapter editions are not certification of full official syllabus coverage",
+  "date": "2026-10-17",
+  "scope": "65 existing study units; expanded editions are not full official-syllabus certification",
   "topics": [
     {
       "id": "t-0-0",
@@ -401,7 +401,7 @@
       "te": "ఆర్థిక వ్యవస్థ",
       "level": "Expanded chapter",
       "segments": 5,
-      "questions": 8,
+      "questions": 34,
       "chapterEdition": "2026-10-16-b2",
       "chapterOutline": [
         "Price level, inflation and purchasing power",
@@ -418,11 +418,16 @@
       "subject": "Economy & Planning",
       "paper": "I",
       "te": "ఆర్థిక వ్యవస్థ",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b3",
+      "chapterOutline": [
+        "Follow the money before classifying it",
+        "Three deficits answer three different questions",
+        "Tax base, burden and GST credit",
+        "A budget is a policy choice and an authorisation"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -431,11 +436,16 @@
       "subject": "Economy & Planning",
       "paper": "I",
       "te": "ఆర్థిక వ్యవస్థ",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 27,
+      "chapterEdition": "2026-10-17-b3",
+      "chapterOutline": [
+        "A bank sees your deposit as its liability",
+        "Credit creation has real constraints",
+        "Inclusion means useful and safe access",
+        "Deposit insurance is not investment insurance"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -444,11 +454,16 @@
       "subject": "Economy & Planning",
       "paper": "I",
       "te": "ఆర్థిక వ్యవస్థ",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b3",
+      "chapterOutline": [
+        "Growth is a means; development asks who benefits",
+        "Planning: trade-offs across time",
+        "Policy advice, fiscal transfers and implementation",
+        "Judge a programme by a chain of evidence"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -457,11 +472,16 @@
       "subject": "Economy & Planning",
       "paper": "I",
       "te": "ఆర్థిక వ్యవస్థ",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b3",
+      "chapterOutline": [
+        "Area, yield and output tell different stories",
+        "Land, water and technology work together",
+        "Credit, storage and bargaining power",
+        "Price support, procurement and rural livelihoods"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -470,11 +490,16 @@
       "subject": "Economy & Planning",
       "paper": "I",
       "te": "ఆర్థిక వ్యవస్థ",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b3",
+      "chapterOutline": [
+        "Trace a product through its production network",
+        "Industrial location is a combination of costs",
+        "Reforms change incentives, not every constraint",
+        "Infrastructure must be financed and maintained"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -483,11 +508,16 @@
       "subject": "Economy & Planning",
       "paper": "I",
       "te": "ఆర్థిక వ్యవస్థ",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b3",
+      "chapterOutline": [
+        "Read Andhra Pradesh with a boundary and price base",
+        "A regional economy contains linked livelihoods",
+        "Use the State budget as a document set",
+        "Connect fiscal capacity to service outcomes"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -496,11 +526,16 @@
       "subject": "Economy & Planning",
       "paper": "I",
       "te": "ఆర్థిక వ్యవస్థ",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b3",
+      "chapterOutline": [
+        "A survey is evidence, not a list to copy blindly",
+        "Units, shares and growth: keep denominators visible",
+        "Read district and social indicators fairly",
+        "Turn tables into careful study notes"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -509,11 +544,16 @@
       "subject": "Economy & Planning",
       "paper": "I",
       "te": "ఆర్థిక వ్యవస్థ",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b3",
+      "chapterOutline": [
+        "Poverty is about deprivation and its measurement",
+        "Employment rates have different denominators",
+        "Count jobs and examine the work itself",
+        "Match policy to the cause of deprivation"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -522,11 +562,16 @@
       "subject": "Geography",
       "paper": "I",
       "te": "భూగోళ శాస్త్రం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b3",
+      "chapterOutline": [
+        "Infer the interior from evidence",
+        "Plate boundaries explain patterns",
+        "Weathering, erosion and mass movement",
+        "Read a landform as a process record"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -535,11 +580,16 @@
       "subject": "Geography",
       "paper": "I",
       "te": "భూగోళ శాస్త్రం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b3",
+      "chapterOutline": [
+        "Heat sets the atmosphere in motion",
+        "Monsoon is a coupled land–ocean circulation",
+        "Relief and retreat explain regional contrasts",
+        "Variability is not a deterministic forecast"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -548,11 +598,16 @@
       "subject": "Geography",
       "paper": "I",
       "te": "భూగోళ శాస్త్రం",
-      "level": "Short foundation",
-      "segments": 1,
-      "questions": 0,
-      "chapterEdition": null,
-      "chapterOutline": [],
+      "level": "Expanded chapter",
+      "segments": 4,
+      "questions": 8,
+      "chapterEdition": "2026-10-17-b3",
+      "chapterOutline": [
+        "Build a map of six broad physiographic settings",
+        "Himalayan belts and the depositional plains",
+        "Plateau, Ghats and river directions",
+        "Coasts, desert and island origins"
+      ],
       "fullChapterReviewed": false
     },
     {
@@ -628,7 +683,7 @@
       "te": "భూగోళ శాస్త్రం",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 0,
+      "questions": 3,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -810,7 +865,7 @@
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 0,
+      "questions": 1,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
@@ -888,7 +943,7 @@
       "te": "విజ్ఞాన శాస్త్రం & సాంకేతికత",
       "level": "Short foundation",
       "segments": 1,
-      "questions": 0,
+      "questions": 1,
       "chapterEdition": null,
       "chapterOutline": [],
       "fullChapterReviewed": false
