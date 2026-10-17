@@ -1,0 +1,949 @@
+{
+  "batchId": "import-review-02",
+  "checkedAt": "2026-10-17",
+  "part": 2,
+  "positions": [
+    13,
+    50
+  ],
+  "reviewedInPart": 38,
+  "counts": {
+    "correction_required": 9,
+    "confirmed": 26,
+    "held": 3
+  },
+  "cumulativeReviewed": 50,
+  "cumulativeCounts": {
+    "confirmed": 33,
+    "correction_required": 13,
+    "held": 4
+  },
+  "remainingInBatch": 328,
+  "unexaminedAcrossTenBatches": 3426,
+  "newScoredApprovals": 0,
+  "policy": "Individual source-backed review; corrections/holds not released. Introduced Bill text is not proof of current operative law.",
+  "items": [
+    {
+      "position": 13,
+      "id": "current-a4b49eee3ea8-q61",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Ladakh is supported; the specific Leh venue needs a later location order",
+      "explanation": "The 20 August Cabinet account enables a sitting bench in Ladakh. The UT administration records promulgation on27 August and commencement on5 September. Those documents do not by themselves establish the specific Leh venue on the August approval date.",
+      "requiredCorrectionOrHoldReason": "Ask in which Union Territory the Cabinet enabled the sitting bench; make optionC Ladakh. Do not conflate Cabinet approval, promulgation, commencement and a later place-of-sitting order.",
+      "proposedTopicId": "t-1-4",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn123search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2301695&lang=1&reg=3",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        },
+        {
+          "sourceId": "turn125search4",
+          "url": "https://ladakh.gov.in/regulation-enabling-high-court-bench-in-ladakh-comes-into-effect-from-today/",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "4a1d8975583c4876586a0022f93c9df76e36c429a77bd227a32ea321d6e76330",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 14,
+      "id": "current-a4b49eee3ea8-q62",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Mirza Fakhrul Islam Alamgir",
+      "explanation": "The President’s official government biography records election on20 August2026 and assumption of office on21 August. The state news agency separately reports the Election Commission’s result and Gazette announcement.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-2",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn125search3",
+          "url": "https://publicdivision.portal.gov.bd/pages/biographies/honorable-president-jas8v9-6a699b0c26a072a44eddcaa2",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        },
+        {
+          "sourceId": "turn125search2",
+          "url": "https://www.bssnews.net/news-flash/416592",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "a9fba828980d20a77670bf82d30a56fc3a02f6e8219697368fcb6f23ae321c51",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 15,
+      "id": "current-a4b49eee3ea8-q63",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "RK-251, an experimental candidate",
+      "explanation": "The Department of Science and Technology research announcement names RK-251 and describes tumour-associated ROS activation. This is research-stage evidence; it does not establish an approved human treatment, complete absence of toxicity, or replacement of clinical chemotherapy.",
+      "requiredCorrectionOrHoldReason": "Ask which experimental compound was described in the19 August2026 DST research announcement. Use candidate and designed to activate primarily in cancer cells; remove any clinical cure/safety implication.",
+      "proposedTopicId": "t-5-3",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn123search1",
+          "url": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=3&relid=293697",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "82a6bca731d8769872e9d644696cc6ea3c63a432ba3e2ab1618b29ba328b6da1",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 16,
+      "id": "current-a4b49eee3ea8-q65",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "I Arumainayagam",
+      "explanation": "The18 August2026 ministry announcement lists him in Football under Arjuna Awards(Lifetime)2025. It is distinct from the regular Arjuna and Dronacharya lifetime categories.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn136view3",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2300762&lang=1&reg=48&v=1",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "502a67407c5added44d4f3e32414d9f527397e8e88c66c7f40ae6a52d5b06923",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 17,
+      "id": "current-a4b49eee3ea8-q66",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Rishabh Pant passes100 Test sixes; historical ordinal not authenticated",
+      "explanation": "ICC’s player profile lists102 Test sixes as retrieved. That establishes passing the threshold but does not alone prove he was the first Indian and fourth player globally or establish his exact milestone date.",
+      "requiredCorrectionOrHoldReason": "Retrieve the ICC/BCCI milestone report and full historical comparison before keeping first/fourth. Otherwise ask which named player’s dated ICC profile records over100 Test sixes.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn122search1",
+          "url": "https://www.icc-cricket.com/rankings/65756/rishabh-pant",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "908fe17f58a75dede5963a880eb00e28befb77c4296c6cbb056f562423b54dd3",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 18,
+      "id": "current-a4b49eee3ea8-q67",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Indore, Madhya Pradesh",
+      "explanation": "Akashvani’s17 August2026 event report identifies the Indore Zoo facilities and says the Chief Minister inaugurated them the previous day. The14-D term is the attraction’s experiential marketing description, not a claim about fourteen physical spatial dimensions.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn142search0",
+          "url": "https://newsonair.gov.in/indias-first-virtual-zoo-opens-in-indore-with-14-d-cinema-and-virtual-jungle-safari-facilities/",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "942e8fc2f414115cd81de220b0b1094cfb90e4afe23588bc184d843a2885a486",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 19,
+      "id": "current-a4b49eee3ea8-q68",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "Surat Thani, Thailand, as the announced venue",
+      "explanation": "The17 August2026 Defence Ministry departure release schedules MAITREE-XV for18–31 August at Vibhavadi Rangsit Camp, Surat Thani. It contrasts the2025 venue in Umroi. This is an announcement, not a completion report.",
+      "requiredCorrectionOrHoldReason": "Ask where MAITREE-XV was scheduled according to the17 August2026 announcement. RetainC without asserting completion from prospective evidence.",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn122search2",
+          "url": "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=293593",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "f1c2594df37bb8012f976e5cec6e1ffcdead3524171cf1427c36e96b44b82564",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 20,
+      "id": "current-a4b49eee3ea8-q69",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Viksit Bharat@2047",
+      "explanation": "The official Telugu PMO transcript of the15 August2026 address explicitly sets the goal of a developed India by2047. That long-term vision is separate from any one annual celebration slogan.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-2-4",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn141view0",
+          "url": "https://www.pmindia.gov.in/te/news_updates/80%E0%B0%B5-%E0%B0%B8%E0%B1%8D%E0%B0%B5%E0%B0%BE%E0%B0%A4%E0%B0%82%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B1%8D%E0%B0%AF-%E0%B0%A6%E0%B0%BF%E0%B0%A8%E0%B1%8B%E0%B0%A4%E0%B1%8D%E0%B0%B8%E0%B0%B5%E0%B0%82/?comment=disable",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "2f42c3e695215e2bb903761d106eed9522b74d915d8b283fff09dec969d77e72",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 21,
+      "id": "current-a4b49eee3ea8-q70",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Magnus Carlsen",
+      "explanation": "The organiser’s2026 chess competition standings name Carlsen champion and Lazavik runner-up. FIDE’s first-edition2025 report names Carlsen the inaugural champion; together these establish consecutive victories in the first two editions.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn128search0",
+          "url": "https://ewc-web.prod.esf-systems.com/en/competitions/2026/chess",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        },
+        {
+          "sourceId": "turn128search4",
+          "url": "https://www.fide.com/magnus-carlsen-wins-first-ever-edition-of-chess-esports-world-cup/",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "9386b6e3a3b6d6567c453a8704e0a488c61b27bcb037c7ff854e477ea7cc0a63",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 22,
+      "id": "current-a4b49eee3ea8-q71",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Suryapath Tiranga",
+      "explanation": "The Culture Ministry launch release names the symbolic global relay and describes flag hoisting by Indian missions following sunrise from east to west. Its post-event account records the relay’s conclusion.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn120search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295801&lang=2&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        },
+        {
+          "sourceId": "turn120search2",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2300096&lang=2&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "81f3256c93c03a5258e7cbc3f49412ce77015c3a7ffcefe9ae5cf6e8c4be985e",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 23,
+      "id": "current-a4b49eee3ea8-q72",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "The150-year commemoration of Vande Mataram",
+      "explanation": "The10 August2026 official celebrations advisory explicitly identifies150 Years of Vande Mataram together with Yuva Shakti for Viksit Bharat@2047. The other offered centenaries are different events.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn120search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2297232&lang=1&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "8d1dc6a10785de9676cc8dd5de4e1c5df96633ca7db77548550ea5871139e8b6",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 24,
+      "id": "current-a4b49eee3ea8-q73",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Mandi Head Post Office to Rehardhar Branch Post Office",
+      "explanation": "The14 August postal event account identifies this route for the first Tiranga drone delivery. A separate June release establishes that ordinary mail drone transmission on this route began earlier; Tiranga delivery and first drone mail service are different milestones.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-2-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn120search4",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2299570&lang=2&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        },
+        {
+          "sourceId": "turn120search3",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2272527&lang=2&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "13823cbff7698af1002e5f29099bfb620f3656a01dd8676f887198eac77ae682",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 25,
+      "id": "current-a4b49eee3ea8-q74",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "14 August",
+      "explanation": "The2026 Ministry of Culture post-event report records the remembrance programmes on14 August, commemorating Partition’s human suffering. The15 August publication date is distinct from the observance date.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-0-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn121search2",
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2300077&lang=2&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "4adfb1d0e0a56d259713b49ba64ef1cd0513ab0dbc8c6a3c9643d23bfcb1b878",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 26,
+      "id": "current-a4b49eee3ea8-q75",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Triumph of the Indian Republic: My Life, My Struggles",
+      "explanation": "The Lok Sabha Secretariat’s12 August2026 account records the autobiography’s title and actual release by the Prime Minister. The preceding11 August advisory is prospective corroboration rather than the sole evidence of completion.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn121search5",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298663&lang=1&reg=3",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        },
+        {
+          "sourceId": "turn121search6",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2297496&lang=1&reg=1",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "54908c3266c1d052dd54291b008dc69264a1b929227985ca9c3cbd6916f2e4e9",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 27,
+      "id": "current-a4b49eee3ea8-q76",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "12 August",
+      "explanation": "The observance organiser’s About page gives12 August and records the inaugural World Elephant Day in2012. This verifies the recurring date without importing an unchecked annual theme.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-3-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn128search3",
+          "url": "https://worldelephantday.org/about",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "10ad6980361d8384aa3da95559e3ce707832604b49f54dd3445710691790e1c9",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 28,
+      "id": "current-a4b49eee3ea8-q77",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Saudi Arabia, Türkiye and Pakistan",
+      "explanation": "Pakistan’s Foreign Ministry message identifies the three signatories to the Makkah Joint Defence Agreement on7 August2026. The Saudi Press Agency summit index independently identifies the same three states.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn143search1",
+          "url": "https://mofa.gov.pk/press-releases/message-to-the-nation-on-the-signing-of-the-makkah-joint-defence-agreement",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        },
+        {
+          "sourceId": "turn143search2",
+          "url": "https://www.spa.gov.sa/en/news/hashtags/71864",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "5c76d46fa8d798781ac769b9edb950a0654e496ed027c4fca7e4283641c36409",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 29,
+      "id": "current-a4b49eee3ea8-q78",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Keralam",
+      "explanation": "Clause3 of the introduced Kerala(Alteration of Name)Bill2026 proposes the state name Keralam; clause6 makes the corresponding First Schedule substitution. The answer is the name proposed by the Bill; the record does not infer the present legal name or commencement from passage alone.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn136view2",
+          "url": "https://prsindia.org/files/bills_acts/bills_parliament/2026/Kerala_%28Alteration_of_Name%29_Bill_2026.pdf",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "528e2753203b8019e76be915a31b8fa43d28b8c0800a4632a0102981062793a9",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 30,
+      "id": "current-a4b49eee3ea8-q80",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "Yuva Shakti is a stated focus, not the only official theme",
+      "explanation": "The official Defence Ministry advisory jointly highlights150 Years of Vande Mataram and Yuva Shakti for Viksit Bharat@2047. Viksit Bharat also appears among the original alternatives, making an unqualified sole central theme formulation imprecise.",
+      "requiredCorrectionOrHoldReason": "Ask which group’s contribution was recognised by the Yuva Shakti focus in the10 August2026 advisory; use youth as the answer. Do not reduce the joint official framing to one exclusive slogan.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn120search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2297232&lang=1&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "f5dcc1f4b4daf0a606351951bf2b41eb4c9a7a2c8d221ecca77d3398d6ecdae9",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 31,
+      "id": "current-a4b49eee3ea8-q82",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "D",
+      "solution": "500GW of non-fossil installed capacity by2030",
+      "explanation": "MNRE’s official mission portal restates the500GW non-fossil capacity target. This concerns installed capacity, not a fixed share of generated electricity, and non-fossil includes more than renewable sources alone.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-5-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn119search6",
+          "url": "https://nghm.mnre.gov.in/newsticker.php?language=en",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "dc309bd59c279a8472b7fa16e1423683c199e44df40bf2568d20babe8afd4f42",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 32,
+      "id": "current-a4b49eee3ea8-q83",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "Consumer UPI payments remain free; possible select-merchant charges need a future notification",
+      "explanation": "The government’s September2026 New India Samachar explanation distinguishes ordinary consumer payments from a conditional power to notify charges for certain merchant categories. It does not establish that an MDR actually commenced for all or any specified class on a particular August date.",
+      "requiredCorrectionOrHoldReason": "Attribute to the September2026 government explanation and ask the consumer-versus-select-merchant distinction. Do not assert a live charging rule without the applicable Gazette/notification.",
+      "proposedTopicId": "t-2-3",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn140view2",
+          "url": "https://newindiasamachar.pib.gov.in/WriteReadData/flipbook/2026/Sep/2nd/English/files/basic-html/page18.html",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "d02bfbbc4446b57fc2dbac79d38ae0574b3561bf5be2d78e80c629e91a13a5be",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 33,
+      "id": "current-a4b49eee3ea8-q85",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "7 August",
+      "explanation": "The2026 Textiles Ministry release explicitly connects the annual7 August observance with the Swadeshi Movement of1905. The event announcement’s publication date is not the observance date.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-0-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn129search4",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295476&lang=2&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "a85d87e156666eb3ed6a253d55a99e0928156e938fd39b1e7a0186dfd66bc47c",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 34,
+      "id": "current-a4b49eee3ea8-q86",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "R. Praggnanandhaa",
+      "explanation": "The Grand Chess Tour organiser’s28 August2026 championship report describes Praggnanandhaa as coming off a2026 Saint Louis Rapid&Blitz victory. This confirms the winner without retaining the import’s separately unchecked tournament-date range.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn129search5",
+          "url": "https://grandchesstour.org/news/grandmaster-praggnanandhaa-rameshbabu-crowned-winner-of-2026-gct-finals-and-overall-gct-champion/",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "1e959d1f31ba2ac3948f8b5ef91d7adaf2844b9a3a6847fc043338e60ed7c3a4",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 35,
+      "id": "current-a4b49eee3ea8-q87",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "Agni-4’s ballistic classification and4000km range are supported; full option needs stage-count verification",
+      "explanation": "The August2026 ministry release identifies Agni-4 as a ballistic missile and confirms the Chandipur test. Earlier official technical releases give4000km range and composite solid-fuel propulsion. The retrieved extracts do not independently establish the option’s two-stage clause.",
+      "requiredCorrectionOrHoldReason": "Obtain the DRDO stage-count specification or remove the two-stage clause. Keep the dated August2026 classification attributed, since earlier official material uses a different range-category label.",
+      "proposedTopicId": "t-5-9",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn132search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295678&lang=1&reg=1",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        },
+        {
+          "sourceId": "turn137search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1479827&lang=2&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        },
+        {
+          "sourceId": "turn137search2",
+          "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=102610",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "545ea08cf0d56e2f538ddda0245d39a13b0a16adeeca5e5f60cb3b612bf16807",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 36,
+      "id": "current-a4b49eee3ea8-q89",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "C",
+      "solution": "37 judges excluding the Chief Justice, as proposed by the Bill",
+      "explanation": "The original Bill’s clause2 changes33 to37. Its Objects and Reasons and Financial Memorandum explicitly exclude the Chief Justice. That is38 including the Chief Justice; these are sanctioned positions, not a claim that every post is filled.",
+      "requiredCorrectionOrHoldReason": "Ask what number the introduced2026 Bill proposes, excluding the Chief Justice. Retrieve the enacted text and commencement before wording this as the current operative sanctioned strength.",
+      "proposedTopicId": "t-1-4",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn136view0",
+          "url": "https://prsindia.org/files/bills_acts/bills_parliament/2026/Supreme_Court_%28Number_of_Judges%29_%28A%29_Bill_2026.pdf",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "dcc4b053b5035d508e2cc8d9836d09a34e95f24535e238f87380298a123d225c",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 37,
+      "id": "current-a4b49eee3ea8-q90",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "No current crewed-launch target is authenticated from these options",
+      "explanation": "ISRO’s16 October2026 separation-test account establishes recent technical progress, not a firm crewed launch year. Its programme FAQ does not authenticate the imported2027 target. A development milestone cannot be substituted for a dated launch commitment.",
+      "requiredCorrectionOrHoldReason": "Retrieve a dated ISRO/Department of Space schedule and anchor the target to that announcement. Do not infer a launch year from component tests or a shifting press estimate.",
+      "proposedTopicId": "t-5-4",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn130search5",
+          "url": "https://www.isro.gov.in/ISRO_EN/Crew_Module_Service_Module_Separation_Tests.html",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        },
+        {
+          "sourceId": "turn130search3",
+          "url": "https://www.isro.gov.in/FAQ_Gaganyaan.html",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "8a4d37d64d3595942575f4b62e1355b84ee3b90a91b96e10d0f53b240480820b",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 38,
+      "id": "current-a4b49eee3ea8-q91",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "Judicial Magistrate of the First Class, under the Bill’s proposed rule",
+      "explanation": "Clause2, proposed section13(3A), assigns registration after more than two years to this judicial authority. The adjacent proposed provision for more than one but within two years instead concerns specified executive magistrates. The text is an introduced Bill, not proof of current commencement.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-4",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn136view1",
+          "url": "https://prsindia.org/files/bills_acts/bills_parliament/2026/Registration_of_Births_and_Deaths_%28A%29_Bill_2026.pdf",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "31f1b00340daec23ec3675d72e434c4b8556eb1c5f74cfaa15a82dbe242d9514",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 39,
+      "id": "current-a4b49eee3ea8-q92",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "Attack and sinking location not authenticated in this pass",
+      "explanation": "No dated primary maritime incident bulletin or MEA statement was retrieved establishing the vessel identity, attack and4 August2026 sinking location together. The imported Red Sea option is not independently approved.",
+      "requiredCorrectionOrHoldReason": "Retrieve DG Shipping, Indian Navy, MEA or an identified rescue/incident authority report; preserve the distinction between an attack report, sinking confirmation and location.",
+      "proposedTopicId": "t-1-9",
+      "scope": "PSC common",
+      "evidence": [],
+      "sourceTextSha256": "b4e0a725970885e43edfaf959c54f2dda4880a772551ec6e8db13592a74972a5",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 40,
+      "id": "current-a4b49eee3ea8-q93",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Arunachal Pradesh",
+      "explanation": "The Environment Ministry’s3 August2026 announcement identifies Glaw Lake as Arunachal Pradesh’s first Ramsar site and India’s101st at that time. The dated tally is not presented as today’s total.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-3-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn131search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2294036&lang=1&reg=3",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "a21619aed4b4b7db458f1ab4b970ea42ee6c69591e8f2754887cb47bae10dfc3",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 41,
+      "id": "current-a4b49eee3ea8-q94",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "held",
+      "solvedOption": null,
+      "solution": "Official race participation and historical first remain unverified",
+      "explanation": "The imported explanation refers to a ceremonial appearance, which is not equivalent to starting the classified Tour de France Femmes race. No organiser start list or UCI result verifying the imported participation claim was retrieved.",
+      "requiredCorrectionOrHoldReason": "Identify the exact ceremonial event and its organiser, or authenticate an official race start/result. Do not describe a ceremonial ride as professional race participation.",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [],
+      "sourceTextSha256": "4be9b0e9aa6a13ff0ef502382fccb0e92f95abad43a179810830c026d9f55f0e",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 42,
+      "id": "current-a4b49eee3ea8-q95",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "100 weeks",
+      "explanation": "The Sports Ministry’s2 August2026 launch account specifies a100-week campaign. Its September programme notice restates that duration while describing later implementation events. Launch, campaign phases and duration are separate facts.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-1-8",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn124search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2293495&lang=1&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        },
+        {
+          "sourceId": "turn124search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2311509&lang=2&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "423ab3ba0162da87032fb733cc31f754edb04d7f35fbed86abd70ea68e8e28ae",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 43,
+      "id": "current-a4b49eee3ea8-q96",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Vice Admiral AN Pramod",
+      "explanation": "The Navy’s1 August2026 appointment release names him Deputy Chief of Naval Staff on that date. This is DCNS, distinct from Vice Chief and Chief of Naval Staff.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn133search0",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292876&lang=1&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "90e1b309c2db48ddecbe8530e91b0b1cdfb39c09089a563580d5bee9876347f1",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 44,
+      "id": "current-a4b49eee3ea8-q97",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Air Marshal Tejpal Singh",
+      "explanation": "The Air Force’s1 August2026 release names Tejpal Singh as Deputy Chief of the Air Staff and identifies his predecessor’s retirement the day before. The appointment is DCAS, distinct from Vice Chief and Chief.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn133search1",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292982&lang=1&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "7abf345f6388a06e6bcfd63091d7cfe9f0945d4683b52ce2f1820548b7743b39",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 45,
+      "id": "current-a4b49eee3ea8-q98",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Fourth, according to the official standings and IOA tally",
+      "explanation": "The official Glasgow standings place India fourth; IOA also records fourth with13 gold,17 silver and9 bronze. A Commonwealth Sport closing article separately contains an inconsistent29-medal/joint-fourth sentence. The scored key here uses the standings, not that contradictory prose, and no tie claim is adopted.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn138search0",
+          "url": "https://www.glasgow2026.com/?gad=1",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        },
+        {
+          "sourceId": "turn138search1",
+          "url": "https://olympic.ind.in/cwg-2026/",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "22cdaa6c059af58ef6ec1ccea98d5e8c71937969d5cbc981cbb3c27023f3a30b",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 46,
+      "id": "current-a4b49eee3ea8-q100",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "C",
+      "solution": "INR6000 per eligible family per year",
+      "explanation": "The current PM-KISAN portal gives annual support ofINR6000 in three equal instalments. Eligibility and exclusion categories still apply; the scheme is not an unconditional payment to every person engaged in agriculture.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-2-5",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn126search0",
+          "url": "https://pmkisan.gov.in/",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "bd2621fe6b45fd79e21356194d376c2983a1410def0f7d1d5ff37bd69a378952",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 47,
+      "id": "current-a4b49eee3ea8-q102",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "National Geospatial Knowledge-based Land Survey of Urban Habitations",
+      "explanation": "The Land Resources Department’s20 July2026 clarification spells out NAKSHA and describes GIS-based urban land-parcel mapping under DILRMP. Mapping does not by itself transfer or cancel existing property title.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-3-7",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn126search3",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2286590&lang=1&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "4ba76fad976bdca06f2e60043fa12945e8f719e098eda2ce6556b3bb11e537c4",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 48,
+      "id": "current-a4b49eee3ea8-q104",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Sawan Shivratri",
+      "explanation": "Akashvani’s11 August2026 event report connects the Kanwar Yatra’s concluding offerings of Ganga water with Sawan Shivratri. This refers to the Shravan observance, distinct from the separate annual Maha Shivratri festival.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-6-1",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn137search5",
+          "url": "https://newsonair.gov.in/kanwar-yatra-concludes-as-devotees-offer-holy-ganga-water-to-lord-shiva/",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "70d05e4c2deff19627fa40520eec1331faa45c741ecbbf6efce5cb68ab0e1bd4",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 49,
+      "id": "current-a4b49eee3ea8-q106",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "correction_required",
+      "solvedOption": "B",
+      "solution": "Kolkata Port–Biratnagar Customs Yard for the specific new direct service",
+      "explanation": "The Railways’28 July2026 release records a40-wagon direct commercial container service to Biratnagar under the revised transit protocol. This specific route milestone does not prove it was the first-ever India–Nepal container train on any route.",
+      "requiredCorrectionOrHoldReason": "Ask for the endpoints of the first direct Kolkata Port–Biratnagar service described in the28 July2026 release; remove the universal first-ever bilateral-container-service implication.",
+      "proposedTopicId": "t-2-6",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn134search1",
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2290444&lang=2&reg=48",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "e08ead0d8e9e60146baa1570c62923ca1b082cc3c3dd77c872e6209f0113b0df",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    },
+    {
+      "position": 50,
+      "id": "current-a4b49eee3ea8-q107",
+      "batch": "import-review-02",
+      "reviewedAt": "2026-10-17",
+      "decision": "confirmed",
+      "solvedOption": "B",
+      "solution": "Crown Representative’s Police",
+      "explanation": "CRPF’s own history dates its raising to27 July1939 under the Crown Representative Police name. The later Central Reserve Police name and post-independence statute are distinct milestones.",
+      "requiredCorrectionOrHoldReason": "",
+      "proposedTopicId": "t-0-7",
+      "scope": "PSC common",
+      "evidence": [
+        {
+          "sourceId": "turn134search0",
+          "url": "https://crpf.gov.in/Coimbatore/Brief-History",
+          "locator": "Dated primary announcement; factual paragraph or results table described in explanation"
+        }
+      ],
+      "sourceTextSha256": "de22dad988caa268d8019432ad4ee70c2170aa48feedd55651db6e8fd5918379",
+      "releaseStatus": "review-recorded",
+      "scoredEligible": false
+    }
+  ]
+}
