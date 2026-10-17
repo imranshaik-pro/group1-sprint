@@ -31,12 +31,14 @@ The reproducible inputs and complete old/new decisions are in `import-repair-inp
 ## Verification and failure record
 
 - Website content/rendering tests: 37 passed.
-- Standalone app tests: 78 passed before final source-label/search refinement; final rerun recorded in release status.
+- Standalone app tests: 78 passed in the final local run and remote CI.
 - TypeScript: `tsc --noEmit` passed.
 - New checks cover all 11 outlines, bilingual teaching fields, section-question mapping, independent arithmetic calculations, original-document checksums, repair lineage, answer eligibility, corrected reader escaping/topic filtering and website/PWA byte parity.
 - During verification three first-section examples were too short for the existing content check. They were expanded with worked reasoning. A test calculator initially parsed `2,300` as `2`; comma handling was corrected. Bank-size assertions and the old 50-model UPSC selection cap were updated for the new approved bank.
-- Browser regression adds a complete Batch 4 time-and-work learn/recall/ten-question/reflection/revision cycle, the 44-of-65 catalogue count, and offline Batch 4 plus repaired-module loading. The first remote browser run found an obsolete eight-question assertion in the existing public-finance flow: approved imports increased that set to nine, while time/work has ten selected questions. Assertions now validate those actual sizes and scores. It also checks corrected reader search, explanation reveal and superseded original labels. Its final remote CI result, build and deployment identifiers are recorded in the release status after completion.
+- Browser regression adds a complete Batch 4 time-and-work learn/recall/nine-question/reflection/revision cycle, the 44-of-65 catalogue count, and offline Batch 4 plus repaired-module loading. Remote CI passed on e61bbac7d90ff44e3a9b1e0061aac8e6ff734757: https://github.com/imranshaik-pro/group1-sprint/actions/runs/39019664060. Website build and TypeScript passed; Site version18 deployed successfully. See RELEASE_BATCH4_2026-10-17.md for provenance.
 
 ## Deferred work
 
 21 expanded chapter editions remain in Batches 5–6; seven current topics still lack scored practice. The rest of the imported collection needs independent source review. Full expert syllabus review and AI integration remain pending. No API key is required for this bundled content release.
+
+The first remote browser run failed an obsolete eight-question public-finance assertion after approved imports increased that topic set to nine. A second run corrected this and exposed a work-quiz assertion of ten: family deduplication correctly selected nine distinct families. Both test assumptions were corrected without changing the production selection logic. The final run passed all routes, study flows and offline reload. A new reader check searches Praveen Kumar, reveals the corrected explanation and confirms the original import is labelled superseded.
