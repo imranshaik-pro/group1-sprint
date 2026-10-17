@@ -50,7 +50,7 @@ for review in reviews:
     assert len(set(item['options']))==4
     out.append(item)
 assert len(out)==197 and len({q['id'] for q in out})==197
-module='// Confirmed import-review-01 answers released for learners. Original audit ledgers are immutable.\nexport const releasedImports = '+json.dumps(out,ensure_ascii=False,indent=2)+';\n'
+module="import {batch2ReleasedImports} from './batch2-released-imports.js';\n"+'// Confirmed import-review-01 answers released for learners. Original audit ledgers are immutable.\nexport const releasedImports = '+json.dumps(out,ensure_ascii=False,indent=2)+'.concat(batch2ReleasedImports);\n'
 for p in ['app/released-imports.js','studio/lib/released-imports.js']:(R/p).write_text(module)
 report=dict(date='2026-10-17',released=197,sourceReviewBatch='import-review-01',
     note='Supersedes not_integrated only for the listed IDs. Original review snapshots and source imports remain unchanged. Existing103 revised derivatives are a separate prior release. No pending keys promoted.',

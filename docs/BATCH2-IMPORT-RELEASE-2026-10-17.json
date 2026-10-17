@@ -1,0 +1,294 @@
+{
+  "date": "2026-10-17",
+  "batchId": "import-review-02",
+  "reviewed": 50,
+  "released": 33,
+  "correctionRequiredNotReleased": 13,
+  "heldNotReleased": 4,
+  "unreviewedInBatch": 328,
+  "policy": "This explicit release supersedes review-recorded/scoredEligible:false only for these33 confirmed IDs. Original review snapshots, uploads and fixed assignments remain unchanged.",
+  "byTopic": {
+    "t-5-5": 1,
+    "t-1-9": 2,
+    "t-6-1": 13,
+    "t-2-6": 2,
+    "t-5-4": 1,
+    "t-2-5": 2,
+    "t-6-2": 1,
+    "t-2-4": 1,
+    "t-0-8": 2,
+    "t-3-8": 2,
+    "t-1-6": 1,
+    "t-5-6": 1,
+    "t-1-4": 1,
+    "t-1-8": 1,
+    "t-3-7": 1,
+    "t-0-7": 1
+  },
+  "items": [
+    {
+      "id": "current-a4b49eee3ea8-q43",
+      "position": 1,
+      "topic": "t-5-5",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "56d8bd4561a116380179fa3a0b360be36ec35bcef958ae88f502d3b52f9f271a"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q46",
+      "position": 2,
+      "topic": "t-1-9",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "a29824000f648408482867fd80635884d21f68f7aef79bdc3be505a21a495dd2"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q47",
+      "position": 3,
+      "topic": "t-6-1",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "9a7111173b6be2a43a0834e3bb964f735d906ded8609e0218319bf1316e9e059"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q51",
+      "position": 5,
+      "topic": "t-6-1",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "ae98323d9c4717b56154235e357e21c23426ebb6e0bc22b5b815e070f7beb9fe"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q52",
+      "position": 6,
+      "topic": "t-2-6",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "c3a2fe18d960372788228ef7ad8e57d1dfe824f32c1a918a0edb8fb4d2a14855"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q57",
+      "position": 10,
+      "topic": "t-5-4",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "d55b1825e010af273eafdb008e386d0be51068bdc4a50be892a16029348917b6"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q60",
+      "position": 12,
+      "topic": "t-2-5",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "5f28f1ac893a93610f7eeb7d6b4652f86182bd2f46615f5ee0150fa30d904b81"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q62",
+      "position": 14,
+      "topic": "t-6-2",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "a9fba828980d20a77670bf82d30a56fc3a02f6e8219697368fcb6f23ae321c51"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q65",
+      "position": 16,
+      "topic": "t-6-1",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "502a67407c5added44d4f3e32414d9f527397e8e88c66c7f40ae6a52d5b06923"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q67",
+      "position": 18,
+      "topic": "t-6-1",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "942e8fc2f414115cd81de220b0b1094cfb90e4afe23588bc184d843a2885a486"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q69",
+      "position": 20,
+      "topic": "t-2-4",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "2f42c3e695215e2bb903761d106eed9522b74d915d8b283fff09dec969d77e72"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q70",
+      "position": 21,
+      "topic": "t-6-1",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "9386b6e3a3b6d6567c453a8704e0a488c61b27bcb037c7ff854e477ea7cc0a63"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q71",
+      "position": 22,
+      "topic": "t-6-1",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "81f3256c93c03a5258e7cbc3f49412ce77015c3a7ffcefe9ae5cf6e8c4be985e"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q72",
+      "position": 23,
+      "topic": "t-6-1",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "8d1dc6a10785de9676cc8dd5de4e1c5df96633ca7db77548550ea5871139e8b6"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q73",
+      "position": 24,
+      "topic": "t-2-6",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "13823cbff7698af1002e5f29099bfb620f3656a01dd8676f887198eac77ae682"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q74",
+      "position": 25,
+      "topic": "t-0-8",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "4adfb1d0e0a56d259713b49ba64ef1cd0513ab0dbc8c6a3c9643d23bfcb1b878"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q75",
+      "position": 26,
+      "topic": "t-6-1",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "54908c3266c1d052dd54291b008dc69264a1b929227985ca9c3cbd6916f2e4e9"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q76",
+      "position": 27,
+      "topic": "t-3-8",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "10ad6980361d8384aa3da95559e3ce707832604b49f54dd3445710691790e1c9"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q77",
+      "position": 28,
+      "topic": "t-1-9",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "5c76d46fa8d798781ac769b9edb950a0654e496ed027c4fca7e4283641c36409"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q78",
+      "position": 29,
+      "topic": "t-1-6",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "528e2753203b8019e76be915a31b8fa43d28b8c0800a4632a0102981062793a9"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q82",
+      "position": 31,
+      "topic": "t-5-6",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "dc309bd59c279a8472b7fa16e1423683c199e44df40bf2568d20babe8afd4f42"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q85",
+      "position": 33,
+      "topic": "t-0-8",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "a85d87e156666eb3ed6a253d55a99e0928156e938fd39b1e7a0186dfd66bc47c"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q86",
+      "position": 34,
+      "topic": "t-6-1",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "1e959d1f31ba2ac3948f8b5ef91d7adaf2844b9a3a6847fc043338e60ed7c3a4"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q91",
+      "position": 38,
+      "topic": "t-1-4",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "31f1b00340daec23ec3675d72e434c4b8556eb1c5f74cfaa15a82dbe242d9514"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q93",
+      "position": 40,
+      "topic": "t-3-8",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "a21619aed4b4b7db458f1ab4b970ea42ee6c69591e8f2754887cb47bae10dfc3"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q95",
+      "position": 42,
+      "topic": "t-1-8",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "423ab3ba0162da87032fb733cc31f754edb04d7f35fbed86abd70ea68e8e28ae"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q96",
+      "position": 43,
+      "topic": "t-6-1",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "90e1b309c2db48ddecbe8530e91b0b1cdfb39c09089a563580d5bee9876347f1"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q97",
+      "position": 44,
+      "topic": "t-6-1",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "7abf345f6388a06e6bcfd63091d7cfe9f0945d4683b52ce2f1820548b7743b39"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q98",
+      "position": 45,
+      "topic": "t-6-1",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "22cdaa6c059af58ef6ec1ccea98d5e8c71937969d5cbc981cbb3c27023f3a30b"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q100",
+      "position": 46,
+      "topic": "t-2-5",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "bd2621fe6b45fd79e21356194d376c2983a1410def0f7d1d5ff37bd69a378952"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q102",
+      "position": 47,
+      "topic": "t-3-7",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "4ba76fad976bdca06f2e60043fa12945e8f719e098eda2ce6556b3bb11e537c4"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q104",
+      "position": 48,
+      "topic": "t-6-1",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "70d05e4c2deff19627fa40520eec1331faa45c741ecbbf6efce5cb68ab0e1bd4"
+    },
+    {
+      "id": "current-a4b49eee3ea8-q107",
+      "position": 50,
+      "topic": "t-0-7",
+      "status": "released",
+      "scoredEligible": true,
+      "sourceTextSha256": "de22dad988caa268d8019432ad4ee70c2170aa48feedd55651db6e8fd5918379"
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+import {batch2ReleasedImports} from './batch2-released-imports.js';
 // Confirmed import-review-01 answers released for learners. Original audit ledgers are immutable.
 export const releasedImports = [
   {
@@ -9235,4 +9236,4 @@ export const releasedImports = [
     "releaseBatch": "import-review-01-confirmed",
     "reviewPosition": 300
   }
-];
+].concat(batch2ReleasedImports);

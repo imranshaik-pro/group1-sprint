@@ -16,7 +16,7 @@ test('Batch 2 covers its eleven stable IDs with fifty bilingual sections and exp
  for(const p of c.segments){assert.ok(p.text.length>300,id);assert.match(p.te,/[\u0c00-\u0c7f]/);assert.ok(p.te.length>150,id);assert.ok(p.teExample&&p.teTitle&&p.example&&p.trap&&p.recall);}}
 });
 test('ninety-two new original questions are topic/section mapped, unique and not promoted to PYQs',()=>{
- assert.equal(batch2Questions.length,92);const bank=practiceBank();assert.equal(bank.length,1057);assert.equal(new Set(bank.map(q=>q.id)).size,1057);assert.equal(new Set(bank.map(q=>q.text)).size,1057);
+ assert.equal(batch2Questions.length,92);const bank=practiceBank();assert.equal(bank.length,1090);assert.equal(new Set(bank.map(q=>q.id)).size,1090);assert.equal(new Set(bank.map(q=>q.text)).size,1090);
  for(const id of curriculumBatches[1].topicIds){const qs=batch2Questions.filter(q=>q.topic===id);assert.equal(qs.length,id==='t-1-1'?12:8);assert.ok(new Set(qs.map(q=>q.chapterSegment)).size>=4);for(const q of qs){assert.equal(q.kind,'original');assert.equal(q.year,undefined);assert.equal(new Set(q.options).size,4);assert.ok(q.options[q.answer]);assert.ok(q.explanation.length>60);assert.equal(q.sourceSection,batch2Lessons[id].segments[q.chapterSegment].title);const c=batch2Lessons[id];assert.ok([c.source.url,...c.sources.map(s=>s[1])].includes(q.source));}}
 });
 test('rights teaching distinguishes enabling clauses, beneficiary scope and emergency exceptions',()=>{
