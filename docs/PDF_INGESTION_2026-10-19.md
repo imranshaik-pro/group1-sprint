@@ -24,7 +24,7 @@ PIB reproduction policy: https://www.pib.gov.in/content/3604_2_CopyrightPolicy.a
 
 - Source files remain editorial provenance. Learners fetch local JSON and extracted JPEG page assets, never external source URLs.
 - Known document IDs, local paths, page count and SHA-256 are validated before rendering. Text is escaped. Reader filters by subject/topic and provides next/previous page navigation.
-- Scanned pages and data are cached on demand by service worker v26; this does not download the whole collection to every device. Only opened pages are available offline.
+- Scanned pages and data are cached on demand by service worker v27; this does not download the whole collection to every device. Only opened pages are available offline.
 - `scripts/materialize-pdf-pages.py` uses pinned SHA-256 manifests to reproduce the 213 JPEG assets at build time with Poppler. CI fails on missing or changed sources.
 - `scripts/extract-pdf-drafts.py --pdf-dir ... --output-dir ... --inventory ...` extracts selectable text then OCRs sparse pages with Poppler/Tesseract, retaining page provenance and confidence. Draft extraction is separate from publication.
 - A new arbitrary scanned upload is not automatically reviewed or published by this release. OCR drafts need quality review, topic curation and rights review before inclusion.
@@ -32,3 +32,5 @@ PIB reproduction policy: https://www.pib.gov.in/content/3604_2_CopyrightPolicy.a
 ## Verification
 
 Automated checks cover catalogue/data integrity, mirrored readers, all 213 JPEG assets, withheld poor OCR, topic mapping, unscored question gates, safe rendering and local loading. Browser checks exercise mobile filters, both page types, page navigation, source prompts, cached reading and lesson attachments. Release results are recorded separately after CI and deployment.
+
+Mobile visual review prompted an enlarge/fit control with horizontal panning inside the reader. OCR source cards explicitly say scanned pages and unverified drafts.
