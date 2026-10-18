@@ -18,9 +18,10 @@ test('only individually confirmed IDs are released, with immutable source lineag
 test('learners can filter, reveal checked solutions and start scored topic practice from both clients',()=>{
  const q=releasedImports.find(q=>q.topic==='t-1-3'),t=topics.find(t=>t.id===q.topic);
  const result=selectReleased({subject:t.subject,topic:t.id});assert.ok(result.some(r=>r.id===q.id));assert.ok(result.every(r=>r.topic===t.id));
- const html=releasedLibraryHTML({subject:t.subject,topic:t.id});assert.match(html,/Reveal verified answer and solution/);const escape=s=>s.replaceAll('&','&amp;').replaceAll("'",'&#39;');for(const text of [t.subject,t.title,q.explanation,q.source])assert.ok(html.includes(escape(text)));assert.ok(html.includes('data-reviewed-topic="'+t.id+'"'));
+ const html=releasedLibraryHTML({subject:t.subject,topic:t.id});assert.match(html,/Reveal verified answer and solution/);assert.doesNotMatch(html,/<a[^>]+href=["']https?:/i);const escape=s=>s.replaceAll('&','&amp;').replaceAll("'",'&#39;');for(const text of [t.subject,t.title,q.explanation])assert.ok(html.includes(escape(text)));assert.ok(html.includes('data-reviewed-topic="'+t.id+'"'));
  assert.equal(selectReleased({subject:'Geography',topic:'t-1-3'}).length,0);assert.match(releasedLibraryHTML({query:'<script>no-match'}),/No questions match/);
  for(const name of ['released-imports.js','released-library.js','practice-bank.js','imported-materials.js'])assert.equal(fs.readFileSync('app/'+name,'utf8'),fs.readFileSync('studio/lib/'+name,'utf8'));
  assert.match(fs.readFileSync('app/sw.js','utf8'),/released-library\.js/);assert.match(fs.readFileSync('app/ui.js','utf8'),/releasedLibraryHTML\(releaseFilters\)/);assert.match(fs.readFileSync('studio/app/workspace.tsx','utf8'),/<ReleasedQuestions/);
 });
+
 

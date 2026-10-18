@@ -14,3 +14,6 @@ test('UPSC section survives route parsing and backup restoration without changin
 
 test('UPSC cursor sync and backup pass validation; unknown pages remain rejected',()=>{const cursor={...e,type:'cursor',data:{page:'upsc'}};assert.equal(validEvent(cursor),true);assert.equal(validEvent({...cursor,data:{page:'admin'}}),false);assert.equal(parseBackup(JSON.stringify({...snapshot,events:[cursor],resume:{page:'upsc'}}),'my-account').events.length,1);});
 test('imported-collections route supports sync and backup without granting admin access',()=>{const cursor={...e,type:'cursor',data:{page:'materials'}};assert.equal(validEvent(cursor),true);assert.equal(parseRoute('#materials')?.page,'materials');assert.equal(parseBackup(JSON.stringify({...snapshot,events:[cursor],resume:{page:'materials'}}),'my-account').resume?.page,'materials');});
+
+
+test('dated task completions survive website backup restore and reject mismatched task/date IDs',()=>{const task={...e,type:'task-complete',data:{taskId:'daily-2026-10-15-2026-10-16-0',planStart:'2026-10-15',day:'2026-10-16',topic:'t-0-0'}};assert.equal(validEvent(task),true);assert.equal(parseBackup(JSON.stringify({...snapshot,events:[task]}),'my-account').events[0].data.taskId,task.data.taskId);assert.equal(validEvent({...task,data:{...task.data,day:'2026-10-17'}}),false);});

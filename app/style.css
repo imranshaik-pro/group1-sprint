@@ -18,3 +18,4 @@
 .exam-sections{margin:0 0 20px;flex-wrap:wrap}.upsc-grid textarea{width:100%;max-width:100%}
 
 [aria-label="Smart topic tracker"] table{border-collapse:collapse;width:100%;margin:14px 0}[aria-label="Smart topic tracker"] th,[aria-label="Smart topic tracker"] td{padding:10px;text-align:left;border-bottom:1px solid #98aaa0;vertical-align:top}[aria-label="Smart topic tracker"] caption{text-align:left;font-weight:700;margin:10px 0}
+.source-attribution{color:var(--muted,#60716d);font-size:.9em}.pending-learning .task{flex-wrap:wrap;gap:12px}[data-daily-task]{flex-wrap:wrap;gap:12px}[data-daily-task] .tasktext,[data-pending-task] .tasktext{min-width:160px;flex:1}
