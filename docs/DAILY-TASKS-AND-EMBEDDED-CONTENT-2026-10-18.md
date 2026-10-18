@@ -22,7 +22,7 @@ Learner source links were still present in UPSC resource cards, related-topic re
 
 ## Verification
 
-Local Node suites and backup validation, TypeScript, production build, repository browser workflow and publication status are recorded in the release section after completion. New tests cover absence, late completion, idempotency, midnight, future/expired plans, prior-plan backlog, exact historical completion, all-ten-science rotation, reader rendering with no external content links, unextracted-document labelling and backup event validation. Browser checks seed a real persisted plan in an isolated profile, complete old and current tasks, reload, advance the calendar and check dated backlog and no outbound source anchors on learner routes. Existing61/103 baseline counts are updated below to actual final results, not assumed.
+Local Node suites and backup validation, TypeScript, production build, repository browser workflow and publication status are recorded in the release section below. New tests cover absence, late completion, idempotency, midnight, future/expired plans, prior-plan backlog, exact historical completion, all-ten-science rotation, reader rendering with no external content links, unextracted-document labelling and backup event validation. Browser checks seed a real persisted plan in an isolated profile, complete old and current tasks, reload, advance the calendar and check dated backlog and no outbound source anchors on learner routes. Local results:61 website Node checks,104 standalone app checks,10 website backup checks, TypeScript noEmit and the managed production build passed. Existing question bank remains1090 (707 original,383 reviewed imported models); the concurrent33-question version22 release is preserved.
 
 ## Failure log
 
@@ -30,6 +30,27 @@ Local Node suites and backup validation, TypeScript, production build, repositor
 - First content run passed47/49; two cache-version expectations still named v24. Updated them to v25, which includes the new module. This changes the expected shipped cache, not the content assertions.
 - First standalone-fixture run passed100/101; one new parity test retained a Site-relative path. Corrected its fixture path, then the full app suite passed. Production paths did not need a workaround.
 
+- Browser run39153269444 passed existing desktop/mobile/offline regression, then checked the pending count immediately after an asynchronous task save (12 before save/render versus11 expected). The test now waits for the persisted completion UI and waits for initial render after reload, retaining the exact11/14 counts. The rerun result is recorded below. Application code was unchanged for this test synchronization fix.
+
 ## Remaining scope
 
 This release fixes scheduling and learner redirects. Complete extraction/OCR and independent answer review of every outstanding PDF remains a separate ingestion track; removing external links does not make those documents processed. Source data and prior question-review records are preserved. Automatic live AI, notifications while closed, full official-syllabus reconciliation and1000-user load testing are not claimed. Existing website and PWA backups remain distinct supported formats, each preserving dated task events.
+
+## Published release
+
+Published successfully in Site version23 on18 October2026 at18:18:47 UTC (23:48 IST), preserving custom audience.
+
+- Website: https://group1-sprint-studio.spryplume16.chatgpt.site
+- App: https://group1-sprint-studio.spryplume16.chatgpt.site/sprint/index.html
+- Site source commit:0188f81cbeb398b91f8d6ca72272854d99528494
+- Implementation commit:ff61e98a12cfddfae852f083402a7ecaf9db8be0
+- Browser-validated commit:683b9af21a1f7f74563e60334db1092ecc42895f (test synchronization follow-up only)
+- Saved version:appgprj_6acb5ae49004819180c2a6d75b1e6d6a~appgver_7f2faca6e4a48191969d12d0b89aa847
+- Deployment:appgdep_6ad50d69bea88191be23b3f1a5f6a97b; native status:succeeded
+- Archive content hash:sha256:7cc72ad3fc49e8ff4854f646eb625e75f5900a36cf8eedd1bb07e6d4b7ff3645
+- Passing browser workflow: https://github.com/imranshaik-pro/group1-sprint/actions/runs/39153423655
+- Screenshot artifact: https://github.com/imranshaik-pro/group1-sprint/actions/runs/39153423655/artifacts/12146460400
+
+61 website Node checks,104 standalone app checks,10 website backup checks,TypeScript and production build passed. Browser regression passed complete existing study flows,PDF extraction/draft review,desktop/mobile/offline checks and the isolated new dated-task scenario:12 overdue+4 today;complete one overdue→11 pending with today unchanged;reload retains it;complete one today;advance to next date→14 pending+4 new tasks. External source anchors are absent on tested learner routes. The mobile carryover screenshot was downloaded and visually inspected:four dated task rows,completion controls and a distinct14-task catch-up queue render without horizontal overflow. Reader source tests cover the complete imported index and question renderers,not just the first visible page.
+
+No live signed-in website browser session or multi-user load test was performed in this environment. Website behaviour is covered through shared calendar logic,actual component rendering,backup validation,TypeScript and production build; browser interaction evidence is from the standalone app. Native publication success verifies deployment,not those unperformed tests. Build retains its existing large-client-chunk advisory. No API keys,roles,access grants or question-bank contents were changed.
