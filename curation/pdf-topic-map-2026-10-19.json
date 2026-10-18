@@ -1,0 +1,337 @@
+{
+  "method": "Editorial document-level relevance from titles and page headings. Optional and preparation documents are not forced into APPSC topics. Not a certified page-level syllabus mapping.",
+  "documents": [
+    {
+      "id": "upsc-2cdfbbc8d4a965",
+      "title": "Anthropology Handwritten Index",
+      "subject": "Anthropology optional",
+      "appscTopics": [],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-bc565ed701bf7f",
+      "title": "Anthropology Handwritten Notes",
+      "subject": "Anthropology optional",
+      "appscTopics": [],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-2def71feaf73e9",
+      "title": "CSAT Handwritten Index",
+      "subject": "General Mental Ability",
+      "appscTopics": [
+        "t-4-0",
+        "t-4-1",
+        "t-4-2",
+        "t-4-3",
+        "t-4-4",
+        "t-4-5",
+        "t-4-6",
+        "t-4-7"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-1d8b81ced08054",
+      "title": "CSAT Handwritten Notes Formulas",
+      "subject": "General Mental Ability",
+      "appscTopics": [
+        "t-4-0",
+        "t-4-1",
+        "t-4-2",
+        "t-4-3",
+        "t-4-4",
+        "t-4-5",
+        "t-4-6",
+        "t-4-7"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-7d6bdd40512041",
+      "title": "Daily Current Affairs Handwritten Notes",
+      "subject": "Current Events",
+      "appscTopics": [
+        "t-6-1",
+        "t-6-2",
+        "t-6-3",
+        "t-6-4"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-f86e507b00ab0d",
+      "title": "Important Current Affairs Handwritten Index",
+      "subject": "Current Events",
+      "appscTopics": [
+        "t-6-1",
+        "t-6-2",
+        "t-6-3",
+        "t-6-4"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-39f629155a6734",
+      "title": "Important Current Affairs Handwritten Notes",
+      "subject": "Current Events",
+      "appscTopics": [
+        "t-6-1",
+        "t-6-2",
+        "t-6-3",
+        "t-6-4"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-d9cb9d1dfb7b08",
+      "title": "Essay Handwritten Index",
+      "subject": "Essay",
+      "appscTopics": [],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-a1231d5c996d73",
+      "title": "Essay Handwritten Notes",
+      "subject": "Essay",
+      "appscTopics": [],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-3fcf26207ad43c",
+      "title": "Biotechnology Types",
+      "subject": "Science & Technology",
+      "appscTopics": [
+        "t-5-3",
+        "t-5-7"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-b48537d8b86df9",
+      "title": "Deep Time Energy Crisis",
+      "subject": "Geography",
+      "appscTopics": [
+        "t-3-0",
+        "t-3-5",
+        "t-5-6"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-f38f55b060d480",
+      "title": "Geography Handwritten Notes Diagrams",
+      "subject": "Geography",
+      "appscTopics": [
+        "t-3-0",
+        "t-3-1",
+        "t-3-2",
+        "t-3-3",
+        "t-3-4"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-e34db3ee866e18",
+      "title": "Archaeology Six Pivotal Questions",
+      "subject": "History & Culture",
+      "appscTopics": [
+        "t-0-0",
+        "t-0-1"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-cb2135fe24d957",
+      "title": "History Handwritten Index",
+      "subject": "History & Culture",
+      "appscTopics": [
+        "t-0-0",
+        "t-0-1",
+        "t-0-2",
+        "t-0-3",
+        "t-0-4",
+        "t-0-5",
+        "t-0-6",
+        "t-0-7",
+        "t-0-8",
+        "t-0-9"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-3251150792128e",
+      "title": "History Handwritten Notes",
+      "subject": "History & Culture",
+      "appscTopics": [
+        "t-0-3",
+        "t-0-5",
+        "t-0-7",
+        "t-0-8"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-66e9591f50dd79",
+      "title": "India Neighbourhood First Strategy",
+      "subject": "Polity & Governance",
+      "appscTopics": [
+        "t-1-9",
+        "t-6-2"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-ffa24942fe1521",
+      "title": "Medieval History",
+      "subject": "History & Culture",
+      "appscTopics": [
+        "t-0-5"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-a2cae4b5c950e7",
+      "title": "Slave Dynasty",
+      "subject": "History & Culture",
+      "appscTopics": [
+        "t-0-5"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-d497b271ea2230",
+      "title": "IUCN Species",
+      "subject": "Geography",
+      "appscTopics": [
+        "t-3-8"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-0f836985ad8621",
+      "title": "IUCN reference world india 10x10 all categories",
+      "subject": "Geography",
+      "appscTopics": [
+        "t-3-8"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-e03aa6912461ba",
+      "title": "Polity Handwritten Index",
+      "subject": "Polity & Governance",
+      "appscTopics": [
+        "t-1-0",
+        "t-1-1",
+        "t-1-2",
+        "t-1-3",
+        "t-1-4",
+        "t-1-5",
+        "t-1-6",
+        "t-1-7",
+        "t-1-8"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-b13e26d7bbdbd3",
+      "title": "Polity Handwritten Notes",
+      "subject": "Polity & Governance",
+      "appscTopics": [
+        "t-1-0",
+        "t-1-1",
+        "t-1-2"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-060ce29ebd6cc6",
+      "title": "Science Technology Handwritten Index",
+      "subject": "Science & Technology",
+      "appscTopics": [
+        "t-5-0",
+        "t-5-1",
+        "t-5-2",
+        "t-5-3",
+        "t-5-4",
+        "t-5-5",
+        "t-5-6",
+        "t-5-7",
+        "t-5-8",
+        "t-5-9"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-28f79c3a69d8f5",
+      "title": "Science Technology Handwritten Notes",
+      "subject": "Science & Technology",
+      "appscTopics": [
+        "t-5-2",
+        "t-5-3",
+        "t-5-7"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-7b2f9550fba8b7",
+      "title": "Static Current GK Handwritten Index",
+      "subject": "General knowledge",
+      "appscTopics": [
+        "t-6-4"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-f17b11b1f577c3",
+      "title": "Static Current GK Handwritten Notes",
+      "subject": "General knowledge",
+      "appscTopics": [
+        "t-0-9",
+        "t-3-2",
+        "t-3-8",
+        "t-6-4"
+      ],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "upsc-7bfd53195002e8",
+      "title": "UPSC Syllabus Exam Structure Handwritten",
+      "subject": "Preparation guidance",
+      "appscTopics": [],
+      "mappingStatus": "document-level relevance; page-specific alignment requires review"
+    },
+    {
+      "id": "external-1e8f0549620a5285",
+      "title": "Union Budget 2026–27 speech",
+      "subject": "Economy & Planning",
+      "appscTopics": [
+        "t-2-2",
+        "t-6-1"
+      ],
+      "mappingStatus": "editorial document relevance"
+    },
+    {
+      "id": "external-dfb6eaa993b20a1a",
+      "title": "Operation Sindoor: technology and self-reliance",
+      "subject": "Current Events",
+      "appscTopics": [
+        "t-5-8",
+        "t-6-1"
+      ],
+      "mappingStatus": "editorial document relevance"
+    },
+    {
+      "id": "external-b289aa28439711bd",
+      "title": "Viksit Bharat–GRAM G Bill: source backgrounder",
+      "subject": "Polity & Governance",
+      "appscTopics": [
+        "t-1-8",
+        "t-2-5",
+        "t-6-3"
+      ],
+      "mappingStatus": "editorial document relevance"
+    }
+  ]
+}

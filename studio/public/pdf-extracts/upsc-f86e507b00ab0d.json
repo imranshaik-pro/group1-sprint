@@ -1,0 +1,41 @@
+{
+ "id": "upsc-f86e507b00ab0d",
+ "title": "Important Current Affairs Handwritten Index",
+ "sections": [
+  {
+   "page": 1,
+   "title": "Page 1",
+   "text": "",
+   "image": "pdf-scans/upsc-f86e507b00ab0d/1.jpg",
+   "method": "ocr",
+   "quality": "review-required",
+   "meanWordConfidence": 40.73,
+   "transcriptionReviewed": false,
+   "appscTopics": [
+    "t-6-1",
+    "t-6-2",
+    "t-6-3",
+    "t-6-4"
+   ]
+  },
+  {
+   "page": 2,
+   "title": "Page 2",
+   "text": "",
+   "image": "pdf-scans/upsc-f86e507b00ab0d/2.jpg",
+   "method": "ocr",
+   "quality": "review-required",
+   "meanWordConfidence": 32.51,
+   "transcriptionReviewed": false,
+   "appscTopics": [
+    "t-6-1",
+    "t-6-2",
+    "t-6-3",
+    "t-6-4"
+   ]
+  }
+ ],
+ "questions": [],
+ "attribution": "Madhurima Rawat — UPSC Notes Resources · Copyright (c) 2026 Madhurima Rawat · MIT",
+ "notice": "Original scanned pages are embedded here. Extracted OCR is a draft; faint handwriting and mathematical notation need review. Source claims are not official answer verification."
+}

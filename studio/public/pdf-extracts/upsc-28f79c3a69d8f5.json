@@ -1,0 +1,84 @@
+{
+ "id": "upsc-28f79c3a69d8f5",
+ "title": "Science Technology Handwritten Notes",
+ "sections": [
+  {
+   "page": 1,
+   "title": "Page 1",
+   "text": "",
+   "image": "pdf-scans/upsc-28f79c3a69d8f5/1.jpg",
+   "method": "ocr",
+   "quality": "review-required",
+   "meanWordConfidence": 28.38,
+   "transcriptionReviewed": false,
+   "appscTopics": [
+    "t-5-2",
+    "t-5-3",
+    "t-5-7"
+   ]
+  },
+  {
+   "page": 2,
+   "title": "Page 2",
+   "text": "",
+   "image": "pdf-scans/upsc-28f79c3a69d8f5/2.jpg",
+   "method": "ocr",
+   "quality": "review-required",
+   "meanWordConfidence": 29.25,
+   "transcriptionReviewed": false,
+   "appscTopics": [
+    "t-5-2",
+    "t-5-3",
+    "t-5-7"
+   ]
+  },
+  {
+   "page": 3,
+   "title": "Page 3",
+   "text": "",
+   "image": "pdf-scans/upsc-28f79c3a69d8f5/3.jpg",
+   "method": "ocr",
+   "quality": "review-required",
+   "meanWordConfidence": 27.33,
+   "transcriptionReviewed": false,
+   "appscTopics": [
+    "t-5-2",
+    "t-5-3",
+    "t-5-7"
+   ]
+  },
+  {
+   "page": 4,
+   "title": "Page 4",
+   "text": "",
+   "image": "pdf-scans/upsc-28f79c3a69d8f5/4.jpg",
+   "method": "ocr",
+   "quality": "review-required",
+   "meanWordConfidence": 34.31,
+   "transcriptionReviewed": false,
+   "appscTopics": [
+    "t-5-2",
+    "t-5-3",
+    "t-5-7"
+   ]
+  },
+  {
+   "page": 5,
+   "title": "Page 5",
+   "text": "",
+   "image": "pdf-scans/upsc-28f79c3a69d8f5/5.jpg",
+   "method": "ocr",
+   "quality": "review-required",
+   "meanWordConfidence": 51.96,
+   "transcriptionReviewed": false,
+   "appscTopics": [
+    "t-5-2",
+    "t-5-3",
+    "t-5-7"
+   ]
+  }
+ ],
+ "questions": [],
+ "attribution": "Madhurima Rawat — UPSC Notes Resources · Copyright (c) 2026 Madhurima Rawat · MIT",
+ "notice": "Original scanned pages are embedded here. Extracted OCR is a draft; faint handwriting and mathematical notation need review. Source claims are not official answer verification."
+}

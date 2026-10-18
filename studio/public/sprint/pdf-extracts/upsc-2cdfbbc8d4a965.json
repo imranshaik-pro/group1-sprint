@@ -1,0 +1,31 @@
+{
+ "id": "upsc-2cdfbbc8d4a965",
+ "title": "Anthropology Handwritten Index",
+ "sections": [
+  {
+   "page": 1,
+   "title": "Page 1",
+   "text": "",
+   "image": "pdf-scans/upsc-2cdfbbc8d4a965/1.jpg",
+   "method": "ocr-psm6",
+   "quality": "review-required",
+   "meanWordConfidence": 45.85,
+   "transcriptionReviewed": false,
+   "appscTopics": []
+  },
+  {
+   "page": 2,
+   "title": "Page 2",
+   "text": "",
+   "image": "pdf-scans/upsc-2cdfbbc8d4a965/2.jpg",
+   "method": "ocr-psm6",
+   "quality": "review-required",
+   "meanWordConfidence": 0,
+   "transcriptionReviewed": false,
+   "appscTopics": []
+  }
+ ],
+ "questions": [],
+ "attribution": "Madhurima Rawat — UPSC Notes Resources · Copyright (c) 2026 Madhurima Rawat · MIT",
+ "notice": "Original scanned pages are embedded here. Extracted OCR is a draft; faint handwriting and mathematical notation need review. Source claims are not official answer verification."
+}

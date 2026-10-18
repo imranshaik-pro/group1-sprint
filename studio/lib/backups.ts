@@ -2,7 +2,7 @@ import { validEvent, type StudyEvent } from './event-validation.ts';
 export type Resume={page:string;topic?:string};
 export type ReadingBackup={id:string;page:number;pages:number;notes:string;bookmarks:number[];lastReadAt?:string};
 export type StudyBackup={app:'group1-studio';version:2;exportedAt:string;account:{id:string;email:string};events:StudyEvent[];resume:Resume;reading:ReadingBackup[]};
-export const STUDY_PAGES=['materials','upsc','today','plan','library','lesson','revision','practice','papers','reading','current','insights','tutor','settings'];
+export const STUDY_PAGES=['pdfs','materials','upsc','today','plan','library','lesson','revision','practice','papers','reading','current','insights','tutor','settings'];
 export function validResume(value:unknown):value is Resume {if(!value||typeof value!=='object')return false;const v=value as Resume;return STUDY_PAGES.includes(v.page)&&(v.page!=='lesson'||typeof v.topic==='string'&&/^t-[0-6]-[0-9]$/.test(v.topic));}
 export function routeHash(resume:Resume){return '#'+resume.page+(resume.page==='lesson'?'?topic='+resume.topic:'');}
 export function parseRoute(hash:string):Resume|null {const raw=hash.replace(/^#/,'');const [page,query]=raw.split('?');const r={page,topic:new URLSearchParams(query||'').get('topic')||undefined};return validResume(r)?r:null;}

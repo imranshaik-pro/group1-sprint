@@ -1,0 +1,42 @@
+{
+ "id": "upsc-a1231d5c996d73",
+ "title": "Essay Handwritten Notes",
+ "sections": [
+  {
+   "page": 1,
+   "title": "Page 1",
+   "text": "",
+   "image": "pdf-scans/upsc-a1231d5c996d73/1.jpg",
+   "method": "ocr",
+   "quality": "review-required",
+   "meanWordConfidence": 36.85,
+   "transcriptionReviewed": false,
+   "appscTopics": []
+  },
+  {
+   "page": 2,
+   "title": "Page 2",
+   "text": "",
+   "image": "pdf-scans/upsc-a1231d5c996d73/2.jpg",
+   "method": "ocr",
+   "quality": "review-required",
+   "meanWordConfidence": 30.03,
+   "transcriptionReviewed": false,
+   "appscTopics": []
+  },
+  {
+   "page": 3,
+   "title": "Page 3",
+   "text": "",
+   "image": "pdf-scans/upsc-a1231d5c996d73/3.jpg",
+   "method": "ocr",
+   "quality": "review-required",
+   "meanWordConfidence": 30.23,
+   "transcriptionReviewed": false,
+   "appscTopics": []
+  }
+ ],
+ "questions": [],
+ "attribution": "Madhurima Rawat — UPSC Notes Resources · Copyright (c) 2026 Madhurima Rawat · MIT",
+ "notice": "Original scanned pages are embedded here. Extracted OCR is a draft; faint handwriting and mathematical notation need review. Source claims are not official answer verification."
+}

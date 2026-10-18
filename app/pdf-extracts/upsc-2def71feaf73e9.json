@@ -1,0 +1,49 @@
+{
+ "id": "upsc-2def71feaf73e9",
+ "title": "CSAT Handwritten Index",
+ "sections": [
+  {
+   "page": 1,
+   "title": "Page 1",
+   "text": "",
+   "image": "pdf-scans/upsc-2def71feaf73e9/1.jpg",
+   "method": "ocr",
+   "quality": "review-required",
+   "meanWordConfidence": 30.1,
+   "transcriptionReviewed": false,
+   "appscTopics": [
+    "t-4-0",
+    "t-4-1",
+    "t-4-2",
+    "t-4-3",
+    "t-4-4",
+    "t-4-5",
+    "t-4-6",
+    "t-4-7"
+   ]
+  },
+  {
+   "page": 2,
+   "title": "Page 2",
+   "text": "",
+   "image": "pdf-scans/upsc-2def71feaf73e9/2.jpg",
+   "method": "ocr-psm6",
+   "quality": "review-required",
+   "meanWordConfidence": 38.21,
+   "transcriptionReviewed": false,
+   "appscTopics": [
+    "t-4-0",
+    "t-4-1",
+    "t-4-2",
+    "t-4-3",
+    "t-4-4",
+    "t-4-5",
+    "t-4-6",
+    "t-4-7"
+   ]
+  }
+ ],
+ "questions": [],
+ "attribution": "Madhurima Rawat — UPSC Notes Resources · Copyright (c) 2026 Madhurima Rawat · MIT",
+ "notice": "Original scanned pages are embedded here. Extracted OCR is a draft; faint handwriting and mathematical notation need review. Source claims are not official answer verification."
+}

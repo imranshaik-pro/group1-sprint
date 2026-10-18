@@ -1,0 +1,31 @@
+{
+ "id": "upsc-d9cb9d1dfb7b08",
+ "title": "Essay Handwritten Index",
+ "sections": [
+  {
+   "page": 1,
+   "title": "Page 1",
+   "text": "",
+   "image": "pdf-scans/upsc-d9cb9d1dfb7b08/1.jpg",
+   "method": "ocr",
+   "quality": "review-required",
+   "meanWordConfidence": 34.46,
+   "transcriptionReviewed": false,
+   "appscTopics": []
+  },
+  {
+   "page": 2,
+   "title": "Page 2",
+   "text": "",
+   "image": "pdf-scans/upsc-d9cb9d1dfb7b08/2.jpg",
+   "method": "ocr",
+   "quality": "review-required",
+   "meanWordConfidence": 29.74,
+   "transcriptionReviewed": false,
+   "appscTopics": []
+  }
+ ],
+ "questions": [],
+ "attribution": "Madhurima Rawat — UPSC Notes Resources · Copyright (c) 2026 Madhurima Rawat · MIT",
+ "notice": "Original scanned pages are embedded here. Extracted OCR is a draft; faint handwriting and mathematical notation need review. Source claims are not official answer verification."
+}

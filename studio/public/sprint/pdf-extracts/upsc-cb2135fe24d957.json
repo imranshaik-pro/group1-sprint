@@ -1,0 +1,31 @@
+{
+ "id": "upsc-cb2135fe24d957",
+ "title": "History Handwritten Index",
+ "sections": [
+  {
+   "page": 1,
+   "title": "Page 1",
+   "text": "",
+   "image": "pdf-scans/upsc-cb2135fe24d957/1.jpg",
+   "method": "ocr",
+   "quality": "review-required",
+   "meanWordConfidence": 36.07,
+   "transcriptionReviewed": false,
+   "appscTopics": [
+    "t-0-0",
+    "t-0-1",
+    "t-0-2",
+    "t-0-3",
+    "t-0-4",
+    "t-0-5",
+    "t-0-6",
+    "t-0-7",
+    "t-0-8",
+    "t-0-9"
+   ]
+  }
+ ],
+ "questions": [],
+ "attribution": "Madhurima Rawat — UPSC Notes Resources · Copyright (c) 2026 Madhurima Rawat · MIT",
+ "notice": "Original scanned pages are embedded here. Extracted OCR is a draft; faint handwriting and mathematical notation need review. Source claims are not official answer verification."
+}
