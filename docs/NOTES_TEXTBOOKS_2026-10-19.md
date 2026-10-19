@@ -15,3 +15,11 @@ The 150 previously reported weak handwritten transcriptions remain pending. Thei
 Verification: module checks, catalogue hashes, subject/type filtering, same-origin textbook viewer, no external navigation in legacy reader, TypeScript compilation/tests, production packaging and CI browser journey. Exact release identifiers and CI outcome are recorded after publishing.
 
 Release verification caught two app test files incorrectly copied from website tests; restored their app paths. Browser QA then caught mobile overflow on a textbook text page; contained text/iframe widths and retained overflow assertions for the corrected build.
+
+## Published verification
+
+Version 27 deployed successfully on 19 October 2026. Deployment: `appgdep_6ad5ae7dbbd881919b3522082b24d564`. Site source commit: `0013421fbd236b26995d043690423f994365feb9`. GitHub implementation: `b10ba0338e12ecd5eec98dea0f8a8fb7d4b7008c`.
+
+CI: https://github.com/imranshaik-pro/group1-sprint/actions/runs/39205987239 — passed. App: 112/112 tests. Website: 70/70 module checks, 49/49 TypeScript tests and successful TypeScript compilation/production build. Browser journey passed subject shelves, textbook filtering, local PDF.js canvas rendering, enlarge/fit, next-page navigation, no external reading links and no mobile horizontal overflow. Mobile screenshot was visually inspected. Previous daily-task, study and offline journeys passed too.
+
+Live website: https://group1-sprint-studio.spryplume16.chatgpt.site/#pdfs . Live PWA: https://group1-sprint-studio.spryplume16.chatgpt.site/sprint/index.html#pdfs .
