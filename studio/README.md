@@ -1,126 +1,60 @@
-# vinext-starter
+# APPSC Group-I Sprint
 
-A clean full-stack starter running on [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and Drizzle support.
+A Telugu-first study workspace for learning concepts, practising reviewed questions and returning for revision. Website and installable app share the syllabus IDs, chapters, question bank and learning rules. They currently have separate UI and storage adapters; account sharing uses explicit adapters for supported study events; large binary attachments and custom question attempts retain the limits described below.
 
-## Prerequisites
+## Open the product
 
-- Node.js `>=22.13.0`
-- Portable: Windows, macOS, or Linux; no Bash required
-- Managed Linux: managed Linux runtime with Bash, `flock`, `curl`, `sha256sum`, and GNU `timeout`
-- Git is required only for publishing
+- Website: https://group1-sprint-studio.spryplume16.chatgpt.site/
+- Installable app: https://group1-sprint-studio.spryplume16.chatgpt.site/sprint/index.html
+- Learner journey: **Today → Learn → Practise → Revise → Progress**. Notes & Textbooks supports Learn.
 
-## Sites Lifecycle
+## Verified baseline
 
-The Sites initializer copies the shared starter and selects managed-linux only when `SITES_MANAGED_LINUX_CONTAINER=1`; otherwise it selects portable. It saves the selection only in ignored `.sites-runtime/execution-profile.json`. Both profiles copy/configure first, then use the plugin's separate `install-dependencies.mjs` step to measure installation independently. Edit source under `app/` and follow the Sites skill for installation, preview, builds, and publishing.
+The last released baseline is Site version 28. It contains 65 internal study units and 276 chapter segments, 1,090 bundled scored questions, and 38 embedded notes/reference/textbook documents spanning 534 pages. These counts describe inventory, not complete official-syllabus coverage or independent factual certification. 150 weak handwritten OCR transcriptions are withheld; their scanned pages remain readable inside the app. Eight textbook documents are excerpts, not complete textbooks. External documents held for rights, extraction or availability are not counted as published.
 
-Run `node <plugin-root>/scripts/configure-execution-profile.mjs` only when the profile is unknown for the current checkout and environment. Profile changes do not alter tracked source or require reinstalling otherwise-valid dependencies; restart an existing preview to use the new selection. Do not commit or upload `.sites-runtime/`.
+Version 28 fixed lesson navigation being blocked by a denied progress save. It tested actual topic-card clicks for all 65 topics in guest, pending and approved website account states (membership transport mocked), and all 65 app topics through every chapter segment. See docs/TOPIC_NAVIGATION_2026-10-19.md in the GitHub repository for precise verification limits.
 
-This starter does not use `wrangler.jsonc`.
+## Accounts, progress and privacy
 
-`install:ci` runs `npm ci` once against the shared lockfile, disables parent-workspace discovery, and includes required dev/optional dependencies despite production/omit settings. Sharp defaults to prebuilt binaries unless explicitly configured otherwise. Do not overlap installers.
+The website uses Sign in with ChatGPT, an approved membership and a Cloudflare D1-backed workspace API. Reading can continue without a successful save; the interface must label unsaved progress. Site sharing access and application membership are separate checks. Account approval never implies an exam/content endorsement.
 
-- **Portable:** Preserve host HOME, npm cache, registry, proxy, temporary paths, retry/concurrency settings, and lifecycle-script policy. Use `--prefer-offline --no-audit --no-fund`.
-- **Managed Linux:** Use the existing project-local HOME/cache/tmp setup and Linux install lock, tarball preflight, and timeout. Restore the image-seeded npm cache only when its lockfile hash matches; retain network fallback. Builds keep their existing timeout. These helpers are not invoked by the portable profile.
+The app stores events offline in IndexedDB and supports JSON backup. The legacy encrypted GitHub vault is a personal-use adapter, not the intended public learner onboarding path. A shared account-sync adapter is implemented with explicit first-device import consent and account isolation; do not assume website and app history have merged until the interface confirms it. Existing backups and personal vault records must remain recoverable during migration.
 
-`scripts/sites-env.mjs` preserves the caller's HOME, npm cache, proxy, XDG, and temporary-directory configuration while defaulting Wrangler and Miniflare state to the checkout. If npm reports an unwritable cache, select a writable path with `npm_config_cache` for that install. The `dev` and `start` scripts also keep Wrangler logs inside the checkout. Generated `.sites-runtime/` and `.wrangler/` directories are disposable and ignored by Git.
+No source repository, external PDF or publisher catalogue is required for normal learner reading. Provenance stays in editorial records and source attribution. Account tokens and API keys must not be placed in the browser bundle, repository, exported diagnostics or chat.
 
-On portable, `npm run dev` uses `vinext dev` with HMR, starting at port 5173. Vinext records the running server in ignored `.vinext/` state, rejects an ordinary duplicate launch, and recovers stale state after a stopped process; exactly simultaneous starts can race. Pass `--port <port>` or `--hostname <host>` after `npm run dev --` when needed; keep portable previews on loopback.
+## Product delivery order
 
-For browser QA on managed Linux, use `sites-preview start`. The project's dev script runs Vite and accepts the supervisor's `--host 0.0.0.0 --port 4173 --strictPort` arguments. The internal browser uses `http://terminal.local:4173/`; it is not a user-facing URL. The supervisor owns the preview lifecycle. The ignored local profile survives the supervisor's cleared process environment.
+| Order | Work | Completion evidence |
+|---|---|---|
+| 1 | Accurate README and delivery ledger | Current architecture, limits and release links documented |
+| 2 | Reliability, diagnostics, navigation and coverage audit | Real click tests, release checklist, safe reports, all-unit coverage inventory |
+| 3 | Teaching quality, practice controls and tutor corrections | Lesson quality gaps visible, question-family checks, reviewed correction workflow |
+| 4 | Pilot and pricing preparation | Activation/returning-use measures, feedback and cost-based break-even tool; no invented results |
+| 5 | Controlled AI | Begins after content/pilot gates; requires provider/key, budgets and approved content boundaries |
 
-The portable profile simulates ChatGPT sign-in only for loopback development requests. Visit `/signin-with-chatgpt?return_to=/` to sign in as `local_seedy` (`seedy@sites.test`, display name `Seedy`) and `/signout-with-chatgpt?return_to=/` to sign out. The development cookie preserves that identity across server restarts. Mock auth is disabled in the managed-linux profile and is not included in production builds; hosted authentication remains dispatch-owned.
+Implementation progress and blockers are recorded in docs/PRODUCT_DELIVERY_2026-10-19.md. A page existing does not establish that a live pilot, commercial permission or factual content review has been completed.
 
-The Worker uses `vinext/server/fetch-handler`, including Vinext's config-aware image handling. After building, `npm start` runs that Worker locally through Wrangler on `127.0.0.1`, sharing `.wrangler/state` with dev preview and local D1 migrations; it does not deploy the site or simulate sign-in. Use the URL printed by the server. Pass `npm start -- --port <port>` to select a different built-preview port.
+## Development
 
-Local previews use Miniflare's placeholder `Request.cf` metadata without a network lookup. Set `CLOUDFLARE_CF_FETCH_ENABLED=true` to opt into fetching preview metadata; this setting does not change hosted request metadata.
+This checkout is the website project; in the GitHub repository it lives under `studio/`. The repository root contains the standalone app under `app/`.
 
-Local tool usage metrics are disabled by default. Set `WRANGLER_SEND_METRICS=true` to opt in.
+- Standalone app from repository root: `npm ci`, `npm run build`, `npm test`, `npm start` (Node 22.13+ and Python 3; Poppler is required to reproduce scanned-page assets).
+- Website from `studio/`: install using its declared package manager, then run `npm run build`. D1 binding and the hosting configuration are required for the deployed workspace API. The Sites source/build helpers manage hosted publication.
+- Never point one interface's event backup at the other's parser. Use explicit validated migration/account sync paths.
+- The PDF build verifies pinned source SHA-256 values before producing same-origin assets. Preserve source licences and attribution. Commercial use of noncommercial material requires permission/replacement.
 
-## Included Shape
+## Quality and release policy
 
-- edit site code under `app/`
-- `app/chatgpt-auth.ts` provides optional dispatch-owned ChatGPT sign-in helpers
-- `.openai/hosting.json` declares optional Sites D1 and R2 bindings
-- `vite.config.ts` simulates declared bindings for local development
-- `db/index.ts` reads the D1 binding from the Cloudflare Worker environment
-- `db/schema.ts` starts intentionally empty
-- `@cloudflare/workers-types` provides Worker types; `cloudflare-env.d.ts` declares optional `DB`/`BUCKET` bindings—update these declarations if binding names change
-- `examples/d1/` contains an optional D1 example surface
-- `drizzle.config.ts` supports local migration generation when needed
+Run relevant unit/TypeScript checks, website production build and GitHub Actions browser journeys. All-topic click/reading tests are mandatory for navigation or lesson-flow changes. Include guest, pending, approved, saved/reloaded and offline cases. Publication must record exact code SHA, CI run, Site version, terminal deployment result and known limits. Never claim every feature was tested from a subset of journeys.
 
-## Workspace Auth Headers
+Report a problem using Help & feedback. Diagnostics should contain only release, interface, route category, timestamp and error class; no notes, question attempts, credentials or raw request URLs. A correction remains pending until an authorised reviewer records evidence and a disposition.
 
-Signed-in visitors receive both `oai-authenticated-user-id` and `oai-authenticated-user-email`. Private Sites require every visitor to sign in; public Sites may also have anonymous visitors, for whom neither header is present.
+## Learning and business boundaries
 
-The user ID is stable for the same user on the same Site and different across Sites. Use it as the durable user key; use email and name for display or contact purposes.
+The 65-unit map is provisional until matched against a dated official APPSC syllabus. Do not invent exam dates, notification details or PYQ years. Current-affairs examples carry a snapshot date. Completing a lesson or passing a small quiz does not certify mastery.
 
-SIWC-authenticated workspace sites may also receive `oai-authenticated-user-full-name` when the user's SIWC profile has a non-empty `name` claim. The full-name value is percent-encoded UTF-8 and is accompanied by `oai-authenticated-user-full-name-encoding: percent-encoded-utf-8`.
+Pilot target: 30–50 consenting learners before wider scale. Track activation, seven-day return, delayed practice evidence and support burden. No users are enrolled or contacted automatically by repository work. Pricing is an experiment based on actual costs and willingness-to-pay evidence. No payment processing is enabled by this work.
 
-Treat the full name as optional and fall back to email when it is absent:
+AI adapters/source code may exist, but live AI is not a completed paid-product feature. Keys, provider availability, budget enforcement and reviewed-content restrictions must be configured and tested before activation.
 
-```tsx
-import { headers } from "next/headers";
-
-export default async function Home() {
-  const requestHeaders = await headers();
-  const userId = requestHeaders.get("oai-authenticated-user-id");
-  const email = requestHeaders.get("oai-authenticated-user-email");
-  const encodedFullName = requestHeaders.get("oai-authenticated-user-full-name");
-  const fullName =
-    encodedFullName &&
-    requestHeaders.get("oai-authenticated-user-full-name-encoding") ===
-      "percent-encoded-utf-8"
-      ? decodeURIComponent(encodedFullName)
-      : null;
-
-  const displayName = fullName ?? email;
-  // ...
-}
-```
-
-## Optional Dispatch-Owned ChatGPT Sign-In
-
-Import the ready-to-use helpers from `app/chatgpt-auth.ts` when the site needs optional or required ChatGPT sign-in:
-
-- Use `getChatGPTUser()` for optional signed-in UI.
-- Use the returned `userId` as the stable user key for user-owned records; do not use email as a durable identifier.
-- Use `requireChatGPTUser(returnTo)` for server-rendered pages that should send anonymous visitors through Sign in with ChatGPT.
-- In a Server Component, start sign-in with `<a href={chatGPTSignInPath(returnTo)} target="_top">`. The auth helper module is server-only; do not import it into a Client Component.
-- Do not use `fetch`, XHR, a client-side router, or a framework link that can prefetch the sign-in route. SIWC must start as a top-level navigation.
-- Never request the AuthAPI authorization endpoint directly. The dispatch-owned `/signin-with-chatgpt` route must start the SIWC flow.
-- Use `chatGPTSignOutPath(returnTo)` for browser sign-out links or actions.
-- Pass a same-origin relative `returnTo` path for the destination after sign-in or sign-out. The helper validates and safely encodes it.
-- Mark protected pages with `export const dynamic = "force-dynamic"` because they depend on per-request identity headers.
-
-Dispatch owns `/signin-with-chatgpt`, `/signout-with-chatgpt`, `/callback`, the OAuth cookies, and identity header injection. Do not implement app routes for those reserved paths. Routes that do not import and call the helper remain anonymous-compatible.
-
-SIWC establishes identity only; it does not prove workspace membership. Use the Sites hosting platform's access policy controls for workspace-wide restrictions, or enforce explicit server-side membership or allowlist checks.
-
-Use SIWC for account pages, user-specific dashboards, saved records, and write actions tied to the current ChatGPT user. Leave public content anonymous.
-
-## Local D1 migrations
-
-For a D1-backed local preview, generate SQL with `npm run db:generate`. Build once through the Sites skill's build entrypoint (or `npm run build` for standalone use) to generate `dist/server/wrangler.json`, rebuilding if bindings change. From the project root, apply each pending migration in order:
-
-```sh
-node --import ./scripts/sites-env.mjs ./node_modules/wrangler/bin/wrangler.js d1 execute DB --local --config dist/server/wrangler.json --persist-to .wrangler/state --file drizzle/0000_example.sql
-```
-
-Replace the filename with the pending migration and `DB` with your D1 binding name if different. Use `.wrangler/state`, not `.wrangler/state/v3`; Wrangler adds the versioned directories. Do not replay migrations already applied locally. This updates only the preview database; publishing applies production migrations separately.
-
-## Diagnostic Commands
-
-- `npm run install:ci`: perform the one locked dependency install
-- `npm run dev`: start the Vite/Vinext development server
-- `npm run build`: build the deployable Sites artifact
-- `npm run start`: preview the built Worker locally with D1/R2 support
-- `npm run db:generate`: generate Drizzle migrations after schema changes
-
-When using the Sites plugin, follow its skill instructions for installation, builds, and publishing. These npm commands remain available for standalone use.
-
-The portable build runs Vinext directly without a host `timeout` command. The managed-linux build uses `scripts/build-verified.sh` and its existing `SITES_BUILD_TIMEOUT` setting.
-
-## Learn More
-
-- [vinext Documentation](https://github.com/cloudflare/vinext)
-- [Drizzle D1 Guide](https://orm.drizzle.team/docs/get-started/d1-new)
+The account bridge keeps large records device-only with a visible warning; keep full backups. It projects notes, guided learning, task completion, completion state, reading preferences, plans and compatible bundled practice. No user history is moved to a cloud account before the first-device consent step. The legacy vault remains available for recovery under Advanced.

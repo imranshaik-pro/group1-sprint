@@ -1,0 +1,9 @@
+// Aggregate inside SQLite so private notes and large practice payloads never enter the pilot API heap.
+export const PILOT_SQL=`SELECT p.user_id AS userId,json_extract(p.payload,'$.joinedAt') AS joinedAt,
+ MAX(CASE WHEN json_extract(s.payload,'$.type')='learning-flow' AND CAST(json_extract(s.payload,'$.data.segment') AS INTEGER)>0 THEN 1 ELSE 0 END) AS moved,
+ MAX(CASE WHEN json_extract(s.payload,'$.type')='learning-flow' AND json_extract(s.payload,'$.data.stage') IN ('practice','revise') THEN 1 ELSE 0 END) AS recalled,
+ MAX(CASE WHEN json_extract(s.payload,'$.type')='practice' AND CAST(json_extract(s.payload,'$.data.attempted') AS INTEGER)>0 THEN 1 ELSE 0 END) AS practised,
+ MAX(CASE WHEN json_extract(s.payload,'$.type') IN ('learning-flow','practice','complete','recall','task-complete') AND julianday(s.created_at)-julianday(json_extract(p.payload,'$.joinedAt'))>=7 AND julianday(s.created_at)-julianday(json_extract(p.payload,'$.joinedAt'))<8 THEN 1 ELSE 0 END) AS returned
+ FROM events p LEFT JOIN events s ON s.user_id=p.user_id AND s.created_at>=json_extract(p.payload,'$.joinedAt') AND s.event_id NOT LIKE 'ops:%' AND s.event_id NOT LIKE 'content:%' AND s.event_id NOT LIKE 'app-%'
+ WHERE p.event_id='ops:pilot' AND json_extract(p.payload,'$.consent')=1 GROUP BY p.user_id`;
+export function pilotAggregate(rows,now=Date.now()){const people=rows.map(r=>({userId:r.userId,activated:!!Number(r.moved)&&!!Number(r.recalled)&&!!Number(r.practised),eligibleD7:now-Date.parse(r.joinedAt)>=8*86400000,returnedD7:now-Date.parse(r.joinedAt)>=8*86400000&&!!Number(r.returned)}));const eligible=people.filter(p=>p.eligibleD7);return {participants:people.length,activated:people.filter(p=>p.activated).length,eligibleD7:eligible.length,returnedD7:eligible.filter(p=>p.returnedD7).length,d7Rate:eligible.length?eligible.filter(p=>p.returnedD7).length/eligible.length:null,rows:people};}

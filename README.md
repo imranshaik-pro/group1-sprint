@@ -1,85 +1,60 @@
-# Group1 Sprint
+# APPSC Group-I Sprint
 
-An offline-first APPSC study workspace for Android and desktop. A responsive forest-green interface keeps the next learning action visible, without fabricated scores or progress. Personal study records live on the device and can sync, encrypted, into a separate **private** GitHub repository.
+A Telugu-first study workspace for learning concepts, practising reviewed questions and returning for revision. Website and installable app share the syllabus IDs, chapters, question bank and learning rules. They currently have separate UI and storage adapters; account sharing uses explicit adapters for supported study events; large binary attachments and custom question attempts retain the limits described below.
 
-![Initial desktop dashboard](docs/screenshots/dashboard-desktop.png)
+## Open the product
 
-## What works in v1
+- Website: https://group1-sprint-studio.spryplume16.chatgpt.site/
+- Installable app: https://group1-sprint-studio.spryplume16.chatgpt.site/sprint/index.html
+- Learner journey: **Today → Learn → Practise → Revise → Progress**. Notes & Textbooks supports Learn.
 
-- Today dashboard, provisional plan approval and unfinished-topic carryover.
-- A 65-unit starter map with search and subject filters. This is **not** a certified complete official syllabus.
-- Guided Fundamental Rights starter lesson, plus original offline foundation guides and recall prompts for all 65 units; save deeper lessons to each topic.
-- Saved lesson position; persistent 1/4/7 revision queue and mistake ledger.
-- Five-question/six-minute original GMA drill; timed 30-question tests and 120-question paper mocks when enough imported questions exist.
-- JSON/CSV question import with provenance requirements for user-supplied PYQs. No invented years or paper claims.
-- Score = correct − wrong/3; skipped questions score zero. Track confidence and eliminated options.
-- PDF/PNG/JPEG reference vault (4 MB per file), local PDF text extraction, editable question drafts with unknown answers, and a current-affairs journal.
-- Full JSON backup/merge including attachments. Credentials excluded.
-- Offline app-shell cache, IndexedDB event persistence and encrypted cross-device event sync that preserves unsaved editors.
-- Study Tutor with external chat/signup links and optional direct API adapters for OpenAI, Claude, DeepSeek and xAI.
-- Optional private service for PIB release collection, official APPSC PDF fetching, scanned-PDF OCR and Web Push reminders; calendar reminders work independently.
+## Verified baseline
 
-## Run locally
+The last released baseline is Site version 28. It contains 65 internal study units and 276 chapter segments, 1,090 bundled scored questions, and 38 embedded notes/reference/textbook documents spanning 534 pages. These counts describe inventory, not complete official-syllabus coverage or independent factual certification. 150 weak handwritten OCR transcriptions are withheld; their scanned pages remain readable inside the app. Eight textbook documents are excerpts, not complete textbooks. External documents held for rights, extraction or availability are not counted as published.
 
-Requires Node 22.13+ (or current Node 24) and Python 3 for local serving. PDF.js assets are built locally and cached for offline use.
+Version 28 fixed lesson navigation being blocked by a denied progress save. It tested actual topic-card clicks for all 65 topics in guest, pending and approved website account states (membership transport mocked), and all 65 app topics through every chapter segment. See docs/TOPIC_NAVIGATION_2026-10-19.md in the GitHub repository for precise verification limits.
 
-```sh
-npm ci
-npm run build
-npm test
-npm start
-```
+## Accounts, progress and privacy
 
-Open `http://localhost:8080`. Serve via HTTPS for a phone installation; the localhost exception only applies on the same machine. Opening `index.html` directly from disk is not the supported PWA path. Local URLs on a laptop are not automatically accessible from Android.
+The website uses Sign in with ChatGPT, an approved membership and a Cloudflare D1-backed workspace API. Reading can continue without a successful save; the interface must label unsaved progress. Site sharing access and application membership are separate checks. Account approval never implies an exam/content endorsement.
 
-## Publish to GitHub Pages
+The app stores events offline in IndexedDB and supports JSON backup. The legacy encrypted GitHub vault is a personal-use adapter, not the intended public learner onboarding path. A shared account-sync adapter is implemented with explicit first-device import consent and account isolation; do not assume website and app history have merged until the interface confirms it. Existing backups and personal vault records must remain recoverable during migration.
 
-1. Repository Settings → Pages → Source → **GitHub Actions**.
-2. Actions → **Publish study workspace** → **Run workflow** on `main`.
-3. Use the URL reported by the deployment; open it in Chrome on Android and install/add to home screen.
+No source repository, external PDF or publisher catalogue is required for normal learner reading. Provenance stays in editorial records and source attribution. Account tokens and API keys must not be placed in the browser bundle, repository, exported diagnostics or chat.
 
-The Pages workflow publishes **only `app/`**, never personal vault files. The deployment requires the one-time Pages setting; this repo's connector cannot change that administration setting. Hosting is not claimed live until a deployment succeeds. Subsequent deployments are manually triggered so unreviewed changes do not silently replace an installed app.
+## Product delivery order
 
-## Connect Android and laptop
+| Order | Work | Completion evidence |
+|---|---|---|
+| 1 | Accurate README and delivery ledger | Current architecture, limits and release links documented |
+| 2 | Reliability, diagnostics, navigation and coverage audit | Real click tests, release checklist, safe reports, all-unit coverage inventory |
+| 3 | Teaching quality, practice controls and tutor corrections | Lesson quality gaps visible, question-family checks, reviewed correction workflow |
+| 4 | Pilot and pricing preparation | Activation/returning-use measures, feedback and cost-based break-even tool; no invented results |
+| 5 | Controlled AI | Begins after content/pilot gates; requires provider/key, budgets and approved content boundaries |
 
-In Settings & sync, enter the same private data repo (`imranshaik-pro/crack-group1-data`), a fine-grained GitHub token restricted to that repo with Contents read/write, and the same vault passphrase (12+ characters) on each device. **Never send credentials in chat or commit them.** Token/passphrase are memory-only and must be re-entered after a page reload. This is deliberately a personal-use v1; OAuth through a backend is the recommended public-product upgrade.
+Implementation progress and blockers are recorded in docs/PRODUCT_DELIVERY_2026-10-19.md. A page existing does not establish that a live pilot, commercial permission or factual content review has been completed.
 
-Unlocking first pulls existing remote records, then uploads local pending events. It refuses public data repositories. Saves are debounced while unlocked; reconnect, focus, resume and a 30-second interval trigger sync. Network failures back off without blocking study. Remote updates preserve unsaved forms. The header shows a small sync indicator; manual retry is under Settings & sync. Use **Save & end session** and wait for **All changes synced** before switching. Closing a mobile app is not a reliable upload trigger. Offline changes remain pending on the original device until it reconnects and syncs.
+## Development
 
-GitHub is a small personal vault, not a real-time multi-user database. Concurrent offline edits to the same note resolve deterministically; both edits remain in the event history. Remote batches are immutable and deduplicated. See [architecture](docs/ARCHITECTURE.md).
+This checkout is the website project; in the GitHub repository it lives under `studio/`. The repository root contains the standalone app under `app/`.
 
-## Question import
+- Standalone app from repository root: `npm ci`, `npm run build`, `npm test`, `npm start` (Node 22.13+ and Python 3; Poppler is required to reproduce scanned-page assets).
+- Website from `studio/`: install using its declared package manager, then run `npm run build`. D1 binding and the hosting configuration are required for the deployed workspace API. The Sites source/build helpers manage hosted publication.
+- Never point one interface's event backup at the other's parser. Use explicit validated migration/account sync paths.
+- The PDF build verifies pinned source SHA-256 values before producing same-origin assets. Preserve source licences and attribution. Commercial use of noncommercial material requires permission/replacement.
 
-JSON: array of `{id,text,options:[A,B,C,D],answer,topic,kind,paper,explanation}`. Answer is zero-based 0–3. `kind` is `original`, `practice` or `PYQ`. A PYQ additionally requires numeric `year`, HTTPS `source`, `paper`, and `questionNumber`. A source URL is a provenance record, not independent verification. Check against the actual official paper/key before trusting imported answers.
+## Quality and release policy
 
-CSV header:
+Run relevant unit/TypeScript checks, website production build and GitHub Actions browser journeys. All-topic click/reading tests are mandatory for navigation or lesson-flow changes. Include guest, pending, approved, saved/reloaded and offline cases. Publication must record exact code SHA, CI run, Site version, terminal deployment result and known limits. Never claim every feature was tested from a subset of journeys.
 
-```csv
-id,text,A,B,C,D,answer,topic,kind,year,source,paper,questionNumber,explanation
-```
+Report a problem using Help & feedback. Diagnostics should contain only release, interface, route category, timestamp and error class; no notes, question attempts, credentials or raw request URLs. A correction remains pending until an authorised reviewer records evidence and a disposition.
 
-Quote cells containing commas, quotes or newlines. Use topic IDs from `app/content.js`; e.g. `t-1-1` = Fundamental Rights. Full mocks need at least 120 reviewed, eligible questions with the selected paper (`I` or `II`); weekly tests need 30 reviewed, eligible questions. Bundled questions are original exercises, not previous-year questions.
+## Learning and business boundaries
 
-## Accuracy and limits
+The 65-unit map is provisional until matched against a dated official APPSC syllabus. Do not invent exam dates, notification details or PYQ years. Current-affairs examples carry a snapshot date. Completing a lesson or passing a small quiz does not certify mastery.
 
-Exam schedule, notification number, vacancy count, pattern and negative-marking rules need verification against the official APPSC notification. No unconfirmed exam date is seeded. The Telugu subject labels are descriptive; they are not represented as official APPSC translations. Every topic has a short original orientation, not a complete verified chapter. Extracted questions and AI explanations require review. Direct AI, OCR, news fetching and closed-app push need the optional running private service; they are not hosted by GitHub Pages. PIB is a starter feed, not complete AP/international coverage. A full Telugu interface is still pending.
+Pilot target: 30–50 consenting learners before wider scale. Track activation, seven-day return, delayed practice evidence and support burden. No users are enrolled or contacted automatically by repository work. Pricing is an experiment based on actual costs and willingness-to-pay evidence. No payment processing is enabled by this work.
 
-Local storage and exported backups are readable personal data; remote vault batches use AES-256-GCM, random salts/IVs and PBKDF2-SHA256 (310,000 iterations). Losing the passphrase prevents remote decryption. Browser data can be cleared or evicted: export backups regularly. Private GitHub storage and encryption do not make a shared unlocked device private.
+AI adapters/source code may exist, but live AI is not a completed paid-product feature. Keys, provider availability, budget enforcement and reviewed-content restrictions must be configured and tested before activation.
 
-## Project record
-
-- [Architecture & security](docs/ARCHITECTURE.md)
-- [Product decisions & next priorities](docs/DECISIONS.md)
-- [Build and validation record](docs/BUILD_LOG.md)
-
-Core checks and a desktop/mobile browser workflow cover offline reload, question review, PDF extraction and saved lessons. See the build record for actual validation results. The restricted local build environment could not install or launch Chromium; GitHub runners completed browser verification and upload screenshots. No claim of live end-to-end GitHub-token sync is made without a real device setup.
-
-## Reviewed material imports
-
-Practice now includes a **content quality desk**. JSON/CSV imports enter review rather than immediately entering timed tests. Check the topic, answer and sources, record the check, then approve or exclude. PYQs additionally require APPSC-hosted paper and answer-key URLs; the app records your review and does not authenticate PDFs. Unmapped questions stay unassigned.
-
-See [material integration and usefulness assessment](docs/MATERIAL_INTEGRATION.md) for conversion commands, source limitations and counts. Third-party banks are supplied separately for personal imports and are not bundled in the public Pages deployment.
-
-## Connected features
-
-See [setup and end-to-end usage](docs/CONNECTED_FEATURES.md) for the private service, provider credentials, extraction/review workflow and Android notifications. No provider keys or service credentials are committed. Chat/signup links work without that service; direct replies require supported provider access and may incur API charges. Registered Sign in with ChatGPT is a separate integration, not activated in this build.
+The account bridge keeps large records device-only with a visible warning; keep full backups. It projects notes, guided learning, task completion, completion state, reading preferences, plans and compatible bundled practice. No user history is moved to a cloud account before the first-device consent step. The legacy vault remains available for recovery under Advanced.

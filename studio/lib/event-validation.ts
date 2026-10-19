@@ -1,5 +1,6 @@
 import {validTaskCompletion} from './daily-schedule.js';
 import {validReading,validPracticeItems,practiceTotals} from './study-engine.js';
+import {validNative} from './account-bridge.js';
 import {validFlow} from './learning-flow.js';
 export type StudyEvent={id:string;at:string;type:string;data:Record<string,unknown>};
 const short=(value:unknown,max=300)=>typeof value==='string'&&value.length>0&&value.length<=max;
@@ -8,15 +9,17 @@ const https=(value:unknown,official=false)=>{try{if(typeof value!=='string'||val
 export function validEvent(value:unknown):value is StudyEvent {
  if(!value||typeof value!=='object')return false;
  const e=value as StudyEvent;
- if(typeof e.id!=='string'||!/^[a-zA-Z0-9-]{1,80}$/.test(e.id)||typeof e.at!=='string'||!Number.isFinite(Date.parse(e.at))||!e.data||typeof e.data!=='object'||Array.isArray(e.data)||JSON.stringify(e.data).length>10000)return false;
+ if(typeof e.id!=='string'||!/^[a-zA-Z0-9-]{1,80}$/.test(e.id)||typeof e.at!=='string'||!Number.isFinite(Date.parse(e.at))||!e.data||typeof e.data!=='object'||Array.isArray(e.data)||JSON.stringify(e.data).length>(e.type==='app-event'?65000:e.type==='practice'?30000:10000))return false;
  const d=e.data;
  switch(e.type){
+ case 'app-event':return validNative(d.payload)&&JSON.stringify(d.payload).length<=60000;
+ case 'topic-state':return topic(d.topic)&&typeof d.done==='boolean'&&typeof d.day==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(d.day)&&Number.isFinite(Date.parse(d.day));
  case 'reading-preferences':return validReading(d);
  case 'learning-flow':return validFlow(d);
  case 'practice-exposure':return Array.isArray(d.items)&&d.items.length>0&&d.items.length<=120&&d.items.every((x:unknown)=>{const q=x as {id?:unknown;topic?:unknown};return !!q&&typeof q.id==='string'&&/^[a-zA-Z0-9-]{1,100}$/.test(q.id)&&topic(q.topic);});
- case 'cursor':return ['pdfs','materials','upsc','today','plan','library','lesson','revision','practice','papers','reading','current','insights','tutor','settings'].includes(String(d.page))&&(d.page!=='lesson'||topic(d.topic));
+ case 'cursor':return ['coverage','help','pdfs','materials','upsc','today','plan','library','lesson','revision','practice','papers','reading','current','insights','tutor','settings'].includes(String(d.page))&&(d.page!=='lesson'||topic(d.topic));
  case 'reading':return short(d.resource,100)&&short(d.title,300)&&typeof d.page==='number'&&Number.isInteger(d.page)&&d.page>=1&&typeof d.total==='number'&&Number.isInteger(d.total)&&d.total>=d.page&&d.total<=10000;
- case 'plan':return typeof d.start==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(d.start)&&Number.isFinite(Date.parse(d.start))&&typeof d.hours==='number'&&d.hours>=1&&d.hours<=12&&short(d.level)&&short(d.weak)&&d.days===105;
+ case 'plan':return typeof d.start==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(d.start)&&Number.isFinite(Date.parse(d.start))&&Number.isInteger(d.days)&&Number(d.days)>=21&&Number(d.days)<=365&&(d.approved===true||(typeof d.hours==='number'&&d.hours>=1&&d.hours<=12&&short(d.level)&&short(d.weak)));
  case 'task-complete':return validTaskCompletion(d);
  case 'complete':return topic(d.topic)||['gma-daily','current-daily'].includes(String(d.topic));
  case 'note':return topic(d.topic)&&typeof d.text==='string'&&d.text.length<=8000;
