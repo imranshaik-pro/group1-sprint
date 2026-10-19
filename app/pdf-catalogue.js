@@ -1,4 +1,4 @@
-// Generated from actual PDF acquisition and page extraction.
+// Generated from checked local PDF extraction.
 export const pdfCatalogue = {
  "version": 1,
  "date": "2026-10-19",
@@ -20,7 +20,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-2cdfbbc8d4a965.json",
-   "dataSha256": "2cc11c97a1082a0199a986513f8a34960fdd457d880fb1f7cd5eca258f3e9582"
+   "dataSha256": "2cc11c97a1082a0199a986513f8a34960fdd457d880fb1f7cd5eca258f3e9582",
+   "materialType": "notes"
   },
   {
    "id": "upsc-bc565ed701bf7f",
@@ -39,7 +40,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-bc565ed701bf7f.json",
-   "dataSha256": "fbde9db71a62e63c28befe80bd23af76ffcab94188b2158f7c9b22a9662bcdb2"
+   "dataSha256": "fbde9db71a62e63c28befe80bd23af76ffcab94188b2158f7c9b22a9662bcdb2",
+   "materialType": "notes"
   },
   {
    "id": "upsc-2def71feaf73e9",
@@ -67,7 +69,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-2def71feaf73e9.json",
-   "dataSha256": "2530c861155a2bb3521caa46be0c48d5cd3af745977971fbebfbc03b893380a1"
+   "dataSha256": "2530c861155a2bb3521caa46be0c48d5cd3af745977971fbebfbc03b893380a1",
+   "materialType": "notes"
   },
   {
    "id": "upsc-1d8b81ced08054",
@@ -95,7 +98,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-1d8b81ced08054.json",
-   "dataSha256": "121fe56be03ac80c59d6f62a77a6c79ecba7506c96ad98ae9a988c2d2c678590"
+   "dataSha256": "121fe56be03ac80c59d6f62a77a6c79ecba7506c96ad98ae9a988c2d2c678590",
+   "materialType": "notes"
   },
   {
    "id": "upsc-7d6bdd40512041",
@@ -119,7 +123,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-7d6bdd40512041.json",
-   "dataSha256": "11b9343a1fbdeeb0c218f400c9dc2024be4df995628edc48eec4f144d96278f1"
+   "dataSha256": "11b9343a1fbdeeb0c218f400c9dc2024be4df995628edc48eec4f144d96278f1",
+   "materialType": "notes"
   },
   {
    "id": "upsc-f86e507b00ab0d",
@@ -143,7 +148,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-f86e507b00ab0d.json",
-   "dataSha256": "f1526a38ab207f72aa120a10b428035bc306a4830df53a42f9f7f3c006b15025"
+   "dataSha256": "f1526a38ab207f72aa120a10b428035bc306a4830df53a42f9f7f3c006b15025",
+   "materialType": "notes"
   },
   {
    "id": "upsc-39f629155a6734",
@@ -167,7 +173,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-39f629155a6734.json",
-   "dataSha256": "28dc5a80c28154bd41e4f6eccc73c1af76b2c437d72d20caf022bf37bbf1cbca"
+   "dataSha256": "28dc5a80c28154bd41e4f6eccc73c1af76b2c437d72d20caf022bf37bbf1cbca",
+   "materialType": "notes"
   },
   {
    "id": "upsc-d9cb9d1dfb7b08",
@@ -186,7 +193,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-d9cb9d1dfb7b08.json",
-   "dataSha256": "cf82e1e5c37f529dcff2372a8a2b206d3255fd52a19f50988b32fccb0e7cf303"
+   "dataSha256": "cf82e1e5c37f529dcff2372a8a2b206d3255fd52a19f50988b32fccb0e7cf303",
+   "materialType": "notes"
   },
   {
    "id": "upsc-a1231d5c996d73",
@@ -205,7 +213,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-a1231d5c996d73.json",
-   "dataSha256": "07d428f8becde113f0453feb5d6baedf7a014bb6abfbdf6a317e3d9ddc9a2590"
+   "dataSha256": "07d428f8becde113f0453feb5d6baedf7a014bb6abfbdf6a317e3d9ddc9a2590",
+   "materialType": "notes"
   },
   {
    "id": "upsc-3fcf26207ad43c",
@@ -227,7 +236,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-3fcf26207ad43c.json",
-   "dataSha256": "2759440c05eb88bf3cc4d63da2022d0699e5977f250b98cd4b9d8bf358821e6b"
+   "dataSha256": "2759440c05eb88bf3cc4d63da2022d0699e5977f250b98cd4b9d8bf358821e6b",
+   "materialType": "notes"
   },
   {
    "id": "upsc-b48537d8b86df9",
@@ -250,7 +260,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-b48537d8b86df9.json",
-   "dataSha256": "0ae5b44a7487cb7fef6e63ed2227dcdc909ed2f03fb763ce40353405c89677d6"
+   "dataSha256": "0ae5b44a7487cb7fef6e63ed2227dcdc909ed2f03fb763ce40353405c89677d6",
+   "materialType": "notes"
   },
   {
    "id": "upsc-f38f55b060d480",
@@ -275,7 +286,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-f38f55b060d480.json",
-   "dataSha256": "d01c4e28e04cd203e1d9acbe6d820b107d050c74334998cb3f26e2f79b7f6a93"
+   "dataSha256": "d01c4e28e04cd203e1d9acbe6d820b107d050c74334998cb3f26e2f79b7f6a93",
+   "materialType": "notes"
   },
   {
    "id": "upsc-e34db3ee866e18",
@@ -297,7 +309,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-e34db3ee866e18.json",
-   "dataSha256": "099fc1c5df490004599fc6dae2cabddbe8d20a75d0c99e59755257cdcac9df92"
+   "dataSha256": "099fc1c5df490004599fc6dae2cabddbe8d20a75d0c99e59755257cdcac9df92",
+   "materialType": "notes"
   },
   {
    "id": "upsc-cb2135fe24d957",
@@ -327,7 +340,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-cb2135fe24d957.json",
-   "dataSha256": "ffc972d9b465574a07b547ff47858f32ba30c18fcfd545419c61356a740c7509"
+   "dataSha256": "ffc972d9b465574a07b547ff47858f32ba30c18fcfd545419c61356a740c7509",
+   "materialType": "notes"
   },
   {
    "id": "upsc-3251150792128e",
@@ -351,7 +365,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-3251150792128e.json",
-   "dataSha256": "a252590b0a7d84e7524ba4a42816fa4de5995432aca5f4f15f305ab05d4573ed"
+   "dataSha256": "a252590b0a7d84e7524ba4a42816fa4de5995432aca5f4f15f305ab05d4573ed",
+   "materialType": "notes"
   },
   {
    "id": "upsc-66e9591f50dd79",
@@ -373,7 +388,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-66e9591f50dd79.json",
-   "dataSha256": "991dec64c8712836bbc34b76cc87b30a3846a05406ab260d1080829f50f9b796"
+   "dataSha256": "991dec64c8712836bbc34b76cc87b30a3846a05406ab260d1080829f50f9b796",
+   "materialType": "notes"
   },
   {
    "id": "upsc-ffa24942fe1521",
@@ -394,7 +410,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-ffa24942fe1521.json",
-   "dataSha256": "d9764bd6fc67b2147c657e8cea1352b1aa332181ba4e39369a5a048417099072"
+   "dataSha256": "d9764bd6fc67b2147c657e8cea1352b1aa332181ba4e39369a5a048417099072",
+   "materialType": "notes"
   },
   {
    "id": "upsc-a2cae4b5c950e7",
@@ -415,7 +432,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-a2cae4b5c950e7.json",
-   "dataSha256": "34c4eb834b794a2e741bc0e4f9242cbf7db105ad912223c29f3ff2e0317ec8b3"
+   "dataSha256": "34c4eb834b794a2e741bc0e4f9242cbf7db105ad912223c29f3ff2e0317ec8b3",
+   "materialType": "notes"
   },
   {
    "id": "upsc-d497b271ea2230",
@@ -437,7 +455,8 @@ export const pdfCatalogue = {
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-d497b271ea2230.json",
    "dataSha256": "c33a568632f26e9bda0b07e92b37edcdc48040462d4caf0893bc99b02ea7fdc2",
-   "sourceSubject": "Environment & Ecology"
+   "sourceSubject": "Environment & Ecology",
+   "materialType": "notes"
   },
   {
    "id": "upsc-0f836985ad8621",
@@ -459,7 +478,8 @@ export const pdfCatalogue = {
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-0f836985ad8621.json",
    "dataSha256": "3bae6c42d6f37dbcc3bbb4d6dcb7d24aab2aeafa154480d2a65d64830914acb9",
-   "sourceSubject": "Environment & Ecology"
+   "sourceSubject": "Environment & Ecology",
+   "materialType": "notes"
   },
   {
    "id": "upsc-e03aa6912461ba",
@@ -488,7 +508,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-e03aa6912461ba.json",
-   "dataSha256": "7b685dd35c6bce8273223c617f260fa6db9032ef5554b73051b01810dc73f0b9"
+   "dataSha256": "7b685dd35c6bce8273223c617f260fa6db9032ef5554b73051b01810dc73f0b9",
+   "materialType": "notes"
   },
   {
    "id": "upsc-b13e26d7bbdbd3",
@@ -511,7 +532,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-b13e26d7bbdbd3.json",
-   "dataSha256": "48a6a1565b7be088390b09dd800b6131cb381fca099b885cdd2362e509e762a8"
+   "dataSha256": "48a6a1565b7be088390b09dd800b6131cb381fca099b885cdd2362e509e762a8",
+   "materialType": "notes"
   },
   {
    "id": "upsc-060ce29ebd6cc6",
@@ -541,7 +563,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-060ce29ebd6cc6.json",
-   "dataSha256": "84828ee493ea10cfe50961104b993300d8358bbd61078547ba2453e5cc053fb3"
+   "dataSha256": "84828ee493ea10cfe50961104b993300d8358bbd61078547ba2453e5cc053fb3",
+   "materialType": "notes"
   },
   {
    "id": "upsc-28f79c3a69d8f5",
@@ -564,7 +587,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-28f79c3a69d8f5.json",
-   "dataSha256": "897eb7dd08a50fc270c8c6065c2eacb7f3c8c585085dad8758578b0112ceb796"
+   "dataSha256": "897eb7dd08a50fc270c8c6065c2eacb7f3c8c585085dad8758578b0112ceb796",
+   "materialType": "notes"
   },
   {
    "id": "upsc-7b2f9550fba8b7",
@@ -585,7 +609,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-7b2f9550fba8b7.json",
-   "dataSha256": "9be50bde25657aa3f0d2c20a6aba069afcd0af8d03600ed5af3ed1d66693808b"
+   "dataSha256": "9be50bde25657aa3f0d2c20a6aba069afcd0af8d03600ed5af3ed1d66693808b",
+   "materialType": "notes"
   },
   {
    "id": "upsc-f17b11b1f577c3",
@@ -609,7 +634,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-f17b11b1f577c3.json",
-   "dataSha256": "118532b4d89b8f05f9a8dc1ad5c5f629a779a0ca25340c6344bd42177cd5c411"
+   "dataSha256": "118532b4d89b8f05f9a8dc1ad5c5f629a779a0ca25340c6344bd42177cd5c411",
+   "materialType": "notes"
   },
   {
    "id": "upsc-7bfd53195002e8",
@@ -628,7 +654,8 @@ export const pdfCatalogue = {
    "period": "Source archive snapshot; current-affairs and species classifications are not a live update",
    "reviewStatus": "source material; OCR and factual review pending",
    "dataPath": "pdf-extracts/upsc-7bfd53195002e8.json",
-   "dataSha256": "1f1c4e1f3d695240752f12904a0e025df03462351734af5e959baa5981f2501b"
+   "dataSha256": "1f1c4e1f3d695240752f12904a0e025df03462351734af5e959baa5981f2501b",
+   "materialType": "notes"
   },
   {
    "id": "external-1e8f0549620a5285",
@@ -650,7 +677,8 @@ export const pdfCatalogue = {
    "period": "1 February 2026",
    "reviewStatus": "dated source text; not independent factual or legal certification",
    "dataPath": "pdf-extracts/external-1e8f0549620a5285.json",
-   "dataSha256": "5af50fcfbedaa28d918bc3e20b113070a157b2ea4cd830ad3f1c2c5789ba318d"
+   "dataSha256": "5af50fcfbedaa28d918bc3e20b113070a157b2ea4cd830ad3f1c2c5789ba318d",
+   "materialType": "notes"
   },
   {
    "id": "external-dfb6eaa993b20a1a",
@@ -672,7 +700,8 @@ export const pdfCatalogue = {
    "period": "14 May 2025 — historical source",
    "reviewStatus": "dated source text; not independent factual or legal certification",
    "dataPath": "pdf-extracts/external-dfb6eaa993b20a1a.json",
-   "dataSha256": "34baddbaa3ec43f7bb8ed9a3e9038055bbc266327be0251932668ac5cc20e8ef"
+   "dataSha256": "34baddbaa3ec43f7bb8ed9a3e9038055bbc266327be0251932668ac5cc20e8ef",
+   "materialType": "notes"
   },
   {
    "id": "external-b289aa28439711bd",
@@ -695,12 +724,197 @@ export const pdfCatalogue = {
    "period": "18 December 2025 — bill-stage background, not current legal advice",
    "reviewStatus": "dated source text; not independent factual or legal certification",
    "dataPath": "pdf-extracts/external-b289aa28439711bd.json",
-   "dataSha256": "2442bee404d843c1608276c4a1e93c3d66b6ae98a8580c521746773cdac48951"
+   "dataSha256": "2442bee404d843c1608276c4a1e93c3d66b6ae98a8580c521746773cdac48951",
+   "materialType": "notes"
+  },
+  {
+   "id": "textbook-economics-demand-supply",
+   "title": "Demand and supply",
+   "subject": "Economy & Planning",
+   "appscTopics": [
+    "t-2-0"
+   ],
+   "mappingStatus": "foundation chapter relevance; not a complete APPSC topic",
+   "pages": 40,
+   "sourceName": "Steven A. Greenlaw, David Shapiro and Daniel MacDonald; OpenStax, Rice University",
+   "sourceURL": "https://openstax.org/details/books/principles-economics-3e",
+   "sourceSha256": "6f093e1daaccac5a48685db8bdf308174d0d9010efdbbf1caff2d30e01b6543e",
+   "license": "CC BY-NC-SA 4.0",
+   "publication": "embedded-text",
+   "transcriptReviewPages": 0,
+   "questionCount": 0,
+   "period": "Publisher textbook excerpt; foundational examples may use US context",
+   "reviewStatus": "publisher source; text mechanically extracted",
+   "dataPath": "pdf-extracts/textbook-economics-demand-supply.json",
+   "dataSha256": "90c11ffecf8e7ffb47fdc0690199793fb737fe2b2deefaf69f8a9cab5c6b5cca",
+   "materialType": "textbooks",
+   "pdfPath": "materials/economics-demand-supply.pdf"
+  },
+  {
+   "id": "textbook-economics-national-income",
+   "title": "The macroeconomic perspective",
+   "subject": "Economy & Planning",
+   "appscTopics": [
+    "t-2-0"
+   ],
+   "mappingStatus": "foundation chapter relevance; not a complete APPSC topic",
+   "pages": 32,
+   "sourceName": "Steven A. Greenlaw, David Shapiro and Daniel MacDonald; OpenStax, Rice University",
+   "sourceURL": "https://openstax.org/details/books/principles-economics-3e",
+   "sourceSha256": "04d7bf219b33ccc884b2fb34ef8b58dce40e8540450809278893d57f396e5781",
+   "license": "CC BY-NC-SA 4.0",
+   "publication": "embedded-text",
+   "transcriptReviewPages": 0,
+   "questionCount": 0,
+   "period": "Publisher textbook excerpt; foundational examples may use US context",
+   "reviewStatus": "publisher source; text mechanically extracted",
+   "dataPath": "pdf-extracts/textbook-economics-national-income.json",
+   "dataSha256": "5b42960d02d19df80ef351f2cfc7aaa4249e2b1952af7c8648db0ca4dadd2862",
+   "materialType": "textbooks",
+   "pdfPath": "materials/economics-national-income.pdf"
+  },
+  {
+   "id": "textbook-economics-inflation",
+   "title": "Inflation foundations",
+   "subject": "Economy & Planning",
+   "appscTopics": [
+    "t-2-1"
+   ],
+   "mappingStatus": "foundation chapter relevance; not a complete APPSC topic",
+   "pages": 30,
+   "sourceName": "Steven A. Greenlaw, David Shapiro and Daniel MacDonald; OpenStax, Rice University",
+   "sourceURL": "https://openstax.org/details/books/principles-economics-3e",
+   "sourceSha256": "6562c6282bd2af773d40db92fbb50a1ca746833d6223f1a7905bb3aa4e07fed4",
+   "license": "CC BY-NC-SA 4.0",
+   "publication": "embedded-text",
+   "transcriptReviewPages": 0,
+   "questionCount": 0,
+   "period": "Publisher textbook excerpt; foundational examples may use US context",
+   "reviewStatus": "publisher source; text mechanically extracted",
+   "dataPath": "pdf-extracts/textbook-economics-inflation.json",
+   "dataSha256": "c87521ff92eb0d709cafef4e8028e62cf2f0faebf2c721289be087baf96dfc2c",
+   "materialType": "textbooks",
+   "pdfPath": "materials/economics-inflation.pdf"
+  },
+  {
+   "id": "textbook-economics-money-banking",
+   "title": "Money and banking",
+   "subject": "Economy & Planning",
+   "appscTopics": [
+    "t-2-3"
+   ],
+   "mappingStatus": "foundation chapter relevance; not a complete APPSC topic",
+   "pages": 22,
+   "sourceName": "Steven A. Greenlaw, David Shapiro and Daniel MacDonald; OpenStax, Rice University",
+   "sourceURL": "https://openstax.org/details/books/principles-economics-3e",
+   "sourceSha256": "d5fb06ce707c5d8dcb5bfc478d9633b8d29ccd91940adf11a8553bf991b95e28",
+   "license": "CC BY-NC-SA 4.0",
+   "publication": "embedded-text",
+   "transcriptReviewPages": 0,
+   "questionCount": 0,
+   "period": "Publisher textbook excerpt; foundational examples may use US context",
+   "reviewStatus": "publisher source; text mechanically extracted",
+   "dataPath": "pdf-extracts/textbook-economics-money-banking.json",
+   "dataSha256": "6b2fd3f6e036ffa6a3b71cd7a024780bde86a6a384ad9109ae530a5be826bf56",
+   "materialType": "textbooks",
+   "pdfPath": "materials/economics-money-banking.pdf"
+  },
+  {
+   "id": "textbook-gma-percent",
+   "title": "Understand percentages",
+   "subject": "General Mental Ability",
+   "appscTopics": [
+    "t-4-1"
+   ],
+   "mappingStatus": "foundation chapter relevance; not a complete APPSC topic",
+   "pages": 19,
+   "sourceName": "Lynn Marecek and MaryAnne Anthony-Smith; OpenStax, Rice University",
+   "sourceURL": "https://openstax.org/details/books/prealgebra",
+   "sourceSha256": "9fbadfba8cacbea11de850d3b828d7a56448d4afae046cea2f40cfc72773992f",
+   "license": "CC BY 4.0",
+   "publication": "embedded-text",
+   "transcriptReviewPages": 0,
+   "questionCount": 0,
+   "period": "Publisher textbook excerpt; foundational examples may use US context",
+   "reviewStatus": "publisher source; text mechanically extracted",
+   "dataPath": "pdf-extracts/textbook-gma-percent.json",
+   "dataSha256": "414a3adb72bb14fe528eb7432f9407832006ec9fbba1ab4205ae06d8801d9390",
+   "materialType": "textbooks",
+   "pdfPath": "materials/gma-percent.pdf"
+  },
+  {
+   "id": "textbook-gma-proportions",
+   "title": "Proportions and their applications",
+   "subject": "General Mental Ability",
+   "appscTopics": [
+    "t-4-1"
+   ],
+   "mappingStatus": "foundation chapter relevance; not a complete APPSC topic",
+   "pages": 20,
+   "sourceName": "Lynn Marecek and MaryAnne Anthony-Smith; OpenStax, Rice University",
+   "sourceURL": "https://openstax.org/details/books/prealgebra",
+   "sourceSha256": "64be775e2e1fbc5e9311631058585752bb853715683958223bef0955ed1b0083",
+   "license": "CC BY 4.0",
+   "publication": "embedded-text",
+   "transcriptReviewPages": 0,
+   "questionCount": 0,
+   "period": "Publisher textbook excerpt; foundational examples may use US context",
+   "reviewStatus": "publisher source; text mechanically extracted",
+   "dataPath": "pdf-extracts/textbook-gma-proportions.json",
+   "dataSha256": "b6247a80ac28d06688a51b37b2cef8c572dcc7a5faddb8c1f422b1312494b508",
+   "materialType": "textbooks",
+   "pdfPath": "materials/gma-proportions.pdf"
+  },
+  {
+   "id": "textbook-science-computing",
+   "title": "Introduction to computer science",
+   "subject": "Science & Technology",
+   "appscTopics": [
+    "t-5-5"
+   ],
+   "mappingStatus": "foundation chapter relevance; not a complete APPSC topic",
+   "pages": 32,
+   "sourceName": "OpenStax and its contributing authors; OpenStax, Rice University",
+   "sourceURL": "https://openstax.org/details/books/introduction-computer-science",
+   "sourceSha256": "cb74b9a729c1f010d42bbf7d661f9edac9c412d4589c96494603847846a6e790",
+   "license": "CC BY-NC-SA 4.0",
+   "publication": "embedded-text",
+   "transcriptReviewPages": 0,
+   "questionCount": 0,
+   "period": "Publisher textbook excerpt; foundational examples may use US context",
+   "reviewStatus": "publisher source; text mechanically extracted",
+   "dataPath": "pdf-extracts/textbook-science-computing.json",
+   "dataSha256": "b6c53774fbaa4ce0da2853eeed8790889bd198a1de01e4449f9613347f2c8f3b",
+   "materialType": "textbooks",
+   "pdfPath": "materials/science-computing.pdf"
+  },
+  {
+   "id": "textbook-science-computer-hardware",
+   "title": "Computer systems and hardware",
+   "subject": "Science & Technology",
+   "appscTopics": [
+    "t-5-5"
+   ],
+   "mappingStatus": "foundation chapter relevance; not a complete APPSC topic",
+   "pages": 48,
+   "sourceName": "OpenStax and its contributing authors; OpenStax, Rice University",
+   "sourceURL": "https://openstax.org/details/books/introduction-computer-science",
+   "sourceSha256": "4b21850160e895bc7d171fb5120f8c5fea3c6ffcfa399c24c8c9bdbd3f350c71",
+   "license": "CC BY-NC-SA 4.0",
+   "publication": "embedded-text",
+   "transcriptReviewPages": 0,
+   "questionCount": 0,
+   "period": "Publisher textbook excerpt; foundational examples may use US context",
+   "reviewStatus": "publisher source; text mechanically extracted",
+   "dataPath": "pdf-extracts/textbook-science-computer-hardware.json",
+   "dataSha256": "eb5356cb594e445b8e356c3cad7a649e77caf89e207f0bcfe16b2446d0ccd76d",
+   "materialType": "textbooks",
+   "pdfPath": "materials/science-computer-hardware.pdf"
   }
  ],
  "totals": {
-  "documents": 30,
-  "pages": 291,
+  "documents": 38,
+  "pages": 534,
   "transcriptReviewPages": 150,
   "sourceRecallPrompts": 6
  }

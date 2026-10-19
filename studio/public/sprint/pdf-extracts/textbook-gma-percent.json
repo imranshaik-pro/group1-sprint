@@ -1,0 +1,237 @@
+{
+ "id": "textbook-gma-percent",
+ "title": "Understand percentages",
+ "sections": [
+  {
+   "page": 1,
+   "title": "Page 1",
+   "text": "GROUP1 SPRINT / FOUNDATION READING\n\n\n\n\nUnderstand percentages\n\nGeneral Mental Ability / English\n\n\n\n\nSOURCE BOOK\n\nPrealgebra\n\nAUTHORS\n\nLynn Marecek and MaryAnne Anthony-Smith\n\nPUBLISHER\n\nOpenStax, Rice University\n\nLICENSE\n\nCC BY 4.0\n\nORIGINAL PDF PAGES\n\n525-541 (PDF page positions, inclusive)\n\nSOURCE\n\nhttps://openstax.org/details/books/prealgebra\n\nREUSE\n\nAttribution retained; chapter pages reproduced as-is.\n\nSCOPE\n\nFoundation study, not APPSC PYQs or an India/AP-specific chapter.\n\nCHECKED\n\n12 October 2026\n\n\n\n\nNo publisher endorsement is implied. Review against the current official syllabus.",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 2,
+   "title": "Page 2",
+   "text": "OpenStax\nRice University\n6100 Main Street MS-375\nHouston, Texas 77005\n\nTo learn more about OpenStax, visit https://openstax.org.\nIndividual print copies and bulk orders can be purchased through our website.\n\n©2017 Rice University. Textbook content produced by OpenStax is licensed under a Creative Commons\nAttribution 4.0 International License (CC BY 4.0). Under this license, any user of this textbook or the textbook\ncontents herein must provide proper attribution as follows:\n\n  -   If you redistribute this textbook in a digital format (including but not limited to PDF and HTML), then you\n      must retain on every page the following attribution:\n      “Download for free at https://openstax.org/details/books/prealgebra.”\n  -   If you redistribute this textbook in a print format, then you must include on every physical page the\n      following attribution:\n      “Download for free at https://openstax.org/details/books/prealgebra.”\n  -   If you redistribute part of this textbook, then you must retain in every digital format page view (including\n      but not limited to PDF and HTML) and on every physical printed page the following attribution:\n      “Download for free at https://openstax.org/details/books/prealgebra.”\n  -   If you use this textbook as a bibliographic reference, please include\n      https://openstax.org/details/books/prealgebra in your citation.\n\nFor questions regarding this licensing, please contact support@openstax.org.\n\nTrademarks\nThe OpenStax name, OpenStax logo, OpenStax book covers, OpenStax CNX name, OpenStax CNX logo,\nOpenStax Tutor name, Openstax Tutor logo, Connexions name, Connexions logo, Rice University name, and\nRice University logo are not subject to the license and may not be reproduced without the prior and express\nwritten consent of Rice University.\n\n PRINT BOOK ISBN-10               1-938168-99-2\n PRINT BOOK ISBN-13               978-1-938168-99-4\n PDF VERSION ISBN-10              1-947172-00-X\n PDF VERSION ISBN-13              978-1-947172-00-5\n Revision Number                  PA-2016-003(03/17)-LC\n Original Publication Year        2015",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 3,
+   "title": "Page 3",
+   "text": "Chapter 6 Percents                                                                                                               517\n\n\n\n\n  6                      PERCENTS\n\n\n\nFigure 6.1 Banks provide money for savings and charge money for loans. The interest on savings and loans is usually given as a\npercent. (credit: Mike Mozart, Flickr)\n\n\n\nChapter Outline\n   6.1 Understand Percent\n   6.2 Solve General Applications of Percent\n   6.3 Solve Sales Tax, Commission, and Discount Applications\n   6.4 Solve Simple Interest Applications\n   6.5 Solve Proportions and their Applications\n\n\n        Introduction\nWhen you deposit money in a savings account at a bank, it earns additional money. Figuring out how your money will\ngrow involves understanding and applying concepts of percents. In this chapter, we will find out what percents are and\nhow we can use them to solve problems.\n\n 6.1\n         Understand Percent\nLearning Objectives\nBy the end of this section, you will be able to:\n       Use the definition of percent\n       Convert percents to fractions and decimals\n       Convert decimals and fractions to percents\n\n  Be Prepared!\n\n\n       Before you get started, take this readiness quiz.\n           1. Translate “the ratio of 33 to 5” into an algebraic expression.\n              If you missed this problem, review Table 2.7.\n           2. Write 3 as a decimal.\n                     5\n              If you missed this problem, review Example 5.28.\n           3. Write 0.62 as a fraction.\n              If you missed this problem, review Example 5.4.\nUse the Definition of Percent\nHow many cents are in one dollar? There are 100 cents in a dollar. How many years are in a century? There are 100\nyears in a century. Does this give you a clue about what the word “percent” means? It is really two words, “per cent,”",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 4,
+   "title": "Page 4",
+   "text": "518                                                                                                        Chapter 6 Percents\n\n\n\n\nand means per one hundred. A percent is a ratio whose denominator is 100. We use the percent symbol %, to show\npercent.\n\n  Percent\n\n  A percent is a ratio whose denominator is 100.\n\nAccording to data from the American Association of Community Colleges (2015), about 57% of community college\nstudents are female. This means 57 out of every 100 community college students are female, as Figure 6.2 shows. Out\nof the 100 squares on the grid, 57 are shaded, which we write as the ratio         57 .\n                                                                                  100\n\n\n\n\n                                               Figure 6.2 Among every 100 community\n                                               college students, 57 are female.\n\n\n\nSimilarly, 25% means a ratio of   25 , 3% means a ratio of 3 and 100% means a ratio of 100 . In words, \"one\n                                 100                       100                           100\nhundred percent\" means the total 100% is  100 , and since 100 = 1, we see that 100% means 1 whole.\n                                          100             100\n\n  EXAMPLE 6.1\n\nAccording to the Public Policy Institute of California (2010), 44% of parents of public school children would like their\nyoungest child to earn a graduate degree. Write this percent as a ratio.\n      Solution\n\n  The amount we want to convert is 44%.                                               44%\n\n                                                                                       44\n  Write the percent as a ratio. Remember that percent means per 100.                  100\n\n\n\n      TRY IT : : 6.1         Write the percent as a ratio.\n                             According to a survey, 89% of college students have a smartphone.\n\n\n      TRY IT : : 6.2         Write the percent as a ratio.\n                             A study found that 72% of U.S. teens send text messages regularly.\n\n\n  EXAMPLE 6.2\n\nIn 2007, according to a U.S. Department of Education report, 21 out of every 100 first-time freshmen college students\nat 4-year public institutions took at least one remedial course. Write this as a ratio and then as a percent.\n\n\n\n\nThis OpenStax book is available for free at http://cnx.org/content/col11756/1.9",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 5,
+   "title": "Page 5",
+   "text": "Chapter 6 Percents                                                                                                    519\n\n\n\n\n      Solution\n\n  The amount we want to convert is 21 out of 100 .            21 out of 100\n\n                                                               21\n  Write as a ratio.                                           100\n\n  Convert the 21 per 100 to percent.                          21%\n\n\n\n      TRY IT : : 6.3\n\n      Write as a ratio and then as a percent: The American Association of Community Colleges reported that 62 out of\n       100 full-time community college students balance their studies with full-time or part time employment.\n\n      TRY IT : : 6.4\n\n      Write as a ratio and then as a percent: In response to a student survey, 41 out of 100 Santa Ana College students\n      expressed a goal of earning an Associate's degree or transferring to a four-year college.\n\n\nConvert Percents to Fractions and Decimals\nSince percents are ratios, they can easily be expressed as fractions. Remember that percent means per 100,        so the\ndenominator of the fraction is 100.\n\n\n\n              HOW TO : : CONVERT A PERCENT TO A FRACTION.\n\n              Step 1.   Write the percent as a ratio with the denominator 100.\n              Step 2.   Simplify the fraction if possible.\n\n\n\n\n  EXAMPLE 6.3\n\nConvert each percent to a fraction:\n\n        ⓐ 36%           ⓑ 125%\n      Solution\n\n\n  ⓐ\n                                                     36%\n\n                                                      36\n  Write as a ratio with denominator 100.             100\n\n                                                      9\n  Simplify.                                          25",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 6,
+   "title": "Page 6",
+   "text": "520                                                                                                Chapter 6 Percents\n\n\n\n\n  ⓑ\n                                                         125%\n\n                                                         125\n  Write as a ratio with denominator 100.                 100\n\n                                                         5\n  Simplify.                                              4\n\n\n\n      TRY IT : : 6.5         Convert each percent to a fraction:\n\n                                      ⓐ 48%         ⓑ 110%\n\n      TRY IT : : 6.6         Convert each percent to a fraction:\n\n                                      ⓐ 64%         ⓑ 150%\n\nThe previous example shows that a percent can be greater than 1. We saw that 125% means 125 , or 5 . These are\n                                                                                             100      4\nimproper fractions, and their values are greater than one.\n\n  EXAMPLE 6.4\n\nConvert each percent to a fraction:\n\n         ⓐ 24.5%          ⓑ 33 13 %\n      Solution\n\n\n  ⓐ\n                                                                                  24.5%\n\n                                                                                  24.5\n  Write as a ratio with denominator 100.                                          100\n\n                                                                                  24.5(10)\n  Clear the decimal by multiplying numerator and denominator by 10.               100(10)\n\n                                                                                   245\n  Multiply.                                                                       1000\n\n                                                                                  5 · 49\n  Rewrite showing common factors.                                                 5 · 200\n\n                                                                                   49\n  Simplify.                                                                       200\n\n\n\n\nThis OpenStax book is available for free at http://cnx.org/content/col11756/1.9",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 7,
+   "title": "Page 7",
+   "text": "Chapter 6 Percents                                                                                                    521\n\n\n\n\n  ⓑ\n                                                                  33 1 %\n                                                                     3\n\n                                                                  33 13\n  Write as a ratio with denominator 100.\n                                                                  100\n                                                                      100\n  Write the numerator as an improper fraction.                         3\n                                                                      100\n\n  Rewrite as fraction division, replacing 100 with 100 .          100 ÷ 100\n                                                          1        3     1\n\n                                                                  100 ⋅ 1\n  Multiply by the reciprocal.                                      3 100\n\n                                                                  1\n  Simplify.                                                       3\n\n\n\n      TRY IT : : 6.7        Convert each percent to a fraction:\n\n                                   ⓐ 64.4%       ⓑ 66 23 %\n\n      TRY IT : : 6.8        Convert each percent to a fraction:\n\n                                   ⓐ 42.5%       ⓑ 8 34 %\n\nIn Decimals, we learned how to convert fractions to decimals. To convert a percent to a decimal, we first convert it to a\nfraction and then change the fraction to a decimal.\n\n\n              HOW TO : : CONVERT A PERCENT TO A DECIMAL.\n\n              Step 1.    Write the percent as a ratio with the denominator 100.\n              Step 2.    Convert the fraction to a decimal by dividing the numerator by the denominator.\n\n\n\n\n  EXAMPLE 6.5\n\nConvert each percent to a decimal:\n\n        ⓐ 6%            ⓑ 78%\n      Solution\nBecause we want to change to a decimal, we will leave the fractions with denominator 100 instead of removing common\nfactors.",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 8,
+   "title": "Page 8",
+   "text": "522                                                                                        Chapter 6 Percents\n\n\n\n\n  ⓐ\n                                                                                   6%\n\n                                                                                    6\n  Write as a ratio with denominator 100.                                           100\n\n  Change the fraction to a decimal by dividing the numerator by the denominator.   0.06\n\n\n\n  ⓑ\n                                                                                   78%\n\n                                                                                    78\n  Write as a ratio with denominator 100.                                           100\n\n  Change the fraction to a decimal by dividing the numerator by the denominator.   0.78\n\n\n\n      TRY IT : : 6.9         Convert each percent to a decimal:\n\n                                      ⓐ 9%         ⓑ 87%\n\n      TRY IT : : 6.10         Convert each percent to a decimal:\n\n                                       ⓐ 3%          ⓑ 91%\n\n  EXAMPLE 6.6\n\nConvert each percent to a decimal:\n\n         ⓐ 135%          ⓑ 12.5%\n      Solution\n\n\n  ⓐ\n                                                                                   135%\n\n                                                                                   135\n  Write as a ratio with denominator 100.                                           100\n\n  Change the fraction to a decimal by dividing the numerator by the denominator.   1.35\n\n\n\n  ⓑ\n                                                                                   12.5%\n\n                                                                                   12.5\n  Write as a ratio with denominator 100.                                           100\n\n  Change the fraction to a decimal by dividing the numerator by the denominator.   0.125\n\n\n\n\nThis OpenStax book is available for free at http://cnx.org/content/col11756/1.9",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 9,
+   "title": "Page 9",
+   "text": "Chapter 6 Percents                                                                                                 523\n\n\n\n\n      TRY IT : : 6.11     Convert each percent to a decimal:\n\n                                 ⓐ 115%        ⓑ 23.5%\n\n      TRY IT : : 6.12     Convert each percent to a decimal:\n\n                                 ⓐ 123%        ⓑ 16.8%\n\nLet's summarize the results from the previous examples in Table 6.1, and look for a pattern we could use to quickly\nconvert a percent number to a decimal number.\n\n\n                                                   Percent         Decimal\n\n                                                     6%            0.06\n\n                                                     78%           0.78\n\n                                                     135%          1.35\n\n                                                     12.5%         0.125\n\n                                                             Table 6.1\n\n\nDo you see the pattern?\nTo convert a percent number to a decimal number, we move the decimal point two places to the left and remove the   %\nsign. (Sometimes the decimal point does not appear in the percent number, but just like we can think of the integer 6\nas 6.0, we can think of 6% as 6.0%. ) Notice that we may need to add zeros in front of the number when moving the\ndecimal to the left.\nFigure 6.3 uses the percents in Table 6.1 and shows visually how to convert them to d ecimals by moving the decimal\npoint two places to the left.\n\n\n\n\n                                        Figure 6.3\n\n  EXAMPLE 6.7\n\nAmong a group of business leaders, 77% believe that poor math and science education in the U.S. will lead to higher\nunemployment rates.\n\nConvert the percent to: ⓐ a fraction ⓑ a decimal\n\n      Solution\n\n\n  ⓐ\n                                                77%\n\n                                                 77\n  Write as a ratio with denominator 100.        100",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 10,
+   "title": "Page 10",
+   "text": "524                                                                                                         Chapter 6 Percents\n\n\n\n\n  ⓑ\n                                                                                                  77\n                                                                                                 100\n\n  Change the fraction to a decimal by dividing the numerator by the denominator.                 0.77\n\n\n\n      TRY IT : : 6.13         Convert the percent to: ⓐ a fraction and ⓑ a decimal\n                              Twitter's share of web traffic jumped 24% when one celebrity tweeted live on air.\n\n\n      TRY IT : : 6.14\n\n      Convert the percent to: ⓐ a fraction and ⓑ a decimal\n\n      The U.S. Census estimated that in 2013, 44% of the population of Boston age 25 or older have a bachelor's or\n      higher degrees.\n\n\n  EXAMPLE 6.8\n\nThere are four suits of cards in a deck of cards—hearts, diamonds, clubs, and spades. The probability of randomly\nchoosing a heart from a shuffled deck of cards is 25%. Convert the percent to:\n\n         ⓐ a fraction      ⓑ a decimal\n\n\n\n\n                                      Figure 6.4 (credit: Riles32807, Wikimedia Commons)\n\n      Solution\n\n\n  ⓐ\n                                                         25%\n\n                                                          25\n  Write as a ratio with denominator 100.                 100\n\n                                                         1\n  Simplify.                                              4\n\n\n\n\nThis OpenStax book is available for free at http://cnx.org/content/col11756/1.9",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 11,
+   "title": "Page 11",
+   "text": "Chapter 6 Percents                                                                                                    525\n\n\n\n\n                                                                                               1\n  ⓑ                                                                                            4\n\n  Change the fraction to a decimal by dividing the numerator by the denominator.               0.25\n\n\n\n      TRY IT : : 6.15       Convert the percent to: ⓐ a fraction, and ⓑ a decimal\n                            The probability that it will rain Monday is 30%.\n\n\n      TRY IT : : 6.16       Convert the percent to: ⓐ a fraction, and ⓑ a decimal\n                            The probability of getting heads three times when tossing a coin three times is 12.5%.\n\n\nConvert Decimals and Fractions to Percents\nTo convert a decimal to a percent, remember that percent means per hundred. If we change the decimal to a fraction\nwhose denominator is 100, it is easy to change that fraction to a percent.\n\n\n\n            HOW TO : : CONVERT A DECIMAL TO A PERCENT.\n\n            Step 1.     Write the decimal as a fraction.\n            Step 2.     If the denominator of the fraction is not    100, rewrite it as an equivalent fraction with\n                        denominator 100.\n            Step 3.     Write this ratio as a percent.\n\n\n\n\n  EXAMPLE 6.9\n\nConvert each decimal to a percent: ⓐ 0.05       ⓑ 0.83\n      Solution\n\n\n  ⓐ\n                                                           0.05\n\n                                                            5\n  Write as a fraction. The denominator is 100.             100\n\n  Write this ratio as a percent.                           5%\n\n\n\n  ⓑ\n                                        0.83\n\n                                         83\n  The denominator is 100.               100\n\n  Write this ratio as a percent.        83%",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 12,
+   "title": "Page 12",
+   "text": "526                                                                                                    Chapter 6 Percents\n\n\n\n\n      TRY IT : : 6.17         Convert each decimal to a percent: ⓐ 0.01             ⓑ 0.17.\n\n      TRY IT : : 6.18         Convert each decimal to a percent: ⓐ 0.04             ⓑ 0.41\n\nTo convert a mixed number to a percent, we first write it as an improper fraction.\n\n  EXAMPLE 6.10\n\nConvert each decimal to a percent: ⓐ 1.05            ⓑ 0.075\n      Solution\n\n\n  ⓐ\n                                                                              0.05\n\n  Write as a fraction.                                                        1 5\n                                                                               100\n\n                                                                              105\n  Write as an improper fraction. The denominator is 100.                      100\n\n  Write this ratio as a percent.                                              105%\n\nNotice that since 1.05 > 1, the result is more than 100%.\n\n\n\n  ⓑ\n                                                                                               0.075\n\n                                                                                                 75\n  Write as a fraction. The denominator is 1,000.                                               1,000\n\n                                                                                               7.5\n  Divide the numerator and denominator by 10, so that the denominator is 100.                  100\n\n  Write this ratio as a percent.                                                               7.5%\n\n\n\n      TRY IT : : 6.19         Convert each decimal to a percent: ⓐ 1.75             ⓑ 0.0825\n\n      TRY IT : : 6.20 Convert each decimal to a percent: ⓐ 2.25 ⓑ 0.0925\n\n\nLet's summarize the results from the previous examples in Table 6.2 so we can look for a pattern.\n\n\n\n\nThis OpenStax book is available for free at http://cnx.org/content/col11756/1.9",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 13,
+   "title": "Page 13",
+   "text": "Chapter 6 Percents                                                                                                 527\n\n\n\n\n                                                  Decimal           Percent\n\n                                                      0.05           5%\n\n                                                      0.83           83%\n\n                                                      1.05           105%\n\n                                                      0.075          7.5%\n\n                                                              Table 6.2\n\n\nDo you see the pattern? To convert a decimal to a percent, we move the decimal point two places to the right and then\nadd the percent sign.\nFigure 6.5 uses the decimal numbers in Table 6.2 and shows visually to convert them to percents by moving the decimal\npoint two places to the right and then writing the % sign.\n\n\n\n\n                                         Figure 6.5\n\n\nIn Decimals, we learned how to convert fractions to decimals. Now we also know how to change decimals to percents. So\nto convert a fraction to a percent, we first change it to a decimal and then convert that decimal to a percent.\n\n\n            HOW TO : : CONVERT A FRACTION TO A PERCENT.\n\n            Step 1.   Convert the fraction to a decimal.\n            Step 2.   Convert the decimal to a percent.\n\n\n\n\n  EXAMPLE 6.11\n\nConvert each fraction or mixed number to a percent: ⓐ 3           ⓑ 11 ⓒ 2 15\n                                                              4      8\n      Solution\nTo convert a fraction to a decimal, divide the numerator by the denominator.\n\n\n  ⓐ\n                                                                      3\n  Change to a decimal.                                                4\n\n  Write as a percent by moving the decimal two places.\n\n                                                                      75%",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 14,
+   "title": "Page 14",
+   "text": "528                                                                                                         Chapter 6 Percents\n\n\n\n\n  ⓑ\n                                                                            11\n  Change to a decimal.                                                       8\n\n  Write as a percent by moving the decimal two places.\n\n                                                                            137.5%\n\n\n\n  ⓒ\n  Write as an improper fraction.              21\n                                               5\n\n                                              11\n  Change to a decimal.                         5\n\n  Write as a percent.\n\n                                              220%\n\nNotice that we needed to add zeros at the end of the number when moving the decimal two places to the right.\n\n\n\n                              Convert each fraction or mixed number to a percent: ⓐ 5         ⓑ 11 ⓒ 3 25\n      TRY IT : : 6.21\n                                                                                          8      4\n\n      TRY IT : : 6.22\n                              Convert each fraction or mixed number to a percent: ⓐ 7\n                                                                                          8\n                                                                                              ⓑ 94 ⓒ 1 35\n\nSometimes when changing a fraction to a decimal, the division continues for many decimal places and we will round off\nthe quotient. The number of decimal places we round to will depend on the situation. If the decimal involves money, we\nround to the hundredths place. For most other cases in this book we will round the number to the nearest thousandth, so\nthe percent will be rounded to the nearest tenth.\n\n  EXAMPLE 6.12\n\nConvert 5 to a percent.\n          7\n      Solution\nTo change a fraction to a decimal, we divide the numerator by the denominator.\n\n                                                                                  5\n                                                                                  7\n\n  Change to a decimal—rounding to the nearest thousandth.                         0.714\n\n  Write as a percent.                                                             71.4%\n\n\n\n\n                              Convert the fraction to a percent: 3\n      TRY IT : : 6.23\n                                                                       7\n\n\n                              Convert the fraction to a percent: 4\n      TRY IT : : 6.24\n                                                                       7\n\n\n\nThis OpenStax book is available for free at http://cnx.org/content/col11756/1.9",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 15,
+   "title": "Page 15",
+   "text": "Chapter 6 Percents                                                                                                   529\n\n\n\nWhen we first looked at fractions and decimals, we saw that fractions converted to a repeating decimal. When we\n                                                                 ¯\nconverted the fraction 4 to a decimal, we wrote the answer as 1. 3 . We will use this same notation, as well as fraction\n                        3\nnotation, when we convert fractions to percents in the next example.\n\n  EXAMPLE 6.13\n\nAn article in a medical journal claimed that approximately 1 of American adults are obese. Convert the fraction 1 to a\n                                                            3                                                    3\npercent.\n     Solution\n\n                                       1\n                                       3\n\n\n\n  Change to a decimal.\n\n\n\n  Write as a repeating decimal.        0.333 …\n\n  Write as a percent.                  33 1 %\n                                          3\n\n\n                                      _\nWe could also write the percent as 33.3 % .\n\n\n      TRY IT : : 6.25\n\n      Convert the fraction to a percent:\n\n      According to the U.S. Census Bureau, about 1 of United States housing units have just 1 bedroom.\n                                                  9\n\n      TRY IT : : 6.26\n\n      Convert the fraction to a percent:\n\n      According to the U.S. Census Bureau, about      1 of Colorado residents speak a language other than English at\n                                                      6\n      home.",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 16,
+   "title": "Page 16",
+   "text": "530                                                                                                         Chapter 6 Percents\n\n\n\n\n            6.1 EXERCISES\nPractice Makes Perfect\nUse the Definition of Percents\nIn the following exercises, write each percent as a ratio.\n1. In   2014, the unemployment              2.    In2015,  among the               3. The unemployment rate for\n                                                                                   those with Bachelor's degrees\nrate for those with only a high             unemployed, 29% were long-\nschool degree was 6.0%.                                                            was 3.2% in 2014.\n                                            term unemployed.\n\n4. The unemployment rate in\nMichigan in 2014 was 7.3%.\n\n\nIn the following exercises, write as\n\n  ⓐ a ratio and       ⓑ a percent\n5. 57 out of 100 nursing                    6. 80 out of 100 firefighters and      7. 42 out of 100 first-time\ncandidates received their degree            law enforcement officers were          freshmen students attend a\nat a community college.                     educated at a community college.       community college.\n\n8. 71 out of 100 full-time\ncommunity college faculty have a\nmaster's degree.\n\n\nConvert Percents to Fractions and Decimals\nIn the following exercises, convert each percent to a fraction and simplify all fractions.\n9. 4%                                       10. 8%                                 11. 17%\n\n\n12. 19%                                     13. 52%                                14. 78%\n\n\n15. 125%                                    16. 135%                               17. 37.5%\n\n\n18. 42.5%                                   19. 18.4%                              20. 46.4%\n\n\n21. 9 1 %                                   22. 8 1 %                              23. 5 1 %\n        2                                          2                                     3\n\n24. 6 2 %\n        3\n\nIn the following exercises, convert each percent to a decimal.\n25. 5%                                      26. 9%                                 27. 1%\n\n\n28. 2%                                      29. 63%                                30. 71%\n\n\n31. 40%                                     32. 50%                                33. 115%\n\n\n34. 125%                                    35. 150%                               36. 250%\n\n\n37. 21.4%                                   38. 39.3%                              39. 7.8%\n\n\n40. 6.4%\n\n\n\n\nThis OpenStax book is available for free at http://cnx.org/content/col11756/1.9",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 17,
+   "title": "Page 17",
+   "text": "Chapter 6 Percents                                                                                                   531\n\n\n\nIn the following exercises, convert each percent to\n\n  ⓐ a simplified fraction and      ⓑ a decimal\n41. In 2010, 1.5% of home sales          42. In 2000, 4.2% of the United       43. According to government data,\nhad owner financing. (Source:            States population was of Asian        in 2013 the number of cell\nBloomberg   Businessweek,  5/            descent.               (Source:       phones in India was    70.23% of\n23–29/2011)                              www.census.gov)                       the population.\n\n44. According to the U.S. Census         45. A couple plans to have two        46. Javier will choose one digit at\nBureau, among Americans age              children. The probability they will   random from 0 through 9. The\n25 or older who had doctorate            have two girls is 25%.                probability he will choose    3 is\ndegrees     in   2014, 37.1%      are                                          10%.\nwomen.\n\n47. According to the local weather       48. A club sells 50 tickets to a\nreport,   the     probability   of       raffle. Osbaldo bought one ticket.\nthunderstorms in New York City           The probability he will win the\non July 15 is 60%.                       raffle is 2%.\n\n\nConvert Decimals and Fractions to Percents\nIn the following exercises, convert each decimal to a percent.\n49. 0.01                                 50. 0.03                              51. 0.18\n\n\n52. 0.15                                 53. 1.35                              54. 1.56\n\n\n55. 3                                    56. 4                                 57. 0.009\n\n\n58. 0.008                                59. 0.0875                            60. 0.0625\n\n\n61. 1.5                                  62. 2.2                               63. 2.254\n\n\n64. 2.317\n\n\nIn the following exercises, convert each fraction to a percent.\n\n65. 1                                    66. 1                                 67. 3\n    4                                        5                                       8\n\n68. 5                                    69. 7                                 70. 9\n    8                                        4                                       8\n\n71. 6 4                                  72. 5 1                               73.    5\n     5                                           4                                   12\n\n74. 11                                   75. 2 2                               76. 1 2\n    12                                           3                                       3\n\n77. 3                                    78. 6                                 79. 5\n    7                                        7                                       9\n\n80. 4\n    9",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 18,
+   "title": "Page 18",
+   "text": "532                                                                                                              Chapter 6 Percents\n\n\n\nIn the following exercises, convert each fraction to a percent.\n\n81.   1     of    washing    machines       82.    1 of dishwashers needed\n      4                                            5\nneeded repair.                              repair.\n\n\nIn the following exercises, convert each fraction to a percent.\n83. According to the National               84. The U.S. Census Bureau\nCenter for Health Statistics, in            estimated that in 2013, 85% of\n2012, 7          of American adults         Americans lived in the same house\n      20                                    as they did 1 year before.\nwere obese.\n\n\nIn the following exercises, complete the table.\n85.                                                                  86.\n\n            Fraction        Decimal        Percent                                Fraction   Decimal   Percent\n\n             1                                                                    1\n             2                                                                    4\n\n                            0.45                                                             0.65\n\n                                            18 %                                                       22 %\n\n             1                                                                    2\n             3                                                                    3\n\n                            0.0008                                                           0.0004\n\n            2                                                                     3\n\n          Table 6.3                                                          Table 6.4\n\n\n\nEveryday Math\n87. Sales tax Felipa says she has an easy way to                     88. Savings Ryan has 25% of each paycheck\nestimate the sales tax when she makes a purchase. The                automatically deposited in his savings account.\nsales tax in her city is 9.05%. She knows this is a little\nless than 10%.                                                         ⓐ Write 25% as a fraction.\n                                                                       ⓑ Use your answer from ⓐ to find the amount\n  ⓐ Convert 10% to a fraction.\n                                                                       that goes to savings from Ryan's       $2,400\n  ⓑ Use your answer from ⓐ to estimate the sales                       paycheck.\n  tax Felipa would pay on a $95 dress.\n\n\n\n\nThis OpenStax book is available for free at http://cnx.org/content/col11756/1.9",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  },
+  {
+   "page": 19,
+   "title": "Page 19",
+   "text": "Chapter 6 Percents                                                                                                           533\n\n\n\n89. Amelio is shopping for textbooks online. He found          90. Write seller C’s rating as a fraction and a decimal.\nthree sellers that are offering a book he needs for the\nsame price, including shipping. To decide which seller\nto buy from he is comparing their customer\nsatisfaction ratings. The ratings are given in the chart.\n\n                     Seller    Rating\n\n                     A           4/5\n\n                     B           3.5/4\n\n                     C           85%\n\n\n\n91. Write seller B’s rating as a percent and a decimal.        92. Write seller A’s rating as a percent and a decimal.\n\n93. Which seller should Amelio buy from and why?\n\nWriting Exercises\n\n94. Convert 25%, 50%, 75%, and 100% to fractions.              95. Convert      1, 2, 3, 4, 5, 6, 7, 8,             and\nDo you notice a pattern? Explain what the pattern is.                          10 10 10 10 10 10 10 10\n                                                                 9 to percents. Do you notice a pattern? Explain what\n                                                                10\n                                                               the pattern is.\n\n96. When the Szetos sold their home, the selling price         97. According to cnn.com, cell phone use in 2008 was\nwas 500% of what they had paid for the house                    600% of what it had been in 2001. Explain what\n30 years ago. Explain what 500% means in this                   600% means in this context.\ncontext.\n\nSelf Check\n\nⓐ After completing the exercises, use this checklist to evaluate your mastery of the objectives of this section.\n\n\n\n\nⓑ If most of your checks were:\nÉconfidently. Congratulations! You have achieved the objectives in this section. Reflect on the study skills you used so that you\ncan continue to use them. What did you do to become confident of your ability to do these things? Be specific.\nÉwith some help. This must be addressed quickly because topics you do not master become potholes in your road to success.\nIn math, every topic builds upon previous work. It is important to make sure you have a strong foundation before you move on.\nWho can you ask for help? Your fellow classmates and instructor are good resources. Is there a place on campus where math\ntutors are available? Can your study skills be improved?\nÉnoÑI donÕt get it! This is a warning sign and you must not ignore it. You should get help right away or you will quickly be\noverwhelmed. See your instructor as soon as you can to discuss your situation. Together you can come up with a plan to get you\nthe help you need.",
+   "image": null,
+   "method": "selectable-text",
+   "quality": "publisher excerpt; India/AP context needs separate study",
+   "transcriptionReviewed": true,
+   "appscTopics": [
+    "t-4-1"
+   ]
+  }
+ ],
+ "questions": [],
+ "notice": "Selected publisher chapter for foundational understanding. Examples and data may use a US context; check Indian/AP facts separately. This is a textbook excerpt, not the complete book. Use Original PDF layout to view figures and equations.",
+ "attribution": "Lynn Marecek and MaryAnne Anthony-Smith; OpenStax, Rice University · CC BY 4.0 · https://openstax.org/details/books/prealgebra"
+}

@@ -11,3 +11,5 @@ console.log('Built compatible offline PDF.js worker, fonts and character maps; n
 
 
 const pdfBuild=spawnSync('python3',['scripts/materialize-pdf-pages.py','app'],{stdio:'inherit'});if(pdfBuild.status!==0)throw Error('Embedded PDF page build failed');
+
+fs.mkdirSync('app/materials',{recursive:true});for(const item of JSON.parse(fs.readFileSync('studio/public/materials/catalog.json','utf8')).filter(r=>r.mode==='download'))fs.copyFileSync('studio/public'+item.url,'app/materials/'+item.url.split('/').pop());

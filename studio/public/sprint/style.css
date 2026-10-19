@@ -22,3 +22,5 @@
 .pdf-library{margin:20px 0}.pdf-source-page{margin:16px 0}.pdf-source-page img{display:block;max-width:100%;height:auto;margin:auto;border:1px solid #d9e2dc}.pdf-source-page figcaption{font-size:14px;color:#60716d;margin-top:8px}.pdf-reader{border:1px solid #bdd2c6;border-radius:16px;padding:16px;margin:20px 0}.pdf-text{white-space:pre-wrap;overflow-wrap:anywhere;line-height:1.9}.pdf-library .filters label{display:flex;flex-direction:column;gap:6px;min-width:150px}.pdf-library .upsc-grid{margin:16px 0}
 
 .pdf-page-viewport{max-width:100%;overflow:auto;overscroll-behavior:contain}.pdf-page-viewport.is-enlarged img{width:1450px;max-width:none;height:auto}
+
+.notes-subjects{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,190px),1fr));gap:10px;margin:20px 0}.notes-subjects button{display:flex;flex-direction:column;align-items:flex-start;text-align:left;white-space:normal;height:auto;gap:8px}.notes-subjects button[aria-pressed=true]{outline:2px solid #397a68}.notes-subjects span{font-size:13px}.textbook-layout iframe{width:100%;height:650px;border:1px solid #c7d4ce;border-radius:12px;margin:12px 0}
