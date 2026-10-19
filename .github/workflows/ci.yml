@@ -22,12 +22,17 @@ jobs:
           fi
       - run: npm run build
       - run: npm test
-      - run: npm install --no-save --package-lock=false playwright@1.58.2
+      - run: npm install --no-save --package-lock=false playwright@1.58.2 esbuild@0.28.0 react@19.2.6 react-dom@19.2.6 lucide-react@1.31.0
       - run: npx playwright install --with-deps chromium
       - name: Run browser verification
         run: |
           python3 -m http.server 8080 --directory app > /tmp/group1-server.log 2>&1 &
           node tests/browser-qa.cjs
+      - name: Verify actual website and app topic clicks
+        run: |
+          node scripts/build-website-qa.mjs
+          python3 -m http.server 8081 --directory .qa-website > /tmp/group1-website-qa.log 2>&1 &
+          node tests/topic-navigation-browser.cjs
       - uses: actions/upload-artifact@v4
         if: always()
         with:
