@@ -8,8 +8,10 @@ Subject cards show all seven syllabus subjects plus optional collections and the
 
 Textbook reading uses extracted text plus an optional original-page layout rendered by local PDF.js inside a same-origin frame. This retains charts, equations and diagrams that text extraction alone cannot reproduce. Previous/next page controls, enlarge/fit and local attribution keep the learner inside the app. Checked document IDs and PDF paths are allowlisted; original PDF hashes are verified before rendering. No external PDF URL or publisher page is used for learner navigation.
 
-The older Reading Room was audited too: external publisher/catalogue buttons were removed; unhosted discovery entries are excluded from readable books. Imported personal PDFs and existing offline reading/sync continue to use that reader. Publisher source names remain plain attribution. The PWA service worker is v28; textbook documents cache on demand rather than forcing a bulk download.
+The older Reading Room was audited too: external publisher/catalogue buttons were removed; unhosted discovery entries are excluded from readable books. Imported personal PDFs and existing offline reading/sync continue to use that reader. Publisher source names remain plain attribution. The PWA service worker is v29; textbook documents cache on demand rather than forcing a bulk download.
 
 The 150 previously reported weak handwritten transcriptions remain pending. Their source page images are still readable. No unavailable or rights-held external PDF is counted as newly published.
 
 Verification: module checks, catalogue hashes, subject/type filtering, same-origin textbook viewer, no external navigation in legacy reader, TypeScript compilation/tests, production packaging and CI browser journey. Exact release identifiers and CI outcome are recorded after publishing.
+
+Release verification caught two app test files incorrectly copied from website tests; restored their app paths. Browser QA then caught mobile overflow on a textbook text page; contained text/iframe widths and retained overflow assertions for the corrected build.
