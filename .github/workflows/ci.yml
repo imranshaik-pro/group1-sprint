@@ -25,6 +25,9 @@ jobs:
       - run: npm install --no-save --package-lock=false playwright@1.58.2 esbuild@0.28.0 react@19.2.6 react-dom@19.2.6 lucide-react@1.31.0 typescript@5.9.3
       - name: Verify website modules, typed event contracts and release inventory
         run: |
+          cp -Rn app/. studio/public/sprint/
+          mkdir -p studio/docs
+          cp -Rn docs/. studio/docs/
           cp -R app/pdf-scans studio/public/pdf-scans
           node --test studio/tests/*.test.mjs
           node --experimental-strip-types --test studio/tests/*.test.ts
