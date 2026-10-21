@@ -30,7 +30,7 @@ jobs:
           cp -Rn docs/. studio/docs/
           cp -R app/pdf-scans studio/public/pdf-scans
           node --test studio/tests/*.test.mjs
-          node --experimental-strip-types --test studio/tests/*.test.ts
+          (cd studio && node --experimental-strip-types --test tests/*.test.ts)
           node scripts/release-check.mjs
       - run: npx playwright install --with-deps chromium
       - name: Run browser verification
