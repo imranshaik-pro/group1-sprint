@@ -10,7 +10,7 @@ A Telugu-first study workspace for learning concepts, practising reviewed questi
 
 ## Verified baseline
 
-The last released baseline is Site version 28. It contains 65 internal study units and 276 chapter segments, 1,090 bundled scored questions, and 38 embedded notes/reference/textbook documents spanning 534 pages. These counts describe inventory, not complete official-syllabus coverage or independent factual certification. 150 weak handwritten OCR transcriptions are withheld; their scanned pages remain readable inside the app. Eight textbook documents are excerpts, not complete textbooks. External documents held for rights, extraction or availability are not counted as published.
+The shared content inventory contains 65 internal study units and 276 chapter segments, 1,090 bundled scored questions, and 38 embedded notes/reference/textbook documents spanning 534 pages. These counts describe inventory, not complete official-syllabus coverage or independent factual certification. 150 weak handwritten OCR transcriptions are withheld; their scanned pages remain readable inside the app. Eight textbook documents are excerpts, not complete textbooks. External documents held for rights, extraction or availability are not counted as published.
 
 Version 28 fixed lesson navigation being blocked by a denied progress save. It tested actual topic-card clicks for all 65 topics in guest, pending and approved website account states (membership transport mocked), and all 65 app topics through every chapter segment. See docs/TOPIC_NAVIGATION_2026-10-19.md in the GitHub repository for precise verification limits.
 
@@ -58,3 +58,7 @@ Pilot target: 30–50 consenting learners before wider scale. Track activation, 
 AI adapters/source code may exist, but live AI is not a completed paid-product feature. Keys, provider availability, budget enforcement and reviewed-content restrictions must be configured and tested before activation.
 
 The account bridge keeps large records device-only with a visible warning; keep full backups. It projects notes, guided learning, task completion, completion state, reading preferences, plans and compatible bundled practice. No user history is moved to a cloud account before the first-device consent step. The legacy vault remains available for recovery under Advanced.
+
+## Integration repair
+
+Question-review forms, admin family controls, coverage filtering and website-to-app practice transfer are repaired in the current source. See `docs/INTEGRATION_REPAIR_2026-10-22.md` for validation evidence and remaining content, live-account and AI gates. The full browser run passed and Site version 29 deployed successfully.
