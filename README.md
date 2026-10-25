@@ -62,3 +62,7 @@ The account bridge keeps large records device-only with a visible warning; keep 
 ## Integration repair
 
 Question-review forms, admin family controls, coverage filtering and website-to-app practice transfer are repaired in the current source. See `docs/INTEGRATION_REPAIR_2026-10-22.md` for validation evidence and remaining content, live-account and AI gates. The full browser run passed and Site version 29 deployed successfully.
+
+## Android pilot APK
+
+The `android/` project builds a native launcher for the browser-backed study app, using Android Browser Helper and the existing account/offline web flows. See [Android build and limitations](android/README.md). The pilot is debug-signed for sideload testing; verified fullscreen, release signing and physical-device acceptance remain separate gates.

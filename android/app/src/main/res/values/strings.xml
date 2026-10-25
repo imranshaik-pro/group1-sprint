@@ -1,0 +1,1 @@
+<resources><string name="app_name" translatable="false">Group1 Sprint</string><string name="asset_statements" translatable="false">[{\"relation\":[\"delegate_permission/common.handle_all_urls\"],\"target\":{\"namespace\":\"web\",\"site\":\"https://group1-sprint-studio.spryplume16.chatgpt.site\"}}]</string><string name="about_pilot">About this pilot</string></resources>
