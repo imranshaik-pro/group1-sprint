@@ -17,6 +17,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import java.io.File;
 import java.io.FileOutputStream;
+import java.util.concurrent.atomic.AtomicReference;
 import static androidx.test.espresso.Espresso.onView;
 import static androidx.test.espresso.action.ViewActions.click;
 import static androidx.test.espresso.action.ViewActions.scrollTo;
@@ -61,9 +62,13 @@ public final class LauncherInstrumentedTest {
         onView(withText("About this pilot")).perform(scrollTo(),click());
         onView(withText("Got it")).check(matches(isDisplayed())).perform(click());
         onView(withText("Continue my study")).perform(scrollTo()).check(matches(isDisplayed()));
-        StudyActivity study=new StudyActivity();
-        study.setIntent(new Intent().setData(Uri.parse("https://malicious.invalid/?token=not-a-real-token")));
-        assertEquals(LaunchPolicy.studyUrl("today"),study.getLaunchingUrl().toString());
+        AtomicReference<String> destination=new AtomicReference<>();
+        InstrumentationRegistry.getInstrumentation().runOnMainSync(()->{
+            StudyActivity study=new StudyActivity();
+            study.setIntent(new Intent().setData(Uri.parse("https://malicious.invalid/?token=not-a-real-token")));
+            destination.set(study.getLaunchingUrl().toString());
+        });
+        assertEquals(LaunchPolicy.studyUrl("today"),destination.get());
         assertFalse(InstrumentationRegistry.getInstrumentation().getTargetContext().getPackageManager().getActivityInfo(new ComponentName(InstrumentationRegistry.getInstrumentation().getTargetContext(),StudyActivity.class),0).exported);
     }
 }

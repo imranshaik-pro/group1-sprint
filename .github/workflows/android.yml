@@ -87,9 +87,7 @@ jobs:
           emulator-boot-timeout: 600
           script: |
             adb shell settings put system font_scale ${{ matrix.font }}
-            ./android/gradlew -p android --no-daemon :app:connectedDebugAndroidTest
-            mkdir -p qa-screenshots
-            adb pull /sdcard/Android/data/in.group1sprint.study.pilot/files/. qa-screenshots/
+            bash android/scripts/run-native-qa.sh
       - uses: actions/upload-artifact@v4
         if: always()
         with:
