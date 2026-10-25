@@ -17,6 +17,10 @@ An unauthenticated GET to `https://group1-sprint-studio.spryplume16.chatgpt.site
 
 ## Validation and limits
 
-Local checks: 126 app tests, 84 website module checks, 53 typed event-contract tests and TypeScript compilation passed. The browser gate additionally saves a complete document, removes incidental cached pages, reopens images and the next page while offline, verifies/removes a pack, and checks website-to-PWA pack sharing. Its terminal outcome and deployment receipt must be recorded before reporting release completion.
+Local checks: 126 app tests, 84 website module checks, 53 typed event-contract tests and TypeScript compilation passed. The browser gate additionally saves a complete document, removes incidental cached pages, reopens images and the next page while offline, verifies/removes a pack, and checks website-to-PWA pack sharing. The full web run 40218770591 and Android run 40218770578 passed on code commit `47be4a968c259618aa2d10b9db3b60b2b964a556`. Logs confirm complete document save, actual offline source images, next-page reading, verification/removal and website-to-PWA sharing. PR #6 merged as `86bb962040316d3393515dcf5a34988b6e507536`.
+
+Site version 30 deployed successfully. Source commit: `363bbc50612e46298e646b811e28d23b6eaedf3b`. Deployment: `appgdep_6ade43a087508191b254253eb8edcc64`. Archive SHA-256: `007c69c4c5431371728a8ac15195b536726a94dee8d3205b973016057a42d40c`. The existing Android pilot uses this updated hosted web app; reinstalling the APK is unnecessary for the offline controls.
+
+Open Notes & Textbooks, choose a document, press Save for offline, and wait for Verified complete before going offline. From the website use Open offline study app to reopen saved packs. Downloading a single document does not download all 534 pages of the collection. Local interactive preview was unavailable (connection refused); automated CI used the actual website/PWA components with the previously documented account transport mocks.
 
 No Android device/emulator is connected. Real-device install/layout, live ChatGPT login and callback handling, PDF download UI, Back behavior and phone-to-laptop account sync remain acceptance gates. No durable production key, Play Store release, live API key or AI spending was created by this phase. OCR/content review and official syllabus mapping remain separate work.
