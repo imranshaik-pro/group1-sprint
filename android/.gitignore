@@ -3,3 +3,6 @@ local.properties
 **/build/
 *.jks
 *.keystore
+__pycache__/
+signing-readiness.json
+unsigned-bundle.sha256

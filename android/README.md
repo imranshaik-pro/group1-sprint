@@ -38,3 +38,13 @@ The native launcher opens offline. Lessons and PDFs are fetched from the hosted 
 Route-policy unit tests reject lookalike origins, user-info URLs, HTTP, unknown routes, arbitrary ports, query credentials and non-HTTPS intent schemes. Android compilation, lint and APK signature checks complement these tests. They do not establish real-device login, browser-origin verification, offline-cache availability or complete content accuracy.
 
 CI: `.github/workflows/android.yml` builds the pilot APK and retains its test/lint results as workflow artifacts. API keys and production signing secrets are not used.
+
+## Native validation and release packaging
+
+`./gradlew :app:connectedDebugAndroidTest` installs the launcher on a connected emulator/device and runs native UI/handoff checks. CI covers API 26 and API 35 (large fonts) and retains screenshots/test results. Browser launches are intercepted; live sign-in, actual browser/PDF UI and physical-phone sync remain separate acceptance work.
+
+`./gradlew :app:bundleRelease` generates a minified release bundle. Without all four variables below it remains **unsigned**. CI names that artifact `group1-sprint-release-UNSIGNED`; it is a packaging check, not a Play-ready release.
+
+Owner-controlled release signing uses `GROUP1_SIGNING_STORE_FILE`, `GROUP1_SIGNING_STORE_PASSWORD`, `GROUP1_SIGNING_KEY_ALIAS`, `GROUP1_SIGNING_KEY_PASSWORD`. Keep the existing keystore outside the repository and use secure environment/CI secret configuration. Partial configuration is rejected; no debug key is used for release.
+
+Run `python3 scripts/release-preflight.py --require-signing` before a real signed release. It exits unsuccessfully if the signing store/settings are unavailable. The final signed bundle must still be verified against its expected package, version and owner-held certificate before publication. See `../docs/ANDROID_PHASE3_2026-10-26.md` for evidence and limits.

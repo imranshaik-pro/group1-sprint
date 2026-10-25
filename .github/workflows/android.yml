@@ -23,9 +23,17 @@ jobs:
           log-accepted-android-sdk-licenses: false
       - name: Install pinned Android SDK components
         run: sdkmanager 'platforms;android-36' 'build-tools;35.0.0'
+      - name: Report production signing readiness
+        run: python3 android/scripts/release-preflight.py > android/signing-readiness.json
+      - name: Test release preflight
+        run: python3 -m unittest discover -s android/scripts -p "test_*.py"
       - name: Build, test and lint
         working-directory: android
-        run: ./gradlew --no-daemon :app:assembleDebug :app:testDebugUnitTest :app:lintDebug
+        run: ./gradlew --no-daemon :app:assembleDebug :app:testDebugUnitTest :app:lintDebug :app:bundleRelease
+      - name: Verify unsigned release packaging
+        run: |
+          unzip -t android/app/build/outputs/bundle/release/app-release.aab
+          sha256sum android/app/build/outputs/bundle/release/app-release.aab > android/unsigned-bundle.sha256
       - uses: actions/upload-artifact@v4
         with:
           name: group1-sprint-android-pilot
@@ -33,3 +41,61 @@ jobs:
             android/app/build/outputs/apk/debug/*.apk
             android/app/build/reports/lint-results-debug.*
             android/app/build/test-results/testDebugUnitTest/*.xml
+      - uses: actions/upload-artifact@v4
+        with:
+          name: group1-sprint-release-UNSIGNED
+          path: |
+            android/app/build/outputs/bundle/release/*.aab
+            android/signing-readiness.json
+            android/unsigned-bundle.sha256
+  emulator:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - api: 26
+            font: '1.0'
+          - api: 35
+            font: '1.3'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: android-actions/setup-android@v3
+        with:
+          packages: platform-tools
+          log-accepted-android-sdk-licenses: false
+      - name: Install compile SDK
+        run: sdkmanager 'platforms;android-36' 'build-tools;35.0.0'
+      - name: Enable emulator acceleration
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules
+          sudo udevadm control --reload-rules
+          sudo udevadm trigger --name-match=kvm
+      - name: Run real Android launcher tests
+        uses: reactivecircus/android-emulator-runner@v2
+        with:
+          api-level: ${{ matrix.api }}
+          target: google_apis
+          arch: x86_64
+          profile: Nexus 6
+          disable-animations: true
+          emulator-boot-timeout: 600
+          script: |
+            adb shell settings put system font_scale ${{ matrix.font }}
+            ./android/gradlew -p android --no-daemon :app:connectedDebugAndroidTest
+            mkdir -p qa-screenshots
+            adb pull /sdcard/Android/data/in.group1sprint.study.pilot/files/. qa-screenshots/
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: group1-native-qa-api-${{ matrix.api }}
+          path: |
+            android/app/build/reports/androidTests/
+            android/app/build/outputs/androidTest-results/
+            qa-screenshots/
+            android/qa-screenshots/
