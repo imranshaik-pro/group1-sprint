@@ -1,3 +1,4 @@
+import {saveOfflineDocument,offlineDocumentStatus,removeOfflineDocument,prepareOfflineStudyApp} from './offline-documents.js';
 import {BUILD_ID} from './product-core.js';
 import {productHTML,productRequest,productFormPayload} from './product-ui.js';
 import {diagnostics,installDiagnostics,clearDiagnostics} from './diagnostics.js';
@@ -111,7 +112,19 @@ async function handleImport(d){if(d.importAction==='more')importView.limit+=20;e
 
 let scheduleDate=today();setInterval(()=>{if(today()!==scheduleDate){scheduleDate=today();if(state&&route==='today'&&!formDirty)render();}},30000);
 
-async function handlePdf(d){if(d.pdfAction==='subject'){pdfView={...pdfView,subject:d.pdfSubject,topic:'',query:'',limit:12};}else if(d.pdfAction==='open'){const n=++pdfRequest;pdfView={...pdfView,selected:d.pdfId,data:null,page:0,zoom:false,loading:true,error:''};if(route!=='pdfs')location.hash='pdfs';render();try{const data=await loadPdfDocument(fetch,d.pdfId);if(n===pdfRequest)pdfView={...pdfView,data,loading:false};}catch(e){if(n===pdfRequest)pdfView={...pdfView,error:e.message,loading:false};}}else if(d.pdfAction==='close'){pdfRequest++;pdfView={...pdfView,selected:'',data:null,loading:false,error:''};}else if(d.pdfAction==='next'||d.pdfAction==='previous')pdfView.page=Math.max(0,Math.min(pdfView.data.sections.length-1,pdfView.page+(d.pdfAction==='next'?1:-1)));else if(d.pdfAction==='zoom')pdfView.zoom=!pdfView.zoom;else if(d.pdfAction==='jump')pdfView.page=Math.max(0,Math.min(pdfView.data.sections.length-1,Number(d.pdfPage)||0));else if(d.pdfAction==='more'){pdfView={...pdfView,topic:d.pdfTopic||pdfView.topic,limit:pdfView.limit+12};if(route!=='pdfs')location.hash='pdfs';}render();if(['open','next','previous','jump'].includes(d.pdfAction))document.querySelector('.pdf-reader')?.scrollIntoView({block:'start'});}
+let offlineDownload=null;
+async function handleOfflinePdf(d){
+ if(d.pdfAction==='offline-cancel'){offlineDownload?.abort();return;}
+ if(offlineDownload)return;
+ const id=d.pdfId,update=(message,busy=false)=>{pdfView={...pdfView,offline:{id,message,busy}};if(route==='pdfs')render();};
+ try{if(d.pdfAction==='offline-save'){
+ offlineDownload=new AbortController();update('Preparing the offline study app…',true);await prepareOfflineStudyApp();
+ await saveOfflineDocument(id,{signal:offlineDownload.signal,onProgress:p=>update(p.complete?'Verified complete · '+p.total+' files saved. Open the study app while offline.':'Saving '+p.saved+' of '+p.total+' files…',!p.complete)});
+ }else if(d.pdfAction==='offline-check'){const p=await offlineDocumentStatus(id);update(p.complete?'Verified complete · '+p.total+' files available offline.':p.saved?'Partial copy · '+p.saved+' of '+p.total+' files. Save again to resume.':'No complete current offline copy. Save this document online.');}
+ else if(d.pdfAction==='offline-remove'){await removeOfflineDocument(id);update('Offline copy removed. Notes and progress retained.');}
+ }catch(e){update(e.message||'Offline download failed. Retry to resume.');}finally{offlineDownload=null;}
+}
+async function handlePdf(d){if(d.pdfAction?.startsWith('offline-')){await handleOfflinePdf(d);return;}if(d.pdfAction==='subject'){pdfView={...pdfView,subject:d.pdfSubject,topic:'',query:'',limit:12};}else if(d.pdfAction==='open'){const n=++pdfRequest;pdfView={...pdfView,selected:d.pdfId,data:null,page:0,zoom:false,loading:true,error:''};if(route!=='pdfs')location.hash='pdfs';render();try{const data=await loadPdfDocument(fetch,d.pdfId);if(n===pdfRequest)pdfView={...pdfView,data,loading:false};}catch(e){if(n===pdfRequest)pdfView={...pdfView,error:e.message,loading:false};}}else if(d.pdfAction==='close'){pdfRequest++;pdfView={...pdfView,selected:'',data:null,loading:false,error:''};}else if(d.pdfAction==='next'||d.pdfAction==='previous')pdfView.page=Math.max(0,Math.min(pdfView.data.sections.length-1,pdfView.page+(d.pdfAction==='next'?1:-1)));else if(d.pdfAction==='zoom')pdfView.zoom=!pdfView.zoom;else if(d.pdfAction==='jump')pdfView.page=Math.max(0,Math.min(pdfView.data.sections.length-1,Number(d.pdfPage)||0));else if(d.pdfAction==='more'){pdfView={...pdfView,topic:d.pdfTopic||pdfView.topic,limit:pdfView.limit+12};if(route!=='pdfs')location.hash='pdfs';}render();if(['open','next','previous','jump'].includes(d.pdfAction))document.querySelector('.pdf-reader')?.scrollIntoView({block:'start'});}
 
 void loadProduct();
 

@@ -66,3 +66,5 @@ Question-review forms, admin family controls, coverage filtering and website-to-
 ## Android pilot APK
 
 The `android/` project builds a native launcher for the browser-backed study app, using Android Browser Helper and the existing account/offline web flows. See [Android build and limitations](android/README.md). The pilot is debug-signed for sideload testing; verified fullscreen, release signing and physical-device acceptance remain separate gates.
+
+Android phase 2 adds verified offline document packs to both readers and repairs the CI SDK setup. See `docs/ANDROID_PHASE2_2026-10-25.md` for evidence and the private-hosting fullscreen blocker.

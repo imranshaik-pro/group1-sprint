@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.group1sprint.study.pilot",
+      "sha256_cert_fingerprints": [
+        "B0:72:7E:EC:95:19:27:D9:EE:EF:5E:6C:1C:67:4E:0B:63:98:66:74:73:7B:D2:EA:47:D2:BE:69:56:2B:9C:25"
+      ]
+    }
+  }
+]

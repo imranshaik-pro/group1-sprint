@@ -43,6 +43,7 @@ jobs:
           python3 -m http.server 8081 --directory .qa-website > /tmp/group1-website-qa.log 2>&1 &
           node tests/topic-navigation-browser.cjs
           node tests/product-foundation-browser.cjs
+          node tests/offline-documents-browser.cjs
       - uses: actions/upload-artifact@v4
         if: always()
         with:

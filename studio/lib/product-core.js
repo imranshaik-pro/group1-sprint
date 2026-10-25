@@ -2,7 +2,7 @@ import {topics} from './content.js';
 import {learningContent} from './lesson-content.js';
 import {practiceBank} from './practice-bank.js';
 import {pdfDocuments} from './pdf-library.js';
-export const BUILD_ID='integration-20261022-01';
+export const BUILD_ID='android-offline-20261025-01';
 export const topicId=id=>topics.some(t=>t.id===id);
 export const cleanText=(s,max=1200)=>String(s??'').replace(/(?:sk-[a-zA-Z0-9_-]+|gh[pousr]_[a-zA-Z0-9_]+|github_pat_[a-zA-Z0-9_]+|Bearer\s+[^\s]+)/gi,'[credential removed]').slice(0,max);
 export function safeHttps(s,official=false){try{const u=new URL(s);return u.protocol==='https:'&&!u.username&&!u.password&&(!official||['psc.ap.gov.in','portal-psc.ap.gov.in'].includes(u.hostname));}catch{return false;}}
