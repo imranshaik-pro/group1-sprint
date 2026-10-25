@@ -24,6 +24,7 @@ import static androidx.test.espresso.action.ViewActions.scrollTo;
 import static androidx.test.espresso.assertion.ViewAssertions.matches;
 import static androidx.test.espresso.matcher.ViewMatchers.isDisplayed;
 import static androidx.test.espresso.matcher.ViewMatchers.withText;
+import static androidx.test.espresso.matcher.RootMatchers.isDialog;
 import static androidx.test.espresso.intent.Intents.intended;
 import static androidx.test.espresso.intent.Intents.intending;
 import static androidx.test.espresso.intent.matcher.IntentMatchers.hasComponent;
@@ -60,7 +61,7 @@ public final class LauncherInstrumentedTest {
     }
     @Test public void aboutDialogCanCloseAndStudyActivityRejectsForeignIntentData() throws Exception {
         onView(withText("About this pilot")).perform(scrollTo(),click());
-        onView(withText("Got it")).check(matches(isDisplayed())).perform(click());
+        onView(withText("Got it")).inRoot(isDialog()).check(matches(isDisplayed())).perform(click());
         onView(withText("Continue my study")).perform(scrollTo()).check(matches(isDisplayed()));
         AtomicReference<String> destination=new AtomicReference<>();
         InstrumentationRegistry.getInstrumentation().runOnMainSync(()->{
