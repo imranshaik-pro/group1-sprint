@@ -68,3 +68,6 @@ Question-review forms, admin family controls, coverage filtering and website-to-
 The `android/` project builds a native launcher for the browser-backed study app, using Android Browser Helper and the existing account/offline web flows. See [Android build and limitations](android/README.md). The pilot is debug-signed for sideload testing; verified fullscreen, release signing and physical-device acceptance remain separate gates.
 
 Site version 30 adds verified offline document packs to both readers and repairs the Android CI SDK setup. Both pipelines passed; PRs #5 and #6 are merged. See `docs/ANDROID_PHASE2_2026-10-25.md` for evidence and the private-hosting fullscreen blocker.
+
+
+Android phase 3 is complete for native emulator validation and unsigned release packaging. Android 8/API 26 and Android 15/API 35 (font scale 1.3) each passed all three instrumented tests, with native screenshot collection verified. Build, lint, unit tests, signing preflight and web integration checks passed; PR #7 is merged. See [phase 3 evidence and remaining gates](docs/ANDROID_PHASE3_2026-10-26.md). Production signing, public domain association/fullscreen, Play publication and real-phone live-account acceptance remain pending.
