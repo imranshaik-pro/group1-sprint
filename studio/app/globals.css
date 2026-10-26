@@ -65,3 +65,9 @@
 .app .member-cell>span:last-child,.app .identity-card>div{min-width:0;overflow-wrap:anywhere}
 .app .member-cell strong{white-space:normal;overflow:visible}
 .app .sync-detail strong{overflow-wrap:anywhere;min-width:0}
+
+.app .member-shortcuts button{background:var(--reading-surface);color:var(--reading-ink);font-size:12px;line-height:1.5;min-height:44px}
+.app .mobile-bottom-nav{background:var(--reading-surface);border-color:#87998d}
+.app .mobile-bottom-nav button{color:var(--reading-muted);font-size:11px;min-height:48px}
+.app .mobile-bottom-nav button.selected{background:var(--reading-tint);color:var(--reading-ink)}
+.app[data-reading-theme=dark] .sync-chip,.app[data-reading-theme=dark] .back-control{background:var(--reading-surface);color:var(--reading-ink);border-color:#87998d}

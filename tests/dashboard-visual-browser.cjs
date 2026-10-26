@@ -63,8 +63,8 @@ async function inspect(page,label){
     for(const theme of ['paper','sepia','dark']){
      await page.goto('http://127.0.0.1:8081/?mode=active#today');
      await page.locator('.reading-controls summary').click();
-     await page.getByLabel('Appearance',{exact:true}).selectOption(theme);
-     await page.getByLabel('Text size',{exact:true}).selectOption('22');
+     await page.getByRole('combobox',{name:'Appearance',exact:true}).selectOption(theme);
+     await page.getByRole('combobox',{name:'Text size',exact:true}).selectOption('22');
      await inspect(page,'website-390-active-'+theme+'-22px');
      const ratios=await page.locator('.stat-card').evaluateAll(cards=>{
       const luminance=s=>{const c=s.match(/[\d.]+/g).slice(0,3).map(Number).map(v=>{v/=255;return v<=.04045?v/12.92:((v+.055)/1.055)**2.4});return c[0]*.2126+c[1]*.7152+c[2]*.0722};
