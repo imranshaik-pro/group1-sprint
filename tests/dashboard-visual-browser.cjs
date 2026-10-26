@@ -3,7 +3,7 @@ const {chromium}=require('playwright');
 const assert=require('node:assert/strict'),fs=require('node:fs');
 const out='qa-artifacts/dashboards';fs.mkdirSync(out,{recursive:true});
 const routes=['today','library','practice','revision','insights','pdfs','coverage','upsc','materials','plan','papers','reading','current','tutor','help','settings','admin','account','recovery'];
-const findings=[],results=[];
+const findings=[],results=[];let browser;
 const day=d=>new Date(Date.now()+d*86400000).toISOString();
 function seed(){return [
  {id:'dummy-plan',at:day(-3),type:'plan',data:{start:day(-3).slice(0,10),days:105,hours:3,level:'Building foundations',weak:'Polity & Governance'}},
@@ -40,7 +40,7 @@ async function inspect(page,label){
  await page.screenshot({path:out+'/'+label+'.png',fullPage:true});
 }
 (async()=>{
- const browser=await chromium.launch({headless:true});
+ browser=await chromium.launch({headless:true});
  for(const width of [320,390,1440]){
   for(const mode of ['active','admin']){
    const context=await browser.newContext({viewport:{width,height:900},reducedMotion:'reduce',timezoneId:'Asia/Kolkata'}),page=await context.newPage();
@@ -101,4 +101,4 @@ async function inspect(page,label){
  fs.writeFileSync(out+'/results.json',JSON.stringify({testedAt:new Date().toISOString(),results,findings},null,2));
  console.log(JSON.stringify({screens:results.length,findings},null,2));
  await browser.close();assert.deepEqual(findings,[],'Dashboard QA findings; see results.json and screenshots');
-})().catch(e=>{console.error(e);process.exitCode=1});
+})().catch(async e=>{console.error(e);findings.push({type:'test-failure',message:e.message});fs.writeFileSync(out+'/results.json',JSON.stringify({testedAt:new Date().toISOString(),results,findings},null,2));if(browser)await browser.close().catch(()=>{});process.exitCode=1});
