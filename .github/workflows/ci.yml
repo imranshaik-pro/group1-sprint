@@ -8,6 +8,7 @@ permissions:
 jobs:
   validate:
     runs-on: ubuntu-latest
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -32,7 +33,13 @@ jobs:
           node --test studio/tests/*.test.mjs
           (cd studio && node --experimental-strip-types --test tests/*.test.ts)
           node scripts/release-check.mjs
-      - run: npx playwright install --with-deps chromium
+      - name: Install and verify Chromium
+        run: |
+          npx playwright install chromium
+          if ! node -e "const {chromium}=require('playwright');chromium.launch({headless:true}).then(b=>b.close()).catch(e=>{console.error(e);process.exit(1)})"; then
+            npx playwright install-deps chromium
+            node -e "const {chromium}=require('playwright');chromium.launch({headless:true}).then(b=>b.close()).catch(e=>{console.error(e);process.exit(1)})"
+          fi
       - name: Run browser verification
         run: |
           python3 -m http.server 8080 --directory app > /tmp/group1-server.log 2>&1 &
@@ -44,6 +51,7 @@ jobs:
           node tests/topic-navigation-browser.cjs
           node tests/product-foundation-browser.cjs
           node tests/offline-documents-browser.cjs
+          node tests/dashboard-visual-browser.cjs
       - uses: actions/upload-artifact@v4
         if: always()
         with:
