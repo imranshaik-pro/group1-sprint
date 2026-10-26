@@ -62,7 +62,7 @@ async function inspect(page,label){
    if(width===390&&mode==='active'){
     for(const theme of ['paper','sepia','dark']){
      await page.goto('http://127.0.0.1:8081/?mode=active#today');
-     await page.locator('.reading-controls summary').click();
+     if(await page.locator('.reading-controls').getAttribute('open')===null)await page.locator('.reading-controls summary').click();
      await page.locator('.reading-controls label').filter({hasText:'Appearance'}).locator('select').selectOption(theme);
      await page.locator('.reading-controls label').filter({hasText:'Text size'}).locator('select').selectOption('22');
      await inspect(page,'website-390-active-'+theme+'-22px');
