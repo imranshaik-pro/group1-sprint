@@ -71,3 +71,8 @@ Site version 30 adds verified offline document packs to both readers and repairs
 
 
 Android phase 3 is complete for native emulator validation and unsigned release packaging. Android 8/API 26 and Android 15/API 35 (font scale 1.3) each passed all three instrumented tests, with native screenshot collection verified. Build, lint, unit tests, signing preflight and web integration checks passed; PR #7 is merged. See [phase 3 evidence and remaining gates](docs/ANDROID_PHASE3_2026-10-26.md). Production signing, public domain association/fullscreen, Play publication and real-phone live-account acceptance remain pending.
+
+
+## Dummy-user dashboard audit
+
+The 26 October 2026 audit passed 175 website/app dashboard views at 320, 390 and 1440 px using isolated synthetic identities. Guest/pending false-save feedback, current-page drawer dismissal, daily task totals, practice labels and dashboard readability are corrected. PRs #8 and #9 are merged; Site version 33 is deployed with its existing custom access. See [the full QA report, screenshots and limits](docs/DASHBOARD_QA_2026-10-26.md). Live provider sign-in and real-phone acceptance remain separate checks.

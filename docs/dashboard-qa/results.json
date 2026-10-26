@@ -1,0 +1,1582 @@
+{
+  "testedAt": "2026-10-26T17:25:31.064Z",
+  "results": [
+    {
+      "label": "website-320-active-today",
+      "viewport": 320,
+      "width": 320,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "hero-art",
+          "text": "YOUR NORTH STARGroup I Learn deeply Recall often Practise wisely✦✧"
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-one",
+          "text": ""
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "label": "website-320-active-library",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-practice",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-revision",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-insights",
+      "viewport": 320,
+      "width": 320,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "text": "Subject performanceSubjectCorrectWrongSkippedAccuracyHistory & Culture"
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "text": "Subject performance"
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "text": "SubjectCorrectWrongSkippedAccuracy"
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "text": "SubjectCorrectWrongSkippedAccuracy"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Correct"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Wrong"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Skipped"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Accuracy"
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "text": "History & Culture000—Polity & Governance000—Economy & Planning000—Geog"
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "text": "History & Culture000—"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "0"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "0"
+        }
+      ]
+    },
+    {
+      "label": "website-320-active-pdfs",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-coverage",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-upsc",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-materials",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-plan",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-papers",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-reading",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-current",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-tutor",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-help",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-settings",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-admin",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-account",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-active-recovery",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-today",
+      "viewport": 320,
+      "width": 320,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "hero-art",
+          "text": "YOUR NORTH STARGroup I Learn deeply Recall often Practise wisely✦✧"
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-one",
+          "text": ""
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "label": "website-320-admin-library",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-practice",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-revision",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-insights",
+      "viewport": 320,
+      "width": 320,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "text": "Subject performanceSubjectCorrectWrongSkippedAccuracyHistory & Culture"
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "text": "Subject performance"
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "text": "SubjectCorrectWrongSkippedAccuracy"
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "text": "SubjectCorrectWrongSkippedAccuracy"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Correct"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Wrong"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Skipped"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Accuracy"
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "text": "History & Culture000—Polity & Governance000—Economy & Planning000—Geog"
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "text": "History & Culture000—"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "0"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "0"
+        }
+      ]
+    },
+    {
+      "label": "website-320-admin-pdfs",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-coverage",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-upsc",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-materials",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-plan",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-papers",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-reading",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-current",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-tutor",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-help",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-settings",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-admin",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-account",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-320-admin-recovery",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-today",
+      "viewport": 390,
+      "width": 390,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "hero-art",
+          "text": "YOUR NORTH STARGroup I Learn deeply Recall often Practise wisely✦✧"
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-one",
+          "text": ""
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "label": "website-390-active-library",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-practice",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-revision",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-insights",
+      "viewport": 390,
+      "width": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "text": "Subject performanceSubjectCorrectWrongSkippedAccuracyHistory & Culture"
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "text": "Subject performance"
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "text": "SubjectCorrectWrongSkippedAccuracy"
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "text": "SubjectCorrectWrongSkippedAccuracy"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Wrong"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Skipped"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Accuracy"
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "text": "History & Culture000—Polity & Governance000—Economy & Planning000—Geog"
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "text": "History & Culture000—"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "0"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "0"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "—"
+        }
+      ]
+    },
+    {
+      "label": "website-390-active-pdfs",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-coverage",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-upsc",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-materials",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-plan",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-papers",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-reading",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-current",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-tutor",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-help",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-settings",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-admin",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-account",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-recovery",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-active-paper-22px",
+      "viewport": 390,
+      "width": 390,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "hero-art",
+          "text": "YOUR NORTH STARGroup I Learn deeply Recall often Practise wisely✦✧"
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-one",
+          "text": ""
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "label": "website-390-active-sepia-22px",
+      "viewport": 390,
+      "width": 390,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "hero-art",
+          "text": "YOUR NORTH STARGroup I Learn deeply Recall often Practise wisely✦✧"
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-one",
+          "text": ""
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "label": "website-390-active-dark-22px",
+      "viewport": 390,
+      "width": 390,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "hero-art",
+          "text": "YOUR NORTH STARGroup I Learn deeply Recall often Practise wisely✦✧"
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-one",
+          "text": ""
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "label": "website-390-admin-today",
+      "viewport": 390,
+      "width": 390,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "hero-art",
+          "text": "YOUR NORTH STARGroup I Learn deeply Recall often Practise wisely✦✧"
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-one",
+          "text": ""
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "label": "website-390-admin-library",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-practice",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-revision",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-insights",
+      "viewport": 390,
+      "width": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "text": "Subject performanceSubjectCorrectWrongSkippedAccuracyHistory & Culture"
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "text": "Subject performance"
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "text": "SubjectCorrectWrongSkippedAccuracy"
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "text": "SubjectCorrectWrongSkippedAccuracy"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Wrong"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Skipped"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Accuracy"
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "text": "History & Culture000—Polity & Governance000—Economy & Planning000—Geog"
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "text": "History & Culture000—"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "0"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "0"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "—"
+        }
+      ]
+    },
+    {
+      "label": "website-390-admin-pdfs",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-coverage",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-upsc",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-materials",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-plan",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-papers",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-reading",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-current",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-tutor",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-help",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-settings",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-admin",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-account",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-recovery",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-390-admin-approved-dummy",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-today",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-library",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-practice",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-revision",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-insights",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-pdfs",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-coverage",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-upsc",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-materials",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-plan",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-papers",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-reading",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-current",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-tutor",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-help",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-settings",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-admin",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-account",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-active-recovery",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-today",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-library",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-practice",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-revision",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-insights",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-pdfs",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-coverage",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-upsc",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-materials",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-plan",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-papers",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-reading",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-current",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-tutor",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-help",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-settings",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-admin",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-account",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-1440-admin-recovery",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "website-390-guest-empty-today",
+      "viewport": 390,
+      "width": 390,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "hero-art",
+          "text": "YOUR NORTH STARGroup I Learn deeply Recall often Practise wisely✦✧"
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-one",
+          "text": ""
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "label": "website-390-pending-empty-today",
+      "viewport": 390,
+      "width": 390,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "hero-art",
+          "text": "YOUR NORTH STARGroup I Learn deeply Recall often Practise wisely✦✧"
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-one",
+          "text": ""
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "label": "website-390-active-empty-today",
+      "viewport": 390,
+      "width": 390,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "cls": "hero-art",
+          "text": "YOUR NORTH STARGroup I Learn deeply Recall often Practise wisely✦✧"
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-one",
+          "text": ""
+        },
+        {
+          "tag": "DIV",
+          "cls": "orbit orbit-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "label": "app-320-today",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-library",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-practice",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-revisions",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-insights",
+      "viewport": 320,
+      "width": 320,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "text": "Subject performanceSubjectCorrectWrongSkippedAccuracyHistory & Culture"
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "text": "Subject performance"
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "text": "SubjectCorrectWrongSkippedAccuracy"
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "text": "SubjectCorrectWrongSkippedAccuracy"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Skipped"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Accuracy"
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "text": "History & Culture000—Polity & Governance000—Economy & Planning000—Geog"
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "text": "History & Culture000—"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "0"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "—"
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "text": "Polity & Governance000—"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "0"
+        }
+      ]
+    },
+    {
+      "label": "app-320-pdfs",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-coverage",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-upsc",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-materials",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-ledger",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-catalogue",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-papers",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-current",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-tutor",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-help",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-settings",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-plan",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-320-learn-t-1-1",
+      "viewport": 320,
+      "width": 320,
+      "overflow": []
+    },
+    {
+      "label": "app-390-today",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-library",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-practice",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-revisions",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-insights",
+      "viewport": 390,
+      "width": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "text": "Subject performanceSubjectCorrectWrongSkippedAccuracyHistory & Culture"
+        },
+        {
+          "tag": "CAPTION",
+          "cls": "",
+          "text": "Subject performance"
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "text": "SubjectCorrectWrongSkippedAccuracy"
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "text": "SubjectCorrectWrongSkippedAccuracy"
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "text": "Accuracy"
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "text": "History & Culture000—Polity & Governance000—Economy & Planning000—Geog"
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "text": "History & Culture000—"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "—"
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "text": "Polity & Governance000—"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "—"
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "text": "Economy & Planning000—"
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "text": "—"
+        }
+      ]
+    },
+    {
+      "label": "app-390-pdfs",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-coverage",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-upsc",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-materials",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-ledger",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-catalogue",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-papers",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-current",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-tutor",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-help",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-settings",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-plan",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-390-learn-t-1-1",
+      "viewport": 390,
+      "width": 390,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-today",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-library",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-practice",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-revisions",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-insights",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-pdfs",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-coverage",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-upsc",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-materials",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-ledger",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-catalogue",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-papers",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-current",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-tutor",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-help",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-settings",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-plan",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    },
+    {
+      "label": "app-1440-learn-t-1-1",
+      "viewport": 1440,
+      "width": 1440,
+      "overflow": []
+    }
+  ],
+  "findings": []
+}
