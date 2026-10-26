@@ -71,3 +71,12 @@
 .app .mobile-bottom-nav button{color:var(--reading-muted);font-size:11px;min-height:48px}
 .app .mobile-bottom-nav button.selected{background:var(--reading-tint);color:var(--reading-ink)}
 .app[data-reading-theme=dark] .sync-chip,.app[data-reading-theme=dark] .back-control{background:var(--reading-surface);color:var(--reading-ink);border-color:#87998d}
+
+/* Final screenshot review: readable settings copy, tracker tables and action labels. */
+.app .settings-card p,.app .settings-card>small,.app .backup-panel>p,.app .backup-panel>small,.app .sync-detail{color:var(--reading-muted);font-size:13px;line-height:1.7}
+.app .settings-card h2,.app .sync-detail strong{color:var(--reading-ink)}
+.app [aria-label="Smart topic tracker"] th,.app [aria-label="Smart topic tracker"] td{color:var(--reading-ink);font-size:13px;line-height:1.6}
+.app [aria-label="Smart topic tracker"] th{background:var(--reading-tint)}
+.app main .primary-button,.app main .secondary-button,.app main .light-button,.app main .text-button{font-size:13px;min-height:44px;max-width:100%;white-space:normal}
+.app main .primary-button{background:var(--deep);color:#fff}
+.app main .secondary-button,.app main .text-button{color:var(--reading-ink)}
