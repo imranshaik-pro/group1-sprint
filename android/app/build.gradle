@@ -1,4 +1,10 @@
 plugins { id 'com.android.application' }
+// Signing is opt-in and environment-only. Never fall back to a debug key for release.
+def releaseSecrets = ['GROUP1_SIGNING_STORE_FILE','GROUP1_SIGNING_STORE_PASSWORD','GROUP1_SIGNING_KEY_ALIAS','GROUP1_SIGNING_KEY_PASSWORD'].collectEntries { [(it): System.getenv(it)] }
+def supplied = releaseSecrets.values().count { it != null && !it.trim().isEmpty() }
+if (supplied > 0 && supplied < releaseSecrets.size()) throw new GradleException('Incomplete Group1 release signing configuration. Supply all four GROUP1_SIGNING_* settings or none.')
+def signedRelease = supplied == releaseSecrets.size()
+
 android {
     namespace 'in.group1sprint.study'
     compileSdk 36
@@ -8,14 +14,30 @@ android {
         targetSdk 36
         versionCode 1
         versionName '0.1.0'
+        testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
+    }
+    signingConfigs {
+        if (signedRelease) {
+            release {
+                storeFile file(releaseSecrets.GROUP1_SIGNING_STORE_FILE)
+                storePassword releaseSecrets.GROUP1_SIGNING_STORE_PASSWORD
+                keyAlias releaseSecrets.GROUP1_SIGNING_KEY_ALIAS
+                keyPassword releaseSecrets.GROUP1_SIGNING_KEY_PASSWORD
+            }
+        }
     }
     buildTypes {
         debug { applicationIdSuffix '.pilot'; versionNameSuffix '-pilot' }
-        release { minifyEnabled true; shrinkResources true; proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro' }
+        release { if (signedRelease) signingConfig signingConfigs.release; minifyEnabled true; shrinkResources true; proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro' }
     }
     compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
 }
 dependencies {
     implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.7.4'
     testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test:runner:1.6.2'
+    androidTestImplementation 'androidx.test:core:1.6.1'
+    androidTestImplementation 'androidx.test.ext:junit:1.2.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.6.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-intents:3.6.1'
 }
