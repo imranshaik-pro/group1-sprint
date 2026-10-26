@@ -45,11 +45,33 @@ async function inspect(page,label){
   for(const mode of ['active','admin']){
    const context=await browser.newContext({viewport:{width,height:900},reducedMotion:'reduce',timezoneId:'Asia/Kolkata'}),page=await context.newPage();
    page.on('pageerror',e=>findings.push({label:width+'-'+mode,type:'runtime',message:e.message}));
-   await mock(page,mode);
+   const dummy=await mock(page,mode);
    for(const route of routes){
     await page.goto('http://127.0.0.1:8081/?mode='+mode+'#'+route);
     await page.getByText('Up to date',{exact:true}).first().waitFor();
     await inspect(page,'website-'+width+'-'+mode+'-'+route);
+   }
+   if(width===390&&mode==='admin'){
+    await page.goto('http://127.0.0.1:8081/?mode=admin#admin');
+    const row=page.locator('tbody tr').filter({hasText:'Pending Dummy Learner'});
+    await row.getByRole('button',{name:'Approve',exact:true}).click();
+    await row.getByRole('button',{name:'Suspend',exact:true}).waitFor();
+    assert.ok(dummy.posts.some(x=>x.action==='membership'&&x.userId==='dummy-pending'&&x.status==='active'));
+    await inspect(page,'website-390-admin-approved-dummy');
+   }
+   if(width===390&&mode==='active'){
+    for(const theme of ['paper','sepia','dark']){
+     await page.goto('http://127.0.0.1:8081/?mode=active#today');
+     await page.locator('.reading-controls summary').click();
+     await page.getByLabel('Appearance',{exact:true}).selectOption(theme);
+     await page.getByLabel('Text size',{exact:true}).selectOption('22');
+     await inspect(page,'website-390-active-'+theme+'-22px');
+     const ratios=await page.locator('.stat-card').evaluateAll(cards=>{
+      const luminance=s=>{const c=s.match(/[\d.]+/g).slice(0,3).map(Number).map(v=>{v/=255;return v<=.04045?v/12.92:((v+.055)/1.055)**2.4});return c[0]*.2126+c[1]*.7152+c[2]*.0722};
+      return cards.flatMap(card=>[...card.children].filter(e=>e.tagName!=='SVG').map(e=>{const a=luminance(getComputedStyle(e).color),b=luminance(getComputedStyle(card).backgroundColor);return (Math.max(a,b)+.05)/(Math.min(a,b)+.05)}));
+     });
+     assert.ok(ratios.every(x=>x>=4.5),theme+' dashboard statistic text contrast');
+    }
    }
    // Exercise the mobile drawer rather than relying only on hash navigation.
    if(width<700){await page.getByRole('button',{name:'Open navigation',exact:true}).click();await page.locator('.sidebar .nav-item').filter({hasText:'Today'}).click();await page.getByRole('heading',{name:'Let’s make today count.',exact:true}).waitFor();assert.equal(await page.locator('.scrim').count(),0);}
@@ -71,9 +93,9 @@ async function inspect(page,label){
  for(const width of [320,390,1440]){
   const context=await browser.newContext({viewport:{width,height:900},reducedMotion:'reduce'}),page=await context.newPage();
   page.on('pageerror',e=>findings.push({label:'app-'+width,type:'runtime',message:e.message}));
-  await page.goto('http://127.0.0.1:8080/#today');
-  const links=await page.locator('nav[aria-label="Main navigation"] a').evaluateAll(xs=>xs.map(a=>a.getAttribute('href')));
-  for(const hash of links){await page.goto('http://127.0.0.1:8080/'+hash);await inspect(page,'app-'+width+'-'+hash.slice(1));}
+  await page.goto('http://127.0.0.1:8080/#today');await page.locator('nav[aria-label="Main navigation"] a').first().waitFor();
+  const links=await page.locator('nav[aria-label="Main navigation"] a').evaluateAll(xs=>xs.map(a=>a.getAttribute('href')));links.push('#plan','#learn/t-1-1');
+  assert.ok(links.length>=15,'PWA navigation did not render');for(const hash of links){await page.goto('http://127.0.0.1:8080/'+hash);await inspect(page,'app-'+width+'-'+hash.slice(1).replaceAll('/','-'));}
   await context.close();
  }
  fs.writeFileSync(out+'/results.json',JSON.stringify({testedAt:new Date().toISOString(),results,findings},null,2));

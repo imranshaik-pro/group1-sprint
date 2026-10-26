@@ -51,3 +51,17 @@
 .pdf-library,.pdf-reader,.textbook-layout{min-width:0;max-width:100%;overflow-wrap:anywhere}.pdf-reader .pdf-text{min-width:0;max-width:100%;overflow-x:auto}.textbook-layout iframe{display:block;min-width:0;max-width:100%}.pdf-library select{min-width:0;max-width:100%}
 
 .product-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,270px),1fr));gap:16px;margin:20px 0}.product-center{min-width:0;max-width:100%}.product-center form{display:grid;gap:14px;margin:20px 0}.product-center input:not([type=checkbox]),.product-center select,.product-center textarea{width:100%;min-width:0;padding:12px;border:1px solid #91a69a;border-radius:8px;font:16px system-ui;background:#fff;color:#233c30}.product-center button{min-height:44px}.product-center article{overflow-wrap:anywhere}.build-label{font-size:11px;color:#52665b;align-self:center}.member-shortcuts{flex-wrap:wrap}.topic-card small,.main-shell .muted{color:#52665b}.main-shell button{min-height:40px}
+
+/* Dashboard readability and navigation at phone sizes. */
+.app .sidebar{overflow-y:auto;overscroll-behavior:contain}
+.app .sidebar>*{flex-shrink:0}
+.app .stat-card{background:var(--reading-surface);min-width:0}
+.app .stat-card>strong,.app .task-text button,.app .score-row strong,.app .score-row>span,.app .readiness-row strong,.app .account-form h2,.app .identity-card strong,.app .member-cell strong{color:var(--reading-ink)}
+.app .stat-card>div,.app .stat-card>small,.app .task-text>span,.app .task-text small,.app .score-row small,.app .readiness-row,.app .account-form>p,.app .account-trust p,.app .identity-card small,.app .member-cell small{color:var(--reading-muted);font-size:12px;line-height:1.65}
+.app .recall-card,.app .quote-card{background:var(--reading-tint);color:var(--reading-ink)}
+.app .recall-card h2,.app .quote-card p{color:var(--reading-ink)}
+.app .recall-card p,.app .recall-card .eyebrow,.app .recall-card>button,.app .quote-card small{color:var(--reading-muted);font-size:12px;line-height:1.65}
+.app .account-form,.app .identity-card{background:var(--reading-surface)}
+.app .member-cell>span:last-child,.app .identity-card>div{min-width:0;overflow-wrap:anywhere}
+.app .member-cell strong{white-space:normal;overflow:visible}
+.app .sync-detail strong{overflow-wrap:anywhere;min-width:0}
