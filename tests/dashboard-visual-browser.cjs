@@ -74,7 +74,7 @@ async function inspect(page,label){
     }
    }
    // Exercise the mobile drawer rather than relying only on hash navigation.
-   if(width<700){await page.getByRole('button',{name:'Open navigation',exact:true}).click();await page.locator('.sidebar .nav-item').filter({hasText:'Today'}).click();await page.getByRole('heading',{name:'Let’s make today count.',exact:true}).waitFor();assert.equal(await page.locator('.scrim').count(),0);}
+   if(width<700){await page.getByRole('button',{name:'Open navigation',exact:true}).click();await page.locator('.sidebar .nav-item').filter({hasText:'Today'}).click();await page.getByRole('heading',{name:'Let’s make today count.',exact:true}).waitFor();await page.locator('.scrim').waitFor({state:'detached'});assert.equal(await page.locator('.scrim').count(),0);}
    await context.close();
   }
  }
