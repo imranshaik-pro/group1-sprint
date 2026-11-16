@@ -1,0 +1,267 @@
+{
+  "segment_id": "PHY-01-02",
+  "slice_id": "PHY-01-02-SLICE-01",
+  "status": "GENERATED_AND_CHECKED_IN_GENERATION_PASS",
+  "records": [
+    {
+      "question_id": "PHY-01-02-Q001",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "What are the dimensions of velocity?",
+      "options": [
+        "[LT^-1]",
+        "[LT^-2]",
+        "[L^2T^-1]",
+        "[T^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Velocity is displacement divided by time, so [LT^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-02-Q002",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "What are the dimensions of acceleration?",
+      "options": [
+        "[LT^-1]",
+        "[LT^-2]",
+        "[L^2T^-2]",
+        "[T^-2]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Acceleration is change in velocity per time, so [LT^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-02-Q003",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "What are the dimensions of force?",
+      "options": [
+        "[MLT^-2]",
+        "[ML^2T^-2]",
+        "[MLT^-1]",
+        "[ML^-1T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "F=ma, giving [M][LT^-2]=[MLT^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-02-Q004",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which physical quantity is dimensionless?",
+      "options": [
+        "speed",
+        "strain",
+        "pressure",
+        "energy"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Strain is the ratio of change in length to original length.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-02-Q005",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "What are the dimensions of momentum?",
+      "options": [
+        "[MLT^-2]",
+        "[ML^2T^-1]",
+        "[MLT^-1]",
+        "[MT^-1]"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Momentum is mass times velocity: [M][LT^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-02-Q006",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "What are the dimensions of work?",
+      "options": [
+        "[MLT^-2]",
+        "[ML^2T^-2]",
+        "[ML^2T^-3]",
+        "[ML^-1T^-2]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Work = force × distance, giving [ML²T^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-02-Q007",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "What are the dimensions of pressure?",
+      "options": [
+        "[ML^-1T^-2]",
+        "[MLT^-2]",
+        "[ML^-2T^-2]",
+        "[ML^2T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Pressure = force/area = [MLT^-2]/[L²] = [ML^-1T^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-02-Q008",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "What are the dimensions of the gravitational constant G?",
+      "options": [
+        "[M^-1L^3T^-2]",
+        "[ML^3T^-2]",
+        "[M^-1L^2T^-2]",
+        "[ML^-2T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "From F=Gm1m2/r², [G]=[F][L²]/[M²]=[M^-1L³T^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-02-Q009",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "What are the dimensions of power?",
+      "options": [
+        "[ML²T^-2]",
+        "[ML²T^-3]",
+        "[MLT^-3]",
+        "[ML^-1T^-2]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Power = work/time = [ML²T^-3].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-02-Q010",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "If a period T depends only on length l and acceleration g as T ∝ l^a g^b, what are a and b?",
+      "options": [
+        "a=1,b=-1",
+        "a=1/2,b=-1/2",
+        "a=-1/2,b=1/2",
+        "a=1/2,b=1/2"
+      ],
+      "correct_option_index": 1,
+      "explanation": "[T]=[L]^a[LT^-2]^b=[L^(a+b)T^(-2b)]. Equating exponents gives b=-1/2 and a=1/2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01"
+    }
+  ]
+}
