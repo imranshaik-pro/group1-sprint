@@ -2,6 +2,13 @@
 
 > Provisional planning classification based on topic names, not PDF inspection. Re-evaluate after source inspection; syllabus scope-check segments are on HOLD. No question data integrated.
 
+## Approved question-generation target (2026-11-16)
+- **50 original questions per eligible micro-topic segment**: **15 EASY (30%), 25 MEDIUM (50%), 10 HARD (20%)**.
+- This is a fixed per-segment student-difficulty allocation; **L1/L2/L3 remains execution complexity**, not student difficulty.
+- Total proposed segments: **386**; **40 on syllabus hold**, leaving **346 provisionally eligible**. Planned eligible target: **17,300 questions** (5,190 easy; 8,650 medium; 3,460 hard). If all held segments are subsequently approved: **19,300 questions** (5,790 easy; 9,650 medium; 3,860 hard).
+- Do **not** generate held segments before official syllabus and blueprint verification. Do not claim 346 segments are verified eligible; this is a provisional planning count.
+- Generate in reviewable, resumable slices, not the full bank in one operation. **No questions are generated or integrated by this documentation change.**
+
 ## Classification
 - **L1 Simple:** mostly textual facts, definitions, direct MCQs; max 5 segments in one execution batch.
 - **L2 Moderate:** calculations, conceptual reasoning, diagrams or multi-step matching; max 3 segments.
@@ -406,7 +413,7 @@
 
 ## Required pre-execution checks
 1. Match each provisional ID to canonical blueprint taxonomy and current-year exam syllabus.
-2. Inspect PDF sample for question volume, diagram/structure density, solution completeness and OCR/layout risks.
-3. Upgrade complexity or subdivide segment when sample indicates higher effort.
-4. Execute one batch with resumable checkpoints, QA report and a reviewable GitHub commit; record results before next batch.
-5. Held items require explicit syllabus verification before ingestion.
+2. Estimate original-question generation complexity from equations, diagrams, reaction structures and solution verification demands; revise level when necessary.
+3. Generate only the approved 50-question target per eligible segment, with 15 easy, 25 medium and 10 hard questions, in resumable slices.
+4. Independently verify answers and solutions, check duplicates, then integrate reviewed slices with QA reports and GitHub commits.
+5. Held items require explicit syllabus verification before generation or ingestion.
