@@ -289,7 +289,7 @@
         "NEET"
       ],
       "question_type": "SINGLE_CORRECT_MCQ",
-      "question_difficulty": "MEDIUM",
+      "question_difficulty": "HARD",
       "question_text": "If pressure P depends on density ρ and speed v as P∝ρ^a v^b, find a,b",
       "options": [
         "a=1,b=2",
