@@ -21,11 +21,14 @@ No source PDFs are available. Generate **original** questions aligned with the a
 ## Required question record
 `question_id, blueprint_id, segment_id, subject, chapter, topic, micro_topic, exam_tags, question_type, segment_complexity, question_difficulty, skill_tag, question_text, options, correct_answer, explanation, estimated_time_seconds, media_refs, originality_status, verification_status, generation_version`.
 
-## Proposed default difficulty allocation (subject to user approval)
-- EASY 30%; MEDIUM 50%; HARD 20%.
+## Approved question-generation target (2026-11-16)
+- **50 original questions per eligible micro-topic segment**: **15 EASY (30%), 25 MEDIUM (50%), 10 HARD (20%)**.
+- This is a fixed per-segment student-difficulty allocation; **L1/L2/L3 remains execution complexity**, not student difficulty.
+- Total proposed segments: **386**; **40 on syllabus hold**, leaving **346 provisionally eligible**. Planned eligible target: **17,300 questions** (5,190 easy; 8,650 medium; 3,460 hard). If all held segments are subsequently approved: **19,300 questions** (5,790 easy; 9,650 medium; 3,860 hard).
+- Do **not** generate held segments before official syllabus and blueprint verification. Do not claim 346 segments are verified eligible; this is a provisional planning count.
+- Generate in reviewable, resumable slices, not the full bank in one operation. **No questions are generated or integrated by this documentation change.**
+
 - Difficulty describes **student effort**, not generation effort.
-- Start with 10 questions per micro-topic as a pilot volume; confirm total target per segment with user before generating all 386 segments.
-- Keep the existing 40 syllabus-hold segments blocked until exam applicability is verified.
 
 ## Release rule
 Generated != verified != integrated. No item is marked completed without answer/solution review, duplicate check, blueprint alignment, exam-format check and successful app retrieval.
