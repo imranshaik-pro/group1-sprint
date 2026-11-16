@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "segment_id": "PHY-01-01",
+  "slice_id": "PHY-01-01-SLICE-01",
+  "status": "DRAFT_PENDING_INDEPENDENT_REVIEW",
+  "planned_segment_total": 50,
+  "records": [
+    {
+      "question_id": "PHY-01-01-Q001",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which SI base unit measures length?",
+      "options": [
+        "metre",
+        "centimetre",
+        "kilometre",
+        "inch"
+      ],
+      "correct_option_index": 0,
+      "explanation": "The metre (m) is the SI base unit of length.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-01-Q002",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which SI base unit measures mass?",
+      "options": [
+        "gram",
+        "kilogram",
+        "tonne",
+        "pound"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The kilogram (kg) is the SI base unit of mass.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-01-Q003",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which SI base unit measures thermodynamic temperature?",
+      "options": [
+        "degree Celsius",
+        "kelvin",
+        "degree Fahrenheit",
+        "joule"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The kelvin (K) is the SI base unit of thermodynamic temperature.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-01-Q004",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which SI base unit measures electric current?",
+      "options": [
+        "volt",
+        "coulomb",
+        "ampere",
+        "ohm"
+      ],
+      "correct_option_index": 2,
+      "explanation": "The ampere (A) is the SI base unit of electric current.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-01-Q005",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "What is the SI base unit of amount of substance?",
+      "options": [
+        "mole",
+        "kilogram",
+        "candela",
+        "newton"
+      ],
+      "correct_option_index": 0,
+      "explanation": "The mole (mol) is the SI base unit for amount of substance.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-01-Q006",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "What is the SI base unit of luminous intensity?",
+      "options": [
+        "lux",
+        "lumen",
+        "candela",
+        "watt"
+      ],
+      "correct_option_index": 2,
+      "explanation": "The candela (cd) is the SI base unit of luminous intensity.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-01-Q007",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "What is the SI base unit of time?",
+      "options": [
+        "minute",
+        "second",
+        "hour",
+        "day"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The second (s) is the SI base unit of time.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-01-Q008",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which expression correctly gives the newton in SI base units?",
+      "options": [
+        "kg m s^-1",
+        "kg m s^-2",
+        "kg m^2 s^-2",
+        "kg m^-1 s^-2"
+      ],
+      "correct_option_index": 1,
+      "explanation": "From F=ma, 1 N = 1 kg × 1 m/s² = 1 kg m s^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-01-Q009",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which expression correctly gives the joule in SI base units?",
+      "options": [
+        "kg m^2 s^-2",
+        "kg m s^-2",
+        "kg m^2 s^-3",
+        "kg m^-1 s^-2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Work = force × displacement; J = N m = kg m² s^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-01-Q010",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which expression correctly gives the watt in SI base units?",
+      "options": [
+        "kg m^2 s^-2",
+        "kg m s^-3",
+        "kg m^2 s^-3",
+        "kg m^-2 s^-3"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Power = energy/time, so W = J/s = kg m² s^-3.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01"
+    }
+  ]
+}
