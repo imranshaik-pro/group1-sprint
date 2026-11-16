@@ -1,0 +1,257 @@
+{
+  "segment_id": "PHY-01-03",
+  "slice_id": "PHY-01-03-SLICE-01",
+  "status": "GENERATED_AND_CHECKED_IN_GENERATION_PASS",
+  "records": [
+    {
+      "question_id": "PHY-01-03-Q001",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "The difference between a measured value and the accepted reference value is called what?",
+      "options": [
+        "Absolute error",
+        "Relative error",
+        "Percentage error",
+        "Precision"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Absolute error is the magnitude of the difference between measured and reference values.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-03-Q002",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Which expression gives relative error?",
+      "options": [
+        "Absolute error / reference value",
+        "Reference value / absolute error",
+        "Absolute error × 100",
+        "Measured value + reference value"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Relative error is the absolute error divided by the magnitude of the reference value.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-03-Q003",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Which expression gives percentage error?",
+      "options": [
+        "Relative error × 100",
+        "Absolute error × 100",
+        "Relative error / 100",
+        "Measured value × 100"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Percentage error is relative error expressed as a percentage.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-03-Q004",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "How many significant figures are in 0.00450?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Leading zeros are not significant; 4, 5 and the trailing 0 are significant.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-03-Q005",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "How many significant figures are in 6.020?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option_index": 2,
+      "explanation": "The internal zero and the trailing decimal zero are significant.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-03-Q006",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A length is measured as 20.0 ± 0.2 cm. What is its percentage uncertainty?",
+      "options": [
+        "0.1%",
+        "1%",
+        "2%",
+        "10%"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Percentage uncertainty = (0.2/20.0)×100 = 1%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-03-Q007",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A rectangle has length 10.0 ± 0.1 cm and width 5.0 ± 0.1 cm. What is the maximum percentage uncertainty in its area?",
+      "options": [
+        "1%",
+        "2%",
+        "3%",
+        "4%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "For a product, fractional maximum uncertainties add: 0.1/10 + 0.1/5 = 0.03 = 3%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-03-Q008",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A quantity z=x² is calculated from x=4.0 ± 0.1. What is the approximate percentage uncertainty in z?",
+      "options": [
+        "2.5%",
+        "5%",
+        "10%",
+        "20%"
+      ],
+      "correct_option_index": 1,
+      "explanation": "For z=x², relative uncertainty is approximately 2Δx/x = 2(0.1/4)=5%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-03-Q009",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A stopwatch records 12.35 s with an absolute uncertainty of 0.05 s. What is the approximate relative uncertainty?",
+      "options": [
+        "0.00405",
+        "0.0405",
+        "0.405",
+        "4.05"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Relative uncertainty = 0.05/12.35 ≈ 0.00405.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-03-Q010",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "If Q=A²B^-1/2 and the maximum fractional uncertainties in A and B are 2% and 4%, what is the maximum fractional uncertainty in Q?",
+      "options": [
+        "4%",
+        "6%",
+        "8%",
+        "10%"
+      ],
+      "correct_option_index": 1,
+      "explanation": "For products of powers, maximum fractional uncertainties add with absolute exponents: 2×2% + 0.5×4% = 6%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01"
+    }
+  ]
+}
