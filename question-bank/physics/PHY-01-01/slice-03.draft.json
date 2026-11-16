@@ -1,0 +1,529 @@
+{
+  "schema_version": "1.0",
+  "segment_id": "PHY-01-01",
+  "slice_id": "PHY-01-01-SLICE-03",
+  "status": "DRAFT_PENDING_INDEPENDENT_REVIEW",
+  "planned_segment_total": 50,
+  "records": [
+    {
+      "question_id": "PHY-01-01-Q031",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Express 2.4 × 10^5 µm in metres.",
+      "options": [
+        "0.024 m",
+        "0.24 m",
+        "2.4 m",
+        "24 m"
+      ],
+      "correct_option_index": 1,
+      "explanation": "A micrometre is 10^-6 m; 2.4×10^5×10^-6 = 0.24 m.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q032",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A force of 4 kN acts over an area of 2 m². What is the pressure?",
+      "options": [
+        "2 Pa",
+        "200 Pa",
+        "2000 Pa",
+        "8000 Pa"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Pressure = 4000 N / 2 m² = 2000 Pa.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q033",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which expression represents the SI unit of magnetic flux, weber?",
+      "options": [
+        "kg m² s^-2 A^-1",
+        "kg s^-2 A^-1",
+        "kg m² s^-3 A^-1",
+        "kg m s^-2 A^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Wb = V s = kg m² s^-2 A^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q034",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A 0.50 L volume is how many cubic metres?",
+      "options": [
+        "5×10^-2",
+        "5×10^-3",
+        "5×10^-4",
+        "5×10^-5"
+      ],
+      "correct_option_index": 2,
+      "explanation": "1 L = 10^-3 m³; 0.50 L = 5×10^-4 m³.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q035",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which of these is the correct SI base-unit expression for momentum?",
+      "options": [
+        "kg m s^-1",
+        "kg m s^-2",
+        "kg m² s^-1",
+        "kg s^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Momentum p = mv, so its unit is kg m s^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q036",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A power rating of 2.5 MW equals how many watts?",
+      "options": [
+        "2.5×10^3",
+        "2.5×10^5",
+        "2.5×10^6",
+        "2.5×10^9"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Mega means 10^6, so 2.5 MW = 2.5×10^6 W.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q037",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "What is the SI unit of angular velocity expressed in base units?",
+      "options": [
+        "s^-1",
+        "m s^-1",
+        "m^-1 s^-1",
+        "kg m² s^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Angular velocity is measured in rad/s; radian is dimensionless, giving s^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q038",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which is equal to 1 nanometre?",
+      "options": [
+        "10^-3 m",
+        "10^-6 m",
+        "10^-9 m",
+        "10^-12 m"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Nano denotes 10^-9.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q039",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which is the correct SI unit expression for energy density?",
+      "options": [
+        "kg m^-1 s^-2",
+        "kg m² s^-2",
+        "kg m^-2 s^-2",
+        "kg m s^-3"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Energy density = J/m³ = kg m² s^-2 /m³ = kg m^-1 s^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q040",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A 6 m² area equals how many cm²?",
+      "options": [
+        "600",
+        "6000",
+        "60000",
+        "600000"
+      ],
+      "correct_option_index": 2,
+      "explanation": "1 m = 100 cm, so 1 m² = 10^4 cm² and 6 m² = 60000 cm².",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q041",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "Which expression represents the SI base units of inductance (henry)?",
+      "options": [
+        "kg m² s^-2 A^-2",
+        "kg m² s^-3 A^-2",
+        "kg^-1 m^-2 s^4 A²",
+        "kg s^-2 A^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "H = Wb/A = (V s)/A = kg m² s^-2 A^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q042",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "Which expression gives the SI base units of permittivity ε0?",
+      "options": [
+        "kg m³ s^-4 A^-2",
+        "kg^-1 m^-3 s^4 A²",
+        "kg^-1 m^-3 s² A²",
+        "kg m^-3 s^-2 A^-2"
+      ],
+      "correct_option_index": 1,
+      "explanation": "From Coulomb's law, ε0 has units C²/(N m²) = (A²s²)/(kg m³ s^-2) = kg^-1 m^-3 s^4 A².",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q043",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "A material has density 8 g/cm³. What is its density in Mg/m³?",
+      "options": [
+        "0.8",
+        "8",
+        "80",
+        "8000"
+      ],
+      "correct_option_index": 1,
+      "explanation": "8 g/cm³ = 8000 kg/m³. Since 1 Mg = 1000 kg, this is 8 Mg/m³.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q044",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "The SI base units of electric field strength are:",
+      "options": [
+        "kg m s^-3 A^-1",
+        "kg m s^-2 A^-1",
+        "kg m² s^-3 A^-1",
+        "kg s^-3 A^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "E = force/charge = (kg m s^-2)/(A s) = kg m s^-3 A^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q045",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "The SI base units of magnetic permeability µ0 are:",
+      "options": [
+        "kg m s^-2 A^-2",
+        "kg m^-1 s^-2 A^-2",
+        "kg m² s^-2 A^-2",
+        "kg s^-2 A^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "µ0 has units N/A² = kg m s^-2 A^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q046",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "A surface energy is 0.08 J/cm². Express it in J/m².",
+      "options": [
+        "0.8",
+        "8",
+        "80",
+        "800"
+      ],
+      "correct_option_index": 3,
+      "explanation": "1 cm² = 10^-4 m², so 0.08 J/cm² = 0.08×10^4 = 800 J/m².",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q047",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "A fluid has dynamic viscosity 2 mPa s. Express it in SI base units.",
+      "options": [
+        "2×10^-3 kg m^-1 s^-1",
+        "2×10^-3 kg m s^-1",
+        "2×10^-6 kg m^-1 s^-1",
+        "2 kg m^-1 s^-2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "1 Pa s = kg m^-1 s^-1. Milli is 10^-3, hence 2×10^-3 kg m^-1 s^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q048",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "Which expression gives the SI base units of thermal conductivity?",
+      "options": [
+        "kg m s^-3 K^-1",
+        "kg m² s^-3 K^-1",
+        "kg m s^-2 K^-1",
+        "kg m^-1 s^-3 K^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "From P = k A ΔT/L, k = P L/(A ΔT), giving W m^-1 K^-1 = kg m s^-3 K^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q049",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "A quantity has units N s/m². Which SI base-unit expression is equivalent?",
+      "options": [
+        "kg m^-1 s^-1",
+        "kg m s^-1",
+        "kg m^-1 s^-2",
+        "kg s^-2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "N s/m² = (kg m s^-2)s/m² = kg m^-1 s^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-01-Q050",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "An electric potential difference of 3 kV is applied across a charge of 2 mC. How much energy is transferred?",
+      "options": [
+        "0.006 J",
+        "0.6 J",
+        "6 J",
+        "6000 J"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Energy W = QV = (2×10^-3 C)(3×10^3 V) = 6 J.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03"
+    }
+  ]
+}
