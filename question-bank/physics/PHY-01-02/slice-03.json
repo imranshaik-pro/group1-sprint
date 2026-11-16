@@ -1,0 +1,507 @@
+{
+  "segment_id": "PHY-01-02",
+  "slice_id": "PHY-01-02-SLICE-03",
+  "status": "GENERATED_AND_CHECKED_IN_GENERATION_PASS",
+  "records": [
+    {
+      "question_id": "PHY-01-02-Q031",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "If x=at+bt², where x is displacement, dimensions of b are",
+      "options": [
+        "[LT^-2]",
+        "[LT^-1]",
+        "[L²T^-2]",
+        "[T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Each term has dimension L; [b]=[L]/[T²].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q032",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "In F=av+bv², dimensions of a are",
+      "options": [
+        "[MT^-1]",
+        "[MLT^-1]",
+        "[MT^-2]",
+        "[ML^-1T^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[a]=[F]/[v]=[MT^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q033",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "In F=av+bv², dimensions of b are",
+      "options": [
+        "[ML^-1]",
+        "[MT^-1]",
+        "[ML^-1T^-2]",
+        "[M^-1L]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[b]=[F]/[v²]=[ML^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q034",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "For an ideal pendulum T=2π√(l/g), dimensions of l/g are",
+      "options": [
+        "[T²]",
+        "[T]",
+        "[LT²]",
+        "[L²T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[l/g]=[L]/[LT^-2]=[T²].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q035",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which relation is dimensionally inconsistent?",
+      "options": [
+        "v=u+at",
+        "s=ut+at²/2",
+        "v²=u²+2as",
+        "s=ut+at/2"
+      ],
+      "correct_option_index": 3,
+      "explanation": "ut has dimensions L, but at has dimensions LT^-1, so those terms cannot be added.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q036",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of energy per unit volume are",
+      "options": [
+        "[ML^-1T^-2]",
+        "[ML²T^-2]",
+        "[ML^-2T^-2]",
+        "[MT^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Energy density = energy/volume.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q037",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of angular acceleration are",
+      "options": [
+        "[T^-2]",
+        "[LT^-2]",
+        "[T^-1]",
+        "[L^-1T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Angle is dimensionless; angular acceleration is angle/time².",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q038",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of thermal conductivity are",
+      "options": [
+        "[MLT^-3Θ^-1]",
+        "[ML²T^-3Θ^-1]",
+        "[MT^-3Θ^-1]",
+        "[MLT^-2Θ^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "From heat flow rate = k A ΔΘ/L, [k]=[power]L/(L²Θ).",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q039",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of specific heat capacity are",
+      "options": [
+        "[L²T^-2Θ^-1]",
+        "[ML²T^-2Θ^-1]",
+        "[L²T^-1Θ^-1]",
+        "[LT^-2Θ^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Specific heat is energy/(mass × temperature change).",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q040",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of latent heat per unit mass are",
+      "options": [
+        "[L²T^-2]",
+        "[ML²T^-2]",
+        "[LT^-2]",
+        "[L²T^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Specific latent heat is energy divided by mass.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q041",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of Young's modulus are",
+      "options": [
+        "[ML^-1T^-2]",
+        "[MLT^-2]",
+        "[ML^-2T^-2]",
+        "[MT^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Young's modulus is stress/strain; strain is dimensionless.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q042",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "If pressure P depends on density ρ and speed v as P∝ρ^a v^b, find a,b",
+      "options": [
+        "a=1,b=2",
+        "a=2,b=1",
+        "a=1,b=1",
+        "a=2,b=2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[P]=[ML^-1T^-2], [ρ]=[ML^-3], [v]=[LT^-1]; matching M and T gives a=1,b=2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q043",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "For wave speed v∝T^a μ^b, where T is string tension and μ mass per length, find a,b",
+      "options": [
+        "1/2,-1/2",
+        "1, -1",
+        "1/2,1/2",
+        "-1/2,1/2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[T]=[MLT^-2], [μ]=[ML^-1], and [v]=[LT^-1]; a=1/2,b=-1/2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q044",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "If drag force F=kρ^a v^b A^c, with ρ density, v speed, A area and dimensionless k, which exponents are forced by dimensions if c=1?",
+      "options": [
+        "a=1,b=2",
+        "a=2,b=1",
+        "a=1,b=1",
+        "a=2,b=2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[ρv²A]=[ML^-3][L²T^-2][L²]=[MLT^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q045",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "If energy E depends on mass m, speed v and radius r as E∝m^a v^b r^c, determine exponents",
+      "options": [
+        "a=1,b=2,c=0",
+        "a=1,b=1,c=1",
+        "a=2,b=2,c=-1",
+        "a=1,b=0,c=2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[E]=[ML²T^-2]; mass exponent 1, time gives b=2, length then c=0.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q046",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "For oscillation frequency f∝k^a m^b of a spring-mass system, determine a,b",
+      "options": [
+        "1/2,-1/2",
+        "1,-1",
+        "1/2,1/2",
+        "-1/2,1/2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[k]=[MT^-2]; [f]=[T^-1], giving a=1/2,b=-1/2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q047",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "The dimensions of vacuum permittivity ε0 are",
+      "options": [
+        "[M^-1L^-3T^4I²]",
+        "[ML³T^-4I^-2]",
+        "[M^-1L^-3T²I²]",
+        "[ML^-3T^-4I^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "From F=q1q2/(4πε0r²), [ε0]=[q²]/([F][r²])=[M^-1L^-3T^4I²].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q048",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "The dimensions of magnetic permeability μ0 are",
+      "options": [
+        "[MLT^-2I^-2]",
+        "[ML^-1T^-2I^-2]",
+        "[M^-1LT²I²]",
+        "[MT^-2I^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "From force per unit length between parallel currents, [μ0]=[F/L][L]/[I²]=[MLT^-2I^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q049",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "If a physical quantity Q has dimensions [ML²T^-3], which SI quantity can Q represent?",
+      "options": [
+        "Power",
+        "Energy",
+        "Torque",
+        "Pressure"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Power is energy per time: [ML²T^-3].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-02-Q050",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "If T∝ρ^a R^b P^c, where T is time, ρ density, R length and P pressure, find a,b,c",
+      "options": [
+        "1/2,1,-1/2",
+        "1,1,-1",
+        "1/2,0,-1/2",
+        "-1/2,1,1/2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[ρ]=[ML^-3], [P]=[ML^-1T^-2]. Time requires c=-1/2; mass gives a=1/2; length gives b=1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03"
+    }
+  ]
+}
