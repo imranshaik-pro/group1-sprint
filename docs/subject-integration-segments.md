@@ -2,11 +2,18 @@
 
 > Planning register only; not yet reconciled with repository blueprint or official current-year syllabus. `[scope check]` means hold ingestion until eligibility verified. Mathematics and Phase 0 are deferred by user decision.
 
+## Approved question-generation target (2026-11-16)
+- **50 original questions per eligible micro-topic segment**: **15 EASY (30%), 25 MEDIUM (50%), 10 HARD (20%)**.
+- This is a fixed per-segment student-difficulty allocation; **L1/L2/L3 remains execution complexity**, not student difficulty.
+- Total proposed segments: **386**; **40 on syllabus hold**, leaving **346 provisionally eligible**. Planned eligible target: **17,300 questions** (5,190 easy; 8,650 medium; 3,460 hard). If all held segments are subsequently approved: **19,300 questions** (5,790 easy; 9,650 medium; 3,860 hard).
+- Do **not** generate held segments before official syllabus and blueprint verification. Do not claim 346 segments are verified eligible; this is a provisional planning count.
+- Generate in reviewable, resumable slices, not the full bank in one operation. **No questions are generated or integrated by this documentation change.**
+
 ## Decisions and execution contract
-- Plan every remaining subject now; integrate question data later, only after user instruction.
-- One micro-topic = one segment; if large split into 25–75-question slices (25–40 for diagram/reaction-heavy content).
+- Plan every remaining subject now; generate and integrate question data later, only after user instruction.
+- One micro-topic = one segment with 50 planned original questions (15 easy, 25 medium, 10 hard); split generation into smaller reviewable slices for complex material.
 - Preserve exam tags (JEE Main, NEET, or both), source PDF/page, answer, solution, media, stable IDs, duplicate links.
-- Each slice: extract → classify → normalize → answer/solution match → deduplicate → QA → checkpoint → reviewable commit → app regression.
+- Each slice: generate original questions → classify → independently solve/verify → deduplicate → QA → checkpoint → reviewable commit → app regression.
 - Missing solutions: pending-solution queue; unclear answers/classifications: quarantine; never mark these complete.
 - Resume by deterministic segment/slice IDs, source hashes, cursor and accepted IDs; never repeat previously committed questions.
 - GitHub: no bulk subject commits, no changes to Mathematics, record SHA and QA summary per accepted slice.
@@ -604,7 +611,7 @@
 - `ZOO-15-03` population genetics
 
 ## Data manifest and release gates
-Each slice records: `segment_id`, `canonical_blueprint_id`, `exam_tags`, `syllabus_verified`, `source_id`, `source_pages`, `source_hash`, `slice_id`, `question_ids`, `answer_status`, `solution_status`, `media_status`, `duplicate_status`, `qa_status`, `accepted/rejected/pending_counts`, `checkpoint_cursor`, `commit_sha`.
+Each slice records: `segment_id`, `canonical_blueprint_id`, `exam_tags`, `syllabus_verified`, `generation_version`, `generation_batch_id`, `slice_id`, `question_ids`, `answer_status`, `solution_status`, `media_status`, `duplicate_status`, `qa_status`, `accepted/rejected/pending_counts`, `checkpoint_cursor`, `commit_sha`.
 
 **Release:** blueprint mapping + current-year syllabus check, valid schema, answer consistency, media fidelity, duplicate review, app rendering/regression and reviewer approval. Only then mark complete.
 
