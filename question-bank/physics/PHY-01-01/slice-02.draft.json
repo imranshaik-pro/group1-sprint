@@ -1,0 +1,529 @@
+{
+  "schema_version": "1.0",
+  "segment_id": "PHY-01-01",
+  "slice_id": "PHY-01-01-SLICE-02",
+  "status": "DRAFT_PENDING_INDEPENDENT_REVIEW",
+  "planned_segment_total": 50,
+  "records": [
+    {
+      "question_id": "PHY-01-01-Q011",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which symbol denotes the SI prefix kilo?",
+      "options": [
+        "K",
+        "k",
+        "ki",
+        "m"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The SI prefix kilo uses lowercase k and means 10^3.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q012",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which symbol denotes the SI prefix milli?",
+      "options": [
+        "M",
+        "m",
+        "µ",
+        "n"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The SI prefix milli is m, meaning 10^-3.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q013",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which symbol denotes the SI prefix micro?",
+      "options": [
+        "m",
+        "n",
+        "µ",
+        "p"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Micro is represented by µ and equals 10^-6.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q014",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which of the following is an SI derived unit?",
+      "options": [
+        "second",
+        "ampere",
+        "pascal",
+        "kelvin"
+      ],
+      "correct_option_index": 2,
+      "explanation": "The pascal is a derived unit of pressure; the others are base units.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q015",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which SI unit measures frequency?",
+      "options": [
+        "hertz",
+        "tesla",
+        "weber",
+        "henry"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Frequency is measured in hertz (Hz), equal to s^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q016",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which of the following correctly represents the SI unit symbol for kelvin?",
+      "options": [
+        "°K",
+        "k",
+        "K",
+        "Kel"
+      ],
+      "correct_option_index": 2,
+      "explanation": "The symbol is uppercase K without a degree sign.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q017",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which SI unit measures electric charge?",
+      "options": [
+        "ampere",
+        "coulomb",
+        "volt",
+        "farad"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Charge equals current times time, so the SI unit is coulomb (C).",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q018",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which SI derived unit measures pressure?",
+      "options": [
+        "joule",
+        "watt",
+        "pascal",
+        "newton"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Pressure is force per unit area, measured in pascals (Pa).",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q019",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "How many metres are there in 2.5 km?",
+      "options": [
+        "25",
+        "250",
+        "2500",
+        "25000"
+      ],
+      "correct_option_index": 2,
+      "explanation": "1 km = 1000 m; therefore 2.5 km = 2500 m.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q020",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Convert 0.075 A into milliamperes.",
+      "options": [
+        "0.75 mA",
+        "7.5 mA",
+        "75 mA",
+        "750 mA"
+      ],
+      "correct_option_index": 2,
+      "explanation": "1 A = 1000 mA; 0.075 × 1000 = 75 mA.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q021",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "How many microseconds are there in 3 milliseconds?",
+      "options": [
+        "3",
+        "30",
+        "300",
+        "3000"
+      ],
+      "correct_option_index": 3,
+      "explanation": "1 ms = 10^-3 s and 1 µs = 10^-6 s, so 3 ms = 3000 µs.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q022",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which SI base-unit expression equals one pascal?",
+      "options": [
+        "kg m^-1 s^-2",
+        "kg m s^-2",
+        "kg m^2 s^-2",
+        "kg m^-2 s^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Pa = N/m² = (kg m s^-2)/m² = kg m^-1 s^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q023",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which SI base-unit expression equals one coulomb?",
+      "options": [
+        "A s^-1",
+        "A s",
+        "kg m s^-2",
+        "A m"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Charge Q = I t, so C = A s.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q024",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which SI base-unit expression equals one volt?",
+      "options": [
+        "kg m^2 s^-3 A^-1",
+        "kg m s^-2 A^-1",
+        "kg m^2 s^-2 A",
+        "kg m^-1 s^-3 A^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "V = J/C = (kg m² s^-2)/(A s) = kg m² s^-3 A^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q025",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which expression gives one ohm in SI base units?",
+      "options": [
+        "kg m^2 s^-3 A^-2",
+        "kg m^2 s^-3 A^-1",
+        "kg m s^-2 A^-2",
+        "kg m^2 s^-2 A^-2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Ω = V/A = kg m² s^-3 A^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q026",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which expression gives one farad in SI base units?",
+      "options": [
+        "kg m^2 s^-4 A^-2",
+        "kg^-1 m^-2 s^4 A^2",
+        "kg^-1 m^2 s^4 A^2",
+        "kg m^-2 s^-4 A^-2"
+      ],
+      "correct_option_index": 1,
+      "explanation": "F = C/V = (A s)/(kg m² s^-3 A^-1) = kg^-1 m^-2 s^4 A².",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q027",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A speed of 72 km/h equals how many m/s?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correct_option_index": 2,
+      "explanation": "72 × 1000/3600 = 20 m/s.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q028",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A density of 1 g/cm³ is equal to how many kg/m³?",
+      "options": [
+        "1",
+        "10",
+        "100",
+        "1000"
+      ],
+      "correct_option_index": 3,
+      "explanation": "1 g = 10^-3 kg and 1 cm³ = 10^-6 m³, so density is 10³ kg/m³.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q029",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which SI derived unit is equivalent to kg m² s^-2?",
+      "options": [
+        "newton",
+        "joule",
+        "watt",
+        "pascal"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The joule equals force times distance: kg m s^-2 × m = kg m² s^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-01-Q030",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which SI derived unit is equivalent to kg s^-2 A^-1?",
+      "options": [
+        "tesla",
+        "weber",
+        "henry",
+        "volt"
+      ],
+      "correct_option_index": 0,
+      "explanation": "T = N/(A m) = (kg m s^-2)/(A m) = kg s^-2 A^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02"
+    }
+  ]
+}
