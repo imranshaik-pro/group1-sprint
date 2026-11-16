@@ -1,11 +1,22 @@
-# Physics generation status
+# Physics first batch — current status
 
-- Authorized scope: PHY-01-01 SI units; PHY-01-02 dimensions; PHY-01-03 errors (50 each).
-- Target per segment: 15 EASY, 25 MEDIUM, 10 HARD; 150 total.
-- Current completed operation: PHY-01-01-SLICE-01 contains **10 draft questions** (7 EASY, 3 MEDIUM), with answer keys and explanations.
-- Current status: **draft, pending independent verification and app integration**. Not counted as validated/completed.
-- Remaining PHY-01-01 target: 40 (8 EASY, 22 MEDIUM, 10 HARD).
-- PHY-01-02 and PHY-01-03: not generated.
-- The source is original generation, not PDF extraction or authentic past-year questions.
-- Draft file: `question-bank/physics/PHY-01-01/slice-01.draft.json`.
-- Next gate: independently check all draft answers, confirm canonical blueprint ID and current syllabus, check schema compatibility, and continue in small slices. Do not mark as integrated until the app can retrieve and display them.
+## Authorized target
+- PHY-01-01 SI units: 50 (15 EASY, 25 MEDIUM, 10 HARD).
+- PHY-01-02 Dimensions: 50 (15 EASY, 25 MEDIUM, 10 HARD).
+- PHY-01-03 Errors: 50 (15 EASY, 25 MEDIUM, 10 HARD).
+
+## Current progress
+- **PHY-01-01: 50/50 ORIGINAL QUESTION DRAFTS GENERATED**, distributed 15 EASY / 25 MEDIUM / 10 HARD.
+- Files: `question-bank/physics/PHY-01-01/slice-01.draft.json` (10), `slice-02.draft.json` (20), `slice-03.draft.json` (20).
+- **NOT VERIFIED OR APP-INTEGRATED.** All records are tagged `PENDING_INDEPENDENT_REVIEW`; generated does not mean completed.
+- PHY-01-02 and PHY-01-03: 0/50 generated each.
+
+## Next action gates
+1. Independently verify all 50 SI unit answers, explanations and ambiguity; check duplicates and intended difficulty calibration.
+2. Confirm official syllabus, blueprint ID and application schema compatibility.
+3. Integrate verified records and test app retrieval; only then mark PHY-01-01 complete.
+4. Generate PHY-01-02 in small slices after the SI units review gate; continue to PHY-01-03 likewise.
+5. Maintain separate GitHub commits and resumable checkpoints for each slice.
+
+## Important
+These are original AI-generated practice questions, not genuine previous-year exam questions. No PDFs are required or assumed.
