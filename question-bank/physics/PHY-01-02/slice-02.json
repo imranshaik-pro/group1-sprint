@@ -1,0 +1,507 @@
+{
+  "segment_id": "PHY-01-02",
+  "slice_id": "PHY-01-02-SLICE-02",
+  "status": "GENERATED_AND_CHECKED_IN_GENERATION_PASS",
+  "records": [
+    {
+      "question_id": "PHY-01-02-Q011",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Which pair has identical dimensions?",
+      "options": [
+        "Impulse",
+        "Momentum",
+        "Force",
+        "Power"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Impulse equals change in momentum, so both have [MLT^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q012",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of frequency are",
+      "options": [
+        "[T]",
+        "[T^-1]",
+        "[LT^-1]",
+        "[L^-1]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Frequency is reciprocal time.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q013",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of area are",
+      "options": [
+        "[L]",
+        "[L²]",
+        "[L³]",
+        "[ML²]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Area is the product of two lengths.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q014",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of density are",
+      "options": [
+        "[ML^-3]",
+        "[ML³]",
+        "[M^-1L³]",
+        "[ML^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Density is mass divided by volume.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q015",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of energy are",
+      "options": [
+        "[MLT^-2]",
+        "[ML²T^-2]",
+        "[ML²T^-3]",
+        "[ML^-1T^-2]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Energy is force times displacement.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q016",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of angular momentum are",
+      "options": [
+        "[MLT^-1]",
+        "[ML²T^-1]",
+        "[ML²T^-2]",
+        "[MT^-1]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Angular momentum is r × p.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q017",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of surface tension are",
+      "options": [
+        "[MT^-2]",
+        "[MLT^-2]",
+        "[ML^-1T^-2]",
+        "[MT^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Surface tension is force per length.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q018",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of torque are",
+      "options": [
+        "[ML²T^-2]",
+        "[MLT^-2]",
+        "[ML²T^-1]",
+        "[ML^-1T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Torque is force times perpendicular distance.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q019",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of electric charge in terms of current I and time T are",
+      "options": [
+        "[IT^-1]",
+        "[IT]",
+        "[I^-1T]",
+        "[IT²]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Q=It.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q020",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of volume are",
+      "options": [
+        "[L²]",
+        "[L³]",
+        "[ML³]",
+        "[L^-3]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Volume is the product of three lengths.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q021",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of dynamic viscosity are",
+      "options": [
+        "[ML^-1T^-1]",
+        "[MLT^-1]",
+        "[ML^-1T^-2]",
+        "[M^-1LT^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Shear stress = viscosity × velocity gradient; [η]=[ML^-1T^-2]/[T^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q022",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of spring constant k in F=kx are",
+      "options": [
+        "[MT^-2]",
+        "[MLT^-2]",
+        "[ML^-1T^-2]",
+        "[ML²T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[k]=[F]/[x]=[MT^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q023",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of Planck's constant are",
+      "options": [
+        "[ML²T^-1]",
+        "[ML²T^-2]",
+        "[MLT^-1]",
+        "[ML²T^-3]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "E=hν, so [h]=[E]/[ν]=[ML²T^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q024",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of electric potential in terms of M,L,T,I are",
+      "options": [
+        "[ML²T^-3I^-1]",
+        "[ML²T^-2I^-1]",
+        "[MLT^-3I^-1]",
+        "[ML²T^-3I]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Potential is energy per charge, and [Q]=[IT].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q025",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of electric resistance are",
+      "options": [
+        "[ML²T^-3I^-2]",
+        "[ML²T^-3I^-1]",
+        "[MLT^-2I^-2]",
+        "[ML²T^-2I^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Resistance = potential/current.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q026",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of electric capacitance are",
+      "options": [
+        "[M^-1L^-2T^4I²]",
+        "[ML²T^-4I^-2]",
+        "[M^-1L²T^4I²]",
+        "[M^-1L^-2T³I²]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Capacitance=charge/potential.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q027",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of magnetic field B from F=qvB are",
+      "options": [
+        "[MT^-2I^-1]",
+        "[MLT^-2I^-1]",
+        "[MT^-1I^-1]",
+        "[ML²T^-2I^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[B]=[F]/([q][v])=[MT^-2I^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q028",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of electric field E from F=qE are",
+      "options": [
+        "[MLT^-3I^-1]",
+        "[MLT^-2I^-1]",
+        "[ML²T^-3I^-1]",
+        "[MT^-3I^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[E]=[F]/[q]=[MLT^-3I^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q029",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of gravitational potential (energy per unit mass) are",
+      "options": [
+        "[L²T^-2]",
+        "[ML²T^-2]",
+        "[LT^-2]",
+        "[L²T^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Potential is energy per mass.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-02-Q030",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of kinematic viscosity are",
+      "options": [
+        "[L²T^-1]",
+        "[ML^-1T^-1]",
+        "[LT^-1]",
+        "[L²T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Kinematic viscosity is dynamic viscosity divided by density.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02"
+    }
+  ]
+}
