@@ -1,0 +1,507 @@
+{
+  "segment_id": "PHY-01-03",
+  "slice_id": "PHY-01-03-SLICE-03",
+  "status": "GENERATED_AND_CHECKED_IN_GENERATION_PASS",
+  "records": [
+    {
+      "question_id": "PHY-01-03-Q031",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A rod length is 25.0 ± 0.1 cm. Approximate percentage uncertainty is:",
+      "options": [
+        "0.04%",
+        "0.4%",
+        "4%",
+        "40%"
+      ],
+      "correct_option_index": 1,
+      "explanation": "0.1/25.0 ×100 = 0.4%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q032",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A time interval is measured as 2.00 ± 0.02 s. Percentage uncertainty in its square is approximately:",
+      "options": [
+        "1%",
+        "2%",
+        "3%",
+        "4%"
+      ],
+      "correct_option_index": 1,
+      "explanation": "For t², fractional uncertainty approximately doubles: 2×(0.02/2.00)×100=2%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q033",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "For independent readings 6.0 ± 0.2 and 4.0 ± 0.1, the maximum uncertainty in their sum is:",
+      "options": [
+        "0.1",
+        "0.2",
+        "0.3",
+        "0.5"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Worst-case absolute uncertainties add, giving ±0.3.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q034",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A mass 100.0 ± 0.5 g and volume 20.0 ± 0.2 cm³ yield density with approximate maximum percentage uncertainty:",
+      "options": [
+        "0.5%",
+        "1.0%",
+        "1.5%",
+        "2.5%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "For a quotient, percentage uncertainties add: 0.5%+1.0%=1.5%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q035",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A value 0.005060 has how many significant figures?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option_index": 2,
+      "explanation": "The significant digits are 5, 0, 6, 0.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q036",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "What is 8.765 rounded to three significant figures using the usual round-half-up convention?",
+      "options": [
+        "8.76",
+        "8.77",
+        "8.8",
+        "8.765"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Keeping 8.76, the next digit is 5, so the final retained digit rounds up to 7.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q037",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A reading is 5.24 cm and an instrument has +0.04 cm zero error. The corrected reading is:",
+      "options": [
+        "5.28 cm",
+        "5.24 cm",
+        "5.20 cm",
+        "5.16 cm"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Corrected reading = observed reading − positive zero error = 5.20 cm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q038",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A screw gauge pitch is 0.5 mm with 50 circular-scale divisions. Its least count is:",
+      "options": [
+        "0.1 mm",
+        "0.05 mm",
+        "0.01 mm",
+        "0.001 mm"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Least count = pitch/number of divisions = 0.5/50 = 0.01 mm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q039",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Readings are 10.1, 10.2, 10.3 cm. The mean absolute deviation from the mean is approximately:",
+      "options": [
+        "0.067 cm",
+        "0.10 cm",
+        "0.20 cm",
+        "0.30 cm"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Mean is 10.2 cm; absolute deviations are 0.1, 0, 0.1; mean is 0.2/3≈0.067 cm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q040",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "For Q=xy with x=2.0±0.1 and y=5.0±0.2, maximum fractional uncertainty in Q is:",
+      "options": [
+        "0.04",
+        "0.05",
+        "0.09",
+        "0.10"
+      ],
+      "correct_option_index": 2,
+      "explanation": "ΔQ/Q≈Δx/x+Δy/y=0.1/2+0.2/5=0.09.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q041",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "For a length 12.0±0.3 cm, which interval is consistent with the stated absolute uncertainty?",
+      "options": [
+        "11.7 to 12.3 cm",
+        "11.9 to 12.1 cm",
+        "12.0 to 12.6 cm",
+        "11.4 to 12.0 cm"
+      ],
+      "correct_option_index": 0,
+      "explanation": "The reported interval is 12.0−0.3 to 12.0+0.3 cm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q042",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "If Q=A³B²/C and maximum percentage uncertainties are 1%, 2%, and 3%, maximum percentage uncertainty in Q is:",
+      "options": [
+        "7%",
+        "8%",
+        "10%",
+        "12%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Worst-case percentage uncertainty = 3(1%)+2(2%)+3%=10%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q043",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "The measured radius and height of a cylinder have maximum fractional uncertainties 2% and 3%. Approximate maximum percentage uncertainty in volume is:",
+      "options": [
+        "5%",
+        "6%",
+        "7%",
+        "9%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "V=πr²h, so ΔV/V≈2Δr/r+Δh/h=4%+3%=7%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q044",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "A resistance is computed as R=V/I, with V=12.0±0.3 V and I=2.00±0.04 A. Maximum percentage uncertainty in R is:",
+      "options": [
+        "2%",
+        "2.5%",
+        "4.5%",
+        "6.5%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Relative uncertainties add: 0.3/12=2.5%, 0.04/2=2%; total 4.5%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q045",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "A pendulum's period T is determined from 100 oscillations measured in 200.0±0.2 s. Approximate percentage uncertainty in T due to timing is:",
+      "options": [
+        "0.01%",
+        "0.1%",
+        "1%",
+        "10%"
+      ],
+      "correct_option_index": 1,
+      "explanation": "T=t/100; number of oscillations is exact, so fractional uncertainty is 0.2/200=0.1%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q046",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "If a derived quantity Q=x²/y³, with fractional uncertainties 1.5% in x and 0.5% in y, its maximum percentage uncertainty is:",
+      "options": [
+        "2.0%",
+        "3.0%",
+        "4.5%",
+        "6.0%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "2(1.5%)+3(0.5%)=4.5%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q047",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "A measured length is 10.00±0.05 cm. What is the approximate maximum percentage uncertainty in its cube?",
+      "options": [
+        "0.5%",
+        "1.0%",
+        "1.5%",
+        "5.0%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Fractional uncertainty in L³ is 3ΔL/L = 3(0.05/10)=1.5%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q048",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "For z=(a+b)/c, a=4.0±0.1, b=6.0±0.2, c=2.0±0.1, maximum approximate percentage uncertainty in z is:",
+      "options": [
+        "3%",
+        "5%",
+        "8%",
+        "10%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Numerator 10.0±0.3 has 3% uncertainty; denominator has 5%; total approximately 8%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q049",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "A cube has side 5.00±0.02 cm. Approximate maximum absolute uncertainty in its volume is:",
+      "options": [
+        "0.50 cm³",
+        "1.00 cm³",
+        "1.50 cm³",
+        "3.00 cm³"
+      ],
+      "correct_option_index": 2,
+      "explanation": "V=125 cm³ and ΔV≈3VΔa/a=3×125×0.02/5=1.50 cm³.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    },
+    {
+      "question_id": "PHY-01-03-Q050",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "A physical quantity y=kx^(-2), where k is exact and x has 0.8% uncertainty. Approximate percentage uncertainty in y is:",
+      "options": [
+        "0.4%",
+        "0.8%",
+        "1.6%",
+        "2.4%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "For a power law, percentage uncertainty is |−2|×0.8%=1.6%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03"
+    }
+  ]
+}
