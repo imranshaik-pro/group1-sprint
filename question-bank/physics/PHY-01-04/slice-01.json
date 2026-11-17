@@ -1,0 +1,257 @@
+{
+  "segment_id": "PHY-01-04",
+  "slice_id": "PHY-01-04-SLICE-01",
+  "status": "GENERATED_AND_CHECKED_IN_GENERATION_PASS",
+  "records": [
+    {
+      "question_id": "PHY-01-04-Q001",
+      "segment_id": "PHY-01-04",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Measuring instruments",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "What is the least count of a metre rule marked in millimetres?",
+      "options": [
+        "1 cm",
+        "1 mm",
+        "0.1 mm",
+        "10 cm"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Adjacent millimetre marks are separated by 1 mm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-04-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-04-Q002",
+      "segment_id": "PHY-01-04",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Measuring instruments",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Which instrument is commonly used to measure the diameter of a thin wire accurately?",
+      "options": [
+        "Measuring tape",
+        "Screw gauge",
+        "Stopwatch",
+        "Spring balance"
+      ],
+      "correct_option_index": 1,
+      "explanation": "A micrometer screw gauge resolves small wire diameters.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-04-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-04-Q003",
+      "segment_id": "PHY-01-04",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Measuring instruments",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "The pitch of a screw gauge is the distance moved by the spindle in:",
+      "options": [
+        "One full rotation",
+        "One scale division",
+        "Ten rotations",
+        "One second"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Pitch is axial movement per complete turn.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-04-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-04-Q004",
+      "segment_id": "PHY-01-04",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Measuring instruments",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "The main scale of a vernier caliper is commonly used together with:",
+      "options": [
+        "Circular scale",
+        "Vernier scale",
+        "Thermometer",
+        "Stopwatch"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The vernier scale resolves fractions of the main scale division.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-04-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-04-Q005",
+      "segment_id": "PHY-01-04",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Measuring instruments",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "What is the purpose of zero-error correction?",
+      "options": [
+        "To change units",
+        "To remove systematic offset",
+        "To increase sample size",
+        "To remove all random noise"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Zero correction compensates a fixed reading offset.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-04-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-04-Q006",
+      "segment_id": "PHY-01-04",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Measuring instruments",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A vernier has 10 vernier divisions spanning 9 mm of main scale. What is its least count?",
+      "options": [
+        "1 mm",
+        "0.9 mm",
+        "0.1 mm",
+        "0.01 mm"
+      ],
+      "correct_option_index": 2,
+      "explanation": "1 VSD=0.9 mm; least count = 1.0−0.9=0.1 mm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-04-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-04-Q007",
+      "segment_id": "PHY-01-04",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Measuring instruments",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A screw gauge has pitch 1 mm and 100 circular divisions. What is its least count?",
+      "options": [
+        "1 mm",
+        "0.1 mm",
+        "0.01 mm",
+        "0.001 mm"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Least count = pitch/divisions = 1/100 mm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-04-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-04-Q008",
+      "segment_id": "PHY-01-04",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Measuring instruments",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A vernier reading has main-scale reading 2.3 cm, coinciding division 4, and least count 0.01 cm. With zero error absent, what is the reading?",
+      "options": [
+        "2.34 cm",
+        "2.30 cm",
+        "2.40 cm",
+        "2.304 cm"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Reading = 2.3 + 4×0.01 = 2.34 cm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-04-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-04-Q009",
+      "segment_id": "PHY-01-04",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Measuring instruments",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A micrometer reading has main-scale 4.5 mm, circular coincidence 25, and least count 0.01 mm. With zero error absent, find diameter.",
+      "options": [
+        "4.25 mm",
+        "4.50 mm",
+        "4.75 mm",
+        "5.00 mm"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Reading = 4.5+25×0.01 = 4.75 mm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-04-SLICE-01"
+    },
+    {
+      "question_id": "PHY-01-04-Q010",
+      "segment_id": "PHY-01-04",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Measuring instruments",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "A screw gauge gives observed reading 2.46 mm and has positive zero error +0.03 mm. What is corrected diameter?",
+      "options": [
+        "2.49 mm",
+        "2.46 mm",
+        "2.43 mm",
+        "2.40 mm"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Corrected reading = observed reading − zero error = 2.46−0.03 = 2.43 mm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-04-SLICE-01"
+    }
+  ]
+}
