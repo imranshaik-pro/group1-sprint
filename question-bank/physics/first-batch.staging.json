@@ -1,0 +1,3973 @@
+{
+  "schema_version": "1.0",
+  "source": "original_generated_practice",
+  "release_status": "STAGING_NOT_APP_INTEGRATED",
+  "qa": {
+    "structural_checks": "PASS",
+    "scientific_independent_review": "NOT_COMPLETED",
+    "blueprint_mapping": "NOT_VERIFIED",
+    "app_rendering": "NOT_TESTED"
+  },
+  "questions": [
+    {
+      "question_id": "PHY-01-01-Q001",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which SI base unit measures length?",
+      "options": [
+        "metre",
+        "centimetre",
+        "kilometre",
+        "inch"
+      ],
+      "correct_option_index": 0,
+      "explanation": "The metre (m) is the SI base unit of length.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01",
+      "correct_answer": "metre"
+    },
+    {
+      "question_id": "PHY-01-01-Q002",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which SI base unit measures mass?",
+      "options": [
+        "gram",
+        "kilogram",
+        "tonne",
+        "pound"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The kilogram (kg) is the SI base unit of mass.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01",
+      "correct_answer": "kilogram"
+    },
+    {
+      "question_id": "PHY-01-01-Q003",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which SI base unit measures thermodynamic temperature?",
+      "options": [
+        "degree Celsius",
+        "kelvin",
+        "degree Fahrenheit",
+        "joule"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The kelvin (K) is the SI base unit of thermodynamic temperature.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01",
+      "correct_answer": "kelvin"
+    },
+    {
+      "question_id": "PHY-01-01-Q004",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which SI base unit measures electric current?",
+      "options": [
+        "volt",
+        "coulomb",
+        "ampere",
+        "ohm"
+      ],
+      "correct_option_index": 2,
+      "explanation": "The ampere (A) is the SI base unit of electric current.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01",
+      "correct_answer": "ampere"
+    },
+    {
+      "question_id": "PHY-01-01-Q005",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "What is the SI base unit of amount of substance?",
+      "options": [
+        "mole",
+        "kilogram",
+        "candela",
+        "newton"
+      ],
+      "correct_option_index": 0,
+      "explanation": "The mole (mol) is the SI base unit for amount of substance.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01",
+      "correct_answer": "mole"
+    },
+    {
+      "question_id": "PHY-01-01-Q006",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "What is the SI base unit of luminous intensity?",
+      "options": [
+        "lux",
+        "lumen",
+        "candela",
+        "watt"
+      ],
+      "correct_option_index": 2,
+      "explanation": "The candela (cd) is the SI base unit of luminous intensity.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01",
+      "correct_answer": "candela"
+    },
+    {
+      "question_id": "PHY-01-01-Q007",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "What is the SI base unit of time?",
+      "options": [
+        "minute",
+        "second",
+        "hour",
+        "day"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The second (s) is the SI base unit of time.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01",
+      "correct_answer": "second"
+    },
+    {
+      "question_id": "PHY-01-01-Q008",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which expression correctly gives the newton in SI base units?",
+      "options": [
+        "kg m s^-1",
+        "kg m s^-2",
+        "kg m^2 s^-2",
+        "kg m^-1 s^-2"
+      ],
+      "correct_option_index": 1,
+      "explanation": "From F=ma, 1 N = 1 kg × 1 m/s² = 1 kg m s^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01",
+      "correct_answer": "kg m s^-2"
+    },
+    {
+      "question_id": "PHY-01-01-Q009",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which expression correctly gives the joule in SI base units?",
+      "options": [
+        "kg m^2 s^-2",
+        "kg m s^-2",
+        "kg m^2 s^-3",
+        "kg m^-1 s^-2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Work = force × displacement; J = N m = kg m² s^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01",
+      "correct_answer": "kg m^2 s^-2"
+    },
+    {
+      "question_id": "PHY-01-01-Q010",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which expression correctly gives the watt in SI base units?",
+      "options": [
+        "kg m^2 s^-2",
+        "kg m s^-3",
+        "kg m^2 s^-3",
+        "kg m^-2 s^-3"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Power = energy/time, so W = J/s = kg m² s^-3.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-01",
+      "correct_answer": "kg m^2 s^-3"
+    },
+    {
+      "question_id": "PHY-01-01-Q011",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which symbol denotes the SI prefix kilo?",
+      "options": [
+        "K",
+        "k",
+        "ki",
+        "m"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The SI prefix kilo uses lowercase k and means 10^3.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "k"
+    },
+    {
+      "question_id": "PHY-01-01-Q012",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which symbol denotes the SI prefix milli?",
+      "options": [
+        "M",
+        "m",
+        "µ",
+        "n"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The SI prefix milli is m, meaning 10^-3.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "m"
+    },
+    {
+      "question_id": "PHY-01-01-Q013",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which symbol denotes the SI prefix micro?",
+      "options": [
+        "m",
+        "n",
+        "µ",
+        "p"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Micro is represented by µ and equals 10^-6.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "µ"
+    },
+    {
+      "question_id": "PHY-01-01-Q014",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which of the following is an SI derived unit?",
+      "options": [
+        "second",
+        "ampere",
+        "pascal",
+        "kelvin"
+      ],
+      "correct_option_index": 2,
+      "explanation": "The pascal is a derived unit of pressure; the others are base units.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "pascal"
+    },
+    {
+      "question_id": "PHY-01-01-Q015",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which SI unit measures frequency?",
+      "options": [
+        "hertz",
+        "tesla",
+        "weber",
+        "henry"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Frequency is measured in hertz (Hz), equal to s^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "hertz"
+    },
+    {
+      "question_id": "PHY-01-01-Q016",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which of the following correctly represents the SI unit symbol for kelvin?",
+      "options": [
+        "°K",
+        "k",
+        "K",
+        "Kel"
+      ],
+      "correct_option_index": 2,
+      "explanation": "The symbol is uppercase K without a degree sign.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "K"
+    },
+    {
+      "question_id": "PHY-01-01-Q017",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which SI unit measures electric charge?",
+      "options": [
+        "ampere",
+        "coulomb",
+        "volt",
+        "farad"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Charge equals current times time, so the SI unit is coulomb (C).",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "coulomb"
+    },
+    {
+      "question_id": "PHY-01-01-Q018",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which SI derived unit measures pressure?",
+      "options": [
+        "joule",
+        "watt",
+        "pascal",
+        "newton"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Pressure is force per unit area, measured in pascals (Pa).",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "pascal"
+    },
+    {
+      "question_id": "PHY-01-01-Q019",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "How many metres are there in 2.5 km?",
+      "options": [
+        "25",
+        "250",
+        "2500",
+        "25000"
+      ],
+      "correct_option_index": 2,
+      "explanation": "1 km = 1000 m; therefore 2.5 km = 2500 m.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "2500"
+    },
+    {
+      "question_id": "PHY-01-01-Q020",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Convert 0.075 A into milliamperes.",
+      "options": [
+        "0.75 mA",
+        "7.5 mA",
+        "75 mA",
+        "750 mA"
+      ],
+      "correct_option_index": 2,
+      "explanation": "1 A = 1000 mA; 0.075 × 1000 = 75 mA.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "75 mA"
+    },
+    {
+      "question_id": "PHY-01-01-Q021",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "How many microseconds are there in 3 milliseconds?",
+      "options": [
+        "3",
+        "30",
+        "300",
+        "3000"
+      ],
+      "correct_option_index": 3,
+      "explanation": "1 ms = 10^-3 s and 1 µs = 10^-6 s, so 3 ms = 3000 µs.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "3000"
+    },
+    {
+      "question_id": "PHY-01-01-Q022",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which SI base-unit expression equals one pascal?",
+      "options": [
+        "kg m^-1 s^-2",
+        "kg m s^-2",
+        "kg m^2 s^-2",
+        "kg m^-2 s^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Pa = N/m² = (kg m s^-2)/m² = kg m^-1 s^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "kg m^-1 s^-2"
+    },
+    {
+      "question_id": "PHY-01-01-Q023",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which SI base-unit expression equals one coulomb?",
+      "options": [
+        "A s^-1",
+        "A s",
+        "kg m s^-2",
+        "A m"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Charge Q = I t, so C = A s.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "A s"
+    },
+    {
+      "question_id": "PHY-01-01-Q024",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which SI base-unit expression equals one volt?",
+      "options": [
+        "kg m^2 s^-3 A^-1",
+        "kg m s^-2 A^-1",
+        "kg m^2 s^-2 A",
+        "kg m^-1 s^-3 A^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "V = J/C = (kg m² s^-2)/(A s) = kg m² s^-3 A^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "kg m^2 s^-3 A^-1"
+    },
+    {
+      "question_id": "PHY-01-01-Q025",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which expression gives one ohm in SI base units?",
+      "options": [
+        "kg m^2 s^-3 A^-2",
+        "kg m^2 s^-3 A^-1",
+        "kg m s^-2 A^-2",
+        "kg m^2 s^-2 A^-2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Ω = V/A = kg m² s^-3 A^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "kg m^2 s^-3 A^-2"
+    },
+    {
+      "question_id": "PHY-01-01-Q026",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which expression gives one farad in SI base units?",
+      "options": [
+        "kg m^2 s^-4 A^-2",
+        "kg^-1 m^-2 s^4 A^2",
+        "kg^-1 m^2 s^4 A^2",
+        "kg m^-2 s^-4 A^-2"
+      ],
+      "correct_option_index": 1,
+      "explanation": "F = C/V = (A s)/(kg m² s^-3 A^-1) = kg^-1 m^-2 s^4 A².",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "kg^-1 m^-2 s^4 A^2"
+    },
+    {
+      "question_id": "PHY-01-01-Q027",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A speed of 72 km/h equals how many m/s?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correct_option_index": 2,
+      "explanation": "72 × 1000/3600 = 20 m/s.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "20"
+    },
+    {
+      "question_id": "PHY-01-01-Q028",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A density of 1 g/cm³ is equal to how many kg/m³?",
+      "options": [
+        "1",
+        "10",
+        "100",
+        "1000"
+      ],
+      "correct_option_index": 3,
+      "explanation": "1 g = 10^-3 kg and 1 cm³ = 10^-6 m³, so density is 10³ kg/m³.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "1000"
+    },
+    {
+      "question_id": "PHY-01-01-Q029",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which SI derived unit is equivalent to kg m² s^-2?",
+      "options": [
+        "newton",
+        "joule",
+        "watt",
+        "pascal"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The joule equals force times distance: kg m s^-2 × m = kg m² s^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "joule"
+    },
+    {
+      "question_id": "PHY-01-01-Q030",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which SI derived unit is equivalent to kg s^-2 A^-1?",
+      "options": [
+        "tesla",
+        "weber",
+        "henry",
+        "volt"
+      ],
+      "correct_option_index": 0,
+      "explanation": "T = N/(A m) = (kg m s^-2)/(A m) = kg s^-2 A^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-02",
+      "correct_answer": "tesla"
+    },
+    {
+      "question_id": "PHY-01-01-Q031",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Express 2.4 × 10^5 µm in metres.",
+      "options": [
+        "0.024 m",
+        "0.24 m",
+        "2.4 m",
+        "24 m"
+      ],
+      "correct_option_index": 1,
+      "explanation": "A micrometre is 10^-6 m; 2.4×10^5×10^-6 = 0.24 m.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "0.24 m"
+    },
+    {
+      "question_id": "PHY-01-01-Q032",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A force of 4 kN acts over an area of 2 m². What is the pressure?",
+      "options": [
+        "2 Pa",
+        "200 Pa",
+        "2000 Pa",
+        "8000 Pa"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Pressure = 4000 N / 2 m² = 2000 Pa.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "2000 Pa"
+    },
+    {
+      "question_id": "PHY-01-01-Q033",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which expression represents the SI unit of magnetic flux, weber?",
+      "options": [
+        "kg m² s^-2 A^-1",
+        "kg s^-2 A^-1",
+        "kg m² s^-3 A^-1",
+        "kg m s^-2 A^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Wb = V s = kg m² s^-2 A^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "kg m² s^-2 A^-1"
+    },
+    {
+      "question_id": "PHY-01-01-Q034",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A 0.50 L volume is how many cubic metres?",
+      "options": [
+        "5×10^-2",
+        "5×10^-3",
+        "5×10^-4",
+        "5×10^-5"
+      ],
+      "correct_option_index": 2,
+      "explanation": "1 L = 10^-3 m³; 0.50 L = 5×10^-4 m³.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "5×10^-4"
+    },
+    {
+      "question_id": "PHY-01-01-Q035",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which of these is the correct SI base-unit expression for momentum?",
+      "options": [
+        "kg m s^-1",
+        "kg m s^-2",
+        "kg m² s^-1",
+        "kg s^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Momentum p = mv, so its unit is kg m s^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "kg m s^-1"
+    },
+    {
+      "question_id": "PHY-01-01-Q036",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A power rating of 2.5 MW equals how many watts?",
+      "options": [
+        "2.5×10^3",
+        "2.5×10^5",
+        "2.5×10^6",
+        "2.5×10^9"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Mega means 10^6, so 2.5 MW = 2.5×10^6 W.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "2.5×10^6"
+    },
+    {
+      "question_id": "PHY-01-01-Q037",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "What is the SI unit of angular velocity expressed in base units?",
+      "options": [
+        "s^-1",
+        "m s^-1",
+        "m^-1 s^-1",
+        "kg m² s^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Angular velocity is measured in rad/s; radian is dimensionless, giving s^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "s^-1"
+    },
+    {
+      "question_id": "PHY-01-01-Q038",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which is equal to 1 nanometre?",
+      "options": [
+        "10^-3 m",
+        "10^-6 m",
+        "10^-9 m",
+        "10^-12 m"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Nano denotes 10^-9.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "10^-9 m"
+    },
+    {
+      "question_id": "PHY-01-01-Q039",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which is the correct SI unit expression for energy density?",
+      "options": [
+        "kg m^-1 s^-2",
+        "kg m² s^-2",
+        "kg m^-2 s^-2",
+        "kg m s^-3"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Energy density = J/m³ = kg m² s^-2 /m³ = kg m^-1 s^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "kg m^-1 s^-2"
+    },
+    {
+      "question_id": "PHY-01-01-Q040",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A 6 m² area equals how many cm²?",
+      "options": [
+        "600",
+        "6000",
+        "60000",
+        "600000"
+      ],
+      "correct_option_index": 2,
+      "explanation": "1 m = 100 cm, so 1 m² = 10^4 cm² and 6 m² = 60000 cm².",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "60000"
+    },
+    {
+      "question_id": "PHY-01-01-Q041",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "Which expression represents the SI base units of inductance (henry)?",
+      "options": [
+        "kg m² s^-2 A^-2",
+        "kg m² s^-3 A^-2",
+        "kg^-1 m^-2 s^4 A²",
+        "kg s^-2 A^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "H = Wb/A = (V s)/A = kg m² s^-2 A^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "kg m² s^-2 A^-2"
+    },
+    {
+      "question_id": "PHY-01-01-Q042",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "Which expression gives the SI base units of permittivity ε0?",
+      "options": [
+        "kg m³ s^-4 A^-2",
+        "kg^-1 m^-3 s^4 A²",
+        "kg^-1 m^-3 s² A²",
+        "kg m^-3 s^-2 A^-2"
+      ],
+      "correct_option_index": 1,
+      "explanation": "From Coulomb's law, ε0 has units C²/(N m²) = (A²s²)/(kg m³ s^-2) = kg^-1 m^-3 s^4 A².",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "kg^-1 m^-3 s^4 A²"
+    },
+    {
+      "question_id": "PHY-01-01-Q043",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "A material has density 8 g/cm³. What is its density in Mg/m³?",
+      "options": [
+        "0.8",
+        "8",
+        "80",
+        "8000"
+      ],
+      "correct_option_index": 1,
+      "explanation": "8 g/cm³ = 8000 kg/m³. Since 1 Mg = 1000 kg, this is 8 Mg/m³.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "8"
+    },
+    {
+      "question_id": "PHY-01-01-Q044",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "The SI base units of electric field strength are:",
+      "options": [
+        "kg m s^-3 A^-1",
+        "kg m s^-2 A^-1",
+        "kg m² s^-3 A^-1",
+        "kg s^-3 A^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "E = force/charge = (kg m s^-2)/(A s) = kg m s^-3 A^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "kg m s^-3 A^-1"
+    },
+    {
+      "question_id": "PHY-01-01-Q045",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "The SI base units of magnetic permeability µ0 are:",
+      "options": [
+        "kg m s^-2 A^-2",
+        "kg m^-1 s^-2 A^-2",
+        "kg m² s^-2 A^-2",
+        "kg s^-2 A^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "µ0 has units N/A² = kg m s^-2 A^-2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "kg m s^-2 A^-2"
+    },
+    {
+      "question_id": "PHY-01-01-Q046",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "A surface energy is 0.08 J/cm². Express it in J/m².",
+      "options": [
+        "0.8",
+        "8",
+        "80",
+        "800"
+      ],
+      "correct_option_index": 3,
+      "explanation": "1 cm² = 10^-4 m², so 0.08 J/cm² = 0.08×10^4 = 800 J/m².",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "800"
+    },
+    {
+      "question_id": "PHY-01-01-Q047",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "A fluid has dynamic viscosity 2 mPa s. Express it in SI base units.",
+      "options": [
+        "2×10^-3 kg m^-1 s^-1",
+        "2×10^-3 kg m s^-1",
+        "2×10^-6 kg m^-1 s^-1",
+        "2 kg m^-1 s^-2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "1 Pa s = kg m^-1 s^-1. Milli is 10^-3, hence 2×10^-3 kg m^-1 s^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "2×10^-3 kg m^-1 s^-1"
+    },
+    {
+      "question_id": "PHY-01-01-Q048",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "Which expression gives the SI base units of thermal conductivity?",
+      "options": [
+        "kg m s^-3 K^-1",
+        "kg m² s^-3 K^-1",
+        "kg m s^-2 K^-1",
+        "kg m^-1 s^-3 K^-1"
+      ],
+      "correct_option_index": 0,
+      "explanation": "From P = k A ΔT/L, k = P L/(A ΔT), giving W m^-1 K^-1 = kg m s^-3 K^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "kg m s^-3 K^-1"
+    },
+    {
+      "question_id": "PHY-01-01-Q049",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "A quantity has units N s/m². Which SI base-unit expression is equivalent?",
+      "options": [
+        "kg m^-1 s^-1",
+        "kg m s^-1",
+        "kg m^-1 s^-2",
+        "kg s^-2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "N s/m² = (kg m s^-2)s/m² = kg m^-1 s^-1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "kg m^-1 s^-1"
+    },
+    {
+      "question_id": "PHY-01-01-Q050",
+      "segment_id": "PHY-01-01",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "SI units",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "An electric potential difference of 3 kV is applied across a charge of 2 mC. How much energy is transferred?",
+      "options": [
+        "0.006 J",
+        "0.6 J",
+        "6 J",
+        "6000 J"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Energy W = QV = (2×10^-3 C)(3×10^3 V) = 6 J.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "PENDING_INDEPENDENT_REVIEW",
+      "generation_batch_id": "PHY-01-01-SLICE-03",
+      "correct_answer": "6 J"
+    },
+    {
+      "question_id": "PHY-01-02-Q001",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "What are the dimensions of velocity?",
+      "options": [
+        "[LT^-1]",
+        "[LT^-2]",
+        "[L^2T^-1]",
+        "[T^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Velocity is displacement divided by time, so [LT^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01",
+      "correct_answer": "[LT^-1]"
+    },
+    {
+      "question_id": "PHY-01-02-Q002",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "What are the dimensions of acceleration?",
+      "options": [
+        "[LT^-1]",
+        "[LT^-2]",
+        "[L^2T^-2]",
+        "[T^-2]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Acceleration is change in velocity per time, so [LT^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01",
+      "correct_answer": "[LT^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q003",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "What are the dimensions of force?",
+      "options": [
+        "[MLT^-2]",
+        "[ML^2T^-2]",
+        "[MLT^-1]",
+        "[ML^-1T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "F=ma, giving [M][LT^-2]=[MLT^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01",
+      "correct_answer": "[MLT^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q004",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "Which physical quantity is dimensionless?",
+      "options": [
+        "speed",
+        "strain",
+        "pressure",
+        "energy"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Strain is the ratio of change in length to original length.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01",
+      "correct_answer": "strain"
+    },
+    {
+      "question_id": "PHY-01-02-Q005",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "EASY",
+      "question_text": "What are the dimensions of momentum?",
+      "options": [
+        "[MLT^-2]",
+        "[ML^2T^-1]",
+        "[MLT^-1]",
+        "[MT^-1]"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Momentum is mass times velocity: [M][LT^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01",
+      "correct_answer": "[MLT^-1]"
+    },
+    {
+      "question_id": "PHY-01-02-Q006",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "What are the dimensions of work?",
+      "options": [
+        "[MLT^-2]",
+        "[ML^2T^-2]",
+        "[ML^2T^-3]",
+        "[ML^-1T^-2]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Work = force × distance, giving [ML²T^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01",
+      "correct_answer": "[ML^2T^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q007",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "What are the dimensions of pressure?",
+      "options": [
+        "[ML^-1T^-2]",
+        "[MLT^-2]",
+        "[ML^-2T^-2]",
+        "[ML^2T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Pressure = force/area = [MLT^-2]/[L²] = [ML^-1T^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01",
+      "correct_answer": "[ML^-1T^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q008",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "What are the dimensions of the gravitational constant G?",
+      "options": [
+        "[M^-1L^3T^-2]",
+        "[ML^3T^-2]",
+        "[M^-1L^2T^-2]",
+        "[ML^-2T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "From F=Gm1m2/r², [G]=[F][L²]/[M²]=[M^-1L³T^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01",
+      "correct_answer": "[M^-1L^3T^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q009",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "MEDIUM",
+      "question_text": "What are the dimensions of power?",
+      "options": [
+        "[ML²T^-2]",
+        "[ML²T^-3]",
+        "[MLT^-3]",
+        "[ML^-1T^-2]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Power = work/time = [ML²T^-3].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01",
+      "correct_answer": "[ML²T^-3]"
+    },
+    {
+      "question_id": "PHY-01-02-Q010",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "segment_complexity": "L2",
+      "question_difficulty": "HARD",
+      "question_text": "If a period T depends only on length l and acceleration g as T ∝ l^a g^b, what are a and b?",
+      "options": [
+        "a=1,b=-1",
+        "a=1/2,b=-1/2",
+        "a=-1/2,b=1/2",
+        "a=1/2,b=1/2"
+      ],
+      "correct_option_index": 1,
+      "explanation": "[T]=[L]^a[LT^-2]^b=[L^(a+b)T^(-2b)]. Equating exponents gives b=-1/2 and a=1/2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-01",
+      "correct_answer": "a=1/2,b=-1/2"
+    },
+    {
+      "question_id": "PHY-01-02-Q011",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Which pair has identical dimensions?",
+      "options": [
+        "Impulse",
+        "Momentum",
+        "Force",
+        "Power"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Impulse equals change in momentum, so both have [MLT^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "Momentum"
+    },
+    {
+      "question_id": "PHY-01-02-Q012",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of frequency are",
+      "options": [
+        "[T]",
+        "[T^-1]",
+        "[LT^-1]",
+        "[L^-1]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Frequency is reciprocal time.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[T^-1]"
+    },
+    {
+      "question_id": "PHY-01-02-Q013",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of area are",
+      "options": [
+        "[L]",
+        "[L²]",
+        "[L³]",
+        "[ML²]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Area is the product of two lengths.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[L²]"
+    },
+    {
+      "question_id": "PHY-01-02-Q014",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of density are",
+      "options": [
+        "[ML^-3]",
+        "[ML³]",
+        "[M^-1L³]",
+        "[ML^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Density is mass divided by volume.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[ML^-3]"
+    },
+    {
+      "question_id": "PHY-01-02-Q015",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of energy are",
+      "options": [
+        "[MLT^-2]",
+        "[ML²T^-2]",
+        "[ML²T^-3]",
+        "[ML^-1T^-2]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Energy is force times displacement.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[ML²T^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q016",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of angular momentum are",
+      "options": [
+        "[MLT^-1]",
+        "[ML²T^-1]",
+        "[ML²T^-2]",
+        "[MT^-1]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Angular momentum is r × p.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[ML²T^-1]"
+    },
+    {
+      "question_id": "PHY-01-02-Q017",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of surface tension are",
+      "options": [
+        "[MT^-2]",
+        "[MLT^-2]",
+        "[ML^-1T^-2]",
+        "[MT^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Surface tension is force per length.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[MT^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q018",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of torque are",
+      "options": [
+        "[ML²T^-2]",
+        "[MLT^-2]",
+        "[ML²T^-1]",
+        "[ML^-1T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Torque is force times perpendicular distance.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[ML²T^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q019",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of electric charge in terms of current I and time T are",
+      "options": [
+        "[IT^-1]",
+        "[IT]",
+        "[I^-1T]",
+        "[IT²]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Q=It.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[IT]"
+    },
+    {
+      "question_id": "PHY-01-02-Q020",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Dimensions of volume are",
+      "options": [
+        "[L²]",
+        "[L³]",
+        "[ML³]",
+        "[L^-3]"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Volume is the product of three lengths.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[L³]"
+    },
+    {
+      "question_id": "PHY-01-02-Q021",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of dynamic viscosity are",
+      "options": [
+        "[ML^-1T^-1]",
+        "[MLT^-1]",
+        "[ML^-1T^-2]",
+        "[M^-1LT^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Shear stress = viscosity × velocity gradient; [η]=[ML^-1T^-2]/[T^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[ML^-1T^-1]"
+    },
+    {
+      "question_id": "PHY-01-02-Q022",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of spring constant k in F=kx are",
+      "options": [
+        "[MT^-2]",
+        "[MLT^-2]",
+        "[ML^-1T^-2]",
+        "[ML²T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[k]=[F]/[x]=[MT^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[MT^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q023",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of Planck's constant are",
+      "options": [
+        "[ML²T^-1]",
+        "[ML²T^-2]",
+        "[MLT^-1]",
+        "[ML²T^-3]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "E=hν, so [h]=[E]/[ν]=[ML²T^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[ML²T^-1]"
+    },
+    {
+      "question_id": "PHY-01-02-Q024",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of electric potential in terms of M,L,T,I are",
+      "options": [
+        "[ML²T^-3I^-1]",
+        "[ML²T^-2I^-1]",
+        "[MLT^-3I^-1]",
+        "[ML²T^-3I]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Potential is energy per charge, and [Q]=[IT].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[ML²T^-3I^-1]"
+    },
+    {
+      "question_id": "PHY-01-02-Q025",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of electric resistance are",
+      "options": [
+        "[ML²T^-3I^-2]",
+        "[ML²T^-3I^-1]",
+        "[MLT^-2I^-2]",
+        "[ML²T^-2I^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Resistance = potential/current.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[ML²T^-3I^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q026",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of electric capacitance are",
+      "options": [
+        "[M^-1L^-2T^4I²]",
+        "[ML²T^-4I^-2]",
+        "[M^-1L²T^4I²]",
+        "[M^-1L^-2T³I²]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Capacitance=charge/potential.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[M^-1L^-2T^4I²]"
+    },
+    {
+      "question_id": "PHY-01-02-Q027",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of magnetic field B from F=qvB are",
+      "options": [
+        "[MT^-2I^-1]",
+        "[MLT^-2I^-1]",
+        "[MT^-1I^-1]",
+        "[ML²T^-2I^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[B]=[F]/([q][v])=[MT^-2I^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[MT^-2I^-1]"
+    },
+    {
+      "question_id": "PHY-01-02-Q028",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of electric field E from F=qE are",
+      "options": [
+        "[MLT^-3I^-1]",
+        "[MLT^-2I^-1]",
+        "[ML²T^-3I^-1]",
+        "[MT^-3I^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[E]=[F]/[q]=[MLT^-3I^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[MLT^-3I^-1]"
+    },
+    {
+      "question_id": "PHY-01-02-Q029",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of gravitational potential (energy per unit mass) are",
+      "options": [
+        "[L²T^-2]",
+        "[ML²T^-2]",
+        "[LT^-2]",
+        "[L²T^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Potential is energy per mass.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[L²T^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q030",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of kinematic viscosity are",
+      "options": [
+        "[L²T^-1]",
+        "[ML^-1T^-1]",
+        "[LT^-1]",
+        "[L²T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Kinematic viscosity is dynamic viscosity divided by density.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-02",
+      "correct_answer": "[L²T^-1]"
+    },
+    {
+      "question_id": "PHY-01-02-Q031",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "If x=at+bt², where x is displacement, dimensions of b are",
+      "options": [
+        "[LT^-2]",
+        "[LT^-1]",
+        "[L²T^-2]",
+        "[T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Each term has dimension L; [b]=[L]/[T²].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "[LT^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q032",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "In F=av+bv², dimensions of a are",
+      "options": [
+        "[MT^-1]",
+        "[MLT^-1]",
+        "[MT^-2]",
+        "[ML^-1T^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[a]=[F]/[v]=[MT^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "[MT^-1]"
+    },
+    {
+      "question_id": "PHY-01-02-Q033",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "In F=av+bv², dimensions of b are",
+      "options": [
+        "[ML^-1]",
+        "[MT^-1]",
+        "[ML^-1T^-2]",
+        "[M^-1L]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[b]=[F]/[v²]=[ML^-1].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "[ML^-1]"
+    },
+    {
+      "question_id": "PHY-01-02-Q034",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "For an ideal pendulum T=2π√(l/g), dimensions of l/g are",
+      "options": [
+        "[T²]",
+        "[T]",
+        "[LT²]",
+        "[L²T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[l/g]=[L]/[LT^-2]=[T²].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "[T²]"
+    },
+    {
+      "question_id": "PHY-01-02-Q035",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Which relation is dimensionally inconsistent?",
+      "options": [
+        "v=u+at",
+        "s=ut+at²/2",
+        "v²=u²+2as",
+        "s=ut+at/2"
+      ],
+      "correct_option_index": 3,
+      "explanation": "ut has dimensions L, but at has dimensions LT^-1, so those terms cannot be added.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "s=ut+at/2"
+    },
+    {
+      "question_id": "PHY-01-02-Q036",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of energy per unit volume are",
+      "options": [
+        "[ML^-1T^-2]",
+        "[ML²T^-2]",
+        "[ML^-2T^-2]",
+        "[MT^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Energy density = energy/volume.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "[ML^-1T^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q037",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of angular acceleration are",
+      "options": [
+        "[T^-2]",
+        "[LT^-2]",
+        "[T^-1]",
+        "[L^-1T^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Angle is dimensionless; angular acceleration is angle/time².",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "[T^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q038",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of thermal conductivity are",
+      "options": [
+        "[MLT^-3Θ^-1]",
+        "[ML²T^-3Θ^-1]",
+        "[MT^-3Θ^-1]",
+        "[MLT^-2Θ^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "From heat flow rate = k A ΔΘ/L, [k]=[power]L/(L²Θ).",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "[MLT^-3Θ^-1]"
+    },
+    {
+      "question_id": "PHY-01-02-Q039",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of specific heat capacity are",
+      "options": [
+        "[L²T^-2Θ^-1]",
+        "[ML²T^-2Θ^-1]",
+        "[L²T^-1Θ^-1]",
+        "[LT^-2Θ^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Specific heat is energy/(mass × temperature change).",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "[L²T^-2Θ^-1]"
+    },
+    {
+      "question_id": "PHY-01-02-Q040",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of latent heat per unit mass are",
+      "options": [
+        "[L²T^-2]",
+        "[ML²T^-2]",
+        "[LT^-2]",
+        "[L²T^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Specific latent heat is energy divided by mass.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "[L²T^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q041",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Dimensions of Young's modulus are",
+      "options": [
+        "[ML^-1T^-2]",
+        "[MLT^-2]",
+        "[ML^-2T^-2]",
+        "[MT^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Young's modulus is stress/strain; strain is dimensionless.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "[ML^-1T^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q042",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "If pressure P depends on density ρ and speed v as P∝ρ^a v^b, find a,b",
+      "options": [
+        "a=1,b=2",
+        "a=2,b=1",
+        "a=1,b=1",
+        "a=2,b=2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[P]=[ML^-1T^-2], [ρ]=[ML^-3], [v]=[LT^-1]; matching M and T gives a=1,b=2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "a=1,b=2"
+    },
+    {
+      "question_id": "PHY-01-02-Q043",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "For wave speed v∝T^a μ^b, where T is string tension and μ mass per length, find a,b",
+      "options": [
+        "1/2,-1/2",
+        "1, -1",
+        "1/2,1/2",
+        "-1/2,1/2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[T]=[MLT^-2], [μ]=[ML^-1], and [v]=[LT^-1]; a=1/2,b=-1/2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "1/2,-1/2"
+    },
+    {
+      "question_id": "PHY-01-02-Q044",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "If drag force F=kρ^a v^b A^c, with ρ density, v speed, A area and dimensionless k, which exponents are forced by dimensions if c=1?",
+      "options": [
+        "a=1,b=2",
+        "a=2,b=1",
+        "a=1,b=1",
+        "a=2,b=2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[ρv²A]=[ML^-3][L²T^-2][L²]=[MLT^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "a=1,b=2"
+    },
+    {
+      "question_id": "PHY-01-02-Q045",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "If energy E depends on mass m, speed v and radius r as E∝m^a v^b r^c, determine exponents",
+      "options": [
+        "a=1,b=2,c=0",
+        "a=1,b=1,c=1",
+        "a=2,b=2,c=-1",
+        "a=1,b=0,c=2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[E]=[ML²T^-2]; mass exponent 1, time gives b=2, length then c=0.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "a=1,b=2,c=0"
+    },
+    {
+      "question_id": "PHY-01-02-Q046",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "For oscillation frequency f∝k^a m^b of a spring-mass system, determine a,b",
+      "options": [
+        "1/2,-1/2",
+        "1,-1",
+        "1/2,1/2",
+        "-1/2,1/2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[k]=[MT^-2]; [f]=[T^-1], giving a=1/2,b=-1/2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "1/2,-1/2"
+    },
+    {
+      "question_id": "PHY-01-02-Q047",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "The dimensions of vacuum permittivity ε0 are",
+      "options": [
+        "[M^-1L^-3T^4I²]",
+        "[ML³T^-4I^-2]",
+        "[M^-1L^-3T²I²]",
+        "[ML^-3T^-4I^-2]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "From F=q1q2/(4πε0r²), [ε0]=[q²]/([F][r²])=[M^-1L^-3T^4I²].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "[M^-1L^-3T^4I²]"
+    },
+    {
+      "question_id": "PHY-01-02-Q048",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "The dimensions of magnetic permeability μ0 are",
+      "options": [
+        "[MLT^-2I^-2]",
+        "[ML^-1T^-2I^-2]",
+        "[M^-1LT²I²]",
+        "[MT^-2I^-1]"
+      ],
+      "correct_option_index": 0,
+      "explanation": "From force per unit length between parallel currents, [μ0]=[F/L][L]/[I²]=[MLT^-2I^-2].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "[MLT^-2I^-2]"
+    },
+    {
+      "question_id": "PHY-01-02-Q049",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "If a physical quantity Q has dimensions [ML²T^-3], which SI quantity can Q represent?",
+      "options": [
+        "Power",
+        "Energy",
+        "Torque",
+        "Pressure"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Power is energy per time: [ML²T^-3].",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "Power"
+    },
+    {
+      "question_id": "PHY-01-02-Q050",
+      "segment_id": "PHY-01-02",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Dimensions",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "If T∝ρ^a R^b P^c, where T is time, ρ density, R length and P pressure, find a,b,c",
+      "options": [
+        "1/2,1,-1/2",
+        "1,1,-1",
+        "1/2,0,-1/2",
+        "-1/2,1,1/2"
+      ],
+      "correct_option_index": 0,
+      "explanation": "[ρ]=[ML^-3], [P]=[ML^-1T^-2]. Time requires c=-1/2; mass gives a=1/2; length gives b=1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-02-SLICE-03",
+      "correct_answer": "1/2,1,-1/2"
+    },
+    {
+      "question_id": "PHY-01-03-Q001",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "The difference between a measured value and the accepted reference value is called what?",
+      "options": [
+        "Absolute error",
+        "Relative error",
+        "Percentage error",
+        "Precision"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Absolute error is the magnitude of the difference between measured and reference values.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01",
+      "correct_answer": "Absolute error"
+    },
+    {
+      "question_id": "PHY-01-03-Q002",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Which expression gives relative error?",
+      "options": [
+        "Absolute error / reference value",
+        "Reference value / absolute error",
+        "Absolute error × 100",
+        "Measured value + reference value"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Relative error is the absolute error divided by the magnitude of the reference value.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01",
+      "correct_answer": "Absolute error / reference value"
+    },
+    {
+      "question_id": "PHY-01-03-Q003",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Which expression gives percentage error?",
+      "options": [
+        "Relative error × 100",
+        "Absolute error × 100",
+        "Relative error / 100",
+        "Measured value × 100"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Percentage error is relative error expressed as a percentage.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01",
+      "correct_answer": "Relative error × 100"
+    },
+    {
+      "question_id": "PHY-01-03-Q004",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "How many significant figures are in 0.00450?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Leading zeros are not significant; 4, 5 and the trailing 0 are significant.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01",
+      "correct_answer": "3"
+    },
+    {
+      "question_id": "PHY-01-03-Q005",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "How many significant figures are in 6.020?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option_index": 2,
+      "explanation": "The internal zero and the trailing decimal zero are significant.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01",
+      "correct_answer": "4"
+    },
+    {
+      "question_id": "PHY-01-03-Q006",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A length is measured as 20.0 ± 0.2 cm. What is its percentage uncertainty?",
+      "options": [
+        "0.1%",
+        "1%",
+        "2%",
+        "10%"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Percentage uncertainty = (0.2/20.0)×100 = 1%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01",
+      "correct_answer": "1%"
+    },
+    {
+      "question_id": "PHY-01-03-Q007",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A rectangle has length 10.0 ± 0.1 cm and width 5.0 ± 0.1 cm. What is the maximum percentage uncertainty in its area?",
+      "options": [
+        "1%",
+        "2%",
+        "3%",
+        "4%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "For a product, fractional maximum uncertainties add: 0.1/10 + 0.1/5 = 0.03 = 3%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01",
+      "correct_answer": "3%"
+    },
+    {
+      "question_id": "PHY-01-03-Q008",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A quantity z=x² is calculated from x=4.0 ± 0.1. What is the approximate percentage uncertainty in z?",
+      "options": [
+        "2.5%",
+        "5%",
+        "10%",
+        "20%"
+      ],
+      "correct_option_index": 1,
+      "explanation": "For z=x², relative uncertainty is approximately 2Δx/x = 2(0.1/4)=5%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01",
+      "correct_answer": "5%"
+    },
+    {
+      "question_id": "PHY-01-03-Q009",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A stopwatch records 12.35 s with an absolute uncertainty of 0.05 s. What is the approximate relative uncertainty?",
+      "options": [
+        "0.00405",
+        "0.0405",
+        "0.405",
+        "4.05"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Relative uncertainty = 0.05/12.35 ≈ 0.00405.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01",
+      "correct_answer": "0.00405"
+    },
+    {
+      "question_id": "PHY-01-03-Q010",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "If Q=A²B^-1/2 and the maximum fractional uncertainties in A and B are 2% and 4%, what is the maximum fractional uncertainty in Q?",
+      "options": [
+        "4%",
+        "6%",
+        "8%",
+        "10%"
+      ],
+      "correct_option_index": 1,
+      "explanation": "For products of powers, maximum fractional uncertainties add with absolute exponents: 2×2% + 0.5×4% = 6%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-01",
+      "correct_answer": "6%"
+    },
+    {
+      "question_id": "PHY-01-03-Q011",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "How many significant figures are in 0.03040?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The significant digits are 3, 0, 4 and the final 0.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "4"
+    },
+    {
+      "question_id": "PHY-01-03-Q012",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "How many significant figures are in 2.500?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option_index": 2,
+      "explanation": "All trailing zeros to the right of a decimal point are significant.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "4"
+    },
+    {
+      "question_id": "PHY-01-03-Q013",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Which measurement is more precise?",
+      "options": [
+        "2.1 cm",
+        "2.10 cm",
+        "Both have equal stated precision",
+        "Neither has units"
+      ],
+      "correct_option_index": 1,
+      "explanation": "2.10 cm is reported to the hundredth of a centimetre, whereas 2.1 cm is to the tenth.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "2.10 cm"
+    },
+    {
+      "question_id": "PHY-01-03-Q014",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "The smallest interval that a measuring instrument can resolve is its:",
+      "options": [
+        "Range",
+        "Least count",
+        "Zero error",
+        "Accuracy"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Least count is the smallest scale division or resolvable increment.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "Least count"
+    },
+    {
+      "question_id": "PHY-01-03-Q015",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "A consistent offset in every measurement is an example of:",
+      "options": [
+        "Random error",
+        "Systematic error",
+        "Sampling fluctuation",
+        "Rounding uncertainty"
+      ],
+      "correct_option_index": 1,
+      "explanation": "A persistent offset is systematic rather than random.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "Systematic error"
+    },
+    {
+      "question_id": "PHY-01-03-Q016",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Which practice primarily reduces random error in an estimated mean?",
+      "options": [
+        "Repeating independent measurements",
+        "Ignoring outliers without reason",
+        "Using an uncalibrated scale",
+        "Changing the unit"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Averaging independent repeated readings can reduce the random uncertainty of the mean.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "Repeating independent measurements"
+    },
+    {
+      "question_id": "PHY-01-03-Q017",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "The measured value is 9.8 and the reference value is 10.0. What is the absolute error?",
+      "options": [
+        "0.02",
+        "0.2",
+        "2",
+        "20"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The absolute difference is |9.8−10.0|=0.2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "0.2"
+    },
+    {
+      "question_id": "PHY-01-03-Q018",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "What is 3.14159 rounded to three significant figures?",
+      "options": [
+        "3.14",
+        "3.142",
+        "3.1",
+        "3.140"
+      ],
+      "correct_option_index": 0,
+      "explanation": "The first three significant digits are 3, 1 and 4; the next digit is 1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "3.14"
+    },
+    {
+      "question_id": "PHY-01-03-Q019",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "For a reading 5.0 ± 0.1 m, what does ±0.1 m represent?",
+      "options": [
+        "Relative uncertainty",
+        "Absolute uncertainty",
+        "Percentage uncertainty",
+        "Systematic correction"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The uncertainty is expressed in the same unit as the measured length.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "Absolute uncertainty"
+    },
+    {
+      "question_id": "PHY-01-03-Q020",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "A positive zero error in an instrument is generally corrected by:",
+      "options": [
+        "Adding the zero error",
+        "Subtracting the zero error",
+        "Squaring the reading",
+        "Multiplying by 100"
+      ],
+      "correct_option_index": 1,
+      "explanation": "A positive zero offset causes an over-reading; subtract it from the observed reading.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "Subtracting the zero error"
+    },
+    {
+      "question_id": "PHY-01-03-Q021",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Measurements 4.2, 4.4, 4.3 cm have arithmetic mean:",
+      "options": [
+        "4.2 cm",
+        "4.3 cm",
+        "4.4 cm",
+        "4.5 cm"
+      ],
+      "correct_option_index": 1,
+      "explanation": "(4.2+4.4+4.3)/3 = 4.3 cm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "4.3 cm"
+    },
+    {
+      "question_id": "PHY-01-03-Q022",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A measurement 50 ± 2 has percentage uncertainty:",
+      "options": [
+        "1%",
+        "2%",
+        "4%",
+        "8%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "2/50 × 100 = 4%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "4%"
+    },
+    {
+      "question_id": "PHY-01-03-Q023",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "For x=8.0 ± 0.2 and y=3.0 ± 0.1, maximum absolute uncertainty in x+y is:",
+      "options": [
+        "0.1",
+        "0.2",
+        "0.3",
+        "0.4"
+      ],
+      "correct_option_index": 2,
+      "explanation": "For addition, maximum absolute uncertainties add: 0.2+0.1=0.3.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "0.3"
+    },
+    {
+      "question_id": "PHY-01-03-Q024",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "For x=8.0 ± 0.2 and y=3.0 ± 0.1, maximum absolute uncertainty in x−y is:",
+      "options": [
+        "0.1",
+        "0.2",
+        "0.3",
+        "0.5"
+      ],
+      "correct_option_index": 2,
+      "explanation": "For subtraction, maximum absolute uncertainties also add: 0.2+0.1=0.3.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "0.3"
+    },
+    {
+      "question_id": "PHY-01-03-Q025",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A sphere radius is measured with 1% fractional uncertainty. Approximate maximum percentage uncertainty in volume is:",
+      "options": [
+        "1%",
+        "2%",
+        "3%",
+        "4%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "V∝r³, so percentage uncertainty is approximately 3×1%=3%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "3%"
+    },
+    {
+      "question_id": "PHY-01-03-Q026",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A square side is measured with 2% uncertainty. Approximate maximum percentage uncertainty in area is:",
+      "options": [
+        "2%",
+        "4%",
+        "6%",
+        "8%"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Area∝side², so uncertainty approximately doubles.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "4%"
+    },
+    {
+      "question_id": "PHY-01-03-Q027",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A value 0.0007080 has how many significant figures?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option_index": 2,
+      "explanation": "The significant digits are 7, 0, 8 and the trailing 0.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "4"
+    },
+    {
+      "question_id": "PHY-01-03-Q028",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Using the addition rule for decimal places, 12.34+1.2 should be reported as:",
+      "options": [
+        "13.54",
+        "13.5",
+        "14",
+        "13.540"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The sum is 13.54, rounded to one decimal place because 1.2 has one decimal place.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "13.5"
+    },
+    {
+      "question_id": "PHY-01-03-Q029",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Using the multiplication rule for significant figures, 2.4×3.25 should be reported as:",
+      "options": [
+        "7.8",
+        "7.80",
+        "7.800",
+        "8"
+      ],
+      "correct_option_index": 0,
+      "explanation": "The product is 7.8; the least precise factor has two significant figures.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "7.8"
+    },
+    {
+      "question_id": "PHY-01-03-Q030",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A vernier caliper has 10 vernier divisions equal to 9 main-scale divisions of 1 mm. Its least count is:",
+      "options": [
+        "1 mm",
+        "0.9 mm",
+        "0.1 mm",
+        "0.01 mm"
+      ],
+      "correct_option_index": 2,
+      "explanation": "One vernier division is 0.9 mm; least count = 1−0.9 = 0.1 mm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02",
+      "correct_answer": "0.1 mm"
+    },
+    {
+      "question_id": "PHY-01-03-Q031",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A rod length is 25.0 ± 0.1 cm. Approximate percentage uncertainty is:",
+      "options": [
+        "0.04%",
+        "0.4%",
+        "4%",
+        "40%"
+      ],
+      "correct_option_index": 1,
+      "explanation": "0.1/25.0 ×100 = 0.4%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "0.4%"
+    },
+    {
+      "question_id": "PHY-01-03-Q032",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A time interval is measured as 2.00 ± 0.02 s. Percentage uncertainty in its square is approximately:",
+      "options": [
+        "1%",
+        "2%",
+        "3%",
+        "4%"
+      ],
+      "correct_option_index": 1,
+      "explanation": "For t², fractional uncertainty approximately doubles: 2×(0.02/2.00)×100=2%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "2%"
+    },
+    {
+      "question_id": "PHY-01-03-Q033",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "For independent readings 6.0 ± 0.2 and 4.0 ± 0.1, the maximum uncertainty in their sum is:",
+      "options": [
+        "0.1",
+        "0.2",
+        "0.3",
+        "0.5"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Worst-case absolute uncertainties add, giving ±0.3.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "0.3"
+    },
+    {
+      "question_id": "PHY-01-03-Q034",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A mass 100.0 ± 0.5 g and volume 20.0 ± 0.2 cm³ yield density with approximate maximum percentage uncertainty:",
+      "options": [
+        "0.5%",
+        "1.0%",
+        "1.5%",
+        "2.5%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "For a quotient, percentage uncertainties add: 0.5%+1.0%=1.5%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "1.5%"
+    },
+    {
+      "question_id": "PHY-01-03-Q035",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A value 0.005060 has how many significant figures?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option_index": 2,
+      "explanation": "The significant digits are 5, 0, 6, 0.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "4"
+    },
+    {
+      "question_id": "PHY-01-03-Q036",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "What is 8.765 rounded to three significant figures using the usual round-half-up convention?",
+      "options": [
+        "8.76",
+        "8.77",
+        "8.8",
+        "8.765"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Keeping 8.76, the next digit is 5, so the final retained digit rounds up to 7.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "8.77"
+    },
+    {
+      "question_id": "PHY-01-03-Q037",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A reading is 5.24 cm and an instrument has +0.04 cm zero error. The corrected reading is:",
+      "options": [
+        "5.28 cm",
+        "5.24 cm",
+        "5.20 cm",
+        "5.16 cm"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Corrected reading = observed reading − positive zero error = 5.20 cm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "5.20 cm"
+    },
+    {
+      "question_id": "PHY-01-03-Q038",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A screw gauge pitch is 0.5 mm with 50 circular-scale divisions. Its least count is:",
+      "options": [
+        "0.1 mm",
+        "0.05 mm",
+        "0.01 mm",
+        "0.001 mm"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Least count = pitch/number of divisions = 0.5/50 = 0.01 mm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "0.01 mm"
+    },
+    {
+      "question_id": "PHY-01-03-Q039",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Readings are 10.1, 10.2, 10.3 cm. The mean absolute deviation from the mean is approximately:",
+      "options": [
+        "0.067 cm",
+        "0.10 cm",
+        "0.20 cm",
+        "0.30 cm"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Mean is 10.2 cm; absolute deviations are 0.1, 0, 0.1; mean is 0.2/3≈0.067 cm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "0.067 cm"
+    },
+    {
+      "question_id": "PHY-01-03-Q040",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "For Q=xy with x=2.0±0.1 and y=5.0±0.2, maximum fractional uncertainty in Q is:",
+      "options": [
+        "0.04",
+        "0.05",
+        "0.09",
+        "0.10"
+      ],
+      "correct_option_index": 2,
+      "explanation": "ΔQ/Q≈Δx/x+Δy/y=0.1/2+0.2/5=0.09.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "0.09"
+    },
+    {
+      "question_id": "PHY-01-03-Q041",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "For a length 12.0±0.3 cm, which interval is consistent with the stated absolute uncertainty?",
+      "options": [
+        "11.7 to 12.3 cm",
+        "11.9 to 12.1 cm",
+        "12.0 to 12.6 cm",
+        "11.4 to 12.0 cm"
+      ],
+      "correct_option_index": 0,
+      "explanation": "The reported interval is 12.0−0.3 to 12.0+0.3 cm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "11.7 to 12.3 cm"
+    },
+    {
+      "question_id": "PHY-01-03-Q042",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "If Q=A³B²/C and maximum percentage uncertainties are 1%, 2%, and 3%, maximum percentage uncertainty in Q is:",
+      "options": [
+        "7%",
+        "8%",
+        "10%",
+        "12%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Worst-case percentage uncertainty = 3(1%)+2(2%)+3%=10%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "10%"
+    },
+    {
+      "question_id": "PHY-01-03-Q043",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "The measured radius and height of a cylinder have maximum fractional uncertainties 2% and 3%. Approximate maximum percentage uncertainty in volume is:",
+      "options": [
+        "5%",
+        "6%",
+        "7%",
+        "9%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "V=πr²h, so ΔV/V≈2Δr/r+Δh/h=4%+3%=7%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "7%"
+    },
+    {
+      "question_id": "PHY-01-03-Q044",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "A resistance is computed as R=V/I, with V=12.0±0.3 V and I=2.00±0.04 A. Maximum percentage uncertainty in R is:",
+      "options": [
+        "2%",
+        "2.5%",
+        "4.5%",
+        "6.5%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Relative uncertainties add: 0.3/12=2.5%, 0.04/2=2%; total 4.5%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "4.5%"
+    },
+    {
+      "question_id": "PHY-01-03-Q045",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "A pendulum's period T is determined from 100 oscillations measured in 200.0±0.2 s. Approximate percentage uncertainty in T due to timing is:",
+      "options": [
+        "0.01%",
+        "0.1%",
+        "1%",
+        "10%"
+      ],
+      "correct_option_index": 1,
+      "explanation": "T=t/100; number of oscillations is exact, so fractional uncertainty is 0.2/200=0.1%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "0.1%"
+    },
+    {
+      "question_id": "PHY-01-03-Q046",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "If a derived quantity Q=x²/y³, with fractional uncertainties 1.5% in x and 0.5% in y, its maximum percentage uncertainty is:",
+      "options": [
+        "2.0%",
+        "3.0%",
+        "4.5%",
+        "6.0%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "2(1.5%)+3(0.5%)=4.5%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "4.5%"
+    },
+    {
+      "question_id": "PHY-01-03-Q047",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "A measured length is 10.00±0.05 cm. What is the approximate maximum percentage uncertainty in its cube?",
+      "options": [
+        "0.5%",
+        "1.0%",
+        "1.5%",
+        "5.0%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Fractional uncertainty in L³ is 3ΔL/L = 3(0.05/10)=1.5%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "1.5%"
+    },
+    {
+      "question_id": "PHY-01-03-Q048",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "For z=(a+b)/c, a=4.0±0.1, b=6.0±0.2, c=2.0±0.1, maximum approximate percentage uncertainty in z is:",
+      "options": [
+        "3%",
+        "5%",
+        "8%",
+        "10%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "Numerator 10.0±0.3 has 3% uncertainty; denominator has 5%; total approximately 8%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "8%"
+    },
+    {
+      "question_id": "PHY-01-03-Q049",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "A cube has side 5.00±0.02 cm. Approximate maximum absolute uncertainty in its volume is:",
+      "options": [
+        "0.50 cm³",
+        "1.00 cm³",
+        "1.50 cm³",
+        "3.00 cm³"
+      ],
+      "correct_option_index": 2,
+      "explanation": "V=125 cm³ and ΔV≈3VΔa/a=3×125×0.02/5=1.50 cm³.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "1.50 cm³"
+    },
+    {
+      "question_id": "PHY-01-03-Q050",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "HARD",
+      "question_text": "A physical quantity y=kx^(-2), where k is exact and x has 0.8% uncertainty. Approximate percentage uncertainty in y is:",
+      "options": [
+        "0.4%",
+        "0.8%",
+        "1.6%",
+        "2.4%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "For a power law, percentage uncertainty is |−2|×0.8%=1.6%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-03",
+      "correct_answer": "1.6%"
+    }
+  ]
+}
