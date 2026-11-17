@@ -1,0 +1,507 @@
+{
+  "segment_id": "PHY-01-03",
+  "slice_id": "PHY-01-03-SLICE-02",
+  "status": "GENERATED_AND_CHECKED_IN_GENERATION_PASS",
+  "records": [
+    {
+      "question_id": "PHY-01-03-Q011",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "How many significant figures are in 0.03040?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The significant digits are 3, 0, 4 and the final 0.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q012",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "How many significant figures are in 2.500?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option_index": 2,
+      "explanation": "All trailing zeros to the right of a decimal point are significant.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q013",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Which measurement is more precise?",
+      "options": [
+        "2.1 cm",
+        "2.10 cm",
+        "Both have equal stated precision",
+        "Neither has units"
+      ],
+      "correct_option_index": 1,
+      "explanation": "2.10 cm is reported to the hundredth of a centimetre, whereas 2.1 cm is to the tenth.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q014",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "The smallest interval that a measuring instrument can resolve is its:",
+      "options": [
+        "Range",
+        "Least count",
+        "Zero error",
+        "Accuracy"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Least count is the smallest scale division or resolvable increment.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q015",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "A consistent offset in every measurement is an example of:",
+      "options": [
+        "Random error",
+        "Systematic error",
+        "Sampling fluctuation",
+        "Rounding uncertainty"
+      ],
+      "correct_option_index": 1,
+      "explanation": "A persistent offset is systematic rather than random.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q016",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "Which practice primarily reduces random error in an estimated mean?",
+      "options": [
+        "Repeating independent measurements",
+        "Ignoring outliers without reason",
+        "Using an uncalibrated scale",
+        "Changing the unit"
+      ],
+      "correct_option_index": 0,
+      "explanation": "Averaging independent repeated readings can reduce the random uncertainty of the mean.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q017",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "The measured value is 9.8 and the reference value is 10.0. What is the absolute error?",
+      "options": [
+        "0.02",
+        "0.2",
+        "2",
+        "20"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The absolute difference is |9.8−10.0|=0.2.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q018",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "What is 3.14159 rounded to three significant figures?",
+      "options": [
+        "3.14",
+        "3.142",
+        "3.1",
+        "3.140"
+      ],
+      "correct_option_index": 0,
+      "explanation": "The first three significant digits are 3, 1 and 4; the next digit is 1.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q019",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "For a reading 5.0 ± 0.1 m, what does ±0.1 m represent?",
+      "options": [
+        "Relative uncertainty",
+        "Absolute uncertainty",
+        "Percentage uncertainty",
+        "Systematic correction"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The uncertainty is expressed in the same unit as the measured length.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q020",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "EASY",
+      "question_text": "A positive zero error in an instrument is generally corrected by:",
+      "options": [
+        "Adding the zero error",
+        "Subtracting the zero error",
+        "Squaring the reading",
+        "Multiplying by 100"
+      ],
+      "correct_option_index": 1,
+      "explanation": "A positive zero offset causes an over-reading; subtract it from the observed reading.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q021",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Measurements 4.2, 4.4, 4.3 cm have arithmetic mean:",
+      "options": [
+        "4.2 cm",
+        "4.3 cm",
+        "4.4 cm",
+        "4.5 cm"
+      ],
+      "correct_option_index": 1,
+      "explanation": "(4.2+4.4+4.3)/3 = 4.3 cm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q022",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A measurement 50 ± 2 has percentage uncertainty:",
+      "options": [
+        "1%",
+        "2%",
+        "4%",
+        "8%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "2/50 × 100 = 4%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q023",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "For x=8.0 ± 0.2 and y=3.0 ± 0.1, maximum absolute uncertainty in x+y is:",
+      "options": [
+        "0.1",
+        "0.2",
+        "0.3",
+        "0.4"
+      ],
+      "correct_option_index": 2,
+      "explanation": "For addition, maximum absolute uncertainties add: 0.2+0.1=0.3.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q024",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "For x=8.0 ± 0.2 and y=3.0 ± 0.1, maximum absolute uncertainty in x−y is:",
+      "options": [
+        "0.1",
+        "0.2",
+        "0.3",
+        "0.5"
+      ],
+      "correct_option_index": 2,
+      "explanation": "For subtraction, maximum absolute uncertainties also add: 0.2+0.1=0.3.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q025",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A sphere radius is measured with 1% fractional uncertainty. Approximate maximum percentage uncertainty in volume is:",
+      "options": [
+        "1%",
+        "2%",
+        "3%",
+        "4%"
+      ],
+      "correct_option_index": 2,
+      "explanation": "V∝r³, so percentage uncertainty is approximately 3×1%=3%.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q026",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A square side is measured with 2% uncertainty. Approximate maximum percentage uncertainty in area is:",
+      "options": [
+        "2%",
+        "4%",
+        "6%",
+        "8%"
+      ],
+      "correct_option_index": 1,
+      "explanation": "Area∝side², so uncertainty approximately doubles.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q027",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A value 0.0007080 has how many significant figures?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option_index": 2,
+      "explanation": "The significant digits are 7, 0, 8 and the trailing 0.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q028",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Using the addition rule for decimal places, 12.34+1.2 should be reported as:",
+      "options": [
+        "13.54",
+        "13.5",
+        "14",
+        "13.540"
+      ],
+      "correct_option_index": 1,
+      "explanation": "The sum is 13.54, rounded to one decimal place because 1.2 has one decimal place.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q029",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "Using the multiplication rule for significant figures, 2.4×3.25 should be reported as:",
+      "options": [
+        "7.8",
+        "7.80",
+        "7.800",
+        "8"
+      ],
+      "correct_option_index": 0,
+      "explanation": "The product is 7.8; the least precise factor has two significant figures.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    },
+    {
+      "question_id": "PHY-01-03-Q030",
+      "segment_id": "PHY-01-03",
+      "subject": "Physics",
+      "chapter": "Units and Measurements",
+      "micro_topic": "Errors",
+      "exam_tags": [
+        "JEE_MAIN",
+        "NEET"
+      ],
+      "question_type": "SINGLE_CORRECT_MCQ",
+      "question_difficulty": "MEDIUM",
+      "question_text": "A vernier caliper has 10 vernier divisions equal to 9 main-scale divisions of 1 mm. Its least count is:",
+      "options": [
+        "1 mm",
+        "0.9 mm",
+        "0.1 mm",
+        "0.01 mm"
+      ],
+      "correct_option_index": 2,
+      "explanation": "One vernier division is 0.9 mm; least count = 1−0.9 = 0.1 mm.",
+      "originality_status": "AI_GENERATED_ORIGINAL",
+      "verification_status": "CHECKED_IN_GENERATION_PASS",
+      "generation_batch_id": "PHY-01-03-SLICE-02"
+    }
+  ]
+}
